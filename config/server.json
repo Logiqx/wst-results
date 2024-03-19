@@ -1,0 +1,96 @@
+{
+  "Event": 2023,
+  "Motion": {
+    "Info": {
+      "Firmwares": {
+        "3170 Development": [
+          "GNSS configuration from firmware 3168; PMS = Full, LNA = Normal",
+          "Devices will automatically restart and resume logging after a panic."
+        ],
+        "3174 Release": [
+          "Same features as 9002 Weymouth Speed Week, just without the fixed settings."
+        ],
+        "3175 Release": [
+          "Fixes issue that could cause mini to lock up and unable to restart, requiring ~24 hours of wait."
+        ],
+        "9000 Weymouth Speed Week": [
+          "WSW version of 3170. Latest GNSS configuration and auto-restart.",
+          "Fixed settings for all motions; 5Hz, 5kn min, UTC+1, WSW WiFi.",
+          "Fixed settings for all minis; Blinker = on.",
+          "Fixed settings for WSW motions; name = WSW, speed = knots, distance = km, custom blinkers = last 500m, best 500m, last 250m, best 250m."
+        ],
+        "9001 Weymouth Speed Week": [
+          "Updated list of WSW identifiers; 601 611 615 617 618 619 621 625 630 631 632 633 634 635 639 656"
+        ],
+        "9002 Weymouth Speed Week": [
+          "Correct WiFi password and edition/deletion forbidden. Used for WSW 2022"
+        ],
+        "9003 Weymouth Speed Week": [
+          "Based on 3175 (release). Fixes issue that could cause mini to lock up and unable to restart, requiring ~24 hours of wait"
+        ],
+        "9004 Weymouth Speed Week": [
+          "New custom firmware based on 3209. Required for newer Motion minis. Used for WSW 2023"
+        ]
+      },
+      "Thresholds": {
+        "Storage": 95,
+        "Battery": 60
+      }
+    },
+    "Settings": {
+      "GNSS Rate": 5,
+      "One Log Per Day": 0,
+      "Timezone": 60,
+      "Flash": 1
+    }
+  },
+  "Filters": {
+    "Comment": "Ignore logs where the distance (km) or 10s speed (knots) are particularly low",
+    "500m Best": 1
+  },
+  "Logging": {
+    "Comment": "10 = debug, 20 = info (recommended), 30 = warning, 40 = error, 50 = critical",
+    "Console Level": 20,
+    "File Level": 10
+  },
+  "Queuing": {
+    "Comment": "The queue timeout dictates how quickly a worker thread can process the stop event",
+    "Timeout": 1
+  },
+  "Threading": {
+    "DetectionThread": {
+      "Comment": "Timeout for the socket connection (port 80)",
+      "Timeout": 1
+    },
+    "DetectionThreadPool": {
+      "Comment": "Threads dictates how many motions can be polled concurrently. Interval is the minimum time (s) between each iteration",
+      "Interval": 5,
+      "Threads": 8
+    },
+    "InspectionThread": {
+      "Comment": "Timeout is for an individual HTTP request (info.json, settings.json and logs.json)",
+      "Timeout": 10
+    },
+    "InspectionThreadPool": {
+      "Comment": "Threads dictates how many motions can be inspected concurrently",
+      "Threads": 4
+    },
+    "DownloadThread": {
+      "Comment": "Timeout is for an individual HTTP request (*.oao)",
+      "Timeout": 30
+    },
+    "DownloadThreadPool": {
+      "Comment": "Threads dictates how many motions can have their logs downloaded concurrently",
+      "Threads": 4
+    },
+    "DisconnectionThread": {
+      "Comment": "Timeout for the socket connection (port 80)",
+      "Timeout": 5
+    },
+    "DisconnectionThreadPool": {
+      "Comment": "Threads dictates how many motions can be checked concurrently. Interval is the minimum time (s) between each iteration",
+      "Interval": 10,
+      "Threads": 8
+    }
+  }
+}

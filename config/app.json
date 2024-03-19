@@ -1,0 +1,104 @@
+{
+  "Event": {
+    "Name": "World Speed Tour",
+    "Venue": "Plage du Rouet",
+    "Banner": "wswlogo_all.png"
+  },
+  "History": {
+    "Refresh": true,
+    "Verbosity": 1
+  },
+  "Latest": {
+    "Refresh": true,
+    "Verbosity": 2
+  },
+  "Links": {
+    "WST": {
+      "Name": "World Speed Tour",
+      "Website": "https://www.worldspeedtour.com"
+    }
+  },
+  "Courses": {
+    "H": "Harbour",
+    "S": "Shore",
+    "?": "TBC"
+  },
+  "Entrants": {
+    "Craft Type": [
+      "Sailboard",
+      "Kiteboard",
+      "Wingboard",
+      "Boat",
+      "TBC"
+    ],
+    "Status": [
+      "Novice",
+      "Youth Fleet",
+      "Amateur",
+      "Gold Fleet",
+      "Pro Fleet",
+      "Freeride",
+      "Open Class",
+      "Kite Fleet",
+      "Wing Fleet",
+      "Boat Fleet",
+      "TBC"
+    ],
+    "Entry Type": [
+      "All Week",
+      "Youth Weekend",
+      "2-Day",
+      "1-Day",
+      "TBC"
+    ],
+    "Gender": [
+      "M",
+      "F",
+      "?"
+    ],
+    "Master": [
+      "Y",
+      "N",
+      "?"
+    ],
+    "Novice": [
+      "Y",
+      "N",
+      "?"
+    ],
+    "First Timer": [
+      "Y",
+      "N",
+      "?"
+    ],
+    "ISWC Member": [
+      "Y",
+      "N",
+      "?"
+    ],
+    "UKWA Member": [
+      "Y",
+      "N",
+      "?"
+    ]
+  },
+  "Priorities": {
+    "fastest": 1,
+    "rankings": 2,
+    "craft": 3,
+    "status": 4,
+    "grouping": 15,
+    "bests": 20,
+    "runs": 21,
+    "entrants": 25,
+    "tallies": 26,
+    "ukwa": 30,
+    "iswc": 31
+  },
+  "Emojis": {
+    "Tankard": "🍺",
+    "Trophy": "🏆",
+    "Medals": ["🥇", "🥈", "🥉"],
+    "Record": "🚀"
+  }
+}

@@ -1,0 +1,270 @@
+body {
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+  text-align: center;
+  word-wrap: break-word;
+}
+
+img {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+
+h1, h2, h3, h4 {
+  font-weight: 600;
+}
+
+p.small {
+  font-size: 13px;
+}
+
+p.medium {
+  font-size: 14px;
+}
+
+p.large {
+  font-size: 15px;
+}
+
+table {
+  font-size: 14px;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+}
+
+table th, table td {
+  border: 1px solid #dfe2e5;
+  padding: 2px 4px;
+}
+
+/* Mobile phones in portrait */
+@media screen and (max-width: 428px) {
+  table th, table td {
+    padding: 1px 2px;
+  }
+}
+
+/* iPhone 12 Pro (390 x 844)
+   Google Pixel 5 (393 x 851)
+   Samsung Galaxy A51/71 (412 x 914)
+   Samsung Galaxy S20 Ultra (412 x 915)
+   iPhone 6+/6S+/7+/8+ (414 x 736)
+   iPhone XS Max/XR (414 x 896)
+   iPhone 12 Pro Max (428 x 926) */
+@media screen and (max-width: 428px) {
+  body {
+    font-size: 13px;
+  }
+  p.small {
+    font-size: 11px;
+  }
+  p.medium {
+    font-size: 12px;
+  }
+  p.large {
+    font-size: 13px;
+  }
+  table {
+    font-size: 12px;
+  }
+}
+@media screen and (max-width: 926px) {
+  table.bests {
+    font-size: 13px;
+  }
+}
+
+/* Samsung Galaxy S7/S7 Edge (360 x 640)
+   Samsung Galaxy S8/8+/9/9+ (360 x 740)
+   iPhone 6/6S/7/8 (375 x 667)
+   iPhone X/XS (375 x 812) */
+@media screen and (max-width: 375px) {
+  body {
+    font-size: 12px;
+  }
+  p.small {
+    font-size: 10px;
+  }
+  p.medium {
+    font-size: 11px;
+  }
+  p.large {
+    font-size: 12px;
+  }
+  table {
+    font-size: 11px;
+  }
+}
+@media screen and (max-width: 812px) {
+  table.bests {
+    font-size: 12px;
+  }
+}
+
+/* Galaxy Fold (280 x 653)  */
+@media screen and (max-width: 320px) {
+  body {
+    font-size: 11px;
+  }
+  p.small {
+    font-size: 9px;
+  }
+  p.medium {
+    font-size: 10px;
+  }
+  p.large {
+    font-size: 11px;
+  }
+  table {
+    font-size: 10px;
+  }
+}
+@media screen and (max-width: 653px) {
+  table.bests {
+    font-size: 11px;
+  }
+}
+
+table th {
+  font-weight: 600;
+}
+
+table tr:nth-child(even) {
+  background-color: #f6f8fa;
+}
+
+/* Name */
+table.entrants tr td:first-child {
+  text-align: left;
+}
+/* Nation */
+table.entrants tr td:nth-child(2) {
+  text-align: left;
+  white-space: nowrap;
+}
+
+/* Name */
+table.tallies tr td:nth-child(2) {
+  text-align: left;
+}
+/* Nation */
+table.tallies tr td:nth-child(3) {
+  text-align: left;
+  white-space: nowrap;
+}
+
+/* Name */
+table.fastest tr td:nth-child(2),
+table.rankings tr td:nth-child(2),
+table.craft tr td:nth-child(2),
+table.status tr td:nth-child(2) {
+  text-align: left;
+}
+/* Nation */
+table.fastest tr td:nth-child(3),
+table.rankings tr td:nth-child(3),
+table.craft tr td:nth-child(3),
+table.status tr td:nth-child(3) {
+  text-align: left;
+  white-space: nowrap;
+}
+table.fastest tr td:last-child,
+table.rankings tr td:last-child,
+table.craft tr td:last-child,
+/* Speed */
+table.status tr td:last-child {
+  text-align: right;
+}
+
+/* Name */
+table.bests tr td:nth-child(2) {
+  text-align: left;
+}
+/* Nation */
+table.bests tr td:nth-child(3) {
+  text-align: left;
+  white-space: nowrap;
+}
+/* Speed */
+table.bests tr td:nth-last-child(2) {
+  text-align: right;
+}
+/* Other Run Speeds */
+table.bests tr td:last-child {
+  text-align: left;
+}
+
+/* Name (first table, sorted by name) */
+table.runs:first-of-type tr td:nth-child(1) {
+  text-align: left;
+}
+/* Nation (first table, sorted by name) */
+table.runs:first-of-type tr td:nth-child(2) {
+  text-align: left;
+  white-space: nowrap;
+}
+/* Name (second table, sorted by course) */
+table.runs:nth-of-type(2) tr td:nth-child(3) {
+  text-align: left;
+}
+/* Nation (second table, sorted by course) */
+table.runs:nth-of-type(2) tr td:nth-child(4) {
+  text-align: left;
+  white-space: nowrap;
+}
+/* Speed */
+table.runs tr td:last-child {
+  text-align: right;
+}
+
+/* Name */
+table.grouping tr td:nth-child(2) {
+  text-align: left;
+}
+/* Nation */
+table.grouping tr td:nth-child(3) {
+  text-align: left;
+  white-space: nowrap;
+}
+/* Grouping */
+table.grouping:first-of-type tr td:nth-child(4) {
+  text-align: left;
+}
+/* Speed */
+table.grouping tr td:last-child {
+  text-align: right;
+}
+
+/* Name */
+table.ukwa tr td:nth-child(2),
+table.iswc tr td:nth-child(2) {
+  text-align: left;
+}
+/* Nation */
+table.ukwa tr td:nth-child(3),
+table.iswc tr td:nth-child(3) {
+  text-align: left;
+  white-space: nowrap;
+}
+/* Speeds */
+table.ukwa tr td:nth-last-child(1),
+table.ukwa tr td:nth-last-child(2),
+table.ukwa tr td:nth-last-child(3),
+table.iswc tr td:nth-last-child(1),
+table.iswc tr td:nth-last-child(2),
+table.iswc tr td:nth-last-child(3) {
+  text-align: right;
+}
+
+a:link {
+  text-decoration: none;
+  color: #e64503;
+}
+
+a:visited {
+  color: #e64503;
+}
