@@ -26,7 +26,7 @@
     {
       "Title": "All Sailboards",
       "Fields": "Name,Nation,Status,First Timer,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard"
+      "Filter": "Craft Type=Windsurf"
     },
     {
       "Title": "All Wingboards",

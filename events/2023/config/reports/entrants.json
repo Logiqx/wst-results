@@ -27,22 +27,22 @@
     {
       "Title": "Pro Fleet Sailboards",
       "Fields": "Name,Nation,Entry Type,UKWA,Tally",
-      "Filter": "Craft Type=Sailboard,Status=Pro Fleet"
+      "Filter": "Craft Type=Windsurf,Status=Pro Fleet"
     },
     {
       "Title": "Gold Fleet Sailboards",
       "Fields": "Name,Nation,Entry Type,UKWA,Tally",
-      "Filter": "Craft Type=Sailboard,Status=Gold Fleet"
+      "Filter": "Craft Type=Windsurf,Status=Gold Fleet"
     },
     {
       "Title": "Amateur Sailboards",
       "Fields": "Name,Nation,Entry Type,UKWA,Tally",
-      "Filter": "Craft Type=Sailboard,Status=Amateur"
+      "Filter": "Craft Type=Windsurf,Status=Amateur"
     },
     {
       "Title": "First Time Amateur Sailboards",
       "Fields": "Name,Nation,Entry Type,UKWA,Tally",
-      "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y"
+      "Filter": "Craft Type=Windsurf,Status=Amateur,First Timer=Y"
     },
     {
       "Title": "Pro Fleet Wingboards",

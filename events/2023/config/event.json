@@ -15,7 +15,7 @@
     "Craft Type": [
       "Boat",
       "Kiteboard",
-      "Sailboard",
+      "Windsurf",
       "Wingboard",
       "TBC"
     ],
@@ -71,7 +71,7 @@
     {
       "Name": "Gold Fleet 'Fastest Sailor' Shield",
       "Category": "Gold Fleet Sailboard",
-      "Filter": "Craft Type=Sailboard,Status=Gold Fleet"
+      "Filter": "Craft Type=Windsurf,Status=Gold Fleet"
     },
     {
       "Name": "'Fastest Youth' Trophy",
@@ -183,7 +183,7 @@
       "Banner": "ukwa_logo.jpg",
       "Website": "https://ukwindsurfing.com/",
       "Average": 2,
-      "Filter": "Craft Type=Sailboard,UKWA=Y",
+      "Filter": "Craft Type=Windsurf,UKWA=Y",
       "Fleets": {
         "Men": "Gender=M",
         "Women": "Gender=F"
