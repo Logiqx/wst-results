@@ -4,7 +4,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1152,3,611,2023-10-07,2023-10-13,YOR611MAT,Matthew,York,Windsurf,Gold-Fleet,All Week
 1153,4,615,2023-10-07,2023-10-13,BRA615JAM,James,Brake,Windsurf,Gold-Fleet,All Week
 1154,5,617,2023-10-07,2023-10-13,RAM617SIM,Simon,Ramsden,Windsurf,Amateur,All Week
-2156,6,618,2023-10-07,2023-10-13,LON618JAM,james,longmuir,Kiteboard,Open Class,All Week
+2156,6,618,2023-10-07,2023-10-13,LON618JAM,james,longmuir,Kitesurf,Open Class,All Week
 1157,7,619,2023-10-07,2023-10-13,STU619AND,Andy,Stuart-William,Windsurf,Gold-Fleet,All Week
 3157,7,845,2023-10-07,2023-10-13,STU845AND,Andy,Stuart-William,Wingboard,Amateur,All Week
 3159,8,625,2023-10-07,2023-10-13,HOB625RIC,Richard,Hobson,Wingboard,Pro-Fleet,All Week
@@ -38,11 +38,11 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 3195,37,699,2023-10-07,2023-10-13,WAK699PAU,Paul,Wakelin,Wingboard,Pro-Fleet,All Week
 1196,38,700,2023-10-07,2023-10-13,WAT700STE,Steve,Watson,Windsurf,Amateur,All Week
 1197,39,701,2023-10-07,2023-10-13,BIN701NEI,Neil,Binding,Windsurf,Amateur,All Week
-2198,40,705,2023-10-07,2023-10-13,HOR705PHI,Phil,Horder,Kiteboard,Freeride,All Week
+2198,40,705,2023-10-07,2023-10-13,HOR705PHI,Phil,Horder,Kitesurf,Freeride,All Week
 3199,41,724,2023-10-07,2023-10-13,SAL724MAR,Mark,Salvage,Wingboard,Amateur,All Week
-2200,42,717,2023-10-07,2023-10-13,WAD717ALF,Alfie,Wade,Kiteboard,Freeride,All Week
+2200,42,717,2023-10-07,2023-10-13,WAD717ALF,Alfie,Wade,Kitesurf,Freeride,All Week
 1201,43,718,2023-10-07,2023-10-13,TRU718STU,Stuart,Trunkfield,Windsurf,Gold-Fleet,All Week
-2202,44,801,2023-10-07,2023-10-13,WIL801DAV,Dave,Williams,Kiteboard,Open Class,All Week
+2202,44,801,2023-10-07,2023-10-13,WIL801DAV,Dave,Williams,Kitesurf,Open Class,All Week
 3202,44,0,2023-10-07,2023-10-13,WIL0DAV,Dave,Williams,Wingboard,Amateur,All Week
 3203,45,802,2023-10-07,2023-10-13,MCC802MAR,Mark,McCafferty,Wingboard,Amateur,All Week
 1204,46,803,2023-10-07,2023-10-13,TRU803JOE,Joe,Trunkfield,Windsurf,Amateur,All Week
@@ -60,10 +60,10 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1216,58,816,2023-10-07,2023-10-13,PIN816JOS,Joshua,Pinder,Windsurf,Amateur,All Week
 1217,59,817,2023-10-07,2023-10-13,LON817ROB,Rob,Longstaff,Windsurf,Amateur,All Week
 3218,60,818,2023-10-09,2023-10-13,STA818JOH,John-Paul,Standish,Wingboard,Amateur,2 Days
-2221,63,821,2023-10-07,2023-10-13,VAS821STA,Stacey,Vass,Kiteboard,Open Class,All Week
+2221,63,821,2023-10-07,2023-10-13,VAS821STA,Stacey,Vass,Kitesurf,Open Class,All Week
 1222,64,822,2023-10-07,2023-10-08,CHI822DYL,Dylan,Chick,Windsurf,Amateur,Youth W/E
 3223,65,823,2023-10-07,2023-10-13,MOU823EME,Emeric,Mouret,Wingboard,Pro-Fleet,All Week
-2224,66,824,2023-10-09,2023-10-13,DAV824STE,Steve,Davison,Kiteboard,Open Class,2 Days
+2224,66,824,2023-10-09,2023-10-13,DAV824STE,Steve,Davison,Kitesurf,Open Class,2 Days
 1225,67,825,2023-10-09,2023-10-13,CRO825JIM,Jim,Crossley,Windsurf,Pro-Fleet,2 Days
 1226,68,826,2023-10-09,2023-10-13,YEL826LIL,Lilia,Yelland,Windsurf,Amateur,2 Days
 1227,69,829,2023-10-09,2023-10-13,BUK829MAC,Maciej,Bukolt,Windsurf,Amateur,2 Days
@@ -74,23 +74,23 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 3231,73,841,2023-10-07,2023-10-08,KNI841FIN,Finnley,Knight,Wingboard,Amateur,Youth W/E
 3232,74,854,2023-10-09,2023-10-13,DIC854ROD,Rod,Dickinson,Wingboard,Amateur,2 Days
 1233,75,852,2023-10-07,2023-10-13,NOR852SCO,Scott,Norman,Windsurf,Gold-Fleet,All Week
-2235,77,820,2023-10-07,2023-10-13,ALD820ELL,Ellie,Aldridge,Kiteboard,Open Class,All Week
+2235,77,820,2023-10-07,2023-10-13,ALD820ELL,Ellie,Aldridge,Kitesurf,Open Class,All Week
 3235,77,849,2023-10-07,2023-10-13,ALD849ELL,Ellie,Aldridge,Wingboard,Amateur,All Week
-2236,78,814,2023-10-07,2023-10-13,SPE814NEI,Neil,Speed,Kiteboard,Open Class,All Week
+2236,78,814,2023-10-07,2023-10-13,SPE814NEI,Neil,Speed,Kitesurf,Open Class,All Week
 3237,79,827,2023-10-07,2023-10-08,CHA827FIN,Finlay,Chandler,Wingboard,Amateur,Youth W/E
 3238,80,866,2023-10-07,2023-10-08,YEL866SUL,Sullie,Yelland,Wingboard,Amateur,Youth W/E
 1239,81,867,2023-10-07,2023-10-13,STA867SCO,Scotty,Stallman,Windsurf,Pro-Fleet,All Week
 3240,82,869,2023-10-07,2023-10-08,OGO869FIN,Finn,O'Gorman,Wingboard,Amateur,Youth W/E
 3242,84,871,2023-10-09,2023-10-13,COL871ANN,Anna,Collenette,Wingboard,Amateur,2 Days
 3243,85,872,2023-10-09,2023-10-13,COL872AND,Andrew,Collenette,Wingboard,Amateur,2 Days
-2244,86,0,2023-10-09,2023-10-13,EDE0MAR,Markus,Edegran,Kiteboard,Open Class,2 Days
+2244,86,0,2023-10-09,2023-10-13,EDE0MAR,Markus,Edegran,Kitesurf,Open Class,2 Days
 1245,87,861,2023-10-07,2023-10-13,VAN861PAT,Patrick,Van Hoof,Windsurf,Pro-Fleet,All Week
 1246,88,819,2023-10-07,2023-10-08,YOR819JAC,Jack James,York,Windsurf,Amateur,Youth W/E
 3247,89,858,2023-10-09,2023-10-13,CRI858GUY,Guy,Cribb,Wingboard,Pro-Fleet,2 Days
 3248,90,855,2023-10-07,2023-10-13,DAV855ZAR,Zara,Davis,Wingboard,Amateur,All Week
 3249,91,857,2023-10-09,2023-10-13,STA857KUB,kuba,staite,Wingboard,Amateur,2 Days
 3250,92,873,2023-10-09,2023-10-13,OLD873FRE,Freddie,Oldfield,Wingboard,Pro-Fleet,2 Days
-2251,93,866,2023-10-09,2023-10-13,CAR866MAR,Martin,Carter,Kiteboard,Open Class,2 Days
+2251,93,866,2023-10-09,2023-10-13,CAR866MAR,Martin,Carter,Kitesurf,Open Class,2 Days
 3251,93,853,2023-10-09,2023-10-13,CAR853MAR,Martin,Carter,Wingboard,Amateur,2 Days
 3252,94,869,2023-10-09,2023-10-13,DAR869HEL,Helena,Darvelid,Wingboard,Amateur,2 Days
 1253,95,630,2023-10-09,2023-10-13,LAT630SAM,Sam,Latham,Windsurf,Gold-Fleet,2 Days
@@ -99,4 +99,4 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1255,97,822,2023-10-09,2023-10-13,NEW822MAR,Mark,Newman,Windsurf,Pro-Fleet,2 Days
 3202,44,819,2023-10-12,2023-10-13,WIL819DAV,Dave,Williams,Wingboard,Amateur,All Week
 1206,48,805,2023-10-07,2023-10-08,ING805MAR,Mark,Ingram,Windsurf,Gold-Fleet,2 Days
-2244,86,873,2023-10-07,2023-10-07,EDE873MAR,Markus,Edegran,Kiteboard,Open Class,2 Days
+2244,86,873,2023-10-07,2023-10-07,EDE873MAR,Markus,Edegran,Kitesurf,Open Class,2 Days

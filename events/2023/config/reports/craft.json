@@ -21,7 +21,7 @@
     {
       "Title": "All Kiteboards",
       "Fields": "Name,Nation,Status,First Timer,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Kiteboard"
+      "Filter": "Craft Type=Kitesurf"
     },
     {
       "Title": "All Sailboards",

@@ -12,17 +12,17 @@
     {
       "Title": "Open Class Kiteboards",
       "Fields": "Name,Nation,Entry Type,Tally",
-      "Filter": "Craft Type=Kiteboard,Status=Open Class"
+      "Filter": "Craft Type=Kitesurf,Status=Open Class"
     },
     {
       "Title": "Freeride Kiteboards",
       "Fields": "Name,Nation,Entry Type,Tally",
-      "Filter": "Craft Type=Kiteboard,Status=Freeride"
+      "Filter": "Craft Type=Kitesurf,Status=Freeride"
     },
     {
       "Title": "First Time Freeride Kiteboards",
       "Fields": "Name,Nation,Entry Type,Tally",
-      "Filter": "Craft Type=Kiteboard,Status=Freeride,First Timer=Y"
+      "Filter": "Craft Type=Kitesurf,Status=Freeride,First Timer=Y"
     },
     {
       "Title": "Pro Fleet Sailboards",

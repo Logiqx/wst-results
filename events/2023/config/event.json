@@ -14,7 +14,7 @@
   "Entrants": {
     "Craft Type": [
       "Boat",
-      "Kiteboard",
+      "Kitesurf",
       "Windsurf",
       "Wingboard",
       "TBC"
@@ -91,7 +91,7 @@
     {
       "Name": "Fastest Kiteboard Silver Cup",
       "Category": "Kiteboard",
-      "Filter": "Craft Type=Kiteboard"
+      "Filter": "Craft Type=Kitesurf"
     },
     {
       "Name": "Fastest Sailboard Shield",
@@ -106,7 +106,7 @@
     {
       "Name": "BKSA Speed Champion Trophy",
       "Category": "Kiteboard",
-      "Filter": "Craft Type=Kiteboard"
+      "Filter": "Craft Type=Kitesurf"
     }
   ],
   "Prizes": [
@@ -147,17 +147,17 @@
     },
     {
       "Category": "First Time Freeride Kiteboard",
-      "Filter": "Craft Type=Kiteboard,Status=Freeride,First Timer=Y",
+      "Filter": "Craft Type=Kitesurf,Status=Freeride,First Timer=Y",
       "Places": 1
     },
     {
       "Category": "Open Class Kiteboard",
-      "Filter": "Craft Type=Kiteboard,Status=Open Class",
+      "Filter": "Craft Type=Kitesurf,Status=Open Class",
       "Places": 1
     },
     {
       "Category": "Freeride Kiteboard",
-      "Filter": "Craft Type=Kiteboard,Status=Freeride",
+      "Filter": "Craft Type=Kitesurf,Status=Freeride",
       "Places": 1
     },
     {
