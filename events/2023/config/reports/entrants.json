@@ -12,22 +12,22 @@
     {
       "Title": "Windsurf Woman",
       "Fields": "Name,Nation,Sail No,Motion",
-      "Filter": "Craft Type=Windsurf,Gender=F,Age<>Youth"
+      "Filter": "Craft Type=Windsurf,Gender=F"
+    },
+    {
+      "Title": "Youth Man",
+      "Fields": "Name,Nation,Sail No,Craft Type,Motion",
+      "Filter": "Craft Type=Windsurf,Gender=M,Age=Youth"
+    },
+    {
+      "Title": "Youth Woman",
+      "Fields": "Name,Nation,Sail No,Craft Type,Motion",
+      "Filter": "Craft Type=Windsurf,Gender=F,Age=Youth"
     },
     {
       "Title": "Windfoil Open",
       "Fields": "Name,Nation,Sail No,Motion",
       "Filter": "Craft Type=Windfoil"
-    },
-    {
-      "Title": "Youth Man",
-      "Fields": "Name,Nation,Sail No,Craft Type,Motion",
-      "Filter": "Age=Youth,Gender=M"
-    },
-    {
-      "Title": "Youth Woman",
-      "Fields": "Name,Nation,Sail No,Craft Type,Motion",
-      "Filter": "Age=Youth,Gender=F"
     },
     {
       "Title": "All Craft TBCs",
