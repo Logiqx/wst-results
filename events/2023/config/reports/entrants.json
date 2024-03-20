@@ -6,53 +6,53 @@
   "Reports": [
     {
       "Title": "Open Class Kiteboards",
-      "Fields": "Name,Nation,Entry Type,Tally",
+      "Fields": "Name,Nation,Tally",
       "Filter": "Craft Type=Kitesurf,Status=Open Class"
     },
     {
       "Title": "Freeride Kiteboards",
-      "Fields": "Name,Nation,Entry Type,Tally",
+      "Fields": "Name,Nation,Tally",
       "Filter": "Craft Type=Kitesurf,Status=Freeride"
     },
     {
       "Title": "Pro Fleet Sailboards",
-      "Fields": "Name,Nation,Entry Type,UKWA,Tally",
+      "Fields": "Name,Nation,UKWA,Tally",
       "Filter": "Craft Type=Windsurf,Status=Pro Fleet"
     },
     {
       "Title": "Gold Fleet Sailboards",
-      "Fields": "Name,Nation,Entry Type,UKWA,Tally",
+      "Fields": "Name,Nation,UKWA,Tally",
       "Filter": "Craft Type=Windsurf,Status=Gold Fleet"
     },
     {
       "Title": "Amateur Sailboards",
-      "Fields": "Name,Nation,Entry Type,UKWA,Tally",
+      "Fields": "Name,Nation,UKWA,Tally",
       "Filter": "Craft Type=Windsurf,Status=Amateur"
     },
     {
       "Title": "Pro Fleet Wingboards",
-      "Fields": "Name,Nation,Entry Type,UKWA,Tally",
+      "Fields": "Name,Nation,UKWA,Tally",
       "Filter": "Craft Type=Windfoil,Status=Pro Fleet"
     },
     {
       "Title": "Amateur Wingboards",
-      "Fields": "Name,Nation,Entry Type,UKWA,Tally",
+      "Fields": "Name,Nation,UKWA,Tally",
       "Filter": "Craft Type=Windfoil,Status=Amateur"
     },
     {
       "Title": "All Ladies",
-      "Fields": "Name,Nation,Craft Type,Entry Type,Tally",
+      "Fields": "Name,Nation,Craft Type,Tally",
       "Filter": "Gender=F"
     },
     {
       "Title": "All Youths",
       "Comment": "(age <18 for both days of the event)",
-      "Fields": "Name,Nation,Craft Type,Entry Type,Tally",
+      "Fields": "Name,Nation,Craft Type,Tally",
       "Filter": "Age=Youth"
     },
     {
       "Title": "All Craft TBCs",
-      "Fields": "Name,Nation,Craft Type,Entry Type,Tally",
+      "Fields": "Name,Nation,Craft Type,Tally",
       "Filter": "Craft Type=TBC"
     }
   ]
