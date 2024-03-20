@@ -62,14 +62,6 @@
       "TBC"
     ]
   },
-  "Tankards": {
-    "Filters": [
-      "Craft Type=Boat",
-      "Craft Type=Kiteboard",
-      "Craft Type=Sailboard",
-      "Craft Type=Wingboard"
-    ]
-  },
   "Trophies": [
     {
       "Name": "Fastest Overall Trophy",
