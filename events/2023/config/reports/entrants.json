@@ -19,13 +19,13 @@
     {
       "Title": "Youth Men",
       "Comment": "(windsurf)",
-      "Fields": "Name,Nation,Sail No,Craft Type,Motion",
+      "Fields": "Name,Nation,Sail No,Motion",
       "Filter": "Craft Type=Windsurf,Gender=M,Age=Youth"
     },
     {
       "Title": "Youth Women",
       "Comment": "(windsurf)",
-      "Fields": "Name,Nation,Sail No,Craft Type,Motion",
+      "Fields": "Name,Nation,Sail No,Motion",
       "Filter": "Craft Type=Windsurf,Gender=F,Age=Youth"
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "Title": "All Craft TBCs",
-      "Fields": "Name,Nation,Sail No,Craft Type,Motion",
+      "Fields": "Name,Nation,Sail No,Motion",
       "Filter": "Craft Type=TBC"
     }
   ]
