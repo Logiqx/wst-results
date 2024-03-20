@@ -20,12 +20,10 @@
   },
   "Priorities": {
     "fastest": 1,
-    "craft": 3,
-    "status": 4,
-    "bests": 20,
-    "runs": 21,
-    "entrants": 25,
-    "ukwa": 30
+    "bests": 2,
+    "runs": 3,
+    "entrants": 4,
+    "ukwa": 5
   },
   "Emojis": {
     "Trophy": "🏆",
