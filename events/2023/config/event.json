@@ -13,7 +13,6 @@
   },
   "Entrants": {
     "Craft Type": [
-      "Boat",
       "Kitesurf",
       "Windsurf",
       "Windfoil",
@@ -25,7 +24,6 @@
       "Pro Fleet",
       "Freeride",
       "Open Class",
-      "Boat Fleet",
       "Wing Fleet",
       "TBC"
     ],
@@ -84,11 +82,6 @@
       "Filter": "Gender=F"
     },
     {
-      "Name": "Fastest Boat Shield",
-      "Category": "Boat",
-      "Filter": "Craft Type=Boat"
-    },
-    {
       "Name": "Fastest Kiteboard Silver Cup",
       "Category": "Kiteboard",
       "Filter": "Craft Type=Kitesurf"
@@ -138,11 +131,6 @@
     {
       "Category": "Pro Sailboard",
       "Filter": "Craft Type=Sailboard,Status=Pro Fleet",
-      "Places": 1
-    },
-    {
-      "Category": "Boat",
-      "Filter": "Craft Type=Boat",
       "Places": 1
     },
     {

@@ -14,11 +14,6 @@
   "Profile": true,
   "Reports": [
     {
-      "Title": "All Boats",
-      "Fields": "Name,Nation,First Timer,Boat Name,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Boat"
-    },
-    {
       "Title": "All Kiteboards",
       "Fields": "Name,Nation,Status,First Timer,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Kitesurf"
