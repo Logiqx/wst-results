@@ -1,15 +1,10 @@
 Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Scotty Stallman,Men's Sailboard,Pro Fleet,26.08,25.97,26.02
-2,Garry Connell,Men's Sailboard,Pro Fleet,23.64,22.88,23.26
-3,Simon Pettifer,Men's Sailboard,Pro Fleet,23.25,23.20,23.22
-4,Tim Bate,Men's Sailboard,Amateur,22.66,22.14,22.40
-5,Scott Norman,Men's Sailboard,Gold Fleet,22.66,21.93,22.29
-6,Mark Ingram,Men's Sailboard,Gold Fleet,22.14,21.96,22.05
-7,Jonathan Ingram,Men's Sailboard,Amateur,21.55,21.07,21.31
-8,Zack Peaple,Men's Sailboard,Gold Fleet,21.67,20.55,21.11
-9,Finnley Knight,Men's Sailboard,Amateur,21.26,20.80,21.03
-10,Scott Harrison,Men's Sailboard,Gold Fleet,20.82,19.86,20.34
-11,Russell Thompson,Men's Sailboard,Amateur,19.34,16.72,18.03
-12,Andy Stuart-William,Men's Sailboard,Gold Fleet,18.51,,9.26
-13,Steve Watson,Men's Sailboard,Amateur,14.06,,7.03
-14,Dylan Chick,Men's Sailboard,Amateur,6.59,6.07,6.33
+1,Scotty Stallman,Windsurf Men,Pro Fleet,26.08,25.97,26.02
+2,Garry Connell,Windsurf Men,Pro Fleet,23.64,22.88,23.26
+3,Simon Pettifer,Windsurf Men,Pro Fleet,23.25,23.20,23.22
+4,Tim Bate,Windsurf Men,Amateur,22.66,22.14,22.40
+5,Mark Ingram,Windsurf Men,Gold Fleet,22.14,21.96,22.05
+6,Scott Harrison,Windsurf Men,Gold Fleet,20.82,19.86,20.34
+7,Russell Thompson,Windsurf Men,Amateur,19.34,16.72,18.03
+8,Andy Stuart-William,Windsurf Men,Gold Fleet,18.51,,9.26
+9,Steve Watson,Windsurf Men,Amateur,14.06,,7.03

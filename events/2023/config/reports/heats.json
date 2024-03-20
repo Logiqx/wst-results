@@ -7,51 +7,63 @@
   "Reports": [
     {
       "Title": "Heat 1 - Windsurf Men",
-      "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 28 knots two times",
-      "Filter": "ISWC=Heat 1,Craft Type=Windsurf,Gender=M",
-      "Fleet": "Men's Sailboard"
+      "Comment": "(excludes youths)",
+      "Filter": "ISWC=Heat 1,Craft Type=Windsurf,Gender=M,Age<>Youth",
+      "Fleet": "Windsurf Men"
     },
     {
       "Title": "Heat 1 - Windsurf Women",
-      "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 28 knots two times",
+      "Comment": "(includes youths)",
       "Filter": "ISWC=Heat 1,Craft Type=Windsurf,Gender=F",
-      "Fleet": "Women's Sailboard"
+      "Fleet": "Windsurf Women"
     },
     {
-      "Title": "Heat 1 - Wingboards (Men)",
-      "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 18 knots two times",
-      "Filter": "ISWC=Heat 1,Craft Type=Windfoil,Gender=M",
-      "Fleet": "Men's Wingboard"
+      "Title": "Heat 1 - Youth Men",
+      "Comment": "(windsurf)",
+      "Filter": "ISWC=Heat 1,Craft Type=Windsurf,Gender=M,Age=Youth",
+      "Fleet": "Youth Men"
     },
     {
-      "Title": "Heat 1 - Wingboards (Women)",
-      "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 18 knots two times",
-      "Filter": "ISWC=Heat 1,Craft Type=Windfoil,Gender=F",
-      "Fleet": "Women's Wingboard"
+      "Title": "Heat 1 - Youth Women",
+      "Comment": "(windsurf)",
+      "Filter": "ISWC=Heat 1,Craft Type=Windsurf,Gender=F,Age=Youth",
+      "Fleet": "Youth Women"
+    },
+    {
+      "Title": "Heat 1 - Windfoil Open",
+      "Comment": "(includes men, women, and youths)",
+      "Filter": "ISWC=Heat 1,Craft Type=Windfoil",
+      "Fleet": "Youth Women"
     },
     {
       "Title": "Heat 2 - Windsurf Men",
-      "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 28 knots two times",
-      "Filter": "ISWC=Heat 2,Craft Type=Windsurf,Gender=M",
-      "Fleet": "Men's Sailboard"
+      "Comment": "(excludes youths)",
+      "Filter": "ISWC=Heat 2,Craft Type=Windsurf,Gender=M,Age<>Youth",
+      "Fleet": "Windsurf Men"
     },
     {
       "Title": "Heat 2 - Windsurf Women",
-      "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 28 knots two times",
+      "Comment": "(includes youths)",
       "Filter": "ISWC=Heat 2,Craft Type=Windsurf,Gender=F",
-      "Fleet": "Women's Sailboard"
+      "Fleet": "Windsurf Women"
     },
     {
-      "Title": "Heat 2 - Wingboards (Men)",
-      "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 18 knots two times",
-      "Filter": "ISWC=Heat 2,Craft Type=Windfoil,Gender=M",
-      "Fleet": "Men's Wingboard"
+      "Title": "Heat 2 - Youth Men",
+      "Comment": "(windsurf)",
+      "Filter": "ISWC=Heat 2,Craft Type=Windsurf,Gender=M,Age=Youth",
+      "Fleet": "Youth Men"
     },
     {
-      "Title": "Heat 2 - Wingboards (Women)",
-      "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 18 knots two times",
-      "Filter": "ISWC=Heat 2,Craft Type=Windfoil,Gender=F",
-      "Fleet": "Women's Wingboard"
+      "Title": "Heat 2 - Youth Women",
+      "Comment": "(windsurf)",
+      "Filter": "ISWC=Heat 2,Craft Type=Windsurf,Gender=F,Age=Youth",
+      "Fleet": "Youth Women"
+    },
+    {
+      "Title": "Heat 2 - Windfoil Open",
+      "Comment": "(includes men, women, and youths)",
+      "Filter": "ISWC=Heat 2,Craft Type=Windfoil",
+      "Fleet": "Youth Women"
     }
   ]
 }

@@ -1,41 +1,39 @@
 Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Scotty Stallman,Men's Sailboard,Pro Fleet,38.10,37.01,37.55
-2,Simon Pettifer,Men's Sailboard,Pro Fleet,38.35,36.62,37.49
-3,Jim Crossley,Men's Sailboard,Pro Fleet,35.30,34.88,35.09
-4,Mark Newman,Men's Sailboard,Pro Fleet,34.79,34.63,34.71
-5,Garry Connell,Men's Sailboard,Pro Fleet,34.58,33.06,33.82
-6,Michael George,Men's Sailboard,Pro Fleet,34.12,33.13,33.63
-7,Patrick Van Hoof,Men's Sailboard,Pro Fleet,33.61,33.12,33.36
-8,Matthew York,Men's Sailboard,Gold Fleet,32.49,32.32,32.40
-9,John Oliver,Men's Sailboard,Gold Fleet,33.28,31.49,32.39
-10,Scott Norman,Men's Sailboard,Gold Fleet,31.90,31.30,31.60
-11,Bob Cartridge,Men's Sailboard,Pro Fleet,31.74,31.01,31.38
-12,James Brake,Men's Sailboard,Gold Fleet,31.26,30.95,31.10
-13,George Fulton,Men's Sailboard,Gold Fleet,31.11,30.55,30.83
-14,Andy Turvey,Men's Sailboard,Gold Fleet,31.02,30.62,30.82
-15,Danny Cartridge,Men's Sailboard,Gold Fleet,31.48,29.95,30.72
-16,Chris Platt,Men's Sailboard,Amateur,30.51,30.05,30.28
-17,Paul Arnold,Men's Sailboard,Amateur,30.36,29.95,30.15
-18,Maciej Bukolt,Men's Sailboard,Amateur,30.77,29.48,30.13
-19,Will Trossell,Men's Sailboard,Gold Fleet,30.38,29.74,30.06
-20,Dave Strudwick,Men's Sailboard,Gold Fleet,30.67,29.42,30.04
-21,Zack Peaple,Men's Sailboard,Gold Fleet,29.89,29.46,29.68
-22,Stuart Trunkfield,Men's Sailboard,Gold Fleet,29.68,29.09,29.38
-23,Robin Russell,Men's Sailboard,Gold Fleet,30.45,28.20,29.33
-24,Peter Crosby,Men's Sailboard,Gold Fleet,29.85,28.14,29.00
-25,Scott Harrison,Men's Sailboard,Gold Fleet,29.14,28.80,28.97
-26,Jonny Kirton,Men's Sailboard,Amateur,29.06,28.71,28.89
-27,Steve Watson,Men's Sailboard,Amateur,29.42,27.92,28.67
-28,Matthew Lilley,Men's Sailboard,Amateur,28.96,27.75,28.35
-29,Russell Thompson,Men's Sailboard,Amateur,28.75,27.74,28.25
-30,Neil Binding,Men's Sailboard,Amateur,28.29,28.14,28.22
-31,Joe Trunkfield,Men's Sailboard,Amateur,28.23,27.70,27.96
-32,Joshua Pinder,Men's Sailboard,Amateur,28.46,26.98,27.72
-33,Eddie Marsh,Men's Sailboard,Gold Fleet,30.27,24.15,27.21
-34,Rob Dunn,Men's Sailboard,Amateur,27.23,26.11,26.67
-35,Andy Stuart-William,Men's Sailboard,Gold Fleet,26.39,26.31,26.35
-36,Trevor Whatford,Men's Sailboard,Gold Fleet,24.62,23.69,24.16
-37,Andrew Twinn,Men's Sailboard,Gold Fleet,25.53,21.61,23.57
-38,Bob Spagnoletti,Men's Sailboard,Gold Fleet,20.80,15.01,17.90
-39,Tim Bate,Men's Sailboard,Amateur,28.45,,14.22
-40,Andy Bridge,Men's Sailboard,Amateur,27.27,,13.63
+1,Scotty Stallman,Windsurf Men,Pro Fleet,38.10,37.01,37.55
+2,Simon Pettifer,Windsurf Men,Pro Fleet,38.35,36.62,37.49
+3,Jim Crossley,Windsurf Men,Pro Fleet,35.30,34.88,35.09
+4,Mark Newman,Windsurf Men,Pro Fleet,34.79,34.63,34.71
+5,Garry Connell,Windsurf Men,Pro Fleet,34.58,33.06,33.82
+6,Michael George,Windsurf Men,Pro Fleet,34.12,33.13,33.63
+7,Patrick Van Hoof,Windsurf Men,Pro Fleet,33.61,33.12,33.36
+8,Matthew York,Windsurf Men,Gold Fleet,32.49,32.32,32.40
+9,John Oliver,Windsurf Men,Gold Fleet,33.28,31.49,32.39
+10,Bob Cartridge,Windsurf Men,Pro Fleet,31.74,31.01,31.38
+11,James Brake,Windsurf Men,Gold Fleet,31.26,30.95,31.10
+12,George Fulton,Windsurf Men,Gold Fleet,31.11,30.55,30.83
+13,Andy Turvey,Windsurf Men,Gold Fleet,31.02,30.62,30.82
+14,Danny Cartridge,Windsurf Men,Gold Fleet,31.48,29.95,30.72
+15,Chris Platt,Windsurf Men,Amateur,30.51,30.05,30.28
+16,Paul Arnold,Windsurf Men,Amateur,30.36,29.95,30.15
+17,Maciej Bukolt,Windsurf Men,Amateur,30.77,29.48,30.13
+18,Will Trossell,Windsurf Men,Gold Fleet,30.38,29.74,30.06
+19,Dave Strudwick,Windsurf Men,Gold Fleet,30.67,29.42,30.04
+20,Stuart Trunkfield,Windsurf Men,Gold Fleet,29.68,29.09,29.38
+21,Robin Russell,Windsurf Men,Gold Fleet,30.45,28.20,29.33
+22,Peter Crosby,Windsurf Men,Gold Fleet,29.85,28.14,29.00
+23,Scott Harrison,Windsurf Men,Gold Fleet,29.14,28.80,28.97
+24,Jonny Kirton,Windsurf Men,Amateur,29.06,28.71,28.89
+25,Steve Watson,Windsurf Men,Amateur,29.42,27.92,28.67
+26,Matthew Lilley,Windsurf Men,Amateur,28.96,27.75,28.35
+27,Russell Thompson,Windsurf Men,Amateur,28.75,27.74,28.25
+28,Neil Binding,Windsurf Men,Amateur,28.29,28.14,28.22
+29,Joe Trunkfield,Windsurf Men,Amateur,28.23,27.70,27.96
+30,Joshua Pinder,Windsurf Men,Amateur,28.46,26.98,27.72
+31,Eddie Marsh,Windsurf Men,Gold Fleet,30.27,24.15,27.21
+32,Rob Dunn,Windsurf Men,Amateur,27.23,26.11,26.67
+33,Andy Stuart-William,Windsurf Men,Gold Fleet,26.39,26.31,26.35
+34,Trevor Whatford,Windsurf Men,Gold Fleet,24.62,23.69,24.16
+35,Andrew Twinn,Windsurf Men,Gold Fleet,25.53,21.61,23.57
+36,Bob Spagnoletti,Windsurf Men,Gold Fleet,20.80,15.01,17.90
+37,Tim Bate,Windsurf Men,Amateur,28.45,,14.22
+38,Andy Bridge,Windsurf Men,Amateur,27.27,,13.63

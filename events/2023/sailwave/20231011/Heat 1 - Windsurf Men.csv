@@ -1,36 +1,34 @@
 Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Scotty Stallman,Men's Sailboard,Pro Fleet,31.14,29.95,30.55
-2,Simon Pettifer,Men's Sailboard,Pro Fleet,30.38,29.43,29.90
-3,Jim Crossley,Men's Sailboard,Pro Fleet,29.74,29.57,29.66
-4,Patrick Van Hoof,Men's Sailboard,Pro Fleet,28.91,28.02,28.47
-5,Zack Peaple,Men's Sailboard,Gold Fleet,28.10,27.89,27.99
-6,Michael George,Men's Sailboard,Pro Fleet,27.24,26.81,27.03
-7,George Fulton,Men's Sailboard,Gold Fleet,26.84,26.59,26.72
-8,Scott Norman,Men's Sailboard,Gold Fleet,26.77,26.30,26.54
-9,John Oliver,Men's Sailboard,Gold Fleet,26.78,26.23,26.50
-10,Will Trossell,Men's Sailboard,Gold Fleet,26.21,26.19,26.20
-11,Tim Bate,Men's Sailboard,Amateur,25.90,25.46,25.68
-12,Stuart Trunkfield,Men's Sailboard,Gold Fleet,25.85,25.47,25.66
-13,Bob Cartridge,Men's Sailboard,Pro Fleet,26.36,24.94,25.65
-14,Garry Connell,Men's Sailboard,Pro Fleet,26.60,24.24,25.42
-15,Scott Harrison,Men's Sailboard,Gold Fleet,25.32,25.06,25.19
-16,Dave Strudwick,Men's Sailboard,Gold Fleet,25.69,24.59,25.14
-17,Andy Stuart-William,Men's Sailboard,Gold Fleet,25.21,24.96,25.08
-18,Richard Crosby,Men's Sailboard,Gold Fleet,25.09,24.69,24.89
-19,Russell Thompson,Men's Sailboard,Amateur,25.10,24.37,24.73
-20,Danny Cartridge,Men's Sailboard,Gold Fleet,25.22,24.11,24.67
-21,Chris Platt,Men's Sailboard,Amateur,25.61,22.84,24.23
-22,Jonny Kirton,Men's Sailboard,Amateur,24.66,23.55,24.11
-23,Jean-Marc De Bruyne,Men's Sailboard,Pro Fleet,24.17,23.82,23.99
-23,Robin Russell,Men's Sailboard,Gold Fleet,24.16,23.83,23.99
-25,Andrew Owen,Men's Sailboard,Amateur,24.30,23.65,23.97
-26,Rob Dunn,Men's Sailboard,Amateur,24.65,23.07,23.86
-27,Joe Trunkfield,Men's Sailboard,Amateur,24.30,23.31,23.80
-28,Steve Watson,Men's Sailboard,Amateur,24.33,23.17,23.75
-29,Matthew Lilley,Men's Sailboard,Amateur,23.57,23.11,23.34
-30,Simon Ramsden,Men's Sailboard,Amateur,24.00,22.14,23.07
-31,Joshua Pinder,Men's Sailboard,Amateur,24.29,21.73,23.01
-32,Eddie Marsh,Men's Sailboard,Gold Fleet,22.70,22.52,22.61
-33,Peter Crosby,Men's Sailboard,Gold Fleet,20.58,20.50,20.54
-34,Rob Longstaff,Men's Sailboard,Amateur,21.07,16.62,18.85
-35,Neil Binding,Men's Sailboard,Amateur,23.67,,11.84
+1,Scotty Stallman,Windsurf Men,Pro Fleet,31.14,29.95,30.55
+2,Simon Pettifer,Windsurf Men,Pro Fleet,30.38,29.43,29.90
+3,Jim Crossley,Windsurf Men,Pro Fleet,29.74,29.57,29.66
+4,Patrick Van Hoof,Windsurf Men,Pro Fleet,28.91,28.02,28.47
+5,Michael George,Windsurf Men,Pro Fleet,27.24,26.81,27.03
+6,George Fulton,Windsurf Men,Gold Fleet,26.84,26.59,26.72
+7,John Oliver,Windsurf Men,Gold Fleet,26.78,26.23,26.50
+8,Will Trossell,Windsurf Men,Gold Fleet,26.21,26.19,26.20
+9,Tim Bate,Windsurf Men,Amateur,25.90,25.46,25.68
+10,Stuart Trunkfield,Windsurf Men,Gold Fleet,25.85,25.47,25.66
+11,Bob Cartridge,Windsurf Men,Pro Fleet,26.36,24.94,25.65
+12,Garry Connell,Windsurf Men,Pro Fleet,26.60,24.24,25.42
+13,Scott Harrison,Windsurf Men,Gold Fleet,25.32,25.06,25.19
+14,Dave Strudwick,Windsurf Men,Gold Fleet,25.69,24.59,25.14
+15,Andy Stuart-William,Windsurf Men,Gold Fleet,25.21,24.96,25.08
+16,Richard Crosby,Windsurf Men,Gold Fleet,25.09,24.69,24.89
+17,Russell Thompson,Windsurf Men,Amateur,25.10,24.37,24.73
+18,Danny Cartridge,Windsurf Men,Gold Fleet,25.22,24.11,24.67
+19,Chris Platt,Windsurf Men,Amateur,25.61,22.84,24.23
+20,Jonny Kirton,Windsurf Men,Amateur,24.66,23.55,24.11
+21,Jean-Marc De Bruyne,Windsurf Men,Pro Fleet,24.17,23.82,23.99
+21,Robin Russell,Windsurf Men,Gold Fleet,24.16,23.83,23.99
+23,Andrew Owen,Windsurf Men,Amateur,24.30,23.65,23.97
+24,Rob Dunn,Windsurf Men,Amateur,24.65,23.07,23.86
+25,Joe Trunkfield,Windsurf Men,Amateur,24.30,23.31,23.80
+26,Steve Watson,Windsurf Men,Amateur,24.33,23.17,23.75
+27,Matthew Lilley,Windsurf Men,Amateur,23.57,23.11,23.34
+28,Simon Ramsden,Windsurf Men,Amateur,24.00,22.14,23.07
+29,Joshua Pinder,Windsurf Men,Amateur,24.29,21.73,23.01
+30,Eddie Marsh,Windsurf Men,Gold Fleet,22.70,22.52,22.61
+31,Peter Crosby,Windsurf Men,Gold Fleet,20.58,20.50,20.54
+32,Rob Longstaff,Windsurf Men,Amateur,21.07,16.62,18.85
+33,Neil Binding,Windsurf Men,Amateur,23.67,,11.84
