@@ -1,6 +1,14 @@
 {
-  "Suptitle": "Best Runs of the Day - {Date}",
-  "Period": "Session",
+  "Periods": [
+    {
+      "Suptitle": "Best Runs of the Day - {Date}",
+      "Period": "Session"
+    },
+    {
+      "Suptitle": "Best Runs of the Week",
+      "Period": "Event"
+    }
+  ],
   "Fields": "Name,Nation,Sail No,Speed (kts),Other Run Speeds (kts)",
   "ShowSpeeds": 10,
   "Reports": [
