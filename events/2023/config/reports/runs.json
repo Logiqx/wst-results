@@ -14,6 +14,10 @@
       "Title": "Windfoil Runs",
       "Comment": "(includes men, women, and youths)",
       "Filter": "Craft Type=Windfoil"
+    },
+    {
+      "Title": "All Craft TBCs",
+      "Filter": "Craft Type=TBC"
     }
   ]
 }
