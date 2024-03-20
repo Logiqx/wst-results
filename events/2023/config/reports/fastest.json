@@ -2,95 +2,49 @@
   "Periods": [
     {
       "Suptitle": "Fastest of the Day - {Date}",
-      "Period": "Session",
-      "HideFields": "Course"
+      "Period": "Session"
     },
     {
       "Suptitle": "Fastest of the Week",
       "Period": "Event",
-      "HideFields": "Course,Time"
+      "HideFields": "Time"
     }
   ],
+  "Fields": "Name,Nation,Sail No,Time,Speed (kts)",
   "Limit": 3,
   "Profile": true,
   "Reports": [
     {
-      "Title": "Top 10",
-      "Fields": "Name,Nation,Craft Type,Status,Course,Time,Speed (kts)",
+      "Title": "Windsurf Men",
+      "Comment": "(top 10 - excludes youth men)",
+      "Filter": "Craft Type=Windsurf,Gender=M,Age<>Youth",
       "Limit": 10
     },
     {
-      "Title": "Fastest Kiteboards",
-      "Fields": "Name,Nation,Status,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Kitesurf"
+      "Title": "Windsurf Women",
+      "Comment": "(top 3 - includes youth women)",
+      "Filter": "Craft Type=Windsurf,Gender=F"
     },
     {
-      "Title": "Fastest Sailboards",
-      "Fields": "Name,Nation,Status,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Windsurf"
+      "Title": "Youth Men",
+      "Comment": "(top 3 - windsurf)",
+      "Filter": "Craft Type=Windsurf,Gender=M,Age=Youth"
     },
     {
-      "Title": "Fastest Wingboards",
-      "Fields": "Name,Nation,Status,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Windfoil"
+      "Title": "Youth Women",
+      "Comment": "(top 3 - windsurf)",
+      "Filter": "Craft Type=Windsurf,Gender=F,Age=Youth"
     },
     {
-      "Title": "Fastest Craft TBCs",
-      "Fields": "Name,Nation,Craft Type,Status,Course,Time,Speed (kts)",
+      "Title": "Windfoil Open",
+      "Comment": "(top 10 - includes men, women, and youths)",
+      "Filter": "Craft Type=Windfoil",
+      "Limit": 10
+    },
+    {
+      "Title": "All Craft TBCs",
+      "Comment": "(top 3)",
       "Filter": "Craft Type=TBC"
-    },
-    {
-      "Title": "Fastest Ladies",
-      "Fields": "Name,Nation,Craft Type,Status,Course,Time,Speed (kts)",
-      "Filter": "Gender=F"
-    },
-    {
-      "Title": "Fastest Open Class Kiteboards",
-      "Fields": "Name,Nation,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Kitesurf,Status=Open Class"
-    },
-    {
-      "Title": "Fastest Freeride Kiteboards",
-      "Fields": "Name,Nation,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Kitesurf,Status=Freeride"
-    },
-    {
-      "Title": "Fastest Pro Fleet Sailboards",
-      "Fields": "Name,Nation,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Windsurf,Status=Pro Fleet"
-    },
-    {
-      "Title": "Fastest Gold Fleet Sailboards",
-      "Fields": "Name,Nation,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Windsurf,Status=Gold Fleet"
-    },
-    {
-      "Title": "Fastest Amateur Sailboards",
-      "Fields": "Name,Nation,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Windsurf,Status=Amateur"
-    },
-    {
-      "Title": "Fastest Pro Fleet Wingboards",
-      "Fields": "Name,Nation,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Windfoil,Status=Pro Fleet"
-    },
-    {
-      "Title": "Fastest Amateur Wingboards",
-      "Fields": "Name,Nation,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Windfoil,Status=Amateur"
-    },
-    {
-      "Title": "Fastest Lady Sailboards",
-      "Comment": "(excluding pros)",
-      "Fields": "Name,Nation,Status,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Windsurf,Gender=F,Status<>Pro Fleet"
-    },
-    {
-      "Title": "Fastest Youths",
-      "Comment": "(age <18 for both days of the event)",
-      "Fields": "Name,Nation,Craft Type,Course,Time,Speed (kts)",
-      "Filter": "Age=Youth,Weekend=Y",
-      "Sort": "Speed (kts)=DSC"
     }
   ]
 }
