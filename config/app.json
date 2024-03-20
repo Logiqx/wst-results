@@ -18,11 +18,6 @@
       "Website": "https://www.worldspeedtour.com"
     }
   },
-  "Courses": {
-    "H": "Harbour",
-    "S": "Shore",
-    "?": "TBC"
-  },
   "Priorities": {
     "fastest": 1,
     "rankings": 2,
