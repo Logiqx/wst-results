@@ -5,50 +5,29 @@
   "Sort": "Name=ASC",
   "Reports": [
     {
-      "Title": "Open Class Kiteboards",
+      "Title": "Windsurf Man",
       "Fields": "Name,Nation,Motion",
-      "Filter": "Craft Type=Kitesurf,Status=Open Class"
+      "Filter": "Craft Type=Windsurf,Gender=M,Age<>Youth"
     },
     {
-      "Title": "Freeride Kiteboards",
+      "Title": "Windsurf Woman",
       "Fields": "Name,Nation,Motion",
-      "Filter": "Craft Type=Kitesurf,Status=Freeride"
+      "Filter": "Craft Type=Windsurf,Gender=F,Age<>Youth"
     },
     {
-      "Title": "Pro Fleet Sailboards",
-      "Fields": "Name,Nation,UKWA,Motion",
-      "Filter": "Craft Type=Windsurf,Status=Pro Fleet"
+      "Title": "Windfoil Open",
+      "Fields": "Name,Nation,Motion",
+      "Filter": "Craft Type=Windfoil"
     },
     {
-      "Title": "Gold Fleet Sailboards",
-      "Fields": "Name,Nation,UKWA,Motion",
-      "Filter": "Craft Type=Windsurf,Status=Gold Fleet"
-    },
-    {
-      "Title": "Amateur Sailboards",
-      "Fields": "Name,Nation,UKWA,Motion",
-      "Filter": "Craft Type=Windsurf,Status=Amateur"
-    },
-    {
-      "Title": "Pro Fleet Wingboards",
-      "Fields": "Name,Nation,UKWA,Motion",
-      "Filter": "Craft Type=Windfoil,Status=Pro Fleet"
-    },
-    {
-      "Title": "Amateur Wingboards",
-      "Fields": "Name,Nation,UKWA,Motion",
-      "Filter": "Craft Type=Windfoil,Status=Amateur"
-    },
-    {
-      "Title": "All Ladies",
+      "Title": "Youth Man",
       "Fields": "Name,Nation,Craft Type,Motion",
-      "Filter": "Gender=F"
+      "Filter": "Age=Youth,Gender=M"
     },
     {
-      "Title": "All Youths",
-      "Comment": "(age <18 for both days of the event)",
+      "Title": "Youth Woman",
       "Fields": "Name,Nation,Craft Type,Motion",
-      "Filter": "Age=Youth"
+      "Filter": "Age=Youth,Gender=F"
     },
     {
       "Title": "All Craft TBCs",
