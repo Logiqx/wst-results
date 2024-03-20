@@ -32,11 +32,6 @@
       "F",
       "?"
     ],
-    "First Timer": [
-      "Y",
-      "N",
-      "?"
-    ],
     "UKWA": [
       "Y",
       "N",
@@ -44,93 +39,8 @@
     ]
   },
   "Trophies": [
-    {
-      "Name": "Fastest Overall Trophy",
-      "Category": "Craft",
-      "Filter": ""
-    },
-    {
-      "Name": "Gold Fleet 'Fastest Sailor' Shield",
-      "Category": "Gold Fleet Sailboard",
-      "Filter": "Craft Type=Windsurf,Status=Gold Fleet"
-    },
-    {
-      "Name": "'Fastest Youth' Trophy",
-      "Category": "Youth Sailboard",
-      "Filter": "Craft Type=Sailboard,Age=Youth,Weekend=Y"
-    },
-    {
-      "Name": "'Fastest Lady' Shield",
-      "Category": "Lady",
-      "Filter": "Gender=F"
-    },
-    {
-      "Name": "Fastest Kiteboard Silver Cup",
-      "Category": "Kiteboard",
-      "Filter": "Craft Type=Kitesurf"
-    },
-    {
-      "Name": "Fastest Sailboard Shield",
-      "Category": "Sailboard",
-      "Filter": "Craft Type=Sailboard"
-    },
-    {
-      "Name": "Fastest Wingboard Trophy",
-      "Category": "Wingboard",
-      "Filter": "Craft Type=Windfoil"
-    },
-    {
-      "Name": "BKSA Speed Champion Trophy",
-      "Category": "Kiteboard",
-      "Filter": "Craft Type=Kitesurf"
-    }
   ],
   "Prizes": [
-    {
-      "Category": "Youths",
-      "Filter": "Age=Youth,Weekend=Y",
-      "Places": 3
-    },
-    {
-      "Category": "Lady Sailboard",
-      "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet",
-      "Places": 1
-    },
-    {
-      "Category": "Amateur Sailboards",
-      "Filter": "Craft Type=Sailboard,Status=Amateur",
-      "Places": 3
-    },
-    {
-      "Category": "Gold Fleet Sailboards",
-      "Filter": "Craft Type=Sailboard,Status=Gold Fleet",
-      "Places": 3
-    },
-    {
-      "Category": "Pro Sailboard",
-      "Filter": "Craft Type=Sailboard,Status=Pro Fleet",
-      "Places": 1
-    },
-    {
-      "Category": "Open Class Kiteboard",
-      "Filter": "Craft Type=Kitesurf,Status=Open Class",
-      "Places": 1
-    },
-    {
-      "Category": "Freeride Kiteboard",
-      "Filter": "Craft Type=Kitesurf,Status=Freeride",
-      "Places": 1
-    },
-    {
-      "Category": "Pro Wingboard",
-      "Filter": "Craft Type=Windfoil,Status=Pro Fleet",
-      "Places": 1
-    },
-    {
-      "Category": "Amateur Wingboards",
-      "Filter": "Craft Type=Windfoil,Status=Amateur",
-      "Places": 3
-    }
   ],
   "Series": {
     "UKWA": {
