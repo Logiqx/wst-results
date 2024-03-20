@@ -1,7 +1,7 @@
 {
   "Suptitle": "All Runs of the Day - {Date}",
   "Period": "Session",
-  "Fields": "Name,Nation,Sail No,Course,Time,Speed (kts)",
+  "Fields": "Name,Nation,Sail No,Time,Speed (kts)",
   "Sort": "Name=ASC,Time=ASC",
   "Rank": false,
   "Reports": [
