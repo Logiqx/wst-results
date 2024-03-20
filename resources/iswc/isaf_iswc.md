@@ -1,6 +1,6 @@
 ## ISAF
 
-[Class Rules - Speed Windsurfing](https://www.sailing.org/28009.php)
+[Class Rules - Speed Windsurfing](https://www.sailing.org/classes/speed-windsurfing/#Documents)
 
 [Changes and corrections to RRS](https://esse750.org/images/Documents/ISAF_Rules_Changes_english.pdf)
 
@@ -14,7 +14,7 @@
 
 ## ISWC
 
-[ISWC Homepage](http://www.internationalwindsurfing.com/windsurfing_competion_0327v01.htm)
+[ISWC Homepage](https://internationalwindsurfing.com/iswc/)
 
 [ISWC Rulebook](http://www.internationalwindsurfing.com/userfiles/documents/ISWC_Rulebook_2010.pdf)
 
@@ -48,5 +48,4 @@
 > E.1 FIN
 > The shortest distance between the outermost point of the hull
 > appendage and the hull shall no exceed 500 mm
-
 
