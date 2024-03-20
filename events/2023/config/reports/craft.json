@@ -15,22 +15,22 @@
   "Reports": [
     {
       "Title": "All Kiteboards",
-      "Fields": "Name,Nation,Status,First Timer,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Status,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Kitesurf"
     },
     {
       "Title": "All Sailboards",
-      "Fields": "Name,Nation,Status,First Timer,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Status,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Windsurf"
     },
     {
       "Title": "All Wingboards",
-      "Fields": "Name,Nation,Status,First Timer,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Status,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Windfoil"
     },
     {
       "Title": "All Craft TBCs",
-      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Craft Type,Status,Course,Time,Speed (kts)",
       "Filter": "Craft Type=TBC"
     }
   ]

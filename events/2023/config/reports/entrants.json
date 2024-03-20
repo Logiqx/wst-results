@@ -41,18 +41,18 @@
     },
     {
       "Title": "All Ladies",
-      "Fields": "Name,Nation,Craft Type,Entry Type,First Timer,Tally",
+      "Fields": "Name,Nation,Craft Type,Entry Type,Tally",
       "Filter": "Gender=F"
     },
     {
       "Title": "All Youths",
       "Comment": "(age <18 for both days of the event)",
-      "Fields": "Name,Nation,Craft Type,Entry Type,First Timer,Tally",
+      "Fields": "Name,Nation,Craft Type,Entry Type,Tally",
       "Filter": "Age=Youth"
     },
     {
       "Title": "All Craft TBCs",
-      "Fields": "Name,Nation,Craft Type,Entry Type,First Timer,Tally",
+      "Fields": "Name,Nation,Craft Type,Entry Type,Tally",
       "Filter": "Craft Type=TBC"
     }
   ]

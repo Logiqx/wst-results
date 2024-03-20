@@ -21,27 +21,27 @@
     },
     {
       "Title": "Fastest Kiteboards",
-      "Fields": "Name,Nation,Status,First Timer,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Status,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Kitesurf"
     },
     {
       "Title": "Fastest Sailboards",
-      "Fields": "Name,Nation,Status,First Timer,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Status,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Windsurf"
     },
     {
       "Title": "Fastest Wingboards",
-      "Fields": "Name,Nation,Status,First Timer,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Status,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Windfoil"
     },
     {
       "Title": "Fastest Craft TBCs",
-      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Craft Type,Status,Course,Time,Speed (kts)",
       "Filter": "Craft Type=TBC"
     },
     {
       "Title": "Fastest Ladies",
-      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Craft Type,Status,Course,Time,Speed (kts)",
       "Filter": "Gender=F"
     },
     {
@@ -82,13 +82,13 @@
     {
       "Title": "Fastest Lady Sailboards",
       "Comment": "(excluding pros)",
-      "Fields": "Name,Nation,Status,First Timer,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Status,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Windsurf,Gender=F,Status<>Pro Fleet"
     },
     {
       "Title": "Fastest Youths",
       "Comment": "(age <18 for both days of the event)",
-      "Fields": "Name,Nation,Craft Type,First Timer,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Craft Type,Course,Time,Speed (kts)",
       "Filter": "Age=Youth,Weekend=Y",
       "Sort": "Speed (kts)=DSC"
     }
