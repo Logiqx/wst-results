@@ -48,7 +48,7 @@ ID,Tally,Title,First Name,Family Name,Country,Craft Type,Status,Age,UKWA
 1205,47,Mr,Jonathan,Ingram,United Kingdom,Windsurf,Amateur,Youth,YES
 1206,48,Mr,Mark,Ingram,United Kingdom,Windsurf,Gold-Fleet,Adult,YES
 1207,49,Ms,Jenna,Jenkins,uk,Windsurf,Amateur,Youth,NO
-1208,50,Mr,Dave,Strudwick,,Windsurf,Gold-Fleet,Adult,YES
+1208,50,Mr,Dave,Strudwick,United Kingdom,Windsurf,Gold-Fleet,Adult,YES
 1209,51,Mr,Andy,Turvey,United Kingdom,Windsurf,Gold-Fleet,Adult,YES
 1210,52,Mr,Jonny,Kirton,United Kingdom,Windsurf,Amateur,Adult,NO
 1211,53,Mr,Russell,Thompson,United Kingdom,Windsurf,Amateur,Adult,YES
@@ -63,11 +63,11 @@ ID,Tally,Title,First Name,Family Name,Country,Craft Type,Status,Age,UKWA
 1222,64,Mr,Dylan,Chick,United Kingdom,Windsurf,Amateur,Youth,NO
 3223,65,Mr,Emeric,Mouret,France,Windfoil,Pro-Fleet,Adult,NO
 2224,66,Mr,Steve,Davison,UK,Kitesurf,Open Class,Adult,N
-1225,67,Mr,Jim,Crossley,,Windsurf,Pro-Fleet,Adult,YES
+1225,67,Mr,Jim,Crossley,United Kingdom,Windsurf,Pro-Fleet,Adult,YES
 1226,68,Miss,Lilia,Yelland,England,Windsurf,Amateur,Youth,YES
 1227,69,Mr,Maciej,Bukolt,Poland,Windsurf,Amateur,Adult,YES
 1228,70,Mr,Paul,Arnold,uk,Windsurf,Amateur,Adult,YES
-3229,71,Mr,Joe,Adams,,Windfoil,Amateur,Adult,YES
+3229,71,Mr,Joe,Adams,United Kingdom,Windfoil,Amateur,Adult,YES
 1230,72,Mr,Paul,Bran,United Kingdom,Windsurf,Amateur,Adult,NO
 1231,73,Mr,Finnley,Knight,United Kingdom,Windsurf,Amateur,Youth,YES
 3231,73,Mr,Finnley,Knight,United Kingdom,Windfoil,Amateur,Youth,YES
