@@ -6,6 +6,7 @@
     {
       "Title": "Sorted by Name and Time",
       "Fields": "Name,Nation,Sail No,Course,Time,Speed (kts)",
+      "Filter": "Craft Type<>Kitesurf",
       "Sort": "Name=ASC,Time=ASC"
     }
   ]
