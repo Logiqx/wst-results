@@ -6,8 +6,14 @@
   "Rank": false,
   "Reports": [
     {
-      "Title": "Sorted by Name and Time",
-      "Filter": "Craft Type<>Kitesurf"
+      "Title": "Windsurf Runs",
+      "Comment": "(includes men, women, and youths)",
+      "Filter": "Craft Type=Windsurf"
+    },
+    {
+      "Title": "Windfoil Runs",
+      "Comment": "(includes men, women, and youths)",
+      "Filter": "Craft Type=Windfoil"
     }
   ]
 }
