@@ -27,12 +27,6 @@
       "Wing Fleet",
       "TBC"
     ],
-    "Entry Type": [
-      "All Week",
-      "Youth W/E",
-      "2-Day",
-      "TBC"
-    ],
     "Gender": [
       "M",
       "F",
@@ -47,17 +41,6 @@
       "Y",
       "N",
       "?"
-    ],
-    "Grouping": [
-      "Forces - Royal Navy",
-      "Forces - The Army",
-      "Forces - Royal Air Force",
-      "Hamworthy Heroes",
-      "Portland Pirates",
-      "Surf Hogs",
-      "The OTC",
-      "None",
-      "TBC"
     ]
   },
   "Trophies": [
