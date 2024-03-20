@@ -1,11 +1,37 @@
 {
   "Suptitle": "Best Runs of the Day - {Date}",
-  "Fields": "Name,Nation,Craft Type,Status,Speed (kts),Other Run Speeds (kts)",
+  "Period": "Session",
+  "Fields": "Name,Nation,Sail No,Speed (kts),Other Run Speeds (kts)",
   "ShowSpeeds": 10,
   "Reports": [
     {
-      "Title": "All Craft",
-      "Period": "Session"
+      "Title": "Windsurf Men",
+      "Comment": "(excludes youth men)",
+      "Filter": "Craft Type=Windsurf,Gender=M,Age<>Youth"
+    },
+    {
+      "Title": "Windsurf Women",
+      "Comment": "(includes youth women)",
+      "Filter": "Craft Type=Windsurf,Gender=F"
+    },
+    {
+      "Title": "Youth Men",
+      "Comment": "(windsurf)",
+      "Filter": "Craft Type=Windsurf,Gender=M,Age=Youth"
+    },
+    {
+      "Title": "Youth Women",
+      "Comment": "(windsurf)",
+      "Filter": "Craft Type=Windsurf,Gender=F,Age=Youth"
+    },
+    {
+      "Title": "Windfoil Open",
+      "Comment": "(includes men, women, and youths)",
+      "Filter": "Craft Type=Windfoil"
+    },
+    {
+      "Title": "All Craft TBCs",
+      "Filter": "Craft Type=TBC"
     }
   ]
 }
