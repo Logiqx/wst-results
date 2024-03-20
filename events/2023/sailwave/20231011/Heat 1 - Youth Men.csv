@@ -1,3 +1,3 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Zack Peaple,Youth Men,Gold Fleet,28.10,27.89,27.99
-2,Scott Norman,Youth Men,Gold Fleet,26.77,26.30,26.54
+Place,Helmname,Fleet,Sail No,Run 1 (kts),Run 2 (kts),Avg (kts)
+1,Zack Peaple,Youth Men,GBR-12,28.10,27.89,27.99
+2,Scott Norman,Youth Men,GBR-75,26.77,26.30,26.54

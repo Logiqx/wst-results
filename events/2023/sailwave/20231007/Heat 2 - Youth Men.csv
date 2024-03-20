@@ -1,6 +1,6 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Scott Norman,Youth Men,Gold Fleet,22.66,21.93,22.29
-2,Jonathan Ingram,Youth Men,Amateur,21.55,21.07,21.31
-3,Zack Peaple,Youth Men,Gold Fleet,21.67,20.55,21.11
-4,Finnley Knight,Youth Men,Amateur,21.26,20.80,21.03
-5,Dylan Chick,Youth Men,Amateur,6.59,6.07,6.33
+Place,Helmname,Fleet,Sail No,Run 1 (kts),Run 2 (kts),Avg (kts)
+1,Scott Norman,Youth Men,GBR-75,22.66,21.93,22.29
+2,Jonathan Ingram,Youth Men,GBR-47,21.55,21.07,21.31
+3,Zack Peaple,Youth Men,GBR-12,21.67,20.55,21.11
+4,Finnley Knight,Youth Men,GBR-73,21.26,20.80,21.03
+5,Dylan Chick,Youth Men,GBR-64,6.59,6.07,6.33

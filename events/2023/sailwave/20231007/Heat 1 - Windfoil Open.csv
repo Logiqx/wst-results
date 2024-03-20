@@ -1,16 +1,16 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Emeric Mouret,Youth Women,Pro Fleet,25.55,25.36,25.45
-2,Finlay Chandler,Youth Women,Amateur,24.50,24.46,24.48
-3,Richard Hobson,Youth Women,Pro Fleet,23.04,22.94,22.99
-4,Sullie Yelland,Youth Women,Amateur,23.00,22.75,22.87
-5,Finnley Knight,Youth Women,Amateur,22.98,22.01,22.50
-6,Zack Peaple,Youth Women,Amateur,21.02,20.50,20.76
-7,Denis Gordo,Youth Women,Amateur,20.45,19.88,20.17
-7,Chris Cunningham,Youth Women,Amateur,20.26,20.08,20.17
-9,Finn O'Gorman,Youth Women,Amateur,20.17,19.84,20.00
-10,Simon Perkins,Youth Women,Amateur,19.34,19.29,19.32
-11,Simon Maguire,Youth Women,Amateur,19.25,19.17,19.21
-12,Mark McCafferty,Youth Women,Amateur,18.79,18.46,18.62
-13,Mia Adcock,Youth Women,Amateur,18.26,18.04,18.15
-14,Mark Salvage,Youth Women,Amateur,13.74,13.63,13.68
-15,Andy Stuart-William,Youth Women,Amateur,14.38,,7.19
+Place,Helmname,Fleet,Sail No,Run 1 (kts),Run 2 (kts),Avg (kts)
+1,Emeric Mouret,Youth Women,FRA-65,25.55,25.36,25.45
+2,Finlay Chandler,Youth Women,GBR-79,24.50,24.46,24.48
+3,Richard Hobson,Youth Women,GBR-8,23.04,22.94,22.99
+4,Sullie Yelland,Youth Women,GBR-80,23.00,22.75,22.87
+5,Finnley Knight,Youth Women,GBR-73,22.98,22.01,22.50
+6,Zack Peaple,Youth Women,GBR-12,21.02,20.50,20.76
+7,Denis Gordo,Youth Women,GBR-30,20.45,19.88,20.17
+7,Chris Cunningham,Youth Women,GBR-16,20.26,20.08,20.17
+9,Finn O'Gorman,Youth Women,GBR-82,20.17,19.84,20.00
+10,Simon Perkins,Youth Women,GBR-34,19.34,19.29,19.32
+11,Simon Maguire,Youth Women,GBR-26,19.25,19.17,19.21
+12,Mark McCafferty,Youth Women,GBR-45,18.79,18.46,18.62
+13,Mia Adcock,Youth Women,GBR-54,18.26,18.04,18.15
+14,Mark Salvage,Youth Women,GBR-41,13.74,13.63,13.68
+15,Andy Stuart-William,Youth Women,GBR-7,14.38,,7.19

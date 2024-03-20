@@ -1,23 +1,23 @@
-Place,Helmname,Fleet,Status,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Scotty Stallman,Windsurf Men,Pro Fleet,32.54,32.48,32.51
-2,Simon Pettifer,Windsurf Men,Pro Fleet,33.40,31.57,32.49
-3,Garry Connell,Windsurf Men,Pro Fleet,29.61,29.53,29.57
-4,Michael George,Windsurf Men,Pro Fleet,29.34,28.83,29.08
-5,Dave Strudwick,Windsurf Men,Gold Fleet,28.07,27.95,28.01
-6,Sam Latham,Windsurf Men,Gold Fleet,28.58,26.93,27.76
-7,Patrick Van Hoof,Windsurf Men,Pro Fleet,27.71,27.66,27.69
-8,John Oliver,Windsurf Men,Gold Fleet,27.44,26.82,27.13
-9,Richard Crosby,Windsurf Men,Gold Fleet,26.87,26.64,26.75
-10,Scott Harrison,Windsurf Men,Gold Fleet,26.64,26.53,26.59
-11,Russell Thompson,Windsurf Men,Amateur,26.41,26.40,26.40
-12,Andy Stuart-William,Windsurf Men,Gold Fleet,26.54,25.87,26.20
-13,Steve Watson,Windsurf Men,Amateur,25.78,25.64,25.71
-14,Jean-Marc De Bruyne,Windsurf Men,Pro Fleet,24.42,24.40,24.41
-15,Andrew Owen,Windsurf Men,Amateur,24.35,23.62,23.99
-16,Jonny Kirton,Windsurf Men,Amateur,23.95,23.81,23.88
-17,Joshua Pinder,Windsurf Men,Amateur,24.11,23.14,23.62
-18,Trevor Whatford,Windsurf Men,Gold Fleet,23.32,22.71,23.01
-19,Tim Bate,Windsurf Men,Amateur,22.41,20.35,21.38
-20,Rob Longstaff,Windsurf Men,Amateur,21.85,20.38,21.11
-21,Peter Crosby,Windsurf Men,Gold Fleet,19.85,18.86,19.36
-22,Eddie Marsh,Windsurf Men,Gold Fleet,16.58,16.46,16.52
+Place,Helmname,Fleet,Sail No,Run 1 (kts),Run 2 (kts),Avg (kts)
+1,Scotty Stallman,Windsurf Men,GBR-81,32.54,32.48,32.51
+2,Simon Pettifer,Windsurf Men,GBR-15,33.40,31.57,32.49
+3,Garry Connell,Windsurf Men,GBR-18,29.61,29.53,29.57
+4,Michael George,Windsurf Men,GBR-2,29.34,28.83,29.08
+5,Dave Strudwick,Windsurf Men,GBR-50,28.07,27.95,28.01
+6,Sam Latham,Windsurf Men,GBR-95,28.58,26.93,27.76
+7,Patrick Van Hoof,Windsurf Men,BEL-87,27.71,27.66,27.69
+8,John Oliver,Windsurf Men,GBR-10,27.44,26.82,27.13
+9,Richard Crosby,Windsurf Men,GBR-13,26.87,26.64,26.75
+10,Scott Harrison,Windsurf Men,GBR-33,26.64,26.53,26.59
+11,Russell Thompson,Windsurf Men,GBR-53,26.41,26.40,26.40
+12,Andy Stuart-William,Windsurf Men,GBR-7,26.54,25.87,26.20
+13,Steve Watson,Windsurf Men,GBR-38,25.78,25.64,25.71
+14,Jean-Marc De Bruyne,Windsurf Men,BEL-22,24.42,24.40,24.41
+15,Andrew Owen,Windsurf Men,GBR-32,24.35,23.62,23.99
+16,Jonny Kirton,Windsurf Men,GBR-52,23.95,23.81,23.88
+17,Joshua Pinder,Windsurf Men,GBR-58,24.11,23.14,23.62
+18,Trevor Whatford,Windsurf Men,GBR-25,23.32,22.71,23.01
+19,Tim Bate,Windsurf Men,GBR-14,22.41,20.35,21.38
+20,Rob Longstaff,Windsurf Men,GBR-59,21.85,20.38,21.11
+21,Peter Crosby,Windsurf Men,GBR-11,19.85,18.86,19.36
+22,Eddie Marsh,Windsurf Men,GBR-35,16.58,16.46,16.52
