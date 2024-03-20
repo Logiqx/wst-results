@@ -1,42 +1,37 @@
 {
   "Suptitle": "Entrant List",
   "Period": "Event",
+  "Fields": "Name,Nation,Sail No,Motion",
   "Runs": false,
   "Sort": "Name=ASC",
   "Reports": [
     {
       "Title": "Windsurf Men",
       "Comment": "(excludes youth men)",
-      "Fields": "Name,Nation,Sail No,Motion",
       "Filter": "Craft Type=Windsurf,Gender=M,Age<>Youth"
     },
     {
       "Title": "Windsurf Women",
       "Comment": "(includes youth women)",
-      "Fields": "Name,Nation,Sail No,Motion",
       "Filter": "Craft Type=Windsurf,Gender=F"
     },
     {
       "Title": "Youth Men",
       "Comment": "(windsurf)",
-      "Fields": "Name,Nation,Sail No,Motion",
       "Filter": "Craft Type=Windsurf,Gender=M,Age=Youth"
     },
     {
       "Title": "Youth Women",
       "Comment": "(windsurf)",
-      "Fields": "Name,Nation,Sail No,Motion",
       "Filter": "Craft Type=Windsurf,Gender=F,Age=Youth"
     },
     {
       "Title": "Windfoil Open",
       "Comment": "(includes men, women, and youths)",
-      "Fields": "Name,Nation,Sail No,Motion",
       "Filter": "Craft Type=Windfoil"
     },
     {
       "Title": "All Craft TBCs",
-      "Fields": "Name,Nation,Sail No,Motion",
       "Filter": "Craft Type=TBC"
     }
   ]

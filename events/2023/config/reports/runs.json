@@ -1,13 +1,13 @@
 {
   "Suptitle": "All Runs of the Day - {Date}",
   "Period": "Session",
+  "Fields": "Name,Nation,Sail No,Course,Time,Speed (kts)",
+  "Sort": "Name=ASC,Time=ASC",
   "Rank": false,
   "Reports": [
     {
       "Title": "Sorted by Name and Time",
-      "Fields": "Name,Nation,Sail No,Course,Time,Speed (kts)",
-      "Filter": "Craft Type<>Kitesurf",
-      "Sort": "Name=ASC,Time=ASC"
+      "Filter": "Craft Type<>Kitesurf"
     }
   ]
 }
