@@ -22,8 +22,9 @@
     "fastest": 1,
     "bests": 2,
     "runs": 3,
-    "entrants": 4,
-    "heats": 5
+    "heats": 4,
+    "valid": 5,
+    "entrants": 6
   },
   "Emojis": {
     "Trophy": "🏆",
