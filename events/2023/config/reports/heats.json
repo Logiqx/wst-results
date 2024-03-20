@@ -6,51 +6,51 @@
   "Series": true,
   "Reports": [
     {
-      "Title": "Leg 1 - Sailboards (Men)",
+      "Title": "Heat 1 - Sailboards (Men)",
       "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 28 knots two times",
-      "Filter": "ISWC=Leg 1,Gender=M",
+      "Filter": "ISWC=Heat 1,Gender=M",
       "Fleet": "Men's Sailboard"
     },
     {
-      "Title": "Leg 1 - Sailboards (Women)",
+      "Title": "Heat 1 - Sailboards (Women)",
       "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 28 knots two times",
-      "Filter": "ISWC=Leg 1,Gender=F",
+      "Filter": "ISWC=Heat 1,Gender=F",
       "Fleet": "Women's Sailboard"
     },
     {
-      "Title": "Leg 1 - Wingboards (Men)",
+      "Title": "Heat 1 - Wingboards (Men)",
       "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 18 knots two times",
-      "Filter": "ISWC Wings=Leg 1,Gender=M",
+      "Filter": "ISWC Wings=Heat 1,Gender=M",
       "Fleet": "Men's Wingboard"
     },
     {
-      "Title": "Leg 1 - Wingboards (Women)",
+      "Title": "Heat 1 - Wingboards (Women)",
       "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 18 knots two times",
-      "Filter": "ISWC Wings=Leg 1,Gender=F",
+      "Filter": "ISWC Wings=Heat 1,Gender=F",
       "Fleet": "Women's Wingboard"
     },
     {
-      "Title": "Leg 2 - Sailboards (Men)",
+      "Title": "Heat 2 - Sailboards (Men)",
       "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 28 knots two times",
-      "Filter": "ISWC=Leg 2,Gender=M",
+      "Filter": "ISWC=Heat 2,Gender=M",
       "Fleet": "Men's Sailboard"
     },
     {
-      "Title": "Leg 2 - Sailboards (Women)",
+      "Title": "Heat 2 - Sailboards (Women)",
       "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 28 knots two times",
-      "Filter": "ISWC=Leg 2,Gender=F",
+      "Filter": "ISWC=Heat 2,Gender=F",
       "Fleet": "Women's Sailboard"
     },
     {
-      "Title": "Leg 2 - Wingboards (Men)",
+      "Title": "Heat 2 - Wingboards (Men)",
       "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 18 knots two times",
-      "Filter": "ISWC Wings=Leg 2,Gender=M",
+      "Filter": "ISWC Wings=Heat 2,Gender=M",
       "Fleet": "Men's Wingboard"
     },
     {
-      "Title": "Leg 2 - Wingboards (Women)",
+      "Title": "Heat 2 - Wingboards (Women)",
       "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 18 knots two times",
-      "Filter": "ISWC Wings=Leg 2,Gender=F",
+      "Filter": "ISWC Wings=Heat 2,Gender=F",
       "Fleet": "Women's Wingboard"
     }
   ]
