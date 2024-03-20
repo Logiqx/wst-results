@@ -114,11 +114,6 @@
       "Places": 1
     },
     {
-      "Category": "First Time Amateur Sailboard",
-      "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y",
-      "Places": 1
-    },
-    {
       "Category": "Amateur Sailboards",
       "Filter": "Craft Type=Sailboard,Status=Amateur",
       "Places": 3
@@ -134,11 +129,6 @@
       "Places": 1
     },
     {
-      "Category": "First Time Freeride Kiteboard",
-      "Filter": "Craft Type=Kitesurf,Status=Freeride,First Timer=Y",
-      "Places": 1
-    },
-    {
       "Category": "Open Class Kiteboard",
       "Filter": "Craft Type=Kitesurf,Status=Open Class",
       "Places": 1
@@ -146,11 +136,6 @@
     {
       "Category": "Freeride Kiteboard",
       "Filter": "Craft Type=Kitesurf,Status=Freeride",
-      "Places": 1
-    },
-    {
-      "Category": "First Time Amateur Wingboard",
-      "Filter": "Craft Type=Windfoil,Status=Amateur,First Timer=Y",
       "Places": 1
     },
     {

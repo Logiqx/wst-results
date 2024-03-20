@@ -55,11 +55,6 @@
       "Filter": "Craft Type=Kitesurf,Status=Freeride"
     },
     {
-      "Title": "Fastest First Time Freeride Kiteboards",
-      "Fields": "Name,Nation,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Kitesurf,Status=Freeride,First Timer=Y"
-    },
-    {
       "Title": "Fastest Pro Fleet Sailboards",
       "Fields": "Name,Nation,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Windsurf,Status=Pro Fleet"
@@ -75,11 +70,6 @@
       "Filter": "Craft Type=Windsurf,Status=Amateur"
     },
     {
-      "Title": "Fastest First Time Amateur Sailboards",
-      "Fields": "Name,Nation,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Windsurf,Status=Amateur,First Timer=Y"
-    },
-    {
       "Title": "Fastest Pro Fleet Wingboards",
       "Fields": "Name,Nation,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Windfoil,Status=Pro Fleet"
@@ -88,11 +78,6 @@
       "Title": "Fastest Amateur Wingboards",
       "Fields": "Name,Nation,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Windfoil,Status=Amateur"
-    },
-    {
-      "Title": "Fastest First Time Amateur Wingboards",
-      "Fields": "Name,Nation,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Windfoil,Status=Amateur,First Timer=Y"
     },
     {
       "Title": "Fastest Lady Sailboards",

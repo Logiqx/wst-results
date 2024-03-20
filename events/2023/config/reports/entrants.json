@@ -15,11 +15,6 @@
       "Filter": "Craft Type=Kitesurf,Status=Freeride"
     },
     {
-      "Title": "First Time Freeride Kiteboards",
-      "Fields": "Name,Nation,Entry Type,Tally",
-      "Filter": "Craft Type=Kitesurf,Status=Freeride,First Timer=Y"
-    },
-    {
       "Title": "Pro Fleet Sailboards",
       "Fields": "Name,Nation,Entry Type,UKWA,Tally",
       "Filter": "Craft Type=Windsurf,Status=Pro Fleet"
@@ -35,11 +30,6 @@
       "Filter": "Craft Type=Windsurf,Status=Amateur"
     },
     {
-      "Title": "First Time Amateur Sailboards",
-      "Fields": "Name,Nation,Entry Type,UKWA,Tally",
-      "Filter": "Craft Type=Windsurf,Status=Amateur,First Timer=Y"
-    },
-    {
       "Title": "Pro Fleet Wingboards",
       "Fields": "Name,Nation,Entry Type,UKWA,Tally",
       "Filter": "Craft Type=Windfoil,Status=Pro Fleet"
@@ -48,11 +38,6 @@
       "Title": "Amateur Wingboards",
       "Fields": "Name,Nation,Entry Type,UKWA,Tally",
       "Filter": "Craft Type=Windfoil,Status=Amateur"
-    },
-    {
-      "Title": "First Time Amateur Wingboards",
-      "Fields": "Name,Nation,Entry Type,UKWA,Tally",
-      "Filter": "Craft Type=Windfoil,Status=Amateur,First Timer=Y"
     },
     {
       "Title": "All Ladies",
