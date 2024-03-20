@@ -8,49 +8,49 @@
     {
       "Title": "Heat 1 - Sailboards (Men)",
       "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 28 knots two times",
-      "Filter": "ISWC=Heat 1,Gender=M",
+      "Filter": "Craft Type=Windsurf,ISWC=Heat 1,Gender=M",
       "Fleet": "Men's Sailboard"
     },
     {
       "Title": "Heat 1 - Sailboards (Women)",
       "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 28 knots two times",
-      "Filter": "ISWC=Heat 1,Gender=F",
+      "Filter": "Craft Type=Windsurf,ISWC=Heat 1,Gender=F",
       "Fleet": "Women's Sailboard"
     },
     {
       "Title": "Heat 1 - Wingboards (Men)",
       "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 18 knots two times",
-      "Filter": "ISWC Wings=Heat 1,Gender=M",
+      "Filter": "Craft Type=Windfoil,ISWC=Heat 1,Gender=M",
       "Fleet": "Men's Wingboard"
     },
     {
       "Title": "Heat 1 - Wingboards (Women)",
       "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 18 knots two times",
-      "Filter": "ISWC Wings=Heat 1,Gender=F",
+      "Filter": "Craft Type=Windfoil,ISWC=Heat 1,Gender=F",
       "Fleet": "Women's Wingboard"
     },
     {
       "Title": "Heat 2 - Sailboards (Men)",
       "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 28 knots two times",
-      "Filter": "ISWC=Heat 2,Gender=M",
+      "Filter": "Craft Type=Windsurf,ISWC=Heat 2,Gender=M",
       "Fleet": "Men's Sailboard"
     },
     {
       "Title": "Heat 2 - Sailboards (Women)",
       "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 28 knots two times",
-      "Filter": "ISWC=Heat 2,Gender=F",
+      "Filter": "Craft Type=Windsurf,ISWC=Heat 2,Gender=F",
       "Fleet": "Women's Sailboard"
     },
     {
       "Title": "Heat 2 - Wingboards (Men)",
       "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 18 knots two times",
-      "Filter": "ISWC Wings=Heat 2,Gender=M",
+      "Filter": "Craft Type=Windfoil,ISWC=Heat 2,Gender=M",
       "Fleet": "Men's Wingboard"
     },
     {
       "Title": "Heat 2 - Wingboards (Women)",
       "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 18 knots two times",
-      "Filter": "ISWC Wings=Heat 2,Gender=F",
+      "Filter": "Craft Type=Windfoil,ISWC=Heat 2,Gender=F",
       "Fleet": "Women's Wingboard"
     }
   ]

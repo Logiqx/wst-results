@@ -44,22 +44,8 @@
   ],
   "Series": {
     "ISWC": {
-      "Name": "ISWC Speed Championship 2023 (Sailboards)",
-      "Filter": "Craft Type=Windsurf",
-      "Fleets": {
-        "Men": "Gender=M",
-        "Women": "Gender=F"
-      },
-      "Sort": "Net Score=ASC,Best Speed=DESC,Results=ASC,Final Result=ASC"
-    },
-    "ISWC Wings": {
-      "Name": "ISWC Speed Championship 2023 (Wingboards)",
-      "Filter": "Craft Type=Windfoil",
-      "Fleets": {
-        "Men": "Gender=M",
-        "Women": "Gender=F"
-      },
-      "Sort": "Net Score=ASC,Best Speed=DESC,Results=ASC,Final Result=ASC"
+      "Name": "ISWC Speed Championship 2023",
+      "Filter": "Craft Type<>Kitesurf"
     }
   }
 }
