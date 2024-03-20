@@ -5,7 +5,7 @@
   "Reports": [
     {
       "Title": "Sorted by Name and Time",
-      "Fields": "Name,Nation,Craft Type,Course,Time,Speed (kts)",
+      "Fields": "Name,Nation,Sail No,Course,Time,Speed (kts)",
       "Sort": "Name=ASC,Time=ASC"
     }
   ]
