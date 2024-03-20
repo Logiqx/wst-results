@@ -56,17 +56,17 @@
     {
       "Title": "All Pro Fleet Wingboards",
       "Fields": "Name,Nation,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Wingboard,Status=Pro Fleet"
+      "Filter": "Craft Type=Windfoil,Status=Pro Fleet"
     },
     {
       "Title": "All Amateur Wingboards",
       "Fields": "Name,Nation,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Wingboard,Status=Amateur"
+      "Filter": "Craft Type=Windfoil,Status=Amateur"
     },
     {
       "Title": "All First Time Amateur Wingboards",
       "Fields": "Name,Nation,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Wingboard,Status=Amateur,First Timer=Y"
+      "Filter": "Craft Type=Windfoil,Status=Amateur,First Timer=Y"
     },
     {
       "Title": "All Lady Sailboards",

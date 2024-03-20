@@ -37,7 +37,7 @@
     {
       "Title": "Fastest Wingboards",
       "Fields": "Name,Nation,Status,First Timer,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Wingboard"
+      "Filter": "Craft Type=Windfoil"
     },
     {
       "Title": "Fastest Craft TBCs",
@@ -87,17 +87,17 @@
     {
       "Title": "Fastest Pro Fleet Wingboards",
       "Fields": "Name,Nation,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Wingboard,Status=Pro Fleet"
+      "Filter": "Craft Type=Windfoil,Status=Pro Fleet"
     },
     {
       "Title": "Fastest Amateur Wingboards",
       "Fields": "Name,Nation,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Wingboard,Status=Amateur"
+      "Filter": "Craft Type=Windfoil,Status=Amateur"
     },
     {
       "Title": "Fastest First Time Amateur Wingboards",
       "Fields": "Name,Nation,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Wingboard,Status=Amateur,First Timer=Y"
+      "Filter": "Craft Type=Windfoil,Status=Amateur,First Timer=Y"
     },
     {
       "Title": "Fastest Lady Sailboards",

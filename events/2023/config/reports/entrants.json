@@ -47,17 +47,17 @@
     {
       "Title": "Pro Fleet Wingboards",
       "Fields": "Name,Nation,Entry Type,UKWA,Tally",
-      "Filter": "Craft Type=Wingboard,Status=Pro Fleet"
+      "Filter": "Craft Type=Windfoil,Status=Pro Fleet"
     },
     {
       "Title": "Amateur Wingboards",
       "Fields": "Name,Nation,Entry Type,UKWA,Tally",
-      "Filter": "Craft Type=Wingboard,Status=Amateur"
+      "Filter": "Craft Type=Windfoil,Status=Amateur"
     },
     {
       "Title": "First Time Amateur Wingboards",
       "Fields": "Name,Nation,Entry Type,UKWA,Tally",
-      "Filter": "Craft Type=Wingboard,Status=Amateur,First Timer=Y"
+      "Filter": "Craft Type=Windfoil,Status=Amateur,First Timer=Y"
     },
     {
       "Title": "All Ladies",

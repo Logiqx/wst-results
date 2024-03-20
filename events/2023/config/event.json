@@ -16,7 +16,7 @@
       "Boat",
       "Kitesurf",
       "Windsurf",
-      "Wingboard",
+      "Windfoil",
       "TBC"
     ],
     "Status": [
@@ -101,7 +101,7 @@
     {
       "Name": "Fastest Wingboard Trophy",
       "Category": "Wingboard",
-      "Filter": "Craft Type=Wingboard"
+      "Filter": "Craft Type=Windfoil"
     },
     {
       "Name": "BKSA Speed Champion Trophy",
@@ -162,17 +162,17 @@
     },
     {
       "Category": "First Time Amateur Wingboard",
-      "Filter": "Craft Type=Wingboard,Status=Amateur,First Timer=Y",
+      "Filter": "Craft Type=Windfoil,Status=Amateur,First Timer=Y",
       "Places": 1
     },
     {
       "Category": "Pro Wingboard",
-      "Filter": "Craft Type=Wingboard,Status=Pro Fleet",
+      "Filter": "Craft Type=Windfoil,Status=Pro Fleet",
       "Places": 1
     },
     {
       "Category": "Amateur Wingboards",
-      "Filter": "Craft Type=Wingboard,Status=Amateur",
+      "Filter": "Craft Type=Windfoil,Status=Amateur",
       "Places": 3
     }
   ],
@@ -206,7 +206,7 @@
       "Banner": "ukwa_logo.jpg",
       "Website": "https://ukwindsurfing.com/",
       "Average": 2,
-      "Filter": "Craft Type=Wingboard,UKWA=Y",
+      "Filter": "Craft Type=Windfoil,UKWA=Y",
       "Fleets": {
         "Men": "Gender=M",
         "Women": "Gender=F"

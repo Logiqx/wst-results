@@ -31,7 +31,7 @@
     {
       "Title": "All Wingboards",
       "Fields": "Name,Nation,Status,First Timer,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Wingboard"
+      "Filter": "Craft Type=Windfoil"
     },
     {
       "Title": "All Craft TBCs",
