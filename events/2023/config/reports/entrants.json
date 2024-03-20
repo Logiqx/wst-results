@@ -5,27 +5,32 @@
   "Sort": "Name=ASC",
   "Reports": [
     {
-      "Title": "Windsurf Man",
+      "Title": "Windsurf Men",
+      "Comment": "(excludes youth men)",
       "Fields": "Name,Nation,Sail No,Motion",
       "Filter": "Craft Type=Windsurf,Gender=M,Age<>Youth"
     },
     {
-      "Title": "Windsurf Woman",
+      "Title": "Windsurf Women",
+      "Comment": "(includes youth women)",
       "Fields": "Name,Nation,Sail No,Motion",
       "Filter": "Craft Type=Windsurf,Gender=F"
     },
     {
-      "Title": "Youth Man",
+      "Title": "Youth Men",
+      "Comment": "(windsurf)",
       "Fields": "Name,Nation,Sail No,Craft Type,Motion",
       "Filter": "Craft Type=Windsurf,Gender=M,Age=Youth"
     },
     {
-      "Title": "Youth Woman",
+      "Title": "Youth Women",
+      "Comment": "(windsurf)",
       "Fields": "Name,Nation,Sail No,Craft Type,Motion",
       "Filter": "Craft Type=Windsurf,Gender=F,Age=Youth"
     },
     {
       "Title": "Windfoil Open",
+      "Comment": "(includes men, women, and youths)",
       "Fields": "Name,Nation,Sail No,Motion",
       "Filter": "Craft Type=Windfoil"
     },
