@@ -1,4 +1,4 @@
-## Weymouth Speed Week
+## World Speed Tour
 
 ### Motion Server
 
@@ -9,11 +9,11 @@ The Motion server is what we use to extract data from the Motions at the end of 
 
 ![img](img/terminal.png)
 
-- Press ctrl-c when asked for a passphrase, it is related to the wsw-results repository on GitHub
+- Press ctrl-c when asked for a passphrase, it is related to the wst-results repository on GitHub
 - Start the server using the following commands
 
 ```sh
-cd projects/work/wsw-results
+cd projects/work/wst-results
 bin/server.sh
 ```
 

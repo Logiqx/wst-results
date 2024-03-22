@@ -1,4 +1,4 @@
-## Weymouth Speed Week
+## World Speed Tour
 
 ### Team Documentation
 

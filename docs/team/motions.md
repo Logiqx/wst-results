@@ -1,8 +1,8 @@
-## Weymouth Speed Week
+## World Speed Tour
 
 ### Motion Minis
 
-2023 will see Weymouth Speed Week using the Motion Mini with an event specific firmware for all competitors. It provides extremely accurate logging, and also supports automated downloads over WiFi at the end of the day.
+2023 will see the World Speed Tour using the Motion Mini with an event specific firmware for all competitors. It provides extremely accurate logging, and also supports automated downloads over WiFi at the end of the day.
 
 ![img](img/mini.jpg)
 
@@ -10,7 +10,7 @@
 
 #### Switching on the Motions
 
-The team in the office will be responsible for switching on all of the Motions in the morning, just before the briefing at 9.30 am.
+The team on the beach will be responsible for switching on all of the Motions in the morning, shortly before the racing.
 
 - Whilst the Motion is off (i.e. LED not flashing) hold the button down for 3 seconds, then release it
   - Success: LED will flash 3 times
@@ -35,7 +35,7 @@ The team in the office will be responsible for switching on all of the Motions i
 
 ##### Overview
 
-Here's a quick overview of what needs to be done for all of the Motions. It is best performed by two persons; one person turning on the motions and the other person checking the console output on the laptop.
+Here's a quick overview of what needs to be done for all of the Motions. It can be performed by two persons; one person turning on the motions and the other person checking the console output on the laptop.
 
 ![img](img/process.png)
 
@@ -43,7 +43,7 @@ Here's a quick overview of what needs to be done for all of the Motions. It is b
 
 Only process 4 motions at a time, or it becomes very hard to keep track of everything that is happening
 
-- Motions should be returned to the office still switched on (i.e. LED flashing red, every 10 seconds or so)
+- Motions should be returned whilst still switched on (i.e. LED flashing red, every 10 seconds or so)
   - Motions that are switched off (LED not flashing red) will need to be switched back to be processed
     - Please make a note of the Motion number, so that we can double-check the GPS logs are complete
 
@@ -98,18 +98,15 @@ After the downloads there will be a bucket containing lots of Motions with the L
 
 #### Charging the Motions
 
-We will have 48 chargers available so the Motions will have to be charged in two batches - late evening and early morning.
+We will have 32 chargers available so the Motions will have to be charged in two batches - odd numbers and even numbers.
 
-- 48 devices can be charged until the room closes at 6pm
-  - The Motions should be removed from the charge pads prior to everyone leaving the room overnight
-    - Keep the charged motions well away from the motions that still need to be charged in the morning
-- The remaining 48 devices can be charged when room opens at 8am
+The location and the time available for charging will be dictated by the racing and social events.
 
 
 
 #### Switching on the Motions
 
-All motions can be switched on, just before the briefing at 9.30 am, so they are ready for collection straight afterwards
+All motions can be switched on, shortly before the racing begins, so they are ready for collection straight afterwards
 
-  - The WSW team will switch all of the motions on, and check for the red LED flashes, prior to them being picked up by competitors
-  - This is described at the top of this document
+  - The beach team will switch all of the motions on, and check for the red LED flashes, prior to them being picked up by competitors
+  - This is described at the top of this documentreturned still switched
