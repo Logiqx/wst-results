@@ -1,5 +1,5 @@
 {
-  "Suptitle": "Heat Results of the Day - {Date}",
+  "Suptitle": "Heat Results - {Date}",
   "Period": "Session",
   "Fields": "Name,Nation,Sail No,Run 1 (kts),Run 2 (kts),Avg (kts)",
   "Sort": "Avg (kts)=DSC",

@@ -1,11 +1,11 @@
 {
   "Periods": [
     {
-      "Suptitle": "Best Runs of the Day - {Date}",
+      "Suptitle": "Best Runs - {Date}",
       "Period": "Session"
     },
     {
-      "Suptitle": "Best Runs of the Week",
+      "Suptitle": "Best Runs",
       "Period": "Event"
     }
   ],

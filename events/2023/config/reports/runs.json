@@ -1,5 +1,5 @@
 {
-  "Suptitle": "All Runs of the Day - {Date}",
+  "Suptitle": "All Runs - {Date}",
   "Period": "Session",
   "Fields": "Name,Nation,Sail No,Time,Speed (kts)",
   "Sort": "Name=ASC,Time=ASC",

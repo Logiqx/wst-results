@@ -1,5 +1,5 @@
 {
-  "Suptitle": "Heat Validity of the Day - {Date}",
+  "Suptitle": "Heat Validity - {Date}",
   "Period": "Session",
   "Fields": "Name,Nation,Sail No,Run 1 (kts),Run 2 (kts),Run 3 (kts),Avg (kts)",
   "Sort": "Avg (kts)=DSC",
