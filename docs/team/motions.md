@@ -2,7 +2,7 @@
 
 ### Motion Minis
 
-2023 will see the World Speed Tour using the Motion Mini with an event specific firmware for all competitors. It provides extremely accurate logging, and also supports automated downloads over WiFi at the end of the day.
+2024 will see the World Speed Tour using the Motion Mini with an event specific firmware for all competitors. It provides extremely accurate logging, and also supports automated downloads over WiFi at the end of the day.
 
 ![img](img/mini.jpg)
 
