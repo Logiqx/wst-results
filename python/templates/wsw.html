@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="{{ pageDescription|replace('{Date}', periodDate) }}" />
+    <meta name="keywords" content="Weymouth Speed Week, WSW, Speed Sailing, Speedsailing, GPS Speedsailing, GPSSS" />
+    <meta name="author" content="Michael George" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <link rel="stylesheet" type="text/css" href="{{ cssPath }}/wsw.css" />
+    <link rel="stylesheet" type="text/css" href="{{ cssPath }}/flags.css" />
+    <title>{{ pageTitle|replace(' - {Date}', '') }}</title>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BDNPV3WWFC"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-BDNPV3WWFC');
+    </script>
+  </head>
+  <body>
+    <div id="content">
+      <a href="{{ banner['href'] }}"><img src="{{ banner['src'] }}" alt="{{ banner['alt'] }}" width="{{ banner['width'] }}" height="{{ banner['height'] }}" /></a>
+      <h1>{{ eventName }}</h1>
+      {% block content %}{% endblock %}
+    </div>
+    <div id="footer">
+      <p class="small">
+        Visit the <a href="https://www.worldspeedtour.com/" target="_blank">WST</a> website for latest news and event information.<br/>
+        <a href="{{ homePage }}">Results</a> website created and maintained by <a href="https://github.com/Logiqx" target="_blank">Michael George</a>.<br/>
+        Python source code and WSW data can be found on <a href="https://github.com/Logiqx/wst-results" target="_blank">GitHub</a>.
+      </p>
+    </div>
+  </body>
+</html>
