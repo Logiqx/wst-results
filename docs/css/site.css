@@ -71,6 +71,12 @@ table th, table td {
   table {
     font-size: 12px;
   }
+  tr {
+    height: 39px;
+  }
+  col.speed-kts, col.run-1-kts, col.run-2-kts, col.run-3-kts, col.avg-kts {
+    width: 40px;
+  }
 }
 @media screen and (max-width: 926px) {
   table.bests {
@@ -98,6 +104,12 @@ table th, table td {
   table {
     font-size: 11px;
   }
+  tr {
+    height: 36px;
+  }
+  col.speed-kts, col.run-1-kts, col.run-2-kts, col.run-3-kts, col.avg-kts {
+    width: 35px;
+  }
 }
 @media screen and (max-width: 812px) {
   table.bests {
@@ -122,6 +134,12 @@ table th, table td {
   table {
     font-size: 10px;
   }
+  tr {
+    height: 33px;
+  }
+  col.speed-kts, col.run-1-kts, col.run-2-kts, col.run-3-kts, col.avg-kts {
+    width: 32px;
+  }
 }
 @media screen and (max-width: 653px) {
   table.bests {
@@ -129,42 +147,54 @@ table th, table td {
   }
 }
 
+/* Use slightly lighter weight font for table headers */
 table th {
   font-weight: 600;
 }
 
+/* Stripy tables rows look nice and improve clarity */
 table tr:nth-child(even) {
   background-color: #f6f8fa;
 }
 
-/* Name */
+/* Name should be left aligned */
 table.bests tr td:nth-child(2),
-table.entrants tr td:first-child,
+table.entrants tr td:nth-child(1),
 table.fastest tr td:nth-child(2),
 table.heats tr td:nth-child(2),
-table.runs tr td:first-child,
+table.runs tr td:nth-child(1),
 table.valid tr td:nth-child(2) {
   text-align: left;
 }
 
-/* Nation */
+/* Hide nation name, due to the inclusion of sail numbers */
 table.bests tr td:nth-child(3),
 table.entrants tr td:nth-child(2),
 table.fastest tr td:nth-child(3),
 table.heats tr td:nth-child(3),
 table.runs tr td:nth-child(2),
 table.valid tr td:nth-child(3) {
-  text-align: left;
+  color: transparent;
+  font-size: 0;
+}
+
+/* Sail number should not be split */
+table.bests tr td:nth-child(4),
+table.entrants tr td:nth-child(3),
+table.fastest tr td:nth-child(4),
+table.heats tr td:nth-child(4),
+table.runs tr td:nth-child(3),
+table.valid tr td:nth-child(4) {
   white-space: nowrap;
 }
 
-/* Speed */
+/* Speeds should be right aligned */
 table.bests tr td:nth-last-child(2),
-table.fastest tr td:last-child,
+table.fastest tr td:nth-last-child(1),
 table.heats tr td:nth-last-child(1),
 table.heats tr td:nth-last-child(2),
 table.heats tr td:nth-last-child(3),
-table.runs tr td:last-child,
+table.runs tr td:nth-last-child(1),
 table.valid tr td:nth-last-child(1),
 table.valid tr td:nth-last-child(2),
 table.valid tr td:nth-last-child(3),
@@ -172,7 +202,7 @@ table.valid tr td:nth-last-child(4) {
   text-align: right;
 }
 
-/* Other Run Speeds */
+/* Other run speeds should be left aligned */
 table.bests tr td:last-child {
   text-align: left;
 }
