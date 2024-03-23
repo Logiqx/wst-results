@@ -75,7 +75,7 @@ table th, table td {
     height: 39px;
   }
   col.speed-kts, col.run-1-kts, col.run-2-kts, col.run-3-kts, col.avg-kts {
-    width: 40px;
+    width: 39px;
   }
 }
 @media screen and (max-width: 926px) {
@@ -108,7 +108,7 @@ table th, table td {
     height: 36px;
   }
   col.speed-kts, col.run-1-kts, col.run-2-kts, col.run-3-kts, col.avg-kts {
-    width: 35px;
+    width: 36px;
   }
 }
 @media screen and (max-width: 812px) {
@@ -138,7 +138,7 @@ table th, table td {
     height: 33px;
   }
   col.speed-kts, col.run-1-kts, col.run-2-kts, col.run-3-kts, col.avg-kts {
-    width: 32px;
+    width: 33px;
   }
 }
 @media screen and (max-width: 653px) {
