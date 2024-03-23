@@ -148,35 +148,16 @@ table.entrants tr td:nth-child(2) {
 }
 
 /* Name */
-table.tallies tr td:nth-child(2) {
+table.fastest tr td:nth-child(2) {
   text-align: left;
 }
 /* Nation */
-table.tallies tr td:nth-child(3) {
+table.fastest tr td:nth-child(3) {
   text-align: left;
   white-space: nowrap;
 }
-
-/* Name */
-table.fastest tr td:nth-child(2),
-table.rankings tr td:nth-child(2),
-table.craft tr td:nth-child(2),
-table.status tr td:nth-child(2) {
-  text-align: left;
-}
-/* Nation */
-table.fastest tr td:nth-child(3),
-table.rankings tr td:nth-child(3),
-table.craft tr td:nth-child(3),
-table.status tr td:nth-child(3) {
-  text-align: left;
-  white-space: nowrap;
-}
-table.fastest tr td:last-child,
-table.rankings tr td:last-child,
-table.craft tr td:last-child,
 /* Speed */
-table.status tr td:last-child {
+table.fastest tr td:last-child {
   text-align: right;
 }
 
@@ -198,21 +179,12 @@ table.bests tr td:last-child {
   text-align: left;
 }
 
-/* Name (first table, sorted by name) */
-table.runs:first-of-type tr td:nth-child(1) {
+/* Name (sorted by name) */
+table.runs tr td:first-child {
   text-align: left;
 }
-/* Nation (first table, sorted by name) */
-table.runs:first-of-type tr td:nth-child(2) {
-  text-align: left;
-  white-space: nowrap;
-}
-/* Name (second table, sorted by course) */
-table.runs:nth-of-type(2) tr td:nth-child(3) {
-  text-align: left;
-}
-/* Nation (second table, sorted by course) */
-table.runs:nth-of-type(2) tr td:nth-child(4) {
+/* Nation (sorted by name) */
+table.runs tr td:nth-child(2) {
   text-align: left;
   white-space: nowrap;
 }
@@ -222,41 +194,24 @@ table.runs tr td:last-child {
 }
 
 /* Name */
-table.grouping tr td:nth-child(2) {
+table.heats tr td:nth-child(2),
+table.valid tr td:nth-child(2) {
   text-align: left;
 }
 /* Nation */
-table.grouping tr td:nth-child(3) {
-  text-align: left;
-  white-space: nowrap;
-}
-/* Grouping */
-table.grouping:first-of-type tr td:nth-child(4) {
-  text-align: left;
-}
-/* Speed */
-table.grouping tr td:last-child {
-  text-align: right;
-}
-
-/* Name */
-table.ukwa tr td:nth-child(2),
-table.iswc tr td:nth-child(2) {
-  text-align: left;
-}
-/* Nation */
-table.ukwa tr td:nth-child(3),
-table.iswc tr td:nth-child(3) {
+table.heats tr td:nth-child(3),
+table.valid tr td:nth-child(3) {
   text-align: left;
   white-space: nowrap;
 }
 /* Speeds */
-table.ukwa tr td:nth-last-child(1),
-table.ukwa tr td:nth-last-child(2),
-table.ukwa tr td:nth-last-child(3),
-table.iswc tr td:nth-last-child(1),
-table.iswc tr td:nth-last-child(2),
-table.iswc tr td:nth-last-child(3) {
+table.heats tr td:nth-last-child(1),
+table.heats tr td:nth-last-child(2),
+table.heats tr td:nth-last-child(3),
+table.valid tr td:nth-last-child(1),
+table.valid tr td:nth-last-child(2),
+table.valid tr td:nth-last-child(3),
+table.valid tr td:nth-last-child(4) {
   text-align: right;
 }
 
