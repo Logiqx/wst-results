@@ -138,81 +138,43 @@ table tr:nth-child(even) {
 }
 
 /* Name */
-table.entrants tr td:first-child {
-  text-align: left;
-}
-/* Nation */
-table.entrants tr td:nth-child(2) {
-  text-align: left;
-  white-space: nowrap;
-}
-
-/* Name */
-table.fastest tr td:nth-child(2) {
-  text-align: left;
-}
-/* Nation */
-table.fastest tr td:nth-child(3) {
-  text-align: left;
-  white-space: nowrap;
-}
-/* Speed */
-table.fastest tr td:last-child {
-  text-align: right;
-}
-
-/* Name */
-table.bests tr td:nth-child(2) {
-  text-align: left;
-}
-/* Nation */
-table.bests tr td:nth-child(3) {
-  text-align: left;
-  white-space: nowrap;
-}
-/* Speed */
-table.bests tr td:nth-last-child(2) {
-  text-align: right;
-}
-/* Other Run Speeds */
-table.bests tr td:last-child {
-  text-align: left;
-}
-
-/* Name (sorted by name) */
-table.runs tr td:first-child {
-  text-align: left;
-}
-/* Nation (sorted by name) */
-table.runs tr td:nth-child(2) {
-  text-align: left;
-  white-space: nowrap;
-}
-/* Speed */
-table.runs tr td:last-child {
-  text-align: right;
-}
-
-/* Name */
+table.bests tr td:nth-child(2),
+table.entrants tr td:first-child,
+table.fastest tr td:nth-child(2),
 table.heats tr td:nth-child(2),
+table.runs tr td:first-child,
 table.valid tr td:nth-child(2) {
   text-align: left;
 }
+
 /* Nation */
+table.bests tr td:nth-child(3),
+table.entrants tr td:nth-child(2),
+table.fastest tr td:nth-child(3),
 table.heats tr td:nth-child(3),
+table.runs tr td:nth-child(2),
 table.valid tr td:nth-child(3) {
   text-align: left;
   white-space: nowrap;
 }
-/* Speeds */
+
+/* Speed */
+table.bests tr td:nth-last-child(2),
+table.fastest tr td:last-child,
 table.heats tr td:nth-last-child(1),
 table.heats tr td:nth-last-child(2),
 table.heats tr td:nth-last-child(3),
+table.runs tr td:last-child,
 table.valid tr td:nth-last-child(1),
 table.valid tr td:nth-last-child(2),
 table.valid tr td:nth-last-child(3),
 table.valid tr td:nth-last-child(4) {
   text-align: right;
+}
+
+/* Other Run Speeds */
+table.bests tr td:last-child {
+  text-align: left;
 }
 
 a:link {
