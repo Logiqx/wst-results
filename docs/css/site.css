@@ -186,6 +186,12 @@ table tr:nth-child(even) {
   background-color: #f6f8fa;
 }
 
+/* Hide rank heading for enumerations */
+table.valid tr th:first-child {
+  color: transparent;
+  font-size: 0;
+}
+
 /* Name should be left aligned */
 table.bests tr th:nth-child(2),
 table.entrants tr th:nth-child(1),
