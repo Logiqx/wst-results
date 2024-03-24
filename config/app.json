@@ -4,6 +4,10 @@
     "Venue": "Plage du Rouet",
     "Banner": "wst-logo.png"
   },
+  "Sponsors": {
+    "Banner": "sponsors-50pc.png",
+    "Link": "https://www.worldspeedtour.com"
+  },
   "History": {
     "Refresh": true,
     "Verbosity": 1

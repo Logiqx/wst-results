@@ -28,6 +28,9 @@
       {% block content %}{% endblock %}
     </div>
     <div id="footer">
+      {% if sponsors is not none %}
+      <a href="{{ sponsors['href'] }}"><img src="{{ sponsors['src'] }}" alt="{{ sponsors['alt'] }}" width="{{ sponsors['width'] }}" height="{{ sponsors['height'] }}" /></a>
+      {% endif %}
       <p class="small">
         Visit the <a href="https://www.worldspeedtour.com/" target="_blank">WST</a> website for latest news and event information.<br/>
         <a href="{{ homePage }}">Results</a> website created and maintained by <a href="https://github.com/Logiqx" target="_blank">Michael George</a>.<br/>

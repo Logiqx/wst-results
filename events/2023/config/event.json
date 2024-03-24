@@ -5,6 +5,10 @@
     "End Date": "2023-10-13",
     "Banner": "pos-2024/iswc-wc-banner-2024.jpg"
   },
+  "Sponsors": {
+    "Banner": "pos-2024/sponsors-50pc.png",
+    "Link": "https://www.worldspeedtour.com"
+  },
   "Comment": "THESE RESULTS ARE FROM WEYMOUTH SPEED WEEK 2023<br />(wingfoils were converted to windfoils)",
   "Decimals": 2,
   "Courses": {
