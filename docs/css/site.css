@@ -209,7 +209,6 @@ table.valid tr td:nth-last-child(4) {
 }
 
 /* Other run speeds should be left aligned */
-table.bests tr th:last-child,
 table.bests tr td:last-child {
   text-align: left;
 }
