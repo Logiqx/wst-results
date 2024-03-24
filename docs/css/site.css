@@ -187,6 +187,9 @@ table tr:nth-child(even) {
 }
 
 /* Hide rank heading for enumerations */
+table.bests tr th:first-child,
+table.fastest tr th:first-child,
+table.heats tr th:first-child,
 table.valid tr th:first-child {
   color: transparent;
   font-size: 0;
