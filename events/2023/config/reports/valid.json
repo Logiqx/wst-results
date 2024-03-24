@@ -2,7 +2,7 @@
   "Suptitle": "Heat Validity - {Date}",
   "Period": "Session",
   "Fields": "Name,Nation,Sail No,Run 1 (kts),Run 2 (kts),Run 3 (kts),Avg (kts)",
-  "Sort": "Avg (kts)=DSC",
+  "Sort": "Run 3 (kts)=DSC,Run 2 (kts)=DSC",
   "Reports": [
     {
       "Title": "Heat 1 - Windsurf Men",
