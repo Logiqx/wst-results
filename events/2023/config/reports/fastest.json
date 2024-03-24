@@ -11,39 +11,35 @@
     }
   ],
   "Fields": "Name,Nation,Sail No,Time,Speed (kts)",
-  "Limit": 3,
   "Profile": true,
   "Reports": [
     {
       "Title": "Windsurf Men",
-      "Comment": "(top 10 - excludes youth men)",
-      "Filter": "Craft Type=Windsurf,Gender=M,Age<>Youth",
-      "Limit": 10
+      "Comment": "(excludes youth men)",
+      "Filter": "Craft Type=Windsurf,Gender=M,Age<>Youth"
     },
     {
       "Title": "Windsurf Women",
-      "Comment": "(top 3 - includes youth women)",
+      "Comment": "(includes youth women)",
       "Filter": "Craft Type=Windsurf,Gender=F"
     },
     {
       "Title": "Youth Men",
-      "Comment": "(top 3 - windsurf)",
+      "Comment": "(windsurf)",
       "Filter": "Craft Type=Windsurf,Gender=M,Age=Youth"
     },
     {
       "Title": "Youth Women",
-      "Comment": "(top 3 - windsurf)",
+      "Comment": "(windsurf)",
       "Filter": "Craft Type=Windsurf,Gender=F,Age=Youth"
     },
     {
       "Title": "Windfoil Open",
-      "Comment": "(top 10 - includes men, women, and youths)",
-      "Filter": "Craft Type=Windfoil",
-      "Limit": 10
+      "Comment": "(includes men, women, and youths)",
+      "Filter": "Craft Type=Windfoil"
     },
     {
       "Title": "All Craft TBCs",
-      "Comment": "(top 3)",
       "Filter": "Craft Type=TBC"
     }
   ]
