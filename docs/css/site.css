@@ -158,6 +158,12 @@ table tr:nth-child(even) {
 }
 
 /* Name should be left aligned */
+table.bests tr th:nth-child(2),
+table.entrants tr th:nth-child(1),
+table.fastest tr th:nth-child(2),
+table.heats tr th:nth-child(2),
+table.runs tr th:nth-child(1),
+table.valid tr th:nth-child(2),
 table.bests tr td:nth-child(2),
 table.entrants tr td:nth-child(1),
 table.fastest tr td:nth-child(2),
@@ -203,6 +209,7 @@ table.valid tr td:nth-last-child(4) {
 }
 
 /* Other run speeds should be left aligned */
+table.bests tr th:last-child,
 table.bests tr td:last-child {
   text-align: left;
 }
