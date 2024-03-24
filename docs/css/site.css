@@ -187,67 +187,67 @@ table tr:nth-child(even) {
 }
 
 /* Hide rank heading for enumerations */
-table.bests tr th:first-child,
-table.fastest tr th:first-child,
-table.heats tr th:first-child,
-table.valid tr th:first-child {
+table.bests th:first-child,
+table.fastest th:first-child,
+table.heats th:first-child,
+table.valid th:first-child {
   color: transparent;
   font-size: 0;
 }
 
 /* Name should be left aligned */
-table.bests tr th:nth-child(2),
-table.entrants tr th:nth-child(1),
-table.fastest tr th:nth-child(2),
-table.heats tr th:nth-child(2),
-table.runs tr th:nth-child(1),
-table.valid tr th:nth-child(2),
-table.bests tr td:nth-child(2),
-table.entrants tr td:nth-child(1),
-table.fastest tr td:nth-child(2),
-table.heats tr td:nth-child(2),
-table.runs tr td:nth-child(1),
-table.valid tr td:nth-child(2) {
+table.bests th:nth-child(2),
+table.entrants th:nth-child(1),
+table.fastest th:nth-child(2),
+table.heats th:nth-child(2),
+table.runs th:nth-child(1),
+table.valid th:nth-child(2),
+table.bests td:nth-child(2),
+table.entrants td:nth-child(1),
+table.fastest td:nth-child(2),
+table.heats td:nth-child(2),
+table.runs td:nth-child(1),
+table.valid td:nth-child(2) {
   text-align: left;
 }
 
 /* Hide nation name, due to the inclusion of sail numbers */
-table.bests tr td:nth-child(3),
-table.entrants tr td:nth-child(2),
-table.fastest tr td:nth-child(3),
-table.heats tr td:nth-child(3),
-table.runs tr td:nth-child(2),
-table.valid tr td:nth-child(3) {
+table.bests td:nth-child(3),
+table.entrants td:nth-child(2),
+table.fastest td:nth-child(3),
+table.heats td:nth-child(3),
+table.runs td:nth-child(2),
+table.valid td:nth-child(3) {
   color: transparent;
   font-size: 0;
 }
 
 /* Sail number should not be split */
-table.bests tr td:nth-child(4),
-table.entrants tr td:nth-child(3),
-table.fastest tr td:nth-child(4),
-table.heats tr td:nth-child(4),
-table.runs tr td:nth-child(3),
-table.valid tr td:nth-child(4) {
+table.bests td:nth-child(4),
+table.entrants td:nth-child(3),
+table.fastest td:nth-child(4),
+table.heats td:nth-child(4),
+table.runs td:nth-child(3),
+table.valid td:nth-child(4) {
   white-space: nowrap;
 }
 
 /* Speeds should be right aligned */
-table.bests tr td:nth-last-child(2),
-table.fastest tr td:nth-last-child(1),
-table.heats tr td:nth-last-child(1),
-table.heats tr td:nth-last-child(2),
-table.heats tr td:nth-last-child(3),
-table.runs tr td:nth-last-child(1),
-table.valid tr td:nth-last-child(1),
-table.valid tr td:nth-last-child(2),
-table.valid tr td:nth-last-child(3),
-table.valid tr td:nth-last-child(4) {
+table.bests td:nth-last-child(2),
+table.fastest td:nth-last-child(1),
+table.heats td:nth-last-child(1),
+table.heats td:nth-last-child(2),
+table.heats td:nth-last-child(3),
+table.runs td:nth-last-child(1),
+table.valid td:nth-last-child(1),
+table.valid td:nth-last-child(2),
+table.valid td:nth-last-child(3),
+table.valid td:nth-last-child(4) {
   text-align: right;
 }
 
 /* Other run speeds should be left aligned */
-table.bests tr td:last-child {
+table.bests td:last-child {
   text-align: left;
 }
 
