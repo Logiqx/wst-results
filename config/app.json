@@ -19,12 +19,12 @@
     }
   },
   "Priorities": {
-    "fastest": 1,
-    "bests": 2,
-    "runs": 3,
-    "heats": 4,
-    "valid": 5,
-    "entrants": 6
+    "heats": 1,
+    "valid": 2,
+    "fastest": 11,
+    "bests": 12,
+    "runs": 13,
+    "entrants": 20
   },
   "Emojis": {
     "Trophy": "🏆",
