@@ -29,14 +29,14 @@
       <img src="{{ banner['src'] }}" alt="{{ banner['alt'] }}" width="{{ banner['width'] }}" height="{{ banner['height'] }}" />
       {% endif %}
     </div>
-    {% if logo is defined and logo is not none %}
+    {% if logo is defined and logo %}
     <div id="logo" style="margin-top: 20px;">
       <a href="{{ logo['href'] }}" target="_blank"><img src="{{ logo['src'] }}" alt="{{ logo['alt'] }}" width="{{ logo['width'] }}" height="{{ logo['height'] }}" /></a>
     </div>
     {% else %}
     <h1>{{ eventName }}</h1>
     {% endif %}
-    {% if sponsors is not none %}
+    {% if sponsors is defined and sponsors %}
     <div id="sponsors" style="margin-top: 20px;">
       <a href="{{ sponsors['href'] }}" target="_blank"><img src="{{ sponsors['src'] }}" alt="{{ sponsors['alt'] }}" width="{{ sponsors['width'] }}" height="{{ sponsors['height'] }}" /></a>
       <p><br/></p>
