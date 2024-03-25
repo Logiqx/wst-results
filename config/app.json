@@ -1,12 +1,23 @@
 {
   "Event": {
     "Name": "The Prince of Speed",
-    "Venue": "Plage du Rouet",
-    "Banner": "wst-logo.png"
+    "Venue": "Plage du Rouet"
   },
-  "Sponsors": {
-    "Banner": "sponsors-50pc.png",
-    "Link": "https://internationalwindsurfing.com/iswc/"
+  "Images": {
+    "Banner": {
+      "Name": "World Speed Tour",
+      "File": "wst-logo.png"
+    },
+    "Logo": {
+      "Name": "Prince of Speed",
+      "File": "pos-logo-50pc.png",
+      "Link": "https://www.worldspeedtour.com"
+    },
+    "Sponsors": {
+      "Name": "International Speed Windsurfing Class",
+      "File": "class-logos-50pc.png",
+      "Link": "https://internationalwindsurfing.com/iswc/"
+    }
   },
   "History": {
     "Refresh": true,
@@ -15,12 +26,6 @@
   "Latest": {
     "Refresh": true,
     "Verbosity": 2
-  },
-  "Links": {
-    "WST": {
-      "Name": "World Speed Tour",
-      "Website": "https://www.worldspeedtour.com"
-    }
   },
   "Priorities": {
     "heats": 1,

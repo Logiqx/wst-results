@@ -23,9 +23,19 @@
   </head>
   <body>
     <div id="banner">
+      {% if 'href' in banner %}
       <a href="{{ banner['href'] }}"><img src="{{ banner['src'] }}" alt="{{ banner['alt'] }}" width="{{ banner['width'] }}" height="{{ banner['height'] }}" /></a>
+      {% else %}
+      <img src="{{ banner['src'] }}" alt="{{ banner['alt'] }}" width="{{ banner['width'] }}" height="{{ banner['height'] }}" />
+      {% endif %}
     </div>
+    {% if logo is defined and logo is not none %}
+    <div id="logo">
+      <a href="{{ logo['href'] }}"><img src="{{ logo['src'] }}" alt="{{ logo['alt'] }}" width="{{ logo['width'] }}" height="{{ logo['height'] }}" /></a>
+    </div>
+    {% else %}
     <h1>{{ eventName }}</h1>
+    {% endif %}
     {% if sponsors is not none %}
     <div id="sponsors">
       <a href="{{ sponsors['href'] }}"><img src="{{ sponsors['src'] }}" alt="{{ sponsors['alt'] }}" width="{{ sponsors['width'] }}" height="{{ sponsors['height'] }}" /></a>
