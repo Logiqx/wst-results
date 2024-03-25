@@ -8,12 +8,12 @@
     "Banner": {
       "Name": "Prince of Speed",
       "File": "pos-logo-alt-50pc.png",
-      "Link": "index.html"
+      "Link": "../index.html"
     },
     "Logo": {
       "Name": "La Palme - April 2024",
       "File": "pos-2024/la-palme-alt-50pc.png",
-      "Link": "https://www.worldspeedtour.com"
+      "Link": "index.html"
     },
     "Sponsors": {
       "Name": "Event Sponsors",
