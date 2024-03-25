@@ -1,9 +1,9 @@
 {
   "Event": {
-    "Name": "The Prince of Speed",
+    "Name": "Prince of Speed",
     "Start Date": "2023-10-07",
     "End Date": "2023-10-13",
-    "Banner": "pos-2024/iswc-wc-banner-2024.jpg"
+    "Banner": "pos-logo-alt-50pc.png"
   },
   "Sponsors": {
     "Banner": "pos-2024/sponsors-alt-50pc.png",
@@ -12,7 +12,7 @@
   "Images": {
     "Banner": {
       "Name": "Prince of Speed",
-      "File": "pos-logo.png"
+      "File": "pos-logo-alt-50pc.png"
     },
     "Logo": {
       "Name": "La Palme - April 2024",
