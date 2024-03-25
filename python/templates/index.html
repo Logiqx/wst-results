@@ -18,8 +18,8 @@
       <a href="{{ subDir.href }}"><img src="{{ subDir.logo['src'] }}" alt="{{ subDir.logo['alt'] }}" width="{{ subDir.logo['width'] }}" height="{{ subDir.logo['height'] }}" /></a>
       {% else %}
       <h3><a href="{{ subDir.href }}">{{ subDir.label }}</a></h3>
-      {% endif %}
       <p class="medium">{{ subDir.fastest }}{% if subDir.speed is not none %}<br/>{{ subDir.speed }} knots{% endif %}</p>
+      {% endif %}
       {% endfor %}
       {% if subDirs|length > 0 or pageComment is not none and files|length == 0 and subDirs|length == 0 %}
       <p><br/></p>
