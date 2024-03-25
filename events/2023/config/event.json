@@ -2,17 +2,13 @@
   "Event": {
     "Name": "Prince of Speed",
     "Start Date": "2023-10-07",
-    "End Date": "2023-10-13",
-    "Banner": "pos-logo-alt-50pc.png"
-  },
-  "Sponsors": {
-    "Banner": "pos-2024/sponsors-alt-50pc.png",
-    "Link": "https://www.worldspeedtour.com"
+    "End Date": "2023-10-13"
   },
   "Images": {
     "Banner": {
       "Name": "Prince of Speed",
-      "File": "pos-logo-alt-50pc.png"
+      "File": "pos-logo-alt-50pc.png",
+      "Link": "index.html"
     },
     "Logo": {
       "Name": "La Palme - April 2024",
@@ -20,7 +16,7 @@
       "Link": "https://www.worldspeedtour.com"
     },
     "Sponsors": {
-      "Name": "Sponsors",
+      "Name": "Event Sponsors",
       "File": "pos-2024/sponsors-alt-50pc.png",
       "Link": "https://www.worldspeedtour.com"
     }
