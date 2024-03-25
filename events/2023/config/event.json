@@ -9,6 +9,22 @@
     "Banner": "pos-2024/sponsors-50pc.png",
     "Link": "https://www.worldspeedtour.com"
   },
+  "Images": {
+    "Banner": {
+      "Name": "Prince of Speed",
+      "File": "pos-logo.png"
+    },
+    "Logo": {
+      "Name": "La Palme - April 2024",
+      "File": "pos-2024/la-palme-alt-50pc.png",
+      "Link": "https://www.worldspeedtour.com"
+    },
+    "Sponsors": {
+      "Name": "Sponsors",
+      "File": "pos-2024/sponsors-50pc.png",
+      "Link": "https://www.worldspeedtour.com"
+    }
+  },
   "Comment": "THESE RESULTS ARE FROM WEYMOUTH SPEED WEEK 2023<br />(wingfoils were converted to windfoils)",
   "Decimals": 2,
   "Courses": {
