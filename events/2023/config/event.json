@@ -1,13 +1,13 @@
 {
   "Event": {
-    "Name": "Prince of Speed",
+    "Name": "Prince of Speed 2023",
     "Start Date": "2023-10-07",
     "End Date": "2023-10-13"
   },
   "Images": {
     "Banner": {
       "Name": "Prince of Speed",
-      "File": "pos-logo-alt-50pc.png",
+      "File": "pos-logo-alt.png",
       "Link": "../index.html"
     },
     "Logo": {

@@ -5,12 +5,12 @@
   },
   "Images": {
     "Banner": {
-      "Name": "World Speed Tour",
-      "File": "wst-logo.png"
+      "Name": "Prince of Speed",
+      "File": "pos-logo-alt.png"
     },
     "Logo": {
-      "Name": "Prince of Speed",
-      "File": "pos-logo-alt-50pc.png"
+      "Name": "World Speed Tour",
+      "File": "wst-logo-50pc.png"
     },
     "Sponsors": {
       "Name": "International Speed Windsurfing Class",
