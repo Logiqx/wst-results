@@ -32,7 +32,11 @@
     {% if logo is defined and logo %}
     <div id="logo" style="margin-top: 20px;">
       {% if 'href' in logo %}
+      {% if logo['href'].startswith('http') %}
+      <a href="{{ logo['href'] }}" target="_blank"><img src="{{ logo['src'] }}" alt="{{ logo['alt'] }}" width="{{ logo['width'] }}" height="{{ logo['height'] }}" /></a>
+      {% else %}
       <a href="{{ logo['href'] }}"><img src="{{ logo['src'] }}" alt="{{ logo['alt'] }}" width="{{ logo['width'] }}" height="{{ logo['height'] }}" /></a>
+      {% endif %}
       {% else %}
       <img src="{{ logo['src'] }}" alt="{{ logo['alt'] }}" width="{{ logo['width'] }}" height="{{ logo['height'] }}" />
       {% endif %}
