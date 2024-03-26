@@ -1,19 +1,13 @@
 {
   "Suptitle": "All Runs - {Date}",
   "Period": "Session",
-  "Fields": "Name,Nation,Sail No,Time,Speed (kts)",
+  "Fields": "Name,Nation,Sail No,Craft Type,Time,Speed (kts)",
   "Sort": "Name=ASC,Time=ASC",
   "Rank": false,
   "Reports": [
     {
-      "Title": "Windsurf Runs",
-      "Comment": "(includes men, women, and youths)",
-      "Filter": "Craft Type=Windsurf"
-    },
-    {
-      "Title": "Windfoil Runs",
-      "Comment": "(includes men, women, and youths)",
-      "Filter": "Craft Type=Windfoil"
+      "Title": "All Craft",
+      "Filter": "Craft Type<>TBC,Craft Type<>Kitesurf"
     },
     {
       "Title": "All Craft TBCs",
