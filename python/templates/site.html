@@ -47,7 +47,12 @@
     {% if sponsors is defined and sponsors %}
     <div id="sponsors" style="margin-top: 20px;">
       {% if 'href' in sponsors %}
+      {% if sponsors['href'].startswith('http') %}
       <a href="{{ sponsors['href'] }}" target="_blank"><img src="{{ sponsors['src'] }}" alt="{{ sponsors['alt'] }}" width="{{ sponsors['width'] }}" height="{{ sponsors['height'] }}" /></a>
+      {% else %}
+      <a href="{{ sponsors['href'] }}"><img src="{{ sponsors['src'] }}" alt="{{ sponsors['alt'] }}" width="{{ sponsors['width'] }}" height="{{ sponsors['height'] }}" /></a>
+</a>
+      {% endif %}
       {% else %}
       <img src="{{ sponsors['src'] }}" alt="{{ sponsors['alt'] }}" width="{{ sponsors['width'] }}" height="{{ sponsors['height'] }}" />
       {% endif %}
