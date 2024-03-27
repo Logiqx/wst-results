@@ -64,6 +64,186 @@
       "Comment": "(includes men, women, and youths)",
       "Filter": "ISWC=Heat 2,Craft Type=Windfoil",
       "Fleet": "Youth Women"
+    },
+    {
+      "Title": "Heat 3 - Windsurf Men",
+      "Comment": "(excludes youths)",
+      "Filter": "ISWC=Heat 3,Craft Type=Windsurf,Gender=M,Age<>Youth",
+      "Fleet": "Windsurf Men"
+    },
+    {
+      "Title": "Heat 3 - Windsurf Women",
+      "Comment": "(includes youths)",
+      "Filter": "ISWC=Heat 3,Craft Type=Windsurf,Gender=F",
+      "Fleet": "Windsurf Women"
+    },
+    {
+      "Title": "Heat 3 - Youth Men",
+      "Comment": "(windsurf)",
+      "Filter": "ISWC=Heat 3,Craft Type=Windsurf,Gender=M,Age=Youth",
+      "Fleet": "Youth Men"
+    },
+    {
+      "Title": "Heat 3 - Youth Women",
+      "Comment": "(windsurf)",
+      "Filter": "ISWC=Heat 3,Craft Type=Windsurf,Gender=F,Age=Youth",
+      "Fleet": "Youth Women"
+    },
+    {
+      "Title": "Heat 3 - Windfoil Open",
+      "Comment": "(includes men, women, and youths)",
+      "Filter": "ISWC=Heat 3,Craft Type=Windfoil",
+      "Fleet": "Youth Women"
+    },
+    {
+      "Title": "Heat 4 - Windsurf Men",
+      "Comment": "(excludes youths)",
+      "Filter": "ISWC=Heat 4,Craft Type=Windsurf,Gender=M,Age<>Youth",
+      "Fleet": "Windsurf Men"
+    },
+    {
+      "Title": "Heat 4 - Windsurf Women",
+      "Comment": "(includes youths)",
+      "Filter": "ISWC=Heat 4,Craft Type=Windsurf,Gender=F",
+      "Fleet": "Windsurf Women"
+    },
+    {
+      "Title": "Heat 4 - Youth Men",
+      "Comment": "(windsurf)",
+      "Filter": "ISWC=Heat 4,Craft Type=Windsurf,Gender=M,Age=Youth",
+      "Fleet": "Youth Men"
+    },
+    {
+      "Title": "Heat 4 - Youth Women",
+      "Comment": "(windsurf)",
+      "Filter": "ISWC=Heat 4,Craft Type=Windsurf,Gender=F,Age=Youth",
+      "Fleet": "Youth Women"
+    },
+    {
+      "Title": "Heat 4 - Windfoil Open",
+      "Comment": "(includes men, women, and youths)",
+      "Filter": "ISWC=Heat 4,Craft Type=Windfoil",
+      "Fleet": "Youth Women"
+    },
+    {
+      "Title": "Heat 5 - Windsurf Men",
+      "Comment": "(excludes youths)",
+      "Filter": "ISWC=Heat 5,Craft Type=Windsurf,Gender=M,Age<>Youth",
+      "Fleet": "Windsurf Men"
+    },
+    {
+      "Title": "Heat 5 - Windsurf Women",
+      "Comment": "(includes youths)",
+      "Filter": "ISWC=Heat 5,Craft Type=Windsurf,Gender=F",
+      "Fleet": "Windsurf Women"
+    },
+    {
+      "Title": "Heat 5 - Youth Men",
+      "Comment": "(windsurf)",
+      "Filter": "ISWC=Heat 5,Craft Type=Windsurf,Gender=M,Age=Youth",
+      "Fleet": "Youth Men"
+    },
+    {
+      "Title": "Heat 5 - Youth Women",
+      "Comment": "(windsurf)",
+      "Filter": "ISWC=Heat 5,Craft Type=Windsurf,Gender=F,Age=Youth",
+      "Fleet": "Youth Women"
+    },
+    {
+      "Title": "Heat 5 - Windfoil Open",
+      "Comment": "(includes men, women, and youths)",
+      "Filter": "ISWC=Heat 5,Craft Type=Windfoil",
+      "Fleet": "Youth Women"
+    },
+    {
+      "Title": "Heat 6 - Windsurf Men",
+      "Comment": "(excludes youths)",
+      "Filter": "ISWC=Heat 6,Craft Type=Windsurf,Gender=M,Age<>Youth",
+      "Fleet": "Windsurf Men"
+    },
+    {
+      "Title": "Heat 6 - Windsurf Women",
+      "Comment": "(includes youths)",
+      "Filter": "ISWC=Heat 6,Craft Type=Windsurf,Gender=F",
+      "Fleet": "Windsurf Women"
+    },
+    {
+      "Title": "Heat 6 - Youth Men",
+      "Comment": "(windsurf)",
+      "Filter": "ISWC=Heat 6,Craft Type=Windsurf,Gender=M,Age=Youth",
+      "Fleet": "Youth Men"
+    },
+    {
+      "Title": "Heat 6 - Youth Women",
+      "Comment": "(windsurf)",
+      "Filter": "ISWC=Heat 6,Craft Type=Windsurf,Gender=F,Age=Youth",
+      "Fleet": "Youth Women"
+    },
+    {
+      "Title": "Heat 6 - Windfoil Open",
+      "Comment": "(includes men, women, and youths)",
+      "Filter": "ISWC=Heat 6,Craft Type=Windfoil",
+      "Fleet": "Youth Women"
+    },
+    {
+      "Title": "Heat 7 - Windsurf Men",
+      "Comment": "(excludes youths)",
+      "Filter": "ISWC=Heat 7,Craft Type=Windsurf,Gender=M,Age<>Youth",
+      "Fleet": "Windsurf Men"
+    },
+    {
+      "Title": "Heat 7 - Windsurf Women",
+      "Comment": "(includes youths)",
+      "Filter": "ISWC=Heat 7,Craft Type=Windsurf,Gender=F",
+      "Fleet": "Windsurf Women"
+    },
+    {
+      "Title": "Heat 7 - Youth Men",
+      "Comment": "(windsurf)",
+      "Filter": "ISWC=Heat 7,Craft Type=Windsurf,Gender=M,Age=Youth",
+      "Fleet": "Youth Men"
+    },
+    {
+      "Title": "Heat 7 - Youth Women",
+      "Comment": "(windsurf)",
+      "Filter": "ISWC=Heat 7,Craft Type=Windsurf,Gender=F,Age=Youth",
+      "Fleet": "Youth Women"
+    },
+    {
+      "Title": "Heat 7 - Windfoil Open",
+      "Comment": "(includes men, women, and youths)",
+      "Filter": "ISWC=Heat 7,Craft Type=Windfoil",
+      "Fleet": "Youth Women"
+    },
+    {
+      "Title": "Heat 8 - Windsurf Men",
+      "Comment": "(excludes youths)",
+      "Filter": "ISWC=Heat 8,Craft Type=Windsurf,Gender=M,Age<>Youth",
+      "Fleet": "Windsurf Men"
+    },
+    {
+      "Title": "Heat 8 - Windsurf Women",
+      "Comment": "(includes youths)",
+      "Filter": "ISWC=Heat 8,Craft Type=Windsurf,Gender=F",
+      "Fleet": "Windsurf Women"
+    },
+    {
+      "Title": "Heat 8 - Youth Men",
+      "Comment": "(windsurf)",
+      "Filter": "ISWC=Heat 8,Craft Type=Windsurf,Gender=M,Age=Youth",
+      "Fleet": "Youth Men"
+    },
+    {
+      "Title": "Heat 8 - Youth Women",
+      "Comment": "(windsurf)",
+      "Filter": "ISWC=Heat 8,Craft Type=Windsurf,Gender=F,Age=Youth",
+      "Fleet": "Youth Women"
+    },
+    {
+      "Title": "Heat 8 - Windfoil Open",
+      "Comment": "(includes men, women, and youths)",
+      "Filter": "ISWC=Heat 8,Craft Type=Windfoil",
+      "Fleet": "Youth Women"
     }
   ]
 }
