@@ -33,7 +33,7 @@
       "Title": "Heat 1 - Windfoil Open",
       "Comment": "(includes men, women, and youths)",
       "Filter": "Craft Type=Windfoil,ISWC=Heat 1",
-      "Fleet": "Youth Women"
+      "Fleet": "Windfoil Open"
     },
     {
       "Title": "Heat 2 - Windsurf Men",
@@ -63,7 +63,7 @@
       "Title": "Heat 2 - Windfoil Open",
       "Comment": "(includes men, women, and youths)",
       "Filter": "Craft Type=Windfoil,ISWC=Heat 2",
-      "Fleet": "Youth Women"
+      "Fleet": "Windfoil Open"
     },
     {
       "Title": "Heat 3 - Windsurf Men",
@@ -93,7 +93,7 @@
       "Title": "Heat 3 - Windfoil Open",
       "Comment": "(includes men, women, and youths)",
       "Filter": "Craft Type=Windfoil,ISWC=Heat 3",
-      "Fleet": "Youth Women"
+      "Fleet": "Windfoil Open"
     },
     {
       "Title": "Heat 4 - Windsurf Men",
@@ -123,7 +123,7 @@
       "Title": "Heat 4 - Windfoil Open",
       "Comment": "(includes men, women, and youths)",
       "Filter": "Craft Type=Windfoil,ISWC=Heat 4",
-      "Fleet": "Youth Women"
+      "Fleet": "Windfoil Open"
     },
     {
       "Title": "Heat 5 - Windsurf Men",
@@ -153,7 +153,7 @@
       "Title": "Heat 5 - Windfoil Open",
       "Comment": "(includes men, women, and youths)",
       "Filter": "Craft Type=Windfoil,ISWC=Heat 5",
-      "Fleet": "Youth Women"
+      "Fleet": "Windfoil Open"
     },
     {
       "Title": "Heat 6 - Windsurf Men",
@@ -183,7 +183,7 @@
       "Title": "Heat 6 - Windfoil Open",
       "Comment": "(includes men, women, and youths)",
       "Filter": "Craft Type=Windfoil,ISWC=Heat 6",
-      "Fleet": "Youth Women"
+      "Fleet": "Windfoil Open"
     },
     {
       "Title": "Heat 7 - Windsurf Men",
@@ -213,7 +213,7 @@
       "Title": "Heat 7 - Windfoil Open",
       "Comment": "(includes men, women, and youths)",
       "Filter": "Craft Type=Windfoil,ISWC=Heat 7",
-      "Fleet": "Youth Women"
+      "Fleet": "Windfoil Open"
     },
     {
       "Title": "Heat 8 - Windsurf Men",
@@ -243,7 +243,7 @@
       "Title": "Heat 8 - Windfoil Open",
       "Comment": "(includes men, women, and youths)",
       "Filter": "Craft Type=Windfoil,ISWC=Heat 8",
-      "Fleet": "Youth Women"
+      "Fleet": "Windfoil Open"
     }
   ]
 }
