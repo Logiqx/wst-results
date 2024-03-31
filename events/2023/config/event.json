@@ -43,7 +43,7 @@
   },
   "Series": {
     "ISWC": {
-      "Name": "ISWC Speed Championship 2023",
+      "Name": "ISWC Speed Championship",
       "Filter": "Craft Type<>Kitesurf"
     }
   }
