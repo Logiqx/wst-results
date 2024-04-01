@@ -146,7 +146,7 @@
 "scrcode","DNC|Boats in series +|1|Yes|No|spare||spare|spare|spare|spare|No|No|No|12||Did not come to the starting area","",""
 "scrcode","DNCG|Fixed points of|11|Yes|No|spare||spare|spare|spare|spare|No|No|No|12||Did not come to the starting area Gold Final","",""
 "scrcode","DNE|Score like|DSQ|No|Yes|spare||spare|spare|spare|spare|Yes|Yes|No|12||Disqualification (other then DGM) not excludable under rule 88.3(b)","",""
-"scrcode","DNF|Boats in series +|1|Yes|Yes|spare||spare|spare|spare|spare|Yes|No|No|12||Started but did not finish","",""
+"scrcode","DNF|Boats in race +||Yes|Yes|spare||spare|spare|spare|spare|Yes|No|No|12||Started but did not finish","",""
 "scrcode","DNS|Score like|DNF|Yes|Yes|spare||spare|spare|spare|spare|No|No|No|12||Came to the start area but did not start","",""
 "scrcode","DSQ|Score like|DNF|Yes|Yes|spare||spare|spare|spare|spare|Yes|Yes|No|12||Disqualification","",""
 "scrcode","NewNewZFP|Percentage penalty|20|Yes|Yes|spare||spare|spare|spare|spare|Yes|Yes|Yes|12||20% penalty under rule 30.2","",""
