@@ -1,9 +1,9 @@
-Place,Helmname,Fleet,Sail No,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Emeric Mouret,Windfoil Open,FRA-650,28.03,27.58,27.81
-2,Richard Hobson,Windfoil Open,GBR-80,26.59,26.17,26.38
-3,Joe Adams,Windfoil Open,GBR-710,26.37,26.35,26.36
-4,Denis Gordo,Windfoil Open,GBR-300,25.03,24.41,24.72
-5,Chris Cunningham,Windfoil Open,GBR-160,22.05,21.66,21.86
-6,John-Paul Standish,Windfoil Open,GBR-600,15.84,15.61,15.72
-7,Zack Peaple,Windfoil Open,GBR-120,23.32,,11.66
-8,Zara Davis,Windfoil Open,GBR-900,12.75,,6.38
+Place,HelmName,Fleet,Sail No
+1,Emeric Mouret,Windfoil Open,FRA-650
+2,Richard Hobson,Windfoil Open,GBR-80
+3,Joe Adams,Windfoil Open,GBR-710
+4,Denis Gordo,Windfoil Open,GBR-300
+5,Chris Cunningham,Windfoil Open,GBR-160
+6,John-Paul Standish,Windfoil Open,GBR-600
+7,Zack Peaple,Windfoil Open,GBR-120
+8,Zara Davis,Windfoil Open,GBR-900

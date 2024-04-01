@@ -1,36 +1,36 @@
-Place,Helmname,Fleet,Sail No,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Scotty Stallman,Windsurf Men,GBR-810,32.65,31.64,32.15
-2,Simon Pettifer,Windsurf Men,GBR-150,31.22,31.13,31.18
-3,Jim Crossley,Windsurf Men,GBR-670,31.53,30.69,31.11
-4,Patrick Van Hoof,Windsurf Men,BEL-870,29.30,29.21,29.26
-5,Garry Connell,Windsurf Men,GBR-180,29.32,28.98,29.15
-6,Will Trossell,Windsurf Men,GBR-210,27.99,27.72,27.86
-7,Danny Cartridge,Windsurf Men,GBR-270,27.85,27.35,27.60
-7,Michael George,Windsurf Men,GBR-20,27.70,27.51,27.60
-9,Chris Platt,Windsurf Men,GBR-190,27.77,26.50,27.14
-10,Dave Strudwick,Windsurf Men,GBR-500,27.30,26.84,27.07
-11,Stuart Trunkfield,Windsurf Men,GBR-430,27.07,26.72,26.90
-12,Bob Cartridge,Windsurf Men,GBR-230,27.21,26.51,26.86
-12,George Fulton,Windsurf Men,GBR-170,27.15,26.56,26.86
-14,Scott Harrison,Windsurf Men,GBR-330,26.98,26.43,26.70
-15,Paul Arnold,Windsurf Men,GBR-700,26.64,26.25,26.44
-16,Jean-Marc De Bruyne,Windsurf Men,BEL-220,26.46,26.04,26.25
-17,Eddie Marsh,Windsurf Men,GBR-350,26.25,25.80,26.03
-18,Richard Crosby,Windsurf Men,GBR-130,26.21,25.47,25.84
-19,John Oliver,Windsurf Men,GBR-100,25.79,25.75,25.77
-20,Tim Bate,Windsurf Men,GBR-140,26.20,25.16,25.68
-21,Jonny Kirton,Windsurf Men,GBR-520,26.19,24.85,25.52
-22,Russell Thompson,Windsurf Men,GBR-530,25.19,25.03,25.11
-23,Joshua Pinder,Windsurf Men,GBR-580,25.04,24.99,25.02
-24,Andy Stuart-William,Windsurf Men,GBR-70,24.99,24.39,24.69
-25,Paul Bran,Windsurf Men,GBR-720,24.82,23.89,24.36
-26,Peter Crosby,Windsurf Men,GBR-110,24.95,23.27,24.11
-27,Joe Trunkfield,Windsurf Men,GBR-460,24.44,23.66,24.05
-28,Robin Russell,Windsurf Men,GBR-290,24.86,23.14,24.00
-29,Steve Watson,Windsurf Men,GBR-380,24.00,23.92,23.96
-30,Simon Ramsden,Windsurf Men,GBR-50,24.41,23.32,23.86
-31,Trevor Whatford,Windsurf Men,GBR-250,22.29,21.59,21.94
-32,Matthew Lilley,Windsurf Men,GBR-200,22.84,20.06,21.45
-33,Andy Bridge,Windsurf Men,IMN-240,23.93,,11.96
-34,Matthew York,Windsurf Men,GBR-30,21.13,,10.57
-35,Rob Longstaff,Windsurf Men,GBR-590,19.74,,9.87
+Place,HelmName,Fleet,Sail No
+1,Scotty Stallman,Windsurf Men,GBR-810
+2,Simon Pettifer,Windsurf Men,GBR-150
+3,Jim Crossley,Windsurf Men,GBR-670
+4,Patrick Van Hoof,Windsurf Men,BEL-870
+5,Garry Connell,Windsurf Men,GBR-180
+6,Will Trossell,Windsurf Men,GBR-210
+7,Danny Cartridge,Windsurf Men,GBR-270
+7,Michael George,Windsurf Men,GBR-20
+9,Chris Platt,Windsurf Men,GBR-190
+10,Dave Strudwick,Windsurf Men,GBR-500
+11,Stuart Trunkfield,Windsurf Men,GBR-430
+12,Bob Cartridge,Windsurf Men,GBR-230
+12,George Fulton,Windsurf Men,GBR-170
+14,Scott Harrison,Windsurf Men,GBR-330
+15,Paul Arnold,Windsurf Men,GBR-700
+16,Jean-Marc De Bruyne,Windsurf Men,BEL-220
+17,Eddie Marsh,Windsurf Men,GBR-350
+18,Richard Crosby,Windsurf Men,GBR-130
+19,John Oliver,Windsurf Men,GBR-100
+20,Tim Bate,Windsurf Men,GBR-140
+21,Jonny Kirton,Windsurf Men,GBR-520
+22,Russell Thompson,Windsurf Men,GBR-530
+23,Joshua Pinder,Windsurf Men,GBR-580
+24,Andy Stuart-William,Windsurf Men,GBR-70
+25,Paul Bran,Windsurf Men,GBR-720
+26,Peter Crosby,Windsurf Men,GBR-110
+27,Joe Trunkfield,Windsurf Men,GBR-460
+28,Robin Russell,Windsurf Men,GBR-290
+29,Steve Watson,Windsurf Men,GBR-380
+30,Simon Ramsden,Windsurf Men,GBR-50
+31,Trevor Whatford,Windsurf Men,GBR-250
+32,Matthew Lilley,Windsurf Men,GBR-200
+33,Andy Bridge,Windsurf Men,IMN-240
+34,Matthew York,Windsurf Men,GBR-30
+35,Rob Longstaff,Windsurf Men,GBR-590

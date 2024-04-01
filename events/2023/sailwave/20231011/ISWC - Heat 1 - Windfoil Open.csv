@@ -1,18 +1,18 @@
-Place,Helmname,Fleet,Sail No,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Richard Hobson,Windfoil Open,GBR-80,26.84,26.43,26.64
-2,Joe Adams,Windfoil Open,GBR-710,27.16,26.02,26.59
-3,Guy Cribb,Windfoil Open,GBR-890,26.32,25.98,26.15
-4,Kuba Staite,Windfoil Open,GBR-910,25.46,25.24,25.35
-5,Denis Gordo,Windfoil Open,GBR-300,24.73,24.67,24.70
-6,Rod Dickinson,Windfoil Open,GBR-740,24.80,24.28,24.54
-7,Simon Maguire,Windfoil Open,GBR-260,22.88,22.80,22.84
-8,Andrew Collenette,Windfoil Open,GBR-850,23.02,22.58,22.80
-9,Anna Collenette,Windfoil Open,GBR-840,22.07,22.06,22.06
-10,Chris Cunningham,Windfoil Open,GBR-160,22.25,21.82,22.03
-11,Simon Perkins,Windfoil Open,GBR-340,21.97,21.87,21.92
-12,Simon Sanderson,Windfoil Open,GBR-310,19.58,19.05,19.31
-13,Zara Davis,Windfoil Open,GBR-900,17.32,16.89,17.11
-14,Helena Darvelid,Windfoil Open,GBR-940,16.60,16.21,16.41
-15,John-Paul Standish,Windfoil Open,GBR-600,16.35,16.15,16.25
-16,Emeric Mouret,Windfoil Open,FRA-650,28.64,,14.32
-17,Martin Carter,Windfoil Open,GBR-930,16.66,,8.33
+Place,HelmName,Fleet,Sail No
+1,Richard Hobson,Windfoil Open,GBR-80
+2,Joe Adams,Windfoil Open,GBR-710
+3,Guy Cribb,Windfoil Open,GBR-890
+4,Kuba Staite,Windfoil Open,GBR-910
+5,Denis Gordo,Windfoil Open,GBR-300
+6,Rod Dickinson,Windfoil Open,GBR-740
+7,Simon Maguire,Windfoil Open,GBR-260
+8,Andrew Collenette,Windfoil Open,GBR-850
+9,Anna Collenette,Windfoil Open,GBR-840
+10,Chris Cunningham,Windfoil Open,GBR-160
+11,Simon Perkins,Windfoil Open,GBR-340
+12,Simon Sanderson,Windfoil Open,GBR-310
+13,Zara Davis,Windfoil Open,GBR-900
+14,Helena Darvelid,Windfoil Open,GBR-940
+15,John-Paul Standish,Windfoil Open,GBR-600
+16,Emeric Mouret,Windfoil Open,FRA-650
+17,Martin Carter,Windfoil Open,GBR-930

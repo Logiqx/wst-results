@@ -1,18 +1,18 @@
-Place,Helmname,Fleet,Sail No,Run 1 (kts),Run 2 (kts),Avg (kts)
-1,Simon Pettifer,Windsurf Men,GBR-150,28.21,26.90,27.55
-2,Patrick Van Hoof,Windsurf Men,BEL-870,26.40,24.29,25.34
-3,Russell Thompson,Windsurf Men,GBR-530,24.21,24.06,24.13
-4,Tim Bate,Windsurf Men,GBR-140,24.14,23.62,23.88
-5,Jonny Kirton,Windsurf Men,GBR-520,24.20,22.74,23.47
-6,Andrew Twinn,Windsurf Men,GBR-360,23.35,22.39,22.87
-7,John Oliver,Windsurf Men,GBR-100,23.52,21.70,22.61
-8,Scott Harrison,Windsurf Men,GBR-330,22.82,22.21,22.52
-9,Andy Stuart-William,Windsurf Men,GBR-70,22.72,22.21,22.46
-10,Jean-Marc De Bruyne,Windsurf Men,BEL-220,22.29,21.55,21.92
-11,Matthew Lilley,Windsurf Men,GBR-200,21.49,20.82,21.15
-12,Joe Trunkfield,Windsurf Men,GBR-460,21.14,20.97,21.05
-13,Trevor Whatford,Windsurf Men,GBR-250,21.30,20.64,20.97
-14,Joshua Pinder,Windsurf Men,GBR-580,20.58,20.57,20.57
-15,Peter Crosby,Windsurf Men,GBR-110,19.64,18.94,19.29
-16,Michael George,Windsurf Men,GBR-20,24.25,,12.12
-17,Rob Longstaff,Windsurf Men,GBR-590,10.11,,5.06
+Place,HelmName,Fleet,Sail No
+1,Simon Pettifer,Windsurf Men,GBR-150
+2,Patrick Van Hoof,Windsurf Men,BEL-870
+3,Russell Thompson,Windsurf Men,GBR-530
+4,Tim Bate,Windsurf Men,GBR-140
+5,Jonny Kirton,Windsurf Men,GBR-520
+6,Andrew Twinn,Windsurf Men,GBR-360
+7,John Oliver,Windsurf Men,GBR-100
+8,Scott Harrison,Windsurf Men,GBR-330
+9,Andy Stuart-William,Windsurf Men,GBR-70
+10,Jean-Marc De Bruyne,Windsurf Men,BEL-220
+11,Matthew Lilley,Windsurf Men,GBR-200
+12,Joe Trunkfield,Windsurf Men,GBR-460
+13,Trevor Whatford,Windsurf Men,GBR-250
+14,Joshua Pinder,Windsurf Men,GBR-580
+15,Peter Crosby,Windsurf Men,GBR-110
+16,Michael George,Windsurf Men,GBR-20
+17,Rob Longstaff,Windsurf Men,GBR-590
