@@ -190,6 +190,7 @@ table tr:nth-child(even) {
 table.bests th:first-child,
 table.fastest th:first-child,
 table.heats th:first-child,
+table.iswc th:first-child,
 table.valid th:first-child {
   color: transparent;
   font-size: 0;
@@ -200,12 +201,14 @@ table.bests th:nth-child(2),
 table.entrants th:nth-child(1),
 table.fastest th:nth-child(2),
 table.heats th:nth-child(2),
+table.iswc th:nth-child(2),
 table.runs th:nth-child(1),
 table.valid th:nth-child(2),
 table.bests td:nth-child(2),
 table.entrants td:nth-child(1),
 table.fastest td:nth-child(2),
 table.heats td:nth-child(2),
+table.iswc td:nth-child(2),
 table.runs td:nth-child(1),
 table.valid td:nth-child(2) {
   text-align: left;
@@ -216,6 +219,7 @@ table.bests td:nth-child(3),
 table.entrants td:nth-child(2),
 table.fastest td:nth-child(3),
 table.heats td:nth-child(3),
+table.iswc td:nth-child(3),
 table.runs td:nth-child(2),
 table.valid td:nth-child(3) {
   color: transparent;
@@ -227,6 +231,7 @@ table.bests td:nth-child(4),
 table.entrants td:nth-child(3),
 table.fastest td:nth-child(4),
 table.heats td:nth-child(4),
+table.iswc td:nth-child(4),
 table.runs td:nth-child(3),
 table.valid td:nth-child(4) {
   white-space: nowrap;
@@ -238,6 +243,7 @@ table.fastest td:nth-last-child(1),
 table.heats td:nth-last-child(1),
 table.heats td:nth-last-child(2),
 table.heats td:nth-last-child(3),
+table.iswc td:nth-last-child(1),
 table.runs td:nth-last-child(1),
 table.valid td:nth-last-child(1),
 table.valid td:nth-last-child(2),
