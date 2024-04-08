@@ -1,7 +1,7 @@
 {
   "Suptitle": "Overall Results (WIP)",
   "Period": "Event",
-  "Fields": "Name,Nation,Sail No,Points,Total,Speed (kts)",
+  "Fields": "Name,Nation,Sail No,Points,Nett,Speed (kts)",
   "Reports": [
     {
       "Title": "Windsurf Men",
