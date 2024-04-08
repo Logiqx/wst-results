@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>NA18179.kml</name>
+	<open>1</open>
+	<Placemark>
+		<name>616 (Start)</name>
+		<Point>
+			<coordinates>3.046131,42.969549,0.52</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>615 (Start)</name>
+		<visibility>0</visibility>
+		<Point>
+			<coordinates>3.046065,42.969558,0.54</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>612 (500 meters)</name>
+		<Point>
+			<coordinates>3.044999,42.965116,0.6</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>611 (500 meters)</name>
+		<visibility>0</visibility>
+		<Point>
+			<coordinates>3.044935,42.965125,0.59</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>608 (1852 meters)</name>
+		<visibility>0</visibility>
+		<Point>
+			<coordinates>3.041781,42.953176,0.84</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>607 (1852 meters)</name>
+		<visibility>0</visibility>
+		<Point>
+			<coordinates>3.041714,42.953186,0.82</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
