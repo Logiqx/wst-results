@@ -1,0 +1,50 @@
+{
+  "Event": {
+    "Name": "Prince of Speed 2024",
+    "Start Date": "2024-04-21",
+    "End Date": "2024-04-30"
+  },
+  "Images": {
+    "Banner": {
+      "Name": "Prince of Speed",
+      "File": "pos-logo-alt.png",
+      "Link": "../index.html"
+    },
+    "Logo": {
+      "Name": "La Palme - April 2024",
+      "File": "pos-2024/la-palme-alt-50pc.png",
+      "Link": "index.html"
+    },
+    "Sponsors": {
+      "Name": "Event Sponsors",
+      "File": "pos-2024/sponsors-alt-50pc.png",
+      "Link": "https://www.worldspeedtour.com/"
+    }
+  },
+  "Comment": "Online results are provisional, pending ratification",
+  "Decimals": 2,
+  "Courses": {
+    "H": "Harbour",
+    "S": "Shore",
+    "?": "TBC"
+  },
+  "Entrants": {
+    "Craft Type": [
+      "Kitesurf",
+      "Windsurf",
+      "Windfoil",
+      "TBC"
+    ],
+    "Gender": [
+      "M",
+      "F",
+      "?"
+    ]
+  },
+  "Series": {
+    "ISWC": {
+      "Name": "ISWC Speed Championship",
+      "Filter": "Craft Type<>Kitesurf"
+    }
+  }
+}
