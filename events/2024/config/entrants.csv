@@ -19,7 +19,7 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 18,Mr,Jean-Charles,Le Tarnec,France,FRA47,Windsurf,Adult
 19,Ms,Jenna,Gibson,United Kingdom,GBR96,Windsurf,Adult
 20,Mr,Jim,Crossley,United Kingdom,K33,Windsurf,Adult
-21,Mr,Jürgen,Thau,Germany,"GER27,",Windsurf,Adult
+21,Mr,Jürgen,Thau,Germany,GER27,Windsurf,Adult
 22,Mr,Klaus,Küppenbende,Germany,GER18,Windsurf,Adult
 23,Mr,Laurent,Fesquet,France,FRA66,Windsurf,Adult
 24,Mr,Luca,Old,France,FRA1114,Windsurf,Youth
@@ -33,7 +33,7 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 32,Mr,Nicolas-David,Garrel,Luxembourg,LUX22,Windsurf,Adult
 33,Mr,Nils,Bach,Germany,GER172,Windsurf,Adult
 34,Mr,Pascal,Boulanger,France,FRA800,Windsurf,Adult
-35,Mr,Patrick,Sébastien Oberl,Germany,GER256,Windsurf,Adult
+35,Mr,Patrick,Oberlender,Germany,GER256,Windsurf,Adult
 36,Mr,Pierre,Mortefon,France,FRA14,Windsurf,Adult
 37,Mr,Roger,Ornvang,Sweden,SWE52,Windsurf,Adult
 38,Mr,Scotty,Stallman,United Kingdom,GBR68,Windsurf,Adult
