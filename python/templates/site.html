@@ -44,6 +44,21 @@
     {% else %}
     <h1>{{ eventName }}</h1>
     {% endif %}
+    {% if organisation is defined and organisation %}
+    <div id="organisation" style="margin-top: 20px;">
+      {% if 'href' in organisation %}
+      {% if organisation['href'].startswith('http') %}
+      <a href="{{ organisation['href'] }}" target="_blank"><img src="{{ organisation['src'] }}" alt="{{ organisation['alt'] }}" width="{{ organisation['width'] }}" height="{{ organisation['height'] }}" /></a>
+      {% else %}
+      <a href="{{ organisation['href'] }}"><img src="{{ organisation['src'] }}" alt="{{ organisation['alt'] }}" width="{{ organisation['width'] }}" height="{{ organisation['height'] }}" /></a>
+</a>
+      {% endif %}
+      {% else %}
+      <img src="{{ organisation['src'] }}" alt="{{ organisation['alt'] }}" width="{{ organisation['width'] }}" height="{{ organisation['height'] }}" />
+      {% endif %}
+      <p><br/></p>
+    </div>
+    {% endif %}
     {% if sponsors is defined and sponsors %}
     <div id="sponsors" style="margin-top: 20px;">
       {% if 'href' in sponsors %}
