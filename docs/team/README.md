@@ -9,3 +9,4 @@
 - [Backups](backups.md) - retrieving data from backup devices, if required
 - [Reports](reports.md) - accessing the daily / weekly reports, etc
   - [Configuration](config.md) - configuration of the reports
+- [Notes](notes.md) - general notes taken during the competition
