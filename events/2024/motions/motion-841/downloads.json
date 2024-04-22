@@ -1,0 +1,15 @@
+{
+  "BRO841MIC_841_20240422_082730.oao": {
+    "motion_file": "/logs/2024/04/0841_2024-04-22-0827.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/BRO841MIC_841_20240422_082730.oao",
+    "size": 458356,
+    "start_date": 1713770850000,
+    "end_date": 1713798648000,
+    "duration": 27798000,
+    "distance": 23141164,
+    "2s_best": 24980,
+    "10s_best": 23649,
+    "500m_best": 21974,
+    "status": "completed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "KRE816HAN_816_20240422_082824.oao": {
+    "motion_file": "/logs/2024/04/0816_2024-04-22-0828.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/KRE816HAN_816_20240422_082824.oao",
+    "size": 559288,
+    "start_date": 1713770904000,
+    "end_date": 1713799076000,
+    "duration": 28172000,
+    "distance": 20522733,
+    "2s_best": 25623,
+    "10s_best": 24948,
+    "500m_best": 24894,
+    "status": "completed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "HAA806BJO_806_20240422_082850.oao": {
+    "motion_file": "/logs/2024/04/0806_2024-04-22-0828.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/HAA806BJO_806_20240422_082850.oao",
+    "size": 491272,
+    "start_date": 1713770930000,
+    "end_date": 1713799066000,
+    "duration": 28136000,
+    "distance": 18779616,
+    "2s_best": 25413,
+    "10s_best": 24490,
+    "500m_best": 23612,
+    "status": "completed"
+  }
+}

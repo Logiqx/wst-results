@@ -1,0 +1,15 @@
+{
+  "DEU811CHR_811_20240422_082842.oao": {
+    "motion_file": "/logs/2024/04/0811_2024-04-22-0828.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/DEU811CHR_811_20240422_082842.oao",
+    "size": 201736,
+    "start_date": 1713770922000,
+    "end_date": 1713798962000,
+    "duration": 28040000,
+    "distance": 11065753,
+    "2s_best": 24339,
+    "10s_best": 23299,
+    "500m_best": 21647,
+    "status": "completed"
+  }
+}

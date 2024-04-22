@@ -1,0 +1,15 @@
+{
+  "LAU802AND_802_20240422_082646.oao": {
+    "motion_file": "/logs/2024/04/0802_2024-04-22-0826.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/LAU802AND_802_20240422_082646.oao",
+    "size": 913720,
+    "start_date": 1713770806000,
+    "end_date": 1713798584000,
+    "duration": 27778000,
+    "distance": 35554230,
+    "2s_best": 25350,
+    "10s_best": 25015,
+    "500m_best": 24674,
+    "status": "completed"
+  }
+}

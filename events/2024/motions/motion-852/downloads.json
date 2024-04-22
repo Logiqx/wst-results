@@ -1,0 +1,15 @@
+{
+  "BOU852PAS_852_20240422_082706.oao": {
+    "motion_file": "/logs/2024/04/0852_2024-04-22-0827.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/BOU852PAS_852_20240422_082706.oao",
+    "size": 448372,
+    "start_date": 1713770826000,
+    "end_date": 1713798722000,
+    "duration": 27896000,
+    "distance": 20203946,
+    "2s_best": 25390,
+    "10s_best": 25013,
+    "500m_best": 24806,
+    "status": "completed"
+  }
+}

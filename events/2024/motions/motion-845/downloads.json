@@ -1,0 +1,15 @@
+{
+  "GAR845NIC_845_20240422_082914.oao": {
+    "motion_file": "/logs/2024/04/0845_2024-04-22-0829.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/GAR845NIC_845_20240422_082914.oao",
+    "size": 371048,
+    "start_date": 1713770954000,
+    "end_date": 1713798746000,
+    "duration": 27792000,
+    "distance": 18423871,
+    "2s_best": 25709,
+    "10s_best": 25032,
+    "500m_best": 24886,
+    "status": "completed"
+  }
+}

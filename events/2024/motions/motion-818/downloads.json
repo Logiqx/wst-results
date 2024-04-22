@@ -1,0 +1,15 @@
+{
+  "ULR818HEI_818_20240422_082714.oao": {
+    "motion_file": "/logs/2024/04/0818_2024-04-22-0827.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/ULR818HEI_818_20240422_082714.oao",
+    "size": 623456,
+    "start_date": 1713770834000,
+    "end_date": 1713798946000,
+    "duration": 28112000,
+    "distance": 28145987,
+    "2s_best": 25422,
+    "10s_best": 24923,
+    "500m_best": 24817,
+    "status": "completed"
+  }
+}

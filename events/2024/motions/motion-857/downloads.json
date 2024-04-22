@@ -1,0 +1,15 @@
+{
+  "STA857SCO_857_20240422_082542.oao": {
+    "motion_file": "/logs/2024/04/0857_2024-04-22-0825.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/STA857SCO_857_20240422_082542.oao",
+    "size": 1331332,
+    "start_date": 1713770742000,
+    "end_date": 1713798838000,
+    "duration": 28096000,
+    "distance": 49280439,
+    "2s_best": 22487,
+    "10s_best": 21649,
+    "500m_best": 21253,
+    "status": "completed"
+  }
+}

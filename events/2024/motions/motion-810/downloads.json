@@ -1,0 +1,15 @@
+{
+  "BOR810CHR_810_20240422_082722.oao": {
+    "motion_file": "/logs/2024/04/0810_2024-04-22-0827.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/BOR810CHR_810_20240422_082722.oao",
+    "size": 225084,
+    "start_date": 1713770842000,
+    "end_date": 1713798796000,
+    "duration": 27954000,
+    "distance": 10184445,
+    "2s_best": 25708,
+    "10s_best": 25333,
+    "500m_best": 24888,
+    "status": "completed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "SET861SUF_861_20240422_082338.oao": {
+    "motion_file": "/logs/2024/04/0861_2024-04-22-0823.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/SET861SUF_861_20240422_082338.oao",
+    "size": 207872,
+    "start_date": 1713770618000,
+    "end_date": 1713798900000,
+    "duration": 28282000,
+    "distance": 11960644,
+    "2s_best": 26077,
+    "10s_best": 25248,
+    "500m_best": 24864,
+    "status": "completed"
+  }
+}

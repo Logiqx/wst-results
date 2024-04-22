@@ -1,0 +1,15 @@
+{
+  "MAL870TOR_870_20240422_082602.oao": {
+    "motion_file": "/logs/2024/04/0870_2024-04-22-0826.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/MAL870TOR_870_20240422_082602.oao",
+    "size": 55356,
+    "start_date": 1713770762000,
+    "end_date": 1713798928000,
+    "duration": 28166000,
+    "distance": 6870572,
+    "2s_best": 17149,
+    "10s_best": 16941,
+    "500m_best": 16507,
+    "status": "completed"
+  }
+}

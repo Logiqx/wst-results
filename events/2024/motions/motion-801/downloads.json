@@ -1,0 +1,15 @@
+{
+  "PRU801AIV_801_20240422_082742.oao": {
+    "motion_file": "/logs/2024/04/0801_2024-04-22-0827.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/PRU801AIV_801_20240422_082742.oao",
+    "size": 403600,
+    "start_date": 1713770862000,
+    "end_date": 1713798914000,
+    "duration": 28052000,
+    "distance": 17569212,
+    "2s_best": 24357,
+    "10s_best": 23017,
+    "500m_best": 21322,
+    "status": "completed"
+  }
+}

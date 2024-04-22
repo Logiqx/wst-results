@@ -1,0 +1,15 @@
+{
+  "VAN872WIL_872_20240422_082722.oao": {
+    "motion_file": "/logs/2024/04/0872_2024-04-22-0827.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/VAN872WIL_872_20240422_082722.oao",
+    "size": 239540,
+    "start_date": 1713770842000,
+    "end_date": 1713798942000,
+    "duration": 28100000,
+    "distance": 10493918,
+    "2s_best": 24719,
+    "10s_best": 17767,
+    "500m_best": 16981,
+    "status": "completed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "PIE826LUC_826_20240422_082850.oao": {
+    "motion_file": "/logs/2024/04/0826_2024-04-22-0828.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/PIE826LUC_826_20240422_082850.oao",
+    "size": 528608,
+    "start_date": 1713770930000,
+    "end_date": 1713798974000,
+    "duration": 28044000,
+    "distance": 18478517,
+    "2s_best": 21807,
+    "10s_best": 21132,
+    "500m_best": 20532,
+    "status": "completed"
+  }
+}

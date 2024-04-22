@@ -1,0 +1,15 @@
+{
+  "IAC833MAT_833_20240422_082710.oao": {
+    "motion_file": "/logs/2024/04/0833_2024-04-22-0827.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/IAC833MAT_833_20240422_082710.oao",
+    "size": 1540372,
+    "start_date": 1713770830000,
+    "end_date": 1713798956000,
+    "duration": 28126000,
+    "distance": 61168884,
+    "2s_best": 23094,
+    "10s_best": 22689,
+    "500m_best": 22092,
+    "status": "completed"
+  }
+}

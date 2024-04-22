@@ -1,0 +1,15 @@
+{
+  "TEX805AUG_805_20240422_082842.oao": {
+    "motion_file": "/logs/2024/04/0805_2024-04-22-0828.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/TEX805AUG_805_20240422_082842.oao",
+    "size": 452896,
+    "start_date": 1713770922000,
+    "end_date": 1713798754000,
+    "duration": 27832000,
+    "distance": 22226779,
+    "2s_best": 25044,
+    "10s_best": 24601,
+    "500m_best": 23758,
+    "status": "completed"
+  }
+}

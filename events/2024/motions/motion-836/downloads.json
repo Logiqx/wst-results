@@ -1,0 +1,15 @@
+{
+  "TOR836MEL_836_20240422_082806.oao": {
+    "motion_file": "/logs/2024/04/0836_2024-04-22-0828.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/TOR836MEL_836_20240422_082806.oao",
+    "size": 97736,
+    "start_date": 1713770886000,
+    "end_date": 1713799082000,
+    "duration": 28196000,
+    "distance": 6304772,
+    "2s_best": 19007,
+    "10s_best": 18567,
+    "500m_best": 18391,
+    "status": "completed"
+  }
+}

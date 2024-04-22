@@ -1,0 +1,15 @@
+{
+  "ALB803ANT_803_20240422_082654.oao": {
+    "motion_file": "/logs/2024/04/0803_2024-04-22-0826.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/ALB803ANT_803_20240422_082654.oao",
+    "size": 1068680,
+    "start_date": 1713770814000,
+    "end_date": 1713799340000,
+    "duration": 28526000,
+    "distance": 41786648,
+    "2s_best": 24290,
+    "10s_best": 24027,
+    "500m_best": 23511,
+    "status": "completed"
+  }
+}

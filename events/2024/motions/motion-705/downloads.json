@@ -1,0 +1,15 @@
+{
+  "ZZZ705ZZZ_705_20240422_100532.oao": {
+    "motion_file": "/logs/2024/04/0705_2024-04-22-1005.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/ZZZ705ZZZ_705_20240422_100532.oao",
+    "size": 546392,
+    "start_date": 1713776732000,
+    "end_date": 1713798820000,
+    "duration": 22088000,
+    "distance": 18930338,
+    "2s_best": 24612,
+    "10s_best": 24268,
+    "500m_best": 23791,
+    "status": "completed"
+  }
+}

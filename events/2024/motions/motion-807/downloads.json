@@ -1,0 +1,15 @@
+{
+  "LOR807BRE_807_20240422_082404.oao": {
+    "motion_file": "/logs/2024/04/0807_2024-04-22-0824.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/LOR807BRE_807_20240422_082404.oao",
+    "size": 666720,
+    "start_date": 1713770644000,
+    "end_date": 1713799008000,
+    "duration": 28364000,
+    "distance": 27256263,
+    "2s_best": 24764,
+    "10s_best": 22441,
+    "500m_best": 21465,
+    "status": "completed"
+  }
+}

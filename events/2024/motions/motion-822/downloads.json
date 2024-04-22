@@ -1,0 +1,15 @@
+{
+  "THA822JUR_822_20240422_082730.oao": {
+    "motion_file": "/logs/2024/04/0822_2024-04-22-0827.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/THA822JUR_822_20240422_082730.oao",
+    "size": 211304,
+    "start_date": 1713770850000,
+    "end_date": 1713798778000,
+    "duration": 27928000,
+    "distance": 7806990,
+    "2s_best": 25106,
+    "10s_best": 24384,
+    "500m_best": 23535,
+    "status": "completed"
+  }
+}

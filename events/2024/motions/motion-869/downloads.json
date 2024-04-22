@@ -1,0 +1,15 @@
+{
+  "OTT869TIM_869_20240422_082606.oao": {
+    "motion_file": "/logs/2024/04/0869_2024-04-22-0826.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/OTT869TIM_869_20240422_082606.oao",
+    "size": 358620,
+    "start_date": 1713770766000,
+    "end_date": 1713798984000,
+    "duration": 28218000,
+    "distance": 17024445,
+    "2s_best": 25141,
+    "10s_best": 24848,
+    "500m_best": 24748,
+    "status": "completed"
+  }
+}

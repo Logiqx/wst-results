@@ -1,0 +1,15 @@
+{
+  "MOL866THO_866_20240422_082814.oao": {
+    "motion_file": "/logs/2024/04/0866_2024-04-22-0828.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/MOL866THO_866_20240422_082814.oao",
+    "size": 262472,
+    "start_date": 1713770894000,
+    "end_date": 1713798884000,
+    "duration": 27990000,
+    "distance": 17111269,
+    "2s_best": 26109,
+    "10s_best": 25392,
+    "500m_best": 25089,
+    "status": "completed"
+  }
+}

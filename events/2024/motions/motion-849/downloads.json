@@ -1,0 +1,15 @@
+{
+  "BAC849NIL_849_20240422_082438.oao": {
+    "motion_file": "/logs/2024/04/0849_2024-04-22-0824.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/BAC849NIL_849_20240422_082438.oao",
+    "size": 328928,
+    "start_date": 1713770678000,
+    "end_date": 1713798918000,
+    "duration": 28240000,
+    "distance": 13016066,
+    "2s_best": 25857,
+    "10s_best": 19603,
+    "500m_best": 19117,
+    "status": "completed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "GEO838MIC_838_20240422_082740.oao": {
+    "motion_file": "/logs/2024/04/0838_2024-04-22-0827.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/GEO838MIC_838_20240422_082740.oao",
+    "size": 290916,
+    "start_date": 1713770860000,
+    "end_date": 1713799014000,
+    "duration": 28154000,
+    "distance": 15735030,
+    "2s_best": 25255,
+    "10s_best": 24562,
+    "500m_best": 23965,
+    "status": "completed"
+  }
+}

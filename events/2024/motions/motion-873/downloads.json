@@ -1,0 +1,15 @@
+{
+  "HUP873WIL_873_20240422_082500.oao": {
+    "motion_file": "/logs/2024/04/0873_2024-04-22-0825.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/HUP873WIL_873_20240422_082500.oao",
+    "size": 701456,
+    "start_date": 1713770700000,
+    "end_date": 1713798876000,
+    "duration": 28176000,
+    "distance": 29054054,
+    "2s_best": 24892,
+    "10s_best": 24456,
+    "500m_best": 21879,
+    "status": "completed"
+  }
+}

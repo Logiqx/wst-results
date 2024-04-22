@@ -1,0 +1,15 @@
+{
+  "VAL871VIN_871_20240422_082338.oao": {
+    "motion_file": "/logs/2024/04/0871_2024-04-22-0823.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/VAL871VIN_871_20240422_082338.oao",
+    "size": 492208,
+    "start_date": 1713770618000,
+    "end_date": 1713798844000,
+    "duration": 28226000,
+    "distance": 18864930,
+    "2s_best": 25060,
+    "10s_best": 22030,
+    "500m_best": 21516,
+    "status": "completed"
+  }
+}

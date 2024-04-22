@@ -1,0 +1,15 @@
+{
+  "BOU814GAU_814_20240422_082824.oao": {
+    "motion_file": "/logs/2024/04/0814_2024-04-22-0828.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/BOU814GAU_814_20240422_082824.oao",
+    "size": 858548,
+    "start_date": 1713770904000,
+    "end_date": 1713798768000,
+    "duration": 27864000,
+    "distance": 34877281,
+    "2s_best": 24881,
+    "10s_best": 24501,
+    "500m_best": 21498,
+    "status": "completed"
+  }
+}

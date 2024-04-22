@@ -1,0 +1,15 @@
+{
+  "ORN855ROG_855_20240422_082646.oao": {
+    "motion_file": "/logs/2024/04/0855_2024-04-22-0826.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/ORN855ROG_855_20240422_082646.oao",
+    "size": 232572,
+    "start_date": 1713770806000,
+    "end_date": 1713798896000,
+    "duration": 28090000,
+    "distance": 12874376,
+    "2s_best": 25020,
+    "10s_best": 24568,
+    "500m_best": 23909,
+    "status": "completed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "DEM815GUI_815_20240422_082404.oao": {
+    "motion_file": "/logs/2024/04/0815_2024-04-22-0824.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/DEM815GUI_815_20240422_082404.oao",
+    "size": 180728,
+    "start_date": 1713770644000,
+    "end_date": 1713798736000,
+    "duration": 28092000,
+    "distance": 12559519,
+    "2s_best": 17349,
+    "10s_best": 16652,
+    "500m_best": 16295,
+    "status": "completed"
+  }
+}
