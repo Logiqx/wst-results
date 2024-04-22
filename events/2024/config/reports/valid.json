@@ -44,6 +44,46 @@
       "Title": "Heat 4 - Windfoil Men",
       "Comment": "25% of these racers require at least three runs above 30 kts for the heat to be valid",
       "Filter": "ISWC=Heat 4,Craft Type=Windfoil,Gender=M,Age<>Youth"
+    },
+    {
+      "Title": "Heat 5 - Windsurf Men",
+      "Comment": "25% of these racers require at least three runs above 30 kts for the heat to be valid",
+      "Filter": "ISWC=Heat 5,Craft Type=Windsurf,Gender=M,Age<>Youth"
+    },
+    {
+      "Title": "Heat 5 - Windfoil Men",
+      "Comment": "25% of these racers require at least three runs above 30 kts for the heat to be valid",
+      "Filter": "ISWC=Heat 5,Craft Type=Windfoil,Gender=M,Age<>Youth"
+    },
+    {
+      "Title": "Heat 6 - Windsurf Men",
+      "Comment": "25% of these racers require at least three runs above 30 kts for the heat to be valid",
+      "Filter": "ISWC=Heat 6,Craft Type=Windsurf,Gender=M,Age<>Youth"
+    },
+    {
+      "Title": "Heat 6 - Windfoil Men",
+      "Comment": "25% of these racers require at least three runs above 30 kts for the heat to be valid",
+      "Filter": "ISWC=Heat 6,Craft Type=Windfoil,Gender=M,Age<>Youth"
+    },
+    {
+      "Title": "Heat 7 - Windsurf Men",
+      "Comment": "25% of these racers require at least three runs above 30 kts for the heat to be valid",
+      "Filter": "ISWC=Heat 7,Craft Type=Windsurf,Gender=M,Age<>Youth"
+    },
+    {
+      "Title": "Heat 7 - Windfoil Men",
+      "Comment": "25% of these racers require at least three runs above 30 kts for the heat to be valid",
+      "Filter": "ISWC=Heat 7,Craft Type=Windfoil,Gender=M,Age<>Youth"
+    },
+    {
+      "Title": "Heat 8 - Windsurf Men",
+      "Comment": "25% of these racers require at least three runs above 30 kts for the heat to be valid",
+      "Filter": "ISWC=Heat 8,Craft Type=Windsurf,Gender=M,Age<>Youth"
+    },
+    {
+      "Title": "Heat 8 - Windfoil Men",
+      "Comment": "25% of these racers require at least three runs above 30 kts for the heat to be valid",
+      "Filter": "ISWC=Heat 8,Craft Type=Windfoil,Gender=M,Age<>Youth"
     }
   ]
 }
