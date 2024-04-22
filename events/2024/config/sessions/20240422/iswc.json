@@ -1,0 +1,14 @@
+{
+  "Heat 1": {
+    "Start Time": "11:15:00",
+    "End Time": "12:01:00"
+  },
+  "Heat 2": {
+    "Start Time": "12:30:00",
+    "End Time": "13:17:00"
+  },
+  "Heat 3": {
+    "Start Time": "14:35:00",
+    "End Time": "15:36:00"
+  }
+}
