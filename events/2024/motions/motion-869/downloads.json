@@ -11,5 +11,18 @@
     "10s_best": 24848,
     "500m_best": 24748,
     "status": "completed"
+  },
+  "OTT869TIM_869_20240423_083342.oao": {
+    "motion_file": "/logs/2024/04/0869_2024-04-23-0833.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240423/OTT869TIM_869_20240423_083342.oao",
+    "size": 563708,
+    "start_date": 1713857622000,
+    "end_date": 1713884398000,
+    "duration": 26776000,
+    "distance": 25924232,
+    "2s_best": 25794,
+    "10s_best": 22541,
+    "500m_best": 19135,
+    "status": "completed"
   }
 }

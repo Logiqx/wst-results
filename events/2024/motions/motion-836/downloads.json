@@ -11,5 +11,18 @@
     "10s_best": 18567,
     "500m_best": 18391,
     "status": "completed"
+  },
+  "TOR836MEL_836_20240423_083942.oao": {
+    "motion_file": "/logs/2024/04/0836_2024-04-23-0839.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240423/TOR836MEL_836_20240423_083942.oao",
+    "size": 251396,
+    "start_date": 1713857982000,
+    "end_date": 1713884282000,
+    "duration": 26300000,
+    "distance": 18179770,
+    "2s_best": 19787,
+    "10s_best": 19410,
+    "500m_best": 18798,
+    "status": "completed"
   }
 }

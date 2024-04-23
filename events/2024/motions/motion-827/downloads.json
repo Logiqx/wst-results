@@ -11,5 +11,18 @@
     "10s_best": 24903,
     "500m_best": 23935,
     "status": "completed"
+  },
+  "KOL827LUI_827_20240423_083823.oao": {
+    "motion_file": "/logs/2024/04/0827_2024-04-23-0838.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240423/KOL827LUI_827_20240423_083823.oao",
+    "size": 258884,
+    "start_date": 1713857903000,
+    "end_date": 1713884399000,
+    "duration": 26496000,
+    "distance": 18673267,
+    "2s_best": 18110,
+    "10s_best": 17608,
+    "500m_best": 16739,
+    "status": "completed"
   }
 }

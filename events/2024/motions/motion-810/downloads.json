@@ -11,5 +11,18 @@
     "10s_best": 25333,
     "500m_best": 24888,
     "status": "completed"
+  },
+  "BOR810CHR_810_20240423_082914.oao": {
+    "motion_file": "/logs/2024/04/0810_2024-04-23-0829.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240423/BOR810CHR_810_20240423_082914.oao",
+    "size": 275108,
+    "start_date": 1713857354000,
+    "end_date": 1713885532000,
+    "duration": 28178000,
+    "distance": 18200888,
+    "2s_best": 19799,
+    "10s_best": 19306,
+    "500m_best": 19101,
+    "status": "completed"
   }
 }

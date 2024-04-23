@@ -11,5 +11,18 @@
     "10s_best": 24384,
     "500m_best": 23535,
     "status": "completed"
+  },
+  "THA822JUR_822_20240423_082832.oao": {
+    "motion_file": "/logs/2024/04/0822_2024-04-23-0828.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240423/THA822JUR_822_20240423_082832.oao",
+    "size": 136996,
+    "start_date": 1713857312000,
+    "end_date": 1713885610000,
+    "duration": 28298000,
+    "distance": 10704143,
+    "2s_best": 19367,
+    "10s_best": 18905,
+    "500m_best": 18466,
+    "status": "completed"
   }
 }

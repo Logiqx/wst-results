@@ -11,5 +11,18 @@
     "10s_best": 25032,
     "500m_best": 24886,
     "status": "completed"
+  },
+  "GAR845NIC_845_20240423_083242.oao": {
+    "motion_file": "/logs/2024/04/0845_2024-04-23-0832.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240423/GAR845NIC_845_20240423_083242.oao",
+    "size": 345048,
+    "start_date": 1713857562000,
+    "end_date": 1713884404000,
+    "duration": 26842000,
+    "distance": 23492392,
+    "2s_best": 22512,
+    "10s_best": 22065,
+    "500m_best": 21652,
+    "status": "completed"
   }
 }

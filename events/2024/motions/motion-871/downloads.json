@@ -11,5 +11,18 @@
     "10s_best": 22030,
     "500m_best": 21516,
     "status": "completed"
+  },
+  "VAL871VIN_871_20240423_083128.oao": {
+    "motion_file": "/logs/2024/04/0871_2024-04-23-0831.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240423/VAL871VIN_871_20240423_083128.oao",
+    "size": 1282504,
+    "start_date": 1713857488000,
+    "end_date": 1713884346000,
+    "duration": 26858000,
+    "distance": 56584664,
+    "2s_best": 23842,
+    "10s_best": 23482,
+    "500m_best": 23205,
+    "status": "completed"
   }
 }

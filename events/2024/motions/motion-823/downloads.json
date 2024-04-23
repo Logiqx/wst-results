@@ -11,5 +11,18 @@
     "10s_best": 19083,
     "500m_best": 18611,
     "status": "completed"
+  },
+  "KUP823KLA_823_20240423_083106.oao": {
+    "motion_file": "/logs/2024/04/0823_2024-04-23-0831.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240423/KUP823KLA_823_20240423_083106.oao",
+    "size": 365328,
+    "start_date": 1713857466000,
+    "end_date": 1713884738000,
+    "duration": 27272000,
+    "distance": 22464013,
+    "2s_best": 26293,
+    "10s_best": 25760,
+    "500m_best": 25428,
+    "status": "completed"
   }
 }

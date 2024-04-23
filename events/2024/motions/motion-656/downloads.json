@@ -1,0 +1,15 @@
+{
+  "LOG656MAR_656_20240423_090928.oao": {
+    "motion_file": "/logs/2024/04/0656_2024-04-23-0909.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240423/LOG656MAR_656_20240423_090928.oao",
+    "size": 1050844,
+    "start_date": 1713859768000,
+    "end_date": 1713885618000,
+    "duration": 25850000,
+    "distance": 43387510,
+    "2s_best": 18970,
+    "10s_best": 18834,
+    "500m_best": 18359,
+    "status": "completed"
+  }
+}

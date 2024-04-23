@@ -1,0 +1,28 @@
+{
+  "MOR854PIE_854_20240422_082624.oao": {
+    "motion_file": "/logs/2024/04/0854_2024-04-22-0826.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/MOR854PIE_854_20240422_082624.oao",
+    "size": 1536,
+    "start_date": 1713770784000,
+    "end_date": 1713784126000,
+    "duration": 13342000,
+    "distance": 56122,
+    "2s_best": 1069,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "MOR854PIE_854_20240423_083242.oao": {
+    "motion_file": "/logs/2024/04/0854_2024-04-23-0832.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240423/MOR854PIE_854_20240423_083242.oao",
+    "size": 1629448,
+    "start_date": 1713857562000,
+    "end_date": 1713884572000,
+    "duration": 27010000,
+    "distance": 63907080,
+    "2s_best": 23695,
+    "10s_best": 22921,
+    "500m_best": 22375,
+    "status": "completed"
+  }
+}

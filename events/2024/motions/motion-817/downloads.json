@@ -11,5 +11,18 @@
     "10s_best": 22199,
     "500m_best": 14647,
     "status": "completed"
+  },
+  "CLA817HAR_817_20240423_083824.oao": {
+    "motion_file": "/logs/2024/04/0817_2024-04-23-0838.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240423/CLA817HAR_817_20240423_083824.oao",
+    "size": 162216,
+    "start_date": 1713857904000,
+    "end_date": 1713884690000,
+    "duration": 26786000,
+    "distance": 12328251,
+    "2s_best": 21522,
+    "10s_best": 20799,
+    "500m_best": 20457,
+    "status": "completed"
   }
 }

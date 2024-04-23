@@ -11,5 +11,31 @@
     "10s_best": 19630,
     "500m_best": 18896,
     "status": "completed"
+  },
+  "FAB625ROB_625_20240422_125402.oao": {
+    "motion_file": "/logs/2024/04/0625_2024-04-22-1254.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240422/FAB625ROB_625_20240422_125402.oao",
+    "size": 914760,
+    "start_date": 1713786842000,
+    "end_date": 1713798862000,
+    "duration": 12020000,
+    "distance": 31011301,
+    "2s_best": 20392,
+    "10s_best": 19630,
+    "500m_best": 18896,
+    "status": "completed"
+  },
+  "FAB625ROB_625_20240423_084206.oao": {
+    "motion_file": "/logs/2024/04/0625_2024-04-23-0842.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240423/FAB625ROB_625_20240423_084206.oao",
+    "size": 1312352,
+    "start_date": 1713858126000,
+    "end_date": 1713885608000,
+    "duration": 27482000,
+    "distance": 52140012,
+    "2s_best": 21190,
+    "10s_best": 20911,
+    "500m_best": 20317,
+    "status": "completed"
   }
 }

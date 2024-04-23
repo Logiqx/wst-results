@@ -11,5 +11,18 @@
     "10s_best": 25413,
     "500m_best": 25037,
     "status": "completed"
+  },
+  "FES824LAU_824_20240423_083942.oao": {
+    "motion_file": "/logs/2024/04/0824_2024-04-23-0839.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240423/FES824LAU_824_20240423_083942.oao",
+    "size": 100856,
+    "start_date": 1713857982000,
+    "end_date": 1713883754000,
+    "duration": 25772000,
+    "distance": 5431299,
+    "2s_best": 26331,
+    "10s_best": 25877,
+    "500m_best": 25290,
+    "status": "completed"
   }
 }

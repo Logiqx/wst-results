@@ -125,6 +125,27 @@
       "board": "",
       "sail": "",
       "fin": ""
+    },
+    {
+      "file": "/logs/2024/04/0866_2024-04-23-0837.oao",
+      "size": 344892,
+      "timezone": 60,
+      "mode": 0,
+      "start_date": 1713857834000,
+      "end_date": 1713884630000,
+      "duration": 26796000,
+      "distance": 23046661,
+      "2s_best": 25335,
+      "10s_best": 24434,
+      "500m_best": 23953,
+      "1852m_best": 5886,
+      "a500m_best": 0,
+      "1h_best": 1643,
+      "spot": "",
+      "wind": "",
+      "board": "",
+      "sail": "",
+      "fin": ""
     }
   ]
 }

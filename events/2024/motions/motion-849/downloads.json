@@ -11,5 +11,18 @@
     "10s_best": 19603,
     "500m_best": 19117,
     "status": "completed"
+  },
+  "BAC849NIL_849_20240423_083444.oao": {
+    "motion_file": "/logs/2024/04/0849_2024-04-23-0834.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240423/BAC849NIL_849_20240423_083444.oao",
+    "size": 815128,
+    "start_date": 1713857684000,
+    "end_date": 1713885528000,
+    "duration": 27844000,
+    "distance": 40224076,
+    "2s_best": 22022,
+    "10s_best": 21684,
+    "500m_best": 21221,
+    "status": "completed"
   }
 }

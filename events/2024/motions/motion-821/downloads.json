@@ -11,5 +11,18 @@
     "10s_best": 21162,
     "500m_best": 20253,
     "status": "completed"
+  },
+  "CRO821JIM_821_20240423_083128.oao": {
+    "motion_file": "/logs/2024/04/0821_2024-04-23-0831.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240423/CRO821JIM_821_20240423_083128.oao",
+    "size": 701872,
+    "start_date": 1713857488000,
+    "end_date": 1713884296000,
+    "duration": 26808000,
+    "distance": 35565383,
+    "2s_best": 26304,
+    "10s_best": 26006,
+    "500m_best": 25419,
+    "status": "completed"
   }
 }
