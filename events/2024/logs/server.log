@@ -4035,3 +4035,76 @@
 2024-04-24 16:05:10,DEBUG,DisconnectionThread #7 finished
 2024-04-24 16:05:10,DEBUG,DisconnectionThread #8 finished
 2024-04-24 16:05:10,INFO,Thread pools stopped
+2024-04-24 16:37:01,INFO,Starting thread pools
+2024-04-24 16:37:01,DEBUG,DetectionThreadPool starting
+2024-04-24 16:37:01,DEBUG,DetectionThread #1 starting
+2024-04-24 16:37:01,DEBUG,DetectionThread #2 starting
+2024-04-24 16:37:01,DEBUG,DetectionThread #3 starting
+2024-04-24 16:37:01,DEBUG,DetectionThread #4 starting
+2024-04-24 16:37:01,DEBUG,DetectionThread #5 starting
+2024-04-24 16:37:01,DEBUG,DetectionThread #6 starting
+2024-04-24 16:37:01,DEBUG,DetectionThread #7 starting
+2024-04-24 16:37:01,DEBUG,DetectionThread #8 starting
+2024-04-24 16:37:01,DEBUG,InspectionThreadPool starting
+2024-04-24 16:37:01,DEBUG,InspectionThread #1 starting
+2024-04-24 16:37:01,DEBUG,InspectionThread #2 starting
+2024-04-24 16:37:01,DEBUG,InspectionThread #3 starting
+2024-04-24 16:37:01,DEBUG,InspectionThread #4 starting
+2024-04-24 16:37:01,DEBUG,DownloadThreadPool starting
+2024-04-24 16:37:01,DEBUG,DownloadThread #1 starting
+2024-04-24 16:37:01,DEBUG,DownloadThread #2 starting
+2024-04-24 16:37:01,DEBUG,DownloadThread #3 starting
+2024-04-24 16:37:01,DEBUG,DownloadThread #4 starting
+2024-04-24 16:37:01,DEBUG,DisconnectionThreadPool starting
+2024-04-24 16:37:01,DEBUG,DisconnectionThread #1 starting
+2024-04-24 16:37:01,DEBUG,DisconnectionThread #2 starting
+2024-04-24 16:37:01,DEBUG,DisconnectionThread #3 starting
+2024-04-24 16:37:01,DEBUG,DisconnectionThread #4 starting
+2024-04-24 16:37:01,DEBUG,DisconnectionThread #5 starting
+2024-04-24 16:37:01,DEBUG,DisconnectionThread #6 starting
+2024-04-24 16:37:01,DEBUG,DisconnectionThread #7 starting
+2024-04-24 16:37:01,DEBUG,DisconnectionThread #8 starting
+2024-04-24 16:37:01,INFO,Thread pools started
+2024-04-24 16:37:22,DEBUG,motion-661 detected at 192.168.0.136
+2024-04-24 16:37:22,INFO,motion-661 is connected
+2024-04-24 16:37:22,DEBUG,DetectionThreadPool has exceeded the interval time
+2024-04-24 16:37:23,DEBUG,motion-661 firmware is approved (9004 Weymouth Speed Week)
+2024-04-24 16:37:23,DEBUG,motion-661 storage is 0% full
+2024-04-24 16:37:23,INFO,motion-661 battery level is 69%
+2024-04-24 16:37:23,INFO,motion-661 SCH661ARN_661_20240424_083722.oao queued - 0.2 MiB, 8.4 hours, 16.2 km, 35.3 knots (500m)
+2024-04-24 16:37:24,INFO,motion-661 SCH661ARN_661_20240424_083722.oao downloaded - 0.2 MiB, 8.4 hours, 16.2 km, 35.3 knots (500m)
+2024-04-24 16:37:24,INFO,motion-661 can be disconnected
+2024-04-24 16:37:36,DEBUG,motion-661 has been disconnected
+2024-04-24 16:37:37,DEBUG,motion-661 detected at 192.168.0.136
+2024-04-24 16:37:37,INFO,Keyboard interrupt
+2024-04-24 16:37:37,INFO,Stopping thread pools
+2024-04-24 16:37:38,DEBUG,motion-661 not accepting connections
+2024-04-24 16:37:38,DEBUG,DetectionThreadPool finished
+2024-04-24 16:37:38,DEBUG,DetectionThread #1 finished
+2024-04-24 16:37:38,DEBUG,DetectionThread #2 finished
+2024-04-24 16:37:38,DEBUG,DetectionThread #3 finished
+2024-04-24 16:37:38,DEBUG,DetectionThread #4 finished
+2024-04-24 16:37:38,DEBUG,DetectionThread #5 finished
+2024-04-24 16:37:38,DEBUG,DetectionThread #6 finished
+2024-04-24 16:37:38,DEBUG,DetectionThread #7 finished
+2024-04-24 16:37:38,DEBUG,DetectionThread #8 finished
+2024-04-24 16:37:38,DEBUG,InspectionThreadPool finished
+2024-04-24 16:37:38,DEBUG,InspectionThread #1 finished
+2024-04-24 16:37:38,DEBUG,InspectionThread #2 finished
+2024-04-24 16:37:38,DEBUG,InspectionThread #3 finished
+2024-04-24 16:37:38,DEBUG,InspectionThread #4 finished
+2024-04-24 16:37:38,DEBUG,DownloadThreadPool finished
+2024-04-24 16:37:38,DEBUG,DownloadThread #1 finished
+2024-04-24 16:37:38,DEBUG,DownloadThread #2 finished
+2024-04-24 16:37:38,DEBUG,DownloadThread #3 finished
+2024-04-24 16:37:38,DEBUG,DownloadThread #4 finished
+2024-04-24 16:37:38,DEBUG,DisconnectionThreadPool finished
+2024-04-24 16:37:38,DEBUG,DisconnectionThread #1 finished
+2024-04-24 16:37:38,DEBUG,DisconnectionThread #2 finished
+2024-04-24 16:37:38,DEBUG,DisconnectionThread #3 finished
+2024-04-24 16:37:38,DEBUG,DisconnectionThread #4 finished
+2024-04-24 16:37:38,DEBUG,DisconnectionThread #5 finished
+2024-04-24 16:37:38,DEBUG,DisconnectionThread #6 finished
+2024-04-24 16:37:38,DEBUG,DisconnectionThread #7 finished
+2024-04-24 16:37:38,DEBUG,DisconnectionThread #8 finished
+2024-04-24 16:37:38,INFO,Thread pools stopped
