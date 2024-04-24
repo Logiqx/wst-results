@@ -26,7 +26,7 @@
       "Link": "https://www.worldspeedtour.com/"
     }
   },
-  "Comment": "Online results are provisional, pending ratification",
+  "Comment": "Online results are provisional, pending ratification<br/>DNC, DNS, and DNF results are currently omitted",
   "Decimals": 2,
   "Courses": {
     "H": "Harbour",

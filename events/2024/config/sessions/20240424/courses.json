@@ -1,5 +1,5 @@
 {
-  "Comment": "Day results are provisional, pending ratification",
+  "Comment": "Day results are provisional, pending ratification<br/>DNC, DNS, and DNF results are currently omitted",
   "Default": {
     "Start Time": "08:00:00",
     "End Time": "19:00:00"
