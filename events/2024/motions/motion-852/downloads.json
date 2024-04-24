@@ -24,5 +24,18 @@
     "10s_best": 24954,
     "500m_best": 21508,
     "status": "completed"
+  },
+  "BOU852PAS_852_20240424_083644.oao": {
+    "motion_file": "/logs/2024/04/0852_2024-04-24-0836.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240424/BOU852PAS_852_20240424_083644.oao",
+    "size": 266008,
+    "start_date": 1713944204000,
+    "end_date": 1713974468000,
+    "duration": 30264000,
+    "distance": 23163608,
+    "2s_best": 22930,
+    "10s_best": 22105,
+    "500m_best": 21278,
+    "status": "completed"
   }
 }

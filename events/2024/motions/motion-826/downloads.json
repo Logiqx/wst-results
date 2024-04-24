@@ -24,5 +24,18 @@
     "10s_best": 22367,
     "500m_best": 21523,
     "status": "completed"
+  },
+  "PIE826LUC_826_20240424_083724.oao": {
+    "motion_file": "/logs/2024/04/0826_2024-04-24-0837.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240424/PIE826LUC_826_20240424_083724.oao",
+    "size": 1112776,
+    "start_date": 1713944244000,
+    "end_date": 1713974420000,
+    "duration": 30176000,
+    "distance": 47514947,
+    "2s_best": 23167,
+    "10s_best": 22818,
+    "500m_best": 21877,
+    "status": "completed"
   }
 }

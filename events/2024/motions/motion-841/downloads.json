@@ -24,5 +24,18 @@
     "10s_best": 21014,
     "500m_best": 19961,
     "status": "completed"
+  },
+  "BRO841MIC_841_20240424_084602.oao": {
+    "motion_file": "/logs/2024/04/0841_2024-04-24-0846.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240424/BRO841MIC_841_20240424_084602.oao",
+    "size": 660480,
+    "start_date": 1713944762000,
+    "end_date": 1713974144000,
+    "duration": 29382000,
+    "distance": 34250678,
+    "2s_best": 21635,
+    "10s_best": 21188,
+    "500m_best": 20714,
+    "status": "completed"
   }
 }

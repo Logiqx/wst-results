@@ -37,5 +37,18 @@
     "10s_best": 25695,
     "500m_best": 25234,
     "status": "completed"
+  },
+  "MON664MAR_664_20240424_083510.oao": {
+    "motion_file": "/logs/2024/04/0664_2024-04-24-0835.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240424/MON664MAR_664_20240424_083510.oao",
+    "size": 283012,
+    "start_date": 1713944110000,
+    "end_date": 1713974662000,
+    "duration": 30552000,
+    "distance": 23641122,
+    "2s_best": 22388,
+    "10s_best": 21761,
+    "500m_best": 21510,
+    "status": "completed"
   }
 }

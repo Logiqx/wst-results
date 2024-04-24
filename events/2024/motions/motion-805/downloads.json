@@ -24,5 +24,18 @@
     "10s_best": 26476,
     "500m_best": 26389,
     "status": "completed"
+  },
+  "TEX805AUG_805_20240424_083744.oao": {
+    "motion_file": "/logs/2024/04/0805_2024-04-24-0837.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240424/TEX805AUG_805_20240424_083744.oao",
+    "size": 78288,
+    "start_date": 1713944264000,
+    "end_date": 1713974514000,
+    "duration": 30250000,
+    "distance": 4592215,
+    "2s_best": 9214,
+    "10s_best": 5460,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

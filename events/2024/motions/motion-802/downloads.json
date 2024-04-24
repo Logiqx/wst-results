@@ -24,5 +24,18 @@
     "10s_best": 22591,
     "500m_best": 21950,
     "status": "completed"
+  },
+  "LAU802AND_802_20240424_083310.oao": {
+    "motion_file": "/logs/2024/04/0802_2024-04-24-0833.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240424/LAU802AND_802_20240424_083310.oao",
+    "size": 1811188,
+    "start_date": 1713943990000,
+    "end_date": 1713973884000,
+    "duration": 29894000,
+    "distance": 65883391,
+    "2s_best": 23396,
+    "10s_best": 22562,
+    "500m_best": 21689,
+    "status": "completed"
   }
 }

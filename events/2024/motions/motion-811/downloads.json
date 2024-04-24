@@ -24,5 +24,18 @@
     "10s_best": 20182,
     "500m_best": 19687,
     "status": "completed"
+  },
+  "DEU811CHR_811_20240424_084226.oao": {
+    "motion_file": "/logs/2024/04/0811_2024-04-24-0842.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240424/DEU811CHR_811_20240424_084226.oao",
+    "size": 154832,
+    "start_date": 1713944546000,
+    "end_date": 1713974258000,
+    "duration": 29712000,
+    "distance": 11995600,
+    "2s_best": 20023,
+    "10s_best": 19599,
+    "500m_best": 19245,
+    "status": "completed"
   }
 }

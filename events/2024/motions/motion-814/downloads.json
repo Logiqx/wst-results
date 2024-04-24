@@ -24,5 +24,18 @@
     "10s_best": 21474,
     "500m_best": 20935,
     "status": "completed"
+  },
+  "BOU814GAU_814_20240424_083330.oao": {
+    "motion_file": "/logs/2024/04/0814_2024-04-24-0833.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240424/BOU814GAU_814_20240424_083330.oao",
+    "size": 1800684,
+    "start_date": 1713944010000,
+    "end_date": 1713974316000,
+    "duration": 30306000,
+    "distance": 73449554,
+    "2s_best": 22270,
+    "10s_best": 22028,
+    "500m_best": 21136,
+    "status": "completed"
   }
 }

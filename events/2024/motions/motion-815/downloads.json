@@ -24,5 +24,18 @@
     "10s_best": 17618,
     "500m_best": 16300,
     "status": "completed"
+  },
+  "DEM815GUI_815_20240424_083744.oao": {
+    "motion_file": "/logs/2024/04/0815_2024-04-24-0837.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240424/DEM815GUI_815_20240424_083744.oao",
+    "size": 226280,
+    "start_date": 1713944264000,
+    "end_date": 1713974366000,
+    "duration": 30102000,
+    "distance": 19350816,
+    "2s_best": 26538,
+    "10s_best": 26258,
+    "500m_best": 25930,
+    "status": "completed"
   }
 }

@@ -24,5 +24,18 @@
     "10s_best": 25481,
     "500m_best": 25001,
     "status": "completed"
+  },
+  "HUP873WIL_873_20240424_083128.oao": {
+    "motion_file": "/logs/2024/04/0873_2024-04-24-0831.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240424/HUP873WIL_873_20240424_083128.oao",
+    "size": 100908,
+    "start_date": 1713943888000,
+    "end_date": 1713973876000,
+    "duration": 29988000,
+    "distance": 6011654,
+    "2s_best": 11425,
+    "10s_best": 11019,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

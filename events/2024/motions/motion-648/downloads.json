@@ -37,5 +37,18 @@
     "10s_best": 0,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "GIB648JEN_648_20240424_083810.oao": {
+    "motion_file": "/logs/2024/04/0648_2024-04-24-0838.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240424/GIB648JEN_648_20240424_083810.oao",
+    "size": 908936,
+    "start_date": 1713944290000,
+    "end_date": 1713974518000,
+    "duration": 30228000,
+    "distance": 39978279,
+    "2s_best": 21235,
+    "10s_best": 20672,
+    "500m_best": 20403,
+    "status": "completed"
   }
 }

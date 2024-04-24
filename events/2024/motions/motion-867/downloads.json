@@ -24,5 +24,18 @@
     "10s_best": 21320,
     "500m_best": 20999,
     "status": "completed"
+  },
+  "LUI867THO_867_20240424_083410.oao": {
+    "motion_file": "/logs/2024/04/0867_2024-04-24-0834.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20240424/LUI867THO_867_20240424_083410.oao",
+    "size": 670620,
+    "start_date": 1713944050000,
+    "end_date": 1713974208000,
+    "duration": 30158000,
+    "distance": 36123077,
+    "2s_best": 22849,
+    "10s_best": 22654,
+    "500m_best": 21565,
+    "status": "completed"
   }
 }
