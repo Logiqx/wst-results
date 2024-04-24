@@ -1,13 +1,13 @@
 {
-  "Heat 1": {
+  "Heat 1a": {
     "Start Time": "11:15:00",
     "End Time": "12:01:00"
   },
-  "Heat 2": {
+  "Heat 1b": {
     "Start Time": "12:30:00",
     "End Time": "13:17:00"
   },
-  "Heat 3": {
+  "Heat 1c": {
     "Start Time": "14:35:00",
     "End Time": "15:36:00"
   }
