@@ -13,7 +13,7 @@
   - Robert,Fabrice,France,FRA-816,Windsurf,Adult
 - Heats
   - 1115 - 1200 = Windfoil Open
-  - 1230 - 1316 = Windsurf Women and Youths)
+  - 1230 - 1316 = Windsurf Women and Youths
   - 1435 - 1535 = Windsurf Men
 - Issues
   - Jenna's motion did not have a flashing light at the end of the day
@@ -38,14 +38,14 @@
   - Melek's motion could not be found (TOR836MEL)
     - It had accidentally been given to Torsten Mallon
 - Evening tasks
-  - Tweaked series results to use - as delimiter between heats
+  - Tweaked series results to use hyphen as delimiter between heats
   - Came up with way to handle heat numbers during the week correctly
   - Notes a couple of tasks for later - rank when results are the same, and character encoding of sailwave exports
 
 
 
 
-#### Tue 23
+#### Wed 24
 
 - Heats
   - 1120 - 1235 = Windsurf
@@ -54,7 +54,36 @@
   - Roger Ornvang forgot to take the motion mini
     - Took results from his personal Motion
   - No runs for some people who did not sail
-    - Hupert, Thau, Texeira - full day of data recorded, they just did not sail
-  - Motion handed in late (Schreurs), causing results to be done twice
+    - Hupert, Thau, Texeira - full day of data recorded (including drive back to campsite), they just did not sail
+  - Motion handed in late (Schreurs), requiring results to be done twice
     - Rider decided to carry on sailing after the day had ended
+  - Bad data from two motions - Mortefon and Bornemann
+    - Used data from backup devices
 
+
+
+
+#### Afterwards
+- Wrote script to identify logs that are potentially suspect
+    - MOR854PIE - 24 Apr - Poor quality data, so used backup device
+    - BOR810CHR - 24 Apr - Poor quality data, so used backup device
+    - TOR835MEL - 23 Apr - Only affected one run @ 12:45:01
+    - KOL827LUI - 24 Apr - Crash at 13:12:30, not iffy data during a run
+    - PRU801AIV - 24 Apr - Crash at 12:54:02, not iffy data during a run
+- Fixed sail numbers
+  - Changed K33 and K88 to GBR-33 and GBR-888
+  - Added missing sail numbers
+
+- Fixed names
+  - Changed Gautier Bourgeois (FRA-6) to Sebastien Bourgeois (FRA-665)
+
+- Considered impact of adding youths to men's results
+  - Outcome TBC
+
+
+
+
+#### Outstanding
+
+- Add missing sail number
+- Add DNC, DNS, DNF results
