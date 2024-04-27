@@ -8,7 +8,7 @@
     {
       "Title": "Heat 1 - Windsurf Men",
       "Comment": "(excludes youths)",
-      "Filter": "Craft Type=Windsurf,Gender=M,Age<>Youth,ISWC=Heat 1c",
+      "Filter": "Craft Type=Windsurf,Gender=M,Age<>Youth,ISWC=Heat 1b",
       "Fleet": "Windsurf Men"
     },
     {
