@@ -20,7 +20,7 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 19,Ms,Jenna,Gibson,United Kingdom,GBR-96,Windsurf,Adult
 20,Mr,Jim,Crossley,United Kingdom,GBR-33,Windsurf,Adult
 21,Mr,Jürgen,Thau,Germany,GER-1188,Windsurf,Adult
-22,Mr,Klaus,Küppenbende,Germany,GER-18,Windsurf,Adult
+22,Mr,Klaus,Küppenbender,Germany,GER-18,Windsurf,Adult
 23,Mr,Laurent,Fesquet,France,FRA-66,Windsurf,Adult
 24,Mr,Luca,Old,Australia,AUS-1114,Windsurf,Youth
 25,Mr,Luca,Pierboni,France,FRA-633,Windsurf,Youth
@@ -46,7 +46,7 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 45,Mr,Vincent,Valkenaers,Belgium,BEL-62,Windsurf,Adult
 46,Mr,Wilfried,Vanherweghe,France,FRA-163,Windsurf,Adult
 47,Mr,William,Huppert,France,FRA-330,Windsurf,Adult
-48,Mr,Arnold,Schreurs,Netherlands,NED-369,Windsurf,Adult
+48,Mr,Arnold,Schreurs,Germany,GER-369,Windsurf,Adult
 49,Mr,Fabien,Mayou,France,FRA-535,Windsurf,Adult
 50,Mr,Martim,Monteiro,Portugal,POR-13,Windsurf,Adult
 51,Mr,Ben,Van Der Steen,Netherlands,NED-57,Windsurf,Adult
