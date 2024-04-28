@@ -70,18 +70,19 @@ Note: Dummy records should be deemed a last resort. New knights should be config
     - Changing names, nationalities and sail numbers
     - Correcting results using logs from backup devices when device fails or produces poor quality data
 - Coding
-  - Fix sorting of accented characters - e.g. Sébastien should come before Simon in entrant list
+  - Entrants
+    - Fix sorting of accented characters - e.g. Sébastien should come before Simon in entrant list
   - Series
-    - Fix character encoding of CSV exports for Sailwave
-    - Make Python script more robust, so that slight mismatches (e.g. due to special characters) are not problematic
+    - Add support for knights in Sailwave file that have no max speeds for the week
+    - Add support for DNC, DNS and DNF
+    - Make more robust, so that slight name / sail number mismatches are not problematic
     - Show individual heat results in different columns
-    - Add support for names in Sailwave file that have no max speeds for the week
-    - Support for DNC, DNS and DNF
-    - Move into sse-results project
-    - Incorporate UKWA series into WSW reporting
-  - Improve Python code that creates adhoc charts - avoid memory bloat which causes issues on modest laptops
-  - Package the Python script that looks for poor quality data in motion logs
+    - Move Python script into sse-results project
+    - Implement UKWA series within wsw-results
+  - Adhoc
+    - Improve Python code that creates adhoc charts - avoid memory bloat which causes issues on modest laptops
+    - Package the Python script that looks for poor quality data in motion logs
   - Create new key for GitHub commits, rather than using the current key
 - Administration
   - Nick to send bank details to Principe
-  - Mike to contact Bjorn Haacke (German Speed) about Motion Minis, and to introduce Julien 
+  - Mike to contact Bjorn Haacke (German Speed) about Motion Minis, and to introduce Julien

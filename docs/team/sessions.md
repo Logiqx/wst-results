@@ -64,26 +64,32 @@
 
 
 #### Afterwards
+
 - Wrote script to identify logs that are potentially suspect
     - MOR854PIE - 24 Apr - Poor quality data, so used backup device
     - BOR810CHR - 24 Apr - Poor quality data, so used backup device
     - TOR835MEL - 23 Apr - Only affected one run @ 12:45:01
     - KOL827LUI - 24 Apr - Crash at 13:12:30, not iffy data during a run
     - PRU801AIV - 24 Apr - Crash at 12:54:02, not iffy data during a run
-- Fixed sail numbers
-  - Changed K33 and K88 to GBR-33 and GBR-888
-  - Added missing sail numbers
-- Fixed names
-  - Changed Gautier Bourgeois (FRA-6) to Sebastien Bourgeois (FRA-665)
+- Entrants
+  - Fixed sail numbers
+      - Changed K33 and K88 to GBR-33 and GBR-888
+      - Added missing sail numbers
+  - Fixed names
+      - Changed Gautier Bourgeois (FRA-6) to Sebastien Bourgeois (FRA-665)
+      - Fixed various names, nationalities, sail numbers
+  - Foiling knights
+      - Added the foiling knights to entrants, since they did not obtain results
 - Fixed "best runs" and "fastest runs" reports
   - Round to 2 decimal places before ranking - affects "fastest runs" ranks on Tue 23 for Laufer and Bordes
+- Fixed character encoding for Sailwave
+    - Sailwave files are now using latin-1 encoding
 - Considered impact of adding youths to men's results
-  - Outcome TBC
+  - Including in heats 2 to 5 is unsupported by the existing software, so it was not done
 
 
 
 
 #### Outstanding
 
-- Add missing sail number
 - Add DNC, DNS, DNF results
