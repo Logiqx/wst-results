@@ -1,89 +1,90 @@
-Aivo,Prükk,EST-314,Windsurf Men
-Andy,Laufer,GER-33,Windsurf Men
-Antoine,Albeau,FRA-192,Windsurf Men
-Augusto,Texeira,POR-131,Windsurf Men
-Bjorn,Haacke,GER-1,Windsurf Men
-Cédric,Bordes,FRA-91,Windsurf Men
-Christian,Bornemann,GER-29,Windsurf Men
-Christophe,Deus,GER-338,Windsurf Men
-Daniele,Benedetti,ITA-60,Windsurf Men
-Sébastien,Bourgeois,FRA-665,Windsurf Men
-Guillaume,Demartres,FRA-10,Windsurf Men
-Hans,Kreisel,NED-85,Windsurf Men
-Harald,Claessen,NED-71,Windsurf Men
-Jean-Charles,Le Tarnec,FRA-156,Windsurf Men
-Jim,Crossley,GBR-33,Windsurf Men
-Jürgen,Thau,GER-1188,Windsurf Men
-Klaus,Küppenbender,GER-18,Windsurf Men
-Laurent,Fesquet,FRA-66,Windsurf Men
-Florian,Madec,FRA-2123,Windsurf Men
-Matteo,Iachino,ITA-140,Windsurf Men
-Michael,George,GBR-888,Windsurf Men
-Michael,Brozio,GER-27,Windsurf Men
-Nicolas-David,Garrel,LUX-22,Windsurf Men
-Nils,Bach,GER-172,Windsurf Men
-Pascal,Boulanger,FRA-800,Windsurf Men
-Patrick,Oberlender,GER-256,Windsurf Men
-Pierre,Mortefon,FRA-14,Windsurf Men
-Roger,Ornvang,SWE-52,Windsurf Men
-Scotty,Stallman,GBR-68,Windsurf Men
-Simon,Pettifer,GBR-67,Windsurf Men
-Sufyan,Setti,ALG-2,Windsurf Men
-Thomas,Moldenhauer,GER-215,Windsurf Men
-Thorsten,Luig,GER-211,Windsurf Men
-Tim,Otte,GER-909,Windsurf Men
-Torsten,Mallon,GER-818,Windsurf Men
-Vincent,Valkenaers,BEL-62,Windsurf Men
-Wilfried,Vanherweghe,FRA-163,Windsurf Men
-William,Huppert,FRA-330,Windsurf Men
-Arnold,Schreurs,GER-369,Windsurf Men
-Fabien,Mayou,FRA-535,Windsurf Men
-Martim,Monteiro,POR-13,Windsurf Men
-Ben,Van Der Steen,NED-57,Windsurf Men
-Robert,Fabrice,FRA-816,Windsurf Men
-Bruno,Martini,ITA-160,Windsurf Men
-Heidi,Ulrich,SUI-204,Windsurf Women
-Jenna,Gibson,GBR-96,Windsurf Women
-Luisa,Kolmer,GER-999,Windsurf Women
-Melek,Toraman,GER-214,Windsurf Women
-Tessa,Mallon,GER-828,Windsurf Women
-Brendan,Lorho,FRA-113,Youth Men
-Cyril,Evrard,BEL-250,Youth Men
-Luca,Old,AUS-1114,Youth Men
-Luca,Pierboni,FRA-633,Youth Men
-Marius,Loglisci,FRA-735,Youth Men
-Joa,van den Berg,NED-55,Youth Men
-Franciszek,Debowski,NED-55,Youth Men
-Luisa,Kolmer,GER-999,Youth Women
-Tessa,Mallon,GER-828,Youth Women
-Antoine,Albeau,FRA-192,Windfoil Open
-William,Huppert,FRA-330,Windfoil Open
-Matteo,Iachino,ITA-140,Windfoil Open
-Scotty,Stallman,GBR-68,Windfoil Open
-Fabien,Mayou,FRA-535,Windfoil Open
-Jenna,Gibson,GBR-96,Windfoil Open
-Cédric,Bordes,FRA-91,Windfoil Open
-Pierre,Mortefon,FRA-14,Windfoil Open
-Martim,Monteiro,POR-13,Windfoil Open
-Ben,Van Der Steen,NED-57,Windfoil Open
-Sébastien,Bourgeois,FRA-665,Windfoil Open
-Thorsten,Luig,GER-211,Windfoil Open
-Torsten,Mallon,GER-818,Windfoil Open
-Andy,Laufer,GER-33,Windfoil Open
-Florian,Madec,FRA-2123,Windfoil Open
-Thomas,Moldenhauer,GER-215,Windfoil Open
-Christophe,Deus,GER-338,Windfoil Open
-Wilfried,Vanherweghe,FRA-163,Windfoil Open
-Jim,Crossley,GBR-33,Windfoil Open
-Vincent,Valkenaers,BEL-62,Windfoil Open
-Nils,Bach,GER-172,Windfoil Open
-Michael,George,GBR-888,Windfoil Open
-Michael,Brozio,GER-27,Windfoil Open
-Bruno,Martini,ITA-160,Windfoil Open
-Daniele,Benedetti,ITA-60,Windfoil Open
-Antoine,Gardais,FRA-11,Windfoil Open
-Cyril,Evrard,BEL-250,Windfoil Open
-Brendan,Lorho,FRA-113,Windfoil Open
-Luisa,Kolmer,GER-999,Windfoil Open
-Sufyan,Setti,ALG-2,Windfoil Open
-Simon,Pettifer,GBR-67,Windfoil Open
+Helm Name,Sail No,Fleet
+Aivo Prükk,EST-314,Windsurf Men
+Andy Laufer,GER-33,Windsurf Men
+Antoine Albeau,FRA-192,Windsurf Men
+Augusto Texeira,POR-131,Windsurf Men
+Bjorn Haacke,GER-1,Windsurf Men
+Cédric Bordes,FRA-91,Windsurf Men
+Christian Bornemann,GER-29,Windsurf Men
+Christophe Deus,GER-338,Windsurf Men
+Daniele Benedetti,ITA-60,Windsurf Men
+Sébastien Bourgeois,FRA-665,Windsurf Men
+Guillaume Demartres,FRA-10,Windsurf Men
+Hans Kreisel,NED-85,Windsurf Men
+Harald Claessen,NED-71,Windsurf Men
+Jean-Charles Le Tarnec,FRA-156,Windsurf Men
+Jim Crossley,GBR-33,Windsurf Men
+Jürgen Thau,GER-1188,Windsurf Men
+Klaus Küppenbender,GER-18,Windsurf Men
+Laurent Fesquet,FRA-66,Windsurf Men
+Florian Madec,FRA-2123,Windsurf Men
+Matteo Iachino,ITA-140,Windsurf Men
+Michael George,GBR-888,Windsurf Men
+Michael Brozio,GER-27,Windsurf Men
+Nicolas-David Garrel,LUX-22,Windsurf Men
+Nils Bach,GER-172,Windsurf Men
+Pascal Boulanger,FRA-800,Windsurf Men
+Patrick Oberlender,GER-256,Windsurf Men
+Pierre Mortefon,FRA-14,Windsurf Men
+Roger Ornvang,SWE-52,Windsurf Men
+Scotty Stallman,GBR-68,Windsurf Men
+Simon Pettifer,GBR-67,Windsurf Men
+Sufyan Setti,ALG-2,Windsurf Men
+Thomas Moldenhauer,GER-215,Windsurf Men
+Thorsten Luig,GER-211,Windsurf Men
+Tim Otte,GER-909,Windsurf Men
+Torsten Mallon,GER-818,Windsurf Men
+Vincent Valkenaers,BEL-62,Windsurf Men
+Wilfried Vanherweghe,FRA-163,Windsurf Men
+William Huppert,FRA-330,Windsurf Men
+Arnold Schreurs,GER-369,Windsurf Men
+Fabien Mayou,FRA-535,Windsurf Men
+Martim Monteiro,POR-13,Windsurf Men
+Ben Van Der Steen,NED-57,Windsurf Men
+Robert Fabrice,FRA-816,Windsurf Men
+Bruno Martini,ITA-160,Windsurf Men
+Heidi Ulrich,SUI-204,Windsurf Women
+Jenna Gibson,GBR-96,Windsurf Women
+Luisa Kolmer,GER-999,Windsurf Women
+Melek Toraman,GER-214,Windsurf Women
+Tessa Mallon,GER-828,Windsurf Women
+Brendan Lorho,FRA-113,Youth Men
+Cyril Evrard,BEL-250,Youth Men
+Luca Old,AUS-1114,Youth Men
+Luca Pierboni,FRA-633,Youth Men
+Marius Loglisci,FRA-735,Youth Men
+Joa van den Berg,NED-55,Youth Men
+Franciszek Debowski,NED-55,Youth Men
+Luisa Kolmer,GER-999,Youth Women
+Tessa Mallon,GER-828,Youth Women
+Antoine Albeau,FRA-192,Windfoil Open
+William Huppert,FRA-330,Windfoil Open
+Matteo Iachino,ITA-140,Windfoil Open
+Scotty Stallman,GBR-68,Windfoil Open
+Fabien Mayou,FRA-535,Windfoil Open
+Jenna Gibson,GBR-96,Windfoil Open
+Cédric Bordes,FRA-91,Windfoil Open
+Pierre Mortefon,FRA-14,Windfoil Open
+Martim Monteiro,POR-13,Windfoil Open
+Ben Van Der Steen,NED-57,Windfoil Open
+Sébastien Bourgeois,FRA-665,Windfoil Open
+Thorsten Luig,GER-211,Windfoil Open
+Torsten Mallon,GER-818,Windfoil Open
+Andy Laufer,GER-33,Windfoil Open
+Florian Madec,FRA-2123,Windfoil Open
+Thomas Moldenhauer,GER-215,Windfoil Open
+Christophe Deus,GER-338,Windfoil Open
+Wilfried Vanherweghe,FRA-163,Windfoil Open
+Jim Crossley,GBR-33,Windfoil Open
+Vincent Valkenaers,BEL-62,Windfoil Open
+Nils Bach,GER-172,Windfoil Open
+Michael George,GBR-888,Windfoil Open
+Michael Brozio,GER-27,Windfoil Open
+Bruno Martini,ITA-160,Windfoil Open
+Daniele Benedetti,ITA-60,Windfoil Open
+Antoine Gardais,FRA-11,Windfoil Open
+Cyril Evrard,BEL-250,Windfoil Open
+Brendan Lorho,FRA-113,Windfoil Open
+Luisa Kolmer,GER-999,Windfoil Open
+Sufyan Setti,ALG-2,Windfoil Open
+Simon Pettifer,GBR-67,Windfoil Open
