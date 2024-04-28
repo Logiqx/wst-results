@@ -60,7 +60,7 @@ Note: Dummy records should be deemed a last resort. New knights should be config
   - GPSResults
     - Foil course - 500m width
     - Loading logs (use Windows folder) + gates
-    - Setting time limits
+    - Setting time limits - daylight saving
     - Exporting results
   - Reporting
     - Mention DNC, DNS, DNF
@@ -77,6 +77,8 @@ Note: Dummy records should be deemed a last resort. New knights should be config
     - Show individual heat results in different columns
     - Add support for names in Sailwave file that have no max speeds for the week
     - Support for DNC, DNS and DNF
+    - Move into sse-results project
+    - Incorporate UKWA series into WSW reporting
   - Improve Python code that creates adhoc charts - avoid memory bloat which causes issues on modest laptops
   - Package the Python script that looks for poor quality data in motion logs
   - Create new key for GitHub commits, rather than using the current key
