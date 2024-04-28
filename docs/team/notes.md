@@ -46,6 +46,7 @@ Note: Dummy records should be deemed a last resort. New knights should be config
   - Beach activities
     - Motions on the beach - switching on, laying out, collection, etc
     - New motions on the beach - sail / yellow label (primary), wing / kite / boat (backup) 
+    - Make a note of unclaimed motions - DNS results
   - Command aliases - server, results, series
   - Daily processes
     - Assign motions to additional knights prior to download - makes life simpler and logs are clearer
