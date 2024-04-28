@@ -73,10 +73,10 @@
 - Fixed sail numbers
   - Changed K33 and K88 to GBR-33 and GBR-888
   - Added missing sail numbers
-
 - Fixed names
   - Changed Gautier Bourgeois (FRA-6) to Sebastien Bourgeois (FRA-665)
-
+- Fixed "best runs" and "fastest runs" reports
+  - Round to 2 decimal places before ranking - affects "fastest runs" ranks on Tue 23 for Laufer and Bordes
 - Considered impact of adding youths to men's results
   - Outcome TBC
 

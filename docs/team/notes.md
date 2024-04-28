@@ -70,7 +70,6 @@ Note: Dummy records should be deemed a last resort. New knights should be config
     - Changing names, nationalities and sail numbers
     - Correcting results using logs from backup devices when device fails or produces poor quality data
 - Coding
-  - Resolve issue with rank being different for identical results - fastest runs on Tue 23 (Laufer and Bordes)
   - Fix sorting of accented characters - e.g. Sébastien should come before Simon in entrant list
   - Series
     - Fix character encoding of CSV exports for Sailwave
