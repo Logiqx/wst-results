@@ -93,6 +93,7 @@ Notes:
   - Adhoc
     - Improve Python code that creates adhoc charts - avoid memory bloat which causes issues on modest laptops
     - Package the Python script that looks for poor quality data in motion logs
+      - Check historical WSW data for similar artefacts
   - Create new key for GitHub commits, rather than using the current key
 - Administration
   - Nick to send bank details to Principe
