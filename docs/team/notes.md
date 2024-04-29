@@ -5,8 +5,8 @@
 #### Office
 
 - Chargers set up in spare room and taped into position
-- Router - set up but switched off
-- Dymo printers
+- Router - set up but switched off for most of the day
+- Dymo printers on shelf
 
 
 
@@ -17,26 +17,32 @@
   - Laptop + mouse
   - Notepad + pen
   - Sharpie
-- Router to be plugged into van with generator
-  - The ideal is to collect data at the beach, but process it at the camp site
+- Router which can potentially be plugged into van with generator
 
 
 
 #### Motions
 
-- New entrants can be assigned a motion at beach, previous name blacked out with sharpie
+- New entrants can be assigned a motion at beach
+  - Issue a "sail" device to make it clear that it is a primary device
+  - Black out previous surname and forename with sharpie, leave number visible
+  - Take a note of the rider name, nationality, sail number, adult / youth and motion ID
+- Spares can be assigned with the previous name blacked out
+  - Issue "wing" or "kite" device to make it clear that it is a backup device
   - Take a note of the rider name and the motion ID
-- Spares can be assigned with the previous name blacked out, ideally labelled "wing" or "kite"
-  - Take a note of the rider name and the motion ID
+  
 
 
 
 #### Configuration
 
-- Dummy records in motions.csv so that unallocated motions will have their data downloaded at the beach.
+- Dummy records in motions.csv allow unallocated motions to have their data downloaded at the beach.
   - e.g. `99,724,2024-04-21,2024-04-30,ZZZ601ZZZ,TBC,TBC,TBC`
 
-Note: Dummy records should be deemed a last resort. New knights should be configured prior to downloading logs.
+Notes:
+
+- Dummy records have benefits but can also cause confusion
+- New knights should be properly configured, prior to downloading all of the logs
 
 
 
@@ -44,10 +50,9 @@ Note: Dummy records should be deemed a last resort. New knights should be config
 
 - Documentation
   - Beach activities
-    - Motions on the beach - switching on, laying out, collection, etc
-    - New motions on the beach - sail / yellow label (primary), wing / kite / boat (backup) 
-    - Make a note of unclaimed motions - DNS results
-  - Command aliases - server, results, series
+    - Motions on the beach - switching on, laying out, collection, end of day, etc
+    - New motions on the beach - "sail" (primary), "wing" / "kite" / "boat" (backup) 
+    - Make a note of unclaimed motions - helps when doing DNS results
   - Daily processes
     - Assign motions to additional knights prior to download - makes life simpler and logs are clearer
     - Download from all motions, including unused ones to avoid confusion the next day
@@ -58,10 +63,13 @@ Note: Dummy records should be deemed a last resort. New knights should be config
     - Use of course types for fin and foil - H1 (hydrofoil) or S1 / S2 (shore)
     - Heats throughout the week - configuration and reporting
     - Heat naming across days and multiple fleets all having heat 1 at different times - 1a, 1b, 1c, etc
+  - Laptop
+    - Useful aliases - server, results, series
+    - Useful scripts - knights, motions, etc
   - GPSResults
-    - Foil course - 500m width
-    - Loading logs (use Windows folder) + gates
-    - Setting time limits - daylight saving
+    - Processing logs - use Windows folder to improve load times
+    - Foil course - requires width of 500m
+    - Setting time limits - consider daylight saving
     - Exporting results
   - Reporting
     - Mention DNC, DNS, DNF
@@ -69,21 +77,23 @@ Note: Dummy records should be deemed a last resort. New knights should be config
     - Identifying suspect Motion logs - SOG > 30 and sAcc > 1.5 in course area 
   - Fixes
     - Changing names, nationalities and sail numbers
-    - Correcting results using logs from backup devices when device fails or produces poor quality data
+    - Correcting results using logs from backup devices- forgotten device, device failure, or poor quality data
 - Coding
-  - Entrants
-    - Fix sorting of accented characters - e.g. Sébastien should come before Simon in entrant list
+  - Heats
+    - Consider individual pages / reports for each heat - need to consider CSS implications
   - Series
-    - Add support for knights in Sailwave file that have no max speeds for the week
-    - Add support for DNC, DNS and DNF
-    - Make more robust, so that slight name / sail number mismatches are not problematic
     - Show individual heat results in different columns
+    - Add support for DNC, DNS and DNF
+    - Add support for knights that have no max speeds for the week - only DNS, DNF, etc
+    - Make more robust, so that slight name / sail number mismatches are not problematic
     - Move Python script into sse-results project
     - Implement UKWA series within wsw-results
+  - Entrants
+    - Fix sorting of accented characters - e.g. Sébastien should come before Simon in entrant list
   - Adhoc
     - Improve Python code that creates adhoc charts - avoid memory bloat which causes issues on modest laptops
     - Package the Python script that looks for poor quality data in motion logs
   - Create new key for GitHub commits, rather than using the current key
 - Administration
   - Nick to send bank details to Principe
-  - Mike to contact Bjorn Haacke (German Speed) about Motion Minis, and to introduce Julien
+  - Mike to introduce Bjorn Haacke to Julien, regarding devices for the German Championship
