@@ -88,11 +88,39 @@
 
 - Wrote script to identify logs where the data is potentially suspect 
     - Points in the course area (geo-fencing) where SOG \>= 30 knots and sAcc >= 1.5 knots
-        - MOR854PIE - 24 Apr - Confirmed as poor quality data, so used backup device
-        - BOR810CHR - 24 Apr - Confirmed as poor quality data, so used backup device
-        - TOR835MEL - 23 Apr - Potentially affected just one run @ 12:45:01
-        - KOL827LUI - 24 Apr - Crash @ 13:12:30, not iffy data during a run
-        - PRU801AIV - 24 Apr - Crash @ 12:54:02, not iffy data during a run
+        - 24 Apr
+          - BOR810CHR - FIXED - Confirmed as poor quality data, so used backup device
+          - KOL827LUI - Crash @ 13:12:30, not iffy data during a run
+          - MOR854PIE - FIXED - Confirmed as poor quality data, so used backup device
+          - PRU801AIV - Crash @ 12:54:02, not iffy data during a run
+        - 23 Apr
+          - TOR835MEL - Potentially affected one run @ 12:45:01
+    - Adding criteria sats < 15
+        - 24 Apr
+          - BOR810CHR_810_20240424 - FIXED - Confirmed as poor quality data, so used backup device
+          - FAB625ROB_625_20240424 - Appears to be pretty normal
+          - GAR845NIC_845_20240424 - Possibly not the best, but seems ok
+          - KOL827LUI_827_20240424 - Crash @ 13:12:30, not iffy data during a run
+          - MOR854PIE_854_20240424 - FIXED - Confirmed as poor quality data, so used backup device
+          - PRU801AIV_801_20240424 - Crash @ 12:54:02, not iffy data during a run
+        - 23 Apr
+          - BOR810CHR_810_20240423 - Another track of Christian's
+          - OTT869TIM_869_20240423 - TODO - Needs revision
+          - TOR836MEL_836_20240423 - Potentially affected one run @ 12:45:01
+    - Adding criteria hAcc >= 2.5, instead of sats
+        - 24 Apr
+          - BOR810CHR_810_20240424 - FIXED - Confirmed as poor quality data, so used backup device
+          - GAR845NIC_845_20240424 - Possibly not the best, but seems ok
+          - KOL827LUI_827_20240424 - Crash @ 13:12:30, not iffy data during a run
+          - MOR854PIE_854_20240424 - FIXED - Confirmed as poor quality data, so used backup device
+          - OTT869TIM_869_20240424 - TODO - Needs revision
+          - PRU801AIV_801_20240424 - Crash @ 12:54:02, not iffy data during a run
+        - 23 Apr
+          - GAR845NIC_845_20240423 - Seems ok since sAcc around 0.6 knots when hAcc is elevated
+          - KUP823KLA_823_20240423 - Possibly not the best, but seems ok
+          - MOR854PIE_854_20240423 - Potentially affected one run where sAcc > 2 knots @ 14:45:47
+          - OTT869TIM_869_20240423 - TODO - Needs revision
+          - TOR836MEL_836_20240423 - Potentially affected one run @ 12:45:01
 - Tweaks to entrants
   - Fixed sail numbers
       - Changed K33 and K88 to GBR-33 and GBR-888
