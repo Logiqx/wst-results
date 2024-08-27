@@ -30,6 +30,15 @@
         ],
         "9004 Weymouth Speed Week": [
           "New custom firmware based on 3209. Required for newer Motion minis. Used for WSW 2023"
+        ],
+        "9005 Weymouth Speed Week": [
+          "New custom firmware based on 3212. Special 2 knot minimum for youths"
+        ],
+        "9007 Weymouth SW (3231)": [
+          "New custom firmware based on 3231. Implements live 2s > 3 knots filter"
+        ],
+        "9008 Weymouth SW (3232)": [
+          "New custom firmware based on 3232. No other changes"
         ]
       },
       "Thresholds": {
