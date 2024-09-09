@@ -8,37 +8,37 @@
     {
       "Title": "Heat 1 - Windsurf",
       "Comment": "(includes men and women)",
-      "Filter": "Craft Type=Windsurf,ISWC=Heat 1b",
+      "Filter": "Craft Type=Windsurf,ISWC=Heat 1",
       "Fleet": "Windsurf"
     },
     {
       "Title": "Heat 1 - Kite",
       "Comment": "(includes men and women)",
-      "Filter": "Craft Type=Kite,ISWC=Heat 1b",
+      "Filter": "Craft Type=Kite,ISWC=Heat 1",
       "Fleet": "Kite"
     },
     {
       "Title": "Heat 1 - Windfoil",
       "Comment": "(includes men, women, and youths)",
-      "Filter": "Craft Type=Windfoil,ISWC=Heat 1a",
+      "Filter": "Craft Type=Windfoil,ISWC=Heat 1",
       "Fleet": "Windfoil"
     },
     {
       "Title": "Heat 1 - Kitefoil",
       "Comment": "(includes men, women, and youths)",
-      "Filter": "Craft Type=Kitefoil,ISWC=Heat 1a",
+      "Filter": "Craft Type=Kitefoil,ISWC=Heat 1",
       "Fleet": "Kitefoil"
     },
     {
       "Title": "Heat 1 - Wing",
       "Comment": "(includes men, women, and youths)",
-      "Filter": "Craft Type=Wing,ISWC=Heat 1a",
+      "Filter": "Craft Type=Wing,ISWC=Heat 1",
       "Fleet": "Wing"
     },
     {
       "Title": "Heat 1 - Boat",
       "Comment": "(includes men, women, and youths)",
-      "Filter": "Craft Type=Boat,ISWC=Heat 1a",
+      "Filter": "Craft Type=Boat,ISWC=Heat 1",
       "Fleet": "Boat"
     }
   ]
