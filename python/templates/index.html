@@ -17,7 +17,7 @@
       {% endif %}
       {% for subDir in subDirs %}
       {% if subDir.logo is defined and subDir.logo %}
-      <a href="{{ subDir.href }}"><img src="{{ subDir.logo['src'] }}" alt="{{ subDir.logo['alt'] }}" width="{{ subDir.logo['width'] }}" height="{{ subDir.logo['height'] }}" /></a>
+      <p><a href="{{ subDir.href }}"><img src="{{ subDir.logo['src'] }}" alt="{{ subDir.logo['alt'] }}" width="{{ subDir.logo['width'] }}" height="{{ subDir.logo['height'] }}" /></a></p>
       {% else %}
       <h3><a href="{{ subDir.href }}">{{ subDir.label }}</a></h3>
       <p class="medium">{{ subDir.fastest }}{% if subDir.speed is not none %}<br/>{{ subDir.speed }} knots{% endif %}</p>
