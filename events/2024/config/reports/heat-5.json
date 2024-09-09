@@ -1,0 +1,39 @@
+{
+  "Suptitle": "Heat 5 - {Date}",
+  "Period": "Session",
+  "Fields": "Name,Nation,Sail No,Run 1 (kts),Run 2 (kts),Avg (kts)",
+  "Sort": "Avg (kts)=DSC,Run 1 (kts)=DSC",
+  "Series": "ISWC",
+  "Reports": [
+    {
+      "Title": "Heat 5 - Windsurf Men",
+      "Comment": "(excludes youths)",
+      "Filter": "Craft Type=Windsurf,Gender=M,Age<>Youth,ISWC=Heat 5",
+      "Fleet": "Windsurf Men"
+    },
+    {
+      "Title": "Heat 5 - Windsurf Women",
+      "Comment": "(includes youths)",
+      "Filter": "Craft Type=Windsurf,Gender=F,ISWC=Heat 5",
+      "Fleet": "Windsurf Women"
+    },
+    {
+      "Title": "Heat 5 - Youth Men",
+      "Comment": "(windsurf)",
+      "Filter": "Craft Type=Windsurf,Gender=M,Age=Youth,ISWC=Heat 5",
+      "Fleet": "Youth Men"
+    },
+    {
+      "Title": "Heat 5 - Youth Women",
+      "Comment": "(windsurf)",
+      "Filter": "Craft Type=Windsurf,Gender=F,Age=Youth,ISWC=Heat 5",
+      "Fleet": "Youth Women"
+    },
+    {
+      "Title": "Heat 5 - Windfoil Open",
+      "Comment": "(includes men, women, and youths)",
+      "Filter": "Craft Type=Windfoil,ISWC=Heat 5",
+      "Fleet": "Windfoil Open"
+    }
+  ]
+}

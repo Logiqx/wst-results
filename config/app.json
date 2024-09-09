@@ -29,12 +29,17 @@
   },
   "Priorities": {
     "iswc": 1,
-    "heats": 2,
-    "valid": 3,
-    "fastest": 11,
-    "bests": 12,
-    "runs": 13,
-    "entrants": 20
+    "heats": 10,
+    "heat-1": 11,
+    "heat-2": 12,
+    "heat-3": 13,
+    "heat-4": 14,
+    "heat-5": 15,
+    "valid": 30,
+    "fastest": 40,
+    "bests": 41,
+    "runs": 42,
+    "entrants": 50
   },
   "Emojis": {
     "Trophy": "🏆",
