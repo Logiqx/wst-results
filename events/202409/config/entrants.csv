@@ -1,0 +1,12 @@
+ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
+3,Mr,Antoine,Albeau,France,FRA-192,Windsurf,Adult
+8,Mr,Cédric,Bordes,France,FRA-91,Windsurf,Adult
+11,Mr,Cyril,Evrard,Belgium,BEL-250,Windsurf,Youth
+17,Ms,Heidi,Ulrich,Switzerland,SUI-204,Windsurf,Adult
+23,Mr,Laurent,Fesquet,France,FRA-66,Windsurf,Adult
+45,Mr,Vincent,Valkenaers,Belgium,BEL-62,Windsurf,Adult
+52,Mr,Robert,Fabrice,France,FRA-816,Windsurf,Adult
+1003,Mr,Antoine,Albeau,France,FRA-192,Windfoil,Adult
+1008,Mr,Cédric,Bordes,France,FRA-91,Windfoil,Adult
+1011,Mr,Cyril,Evrard,Belgium,BEL-250,Windfoil,Youth
+1045,Mr,Vincent,Valkenaers,Belgium,BEL-62,Windfoil,Adult
