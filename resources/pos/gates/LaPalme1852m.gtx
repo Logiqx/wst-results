@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<gatePositions version="1.0" creator="GPSResults V6.190 - https://www.gps-speed.com">
+    <tracklength>1853.0</tracklength>
+    <gatewidth>250.0</gatewidth>
+    <start>
+        <position lat="42.969499212502" lon="3.046449761150" />
+    </start>
+    <finish>
+        <position lat="42.953236130000" lon="3.041715753000" />
+    </finish>
+    <corners>
+        <position lat_lon="42.9692881 3.0479549 42.9697585 3.0449586 42.9529768 3.0432069 42.9534473 3.0402106" />
+    </corners>
+</gatePositions>
