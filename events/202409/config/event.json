@@ -1,6 +1,6 @@
 {
   "Event": {
-    "Name": "Farrel Cup",
+    "Name": "POS - Farrel Cup",
     "Start Date": "2024-08-30",
     "End Date": "2024-09-21"
   },
@@ -35,9 +35,12 @@
   },
   "Entrants": {
     "Craft Type": [
-      "Kitesurf",
+      "Boat",
+      "Kite",
+      "Kitefoil",
       "Windsurf",
       "Windfoil",
+      "Wing",
       "TBC"
     ],
     "Gender": [
