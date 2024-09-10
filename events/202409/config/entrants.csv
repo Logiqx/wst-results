@@ -9,7 +9,7 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age,GT31 ID
 8,Mr,Enrique,Del Valle,Spain,ESP-719,Windsurf,Adult,ESP-719
 9,Mr,Robert,Fabrice,France,FRA-816,Windsurf,Adult,FRA-816
 10,Mr,Franek,Debowski,Poland,POL-200,Windsurf,Adult,POL-200
-11,Mr,Heidi,Ulrich,Switzerland,SUI-204,Windsurf,Adult,SUI-204
+11,Ms,Heidi,Ulrich,Switzerland,SUI-204,Windsurf,Adult,SUI-204
 12,Mr,Klaus,Küppenbender,Germany,GER-18,Windsurf,Adult,GER-18
 13,Mr,Laurent,Fesquet,France,FRA-66,Windsurf,Adult,FRA-66
 14,Mr,Nicolas,Warembourg,France,FRA-531,Windsurf,Adult,FRA-531
@@ -21,3 +21,4 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age,GT31 ID
 20,Mr,Franck,Veillon,France,FRA-4,Kite,Adult,FRA-4
 21,Mr,Patrice,Imart,France,FRA-7,Kite,Adult,FRA-7
 22,Mr,Yann,Derrien,France,FRA-40,Kite,Adult,FRA-40
+23,Mr,Fred,Alcazar,France,FRA-0,Kite,Adult,FRA-0
