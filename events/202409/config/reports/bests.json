@@ -13,11 +13,6 @@
   "ShowSpeeds": 10,
   "Reports": [
     {
-      "Title": "Overall",
-      "Comment": "(includes all divisions)",
-      "Fields": "Name,Nation,Craft Type,Sail No,Speed (kts),Other Run Speeds (kts)"
-    },
-    {
       "Title": "Windsurf",
       "Comment": "(includes men and women)",
       "Filter": "Craft Type=Windsurf"
