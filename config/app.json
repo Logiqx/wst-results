@@ -28,6 +28,7 @@
     "Verbosity": 2
   },
   "Priorities": {
+    "farrel": 0,
     "iswc": 1,
     "heats": 10,
     "heat-1": 11,
