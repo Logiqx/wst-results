@@ -1,5 +1,5 @@
 {
-  "Suptitle": "POS Foil Heat - {Date}",
+  "Suptitle": "ISWC Foil Heat - {Date}",
   "Period": "Session",
   "Fields": "Name,Nation,Sail No,Run 1 (kts),Run 2 (kts),Avg (kts)",
   "Sort": "Avg (kts)=DSC,Run 1 (kts)=DSC",
@@ -12,34 +12,10 @@
       "Fleet": "Windsurf"
     },
     {
-      "Title": "Foil Heat - Kite",
-      "Comment": "(includes men and women)",
-      "Filter": "Craft Type=Kite,ISWC=Foils",
-      "Fleet": "Kite"
-    },
-    {
       "Title": "Foil Heat - Windfoil",
       "Comment": "(includes men, women, and youths)",
       "Filter": "Craft Type=Windfoil,ISWC=Foils",
       "Fleet": "Windfoil"
-    },
-    {
-      "Title": "Foil Heat - Kitefoil",
-      "Comment": "(includes men, women, and youths)",
-      "Filter": "Craft Type=Kitefoil,ISWC=Foils",
-      "Fleet": "Kitefoil"
-    },
-    {
-      "Title": "Foil Heat - Wing",
-      "Comment": "(includes men, women, and youths)",
-      "Filter": "Craft Type=Wing,ISWC=Foils",
-      "Fleet": "Wing"
-    },
-    {
-      "Title": "Foil Heat - Boat",
-      "Comment": "(includes men, women, and youths)",
-      "Filter": "Craft Type=Boat,ISWC=Foils",
-      "Fleet": "Boat"
     }
   ]
 }
