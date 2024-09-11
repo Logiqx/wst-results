@@ -1,0 +1,45 @@
+{
+  "Suptitle": "POS Heat 3 - {Date}",
+  "Period": "Session",
+  "Fields": "Name,Nation,Sail No,Run 1 (kts),Run 2 (kts),Avg (kts)",
+  "Sort": "Avg (kts)=DSC,Run 1 (kts)=DSC",
+  "Series": "ISWC",
+  "Reports": [
+    {
+      "Title": "Heat 3 - Windsurf",
+      "Comment": "(includes men and women)",
+      "Filter": "Craft Type=Windsurf,ISWC=Heat 3",
+      "Fleet": "Windsurf"
+    },
+    {
+      "Title": "Heat 3 - Kite",
+      "Comment": "(includes men and women)",
+      "Filter": "Craft Type=Kite,ISWC=Heat 3",
+      "Fleet": "Kite"
+    },
+    {
+      "Title": "Heat 3 - Windfoil",
+      "Comment": "(includes men, women, and youths)",
+      "Filter": "Craft Type=Windfoil,ISWC=Heat 3",
+      "Fleet": "Windfoil"
+    },
+    {
+      "Title": "Heat 3 - Kitefoil",
+      "Comment": "(includes men, women, and youths)",
+      "Filter": "Craft Type=Kitefoil,ISWC=Heat 3",
+      "Fleet": "Kitefoil"
+    },
+    {
+      "Title": "Heat 3 - Wing",
+      "Comment": "(includes men, women, and youths)",
+      "Filter": "Craft Type=Wing,ISWC=Heat 3",
+      "Fleet": "Wing"
+    },
+    {
+      "Title": "Heat 3 - Boat",
+      "Comment": "(includes men, women, and youths)",
+      "Filter": "Craft Type=Boat,ISWC=Heat 3",
+      "Fleet": "Boat"
+    }
+  ]
+}
