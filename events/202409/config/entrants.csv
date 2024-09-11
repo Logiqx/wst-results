@@ -21,8 +21,7 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age,GT31 ID
 20,Mr,Franck,Veillon,France,FRA-4,Kite,Adult,FRA-4
 21,Mr,Patrice,Imart,France,FRA-7,Kite,Adult,FRA-7
 22,Mr,Yann,Derrien,France,FRA-40,Kite,Adult,FRA-40
-23,Mr,Fred,Alcazar,France,FRA-0,Kite,Adult,FRA-0
-24,Mr,FRA,148,France,FRA-148,Windsurf,Adult,FRA-148
+23,Mr,Fred,Alcazar,France,FRA-148,Kite,Adult,FRA-148
 1006,Mr,Cyril,Evrard,Belgium,BEL-250,Windfoil,Adult,BEL-250-foil
 1001,Mr,Antoine,Albeau,France,FRA-192,Windfoil,Adult,FRA-192-foil
 1014,Mr,Nicolas,Warembourg,France,FRA-531,Windfoil,Adult,FRA-531-foil
