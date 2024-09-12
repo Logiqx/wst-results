@@ -16,7 +16,8 @@
     {
       "Title": "Overall",
       "Comment": "(includes all divisions)",
-      "Fields": "Name,Nation,Craft Type,Sail No,Time,Speed (kts)"
+      "Fields": "Name,Nation,Craft Type,Sail No,Time,Speed (kts)",
+      "Filter": "Craft Type<>Windfoil,Craft Type<>Kitefoil"
     },
     {
       "Title": "Windsurf",
