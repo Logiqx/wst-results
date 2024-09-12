@@ -15,7 +15,7 @@
   "Reports": [
     {
       "Title": "Overall",
-      "Comment": "(includes all divisions)",
+      "Comment": "(includes windsurf and kite)",
       "Fields": "Name,Nation,Craft Type,Sail No,Time,Speed (kts)",
       "Filter": "Craft Type<>Windfoil,Craft Type<>Kitefoil"
     },
