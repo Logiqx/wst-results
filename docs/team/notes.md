@@ -83,11 +83,9 @@ Notes:
     - Consider individual pages / reports for each heat - need to consider CSS implications
   - Series
     - Show individual heat results in different columns
-    - Add support for DNC, DNS and DNF
-    - Add support for knights that have no max speeds for the week - only DNS, DNF, etc
-    - Make more robust, so that slight name / sail number mismatches are not problematic
-    - Move Python script into sse-results project
     - Implement UKWA series within wsw-results
+      - Move Python script into sse-results project
+    - Add support for DNC, DNS and DNF in session + heat pages?
   - Entrants
     - Fix sorting of accented characters - e.g. Sébastien should come before Simon in entrant list
   - Adhoc
