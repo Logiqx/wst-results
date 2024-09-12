@@ -22,6 +22,9 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age,GT31 ID
 21,Mr,Patrice,Imart,France,FRA-7,Kite,Adult,FRA-7
 22,Mr,Yann,Derrien,France,FRA-40,Kite,Adult,FRA-40
 23,Mr,Fred,Alcazar,France,FRA-148,Kite,Adult,FRA-148
+24,Mr,Georg,Nassauer,Germany,GER-348,Windsurf,Adult,GER-348
+25,Mr,Thomas,Moldenhauer,Germany,GER-215,Windsurf,Adult,GER-215
+26,Mr,Augusto,Teixeira,Portugal,POR-131,Windsurf,Adult,POR-131
 1006,Mr,Cyril,Evrard,Belgium,BEL-250,Windfoil,Adult,BEL-250-foil
 1001,Mr,Antoine,Albeau,France,FRA-192,Windfoil,Adult,FRA-192-foil
 1014,Mr,Nicolas,Warembourg,France,FRA-531,Windfoil,Adult,FRA-531-foil
