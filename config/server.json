@@ -39,6 +39,9 @@
         ],
         "9008 Weymouth SW (3232)": [
           "New custom firmware based on 3232. No other changes"
+        ],
+        "9009 Weymouth SW (3232)": [
+          "New custom firmware based on 3232. Recognises the last 16 identifiers"
         ]
       },
       "Thresholds": {
