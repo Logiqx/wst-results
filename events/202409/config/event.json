@@ -52,7 +52,8 @@
   "Series": {
     "ISWC": {
       "Name": "ISWC Speed Championship",
-      "Filter": "Craft Type<>TBC"
+      "Filter": "Craft Type<>TBC",
+      "Refresh": true
     }
   }
 }
