@@ -14,7 +14,7 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 13,Mr,Christian,Bornemann,Germany,GER-29,Windsurf,Adult
 14,Mr,Daniele,Benedetti,Italy,ITA-60,Windsurf,Adult
 15,Mr,Edu,Hoekstra,Netherlands,?,Windsurf,Adult
-16,Mr,Edwin,Buruma,Netherlands,?,Windsurf,Adult
+16,Mr,Edwin,Buruma,Netherlands,NED-288,Windsurf,Adult
 17,Mr,Franek,Debowski,Poland,POL-200,Windsurf,Adult
 18,Mr,Gaspar Evelio,Schwarzenla,Austria,AUT-33,Windsurf,Adult
 19,Mr,Guillaume,Demartres,France,FRA-10,Windsurf,Adult
@@ -45,7 +45,7 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 44,Mr,Thomas,Moldenhauer,Germany,GER-215,Windsurf,Adult
 45,Mr,Thorsten,Luig,Germany,GER-211,Windsurf,Adult
 46,Mr,Tom,Malina,Czech Republic,CZE-105,Windsurf,Adult
-47,Mr,Tristan,Tjerks,Netherlands,?,Windsurf,Adult
+47,Mr,Tristan,Tjerks,Netherlands,NED-555,Windsurf,Adult
 48,Mr,Vincent,Valkenaers,Belgium,BEL-62,Windsurf,Adult
 49,Mr,Wilfried,Vanherweghe,France,FRA-163,Windsurf,Adult
 50,Mr,William,Huppert,France,FRA-330,Windsurf,Adult
