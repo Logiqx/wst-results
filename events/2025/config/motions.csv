@@ -16,7 +16,7 @@ Entrant ID,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Craft Ty
 15,817,2025-04-27,2025-05-06,HOE817EDU,Edu,Hoekstra,Windsurf
 16,818,2025-04-27,2025-05-06,BUR818EDW,Edwin,Buruma,Windsurf
 17,819,2025-04-27,2025-05-06,DEB819FRA,Franek,Debowski,Windsurf
-18,821,2025-04-27,2025-05-06,SCH648GAS,Gaspar Evelio,Schwarzenlander,Windsurf
+18,648,2025-04-27,2025-05-06,SCH648GAS,Gaspar Evelio,Schwarzenlander,Windsurf
 19,822,2025-04-27,2025-05-06,DEM822GUI,Guillaume,Demartres,Windsurf
 20,823,2025-04-27,2025-05-06,LEM823GUI,Guillaume,Lemoine,Windsurf
 21,824,2025-04-27,2025-05-06,KRE824HAN,Hans,Kreisel,Windsurf
@@ -53,6 +53,7 @@ Entrant ID,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Craft Ty
 52,1039,2025-04-27,2025-05-06,ROB1039FAB,Fabrice,Robert,Windsurf
 53,1043,2025-04-27,2025-05-06,WES1043ISA,Isabelle,Westervelp,Windsurf
 54,1045,2025-04-27,2025-05-06,GYG1045JAN,Jan,Gyger,Windsurf
+55,1037,2025-04-27,2025-05-06,ROL1037NEL,Nelson,Moura,Windsurf
 904,8040,2025-04-27,2025-05-06,ALB8040ANT,Antoine,Albeau,Windfoil
 910,8110,2025-04-27,2025-05-06,LOR8110BRE,Brendan,Lorho,Windfoil
 935,8610,2025-04-27,2025-05-06,GEO8610MIC,Michael,George,Windfoil
