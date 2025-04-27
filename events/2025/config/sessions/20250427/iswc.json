@@ -1,0 +1,10 @@
+{
+  "Heat 1a": {
+    "Start Time": "11:15:00",
+    "End Time": "12:01:00"
+  },
+  "Heat 1b": {
+    "Start Time": "12:30:00",
+    "End Time": "15:36:00"
+  }
+}
