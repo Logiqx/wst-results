@@ -8,31 +8,31 @@
     {
       "Title": "Heat 1 - Windsurf Men",
       "Comment": "(excludes youths)",
-      "Filter": "Craft Type=Windsurf,Gender=M,Age<>Youth,ISWC=Heat 1b",
+      "Filter": "Craft Type=Windsurf,Gender=M,Age<>Youth,ISWC=Heat 1a",
       "Fleet": "Windsurf Men"
     },
     {
       "Title": "Heat 1 - Windsurf Women",
       "Comment": "(includes youths)",
-      "Filter": "Craft Type=Windsurf,Gender=F,ISWC=Heat 1b",
+      "Filter": "Craft Type=Windsurf,Gender=F,ISWC=Heat 1a",
       "Fleet": "Windsurf Women"
     },
     {
       "Title": "Heat 1 - Youth Men",
       "Comment": "(windsurf)",
-      "Filter": "Craft Type=Windsurf,Gender=M,Age=Youth,ISWC=Heat 1b",
+      "Filter": "Craft Type=Windsurf,Gender=M,Age=Youth,ISWC=Heat 1a",
       "Fleet": "Youth Men"
     },
     {
       "Title": "Heat 1 - Youth Women",
       "Comment": "(windsurf)",
-      "Filter": "Craft Type=Windsurf,Gender=F,Age=Youth,ISWC=Heat 1b",
+      "Filter": "Craft Type=Windsurf,Gender=F,Age=Youth,ISWC=Heat 1a",
       "Fleet": "Youth Women"
     },
     {
       "Title": "Heat 1 - Windfoil Open",
       "Comment": "(includes men, women, and youths)",
-      "Filter": "Craft Type=Windfoil,ISWC=Heat 1a",
+      "Filter": "Craft Type=Windfoil,ISWC=Heat 1b",
       "Fleet": "Windfoil Open"
     }
   ]
