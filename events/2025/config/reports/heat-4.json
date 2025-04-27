@@ -7,8 +7,8 @@
   "Reports": [
     {
       "Title": "Heat 4 - Windsurf Men",
-      "Comment": "(excludes youths)",
-      "Filter": "Craft Type=Windsurf,Gender=M,Age<>Youth,ISWC=Heat 4",
+      "Comment": "(includes youths)",
+      "Filter": "Craft Type=Windsurf,Gender=M,ISWC=Heat 4",
       "Fleet": "Windsurf Men"
     },
     {

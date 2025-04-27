@@ -7,8 +7,8 @@
   "Reports": [
     {
       "Title": "Heat 5 - Windsurf Men",
-      "Comment": "(excludes youths)",
-      "Filter": "Craft Type=Windsurf,Gender=M,Age<>Youth,ISWC=Heat 5",
+      "Comment": "(includes youths)",
+      "Filter": "Craft Type=Windsurf,Gender=M,ISWC=Heat 5",
       "Fleet": "Windsurf Men"
     },
     {
