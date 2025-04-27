@@ -14,8 +14,8 @@
   "Reports": [
     {
       "Title": "Windsurf Men",
-      "Comment": "(excludes youth men)",
-      "Filter": "Craft Type=Windsurf,Gender=M,Age<>Youth"
+      "Comment": "(includes youth men)",
+      "Filter": "Craft Type=Windsurf,Gender=M"
     },
     {
       "Title": "Windsurf Women",
