@@ -1,0 +1,15 @@
+{
+  "LEL935THE_935_20250427_092655.oao": {
+    "motion_file": "/logs/2025/04/0935_2025-04-27-0926.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/LEL935THE_935_20250427_092655.oao",
+    "size": 1656540,
+    "start_date": 1745742415000,
+    "end_date": 1745768345000,
+    "duration": 25930000,
+    "distance": 59994272,
+    "2s_best": 21556,
+    "10s_best": 21316,
+    "500m_best": 20893,
+    "status": "completed"
+  }
+}

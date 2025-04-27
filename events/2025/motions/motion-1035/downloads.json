@@ -1,0 +1,15 @@
+{
+  "BOU1035SEB_1035_20250427_092311.oao": {
+    "motion_file": "/logs/2025/04/1035_2025-04-27-0923.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/BOU1035SEB_1035_20250427_092311.oao",
+    "size": 2440492,
+    "start_date": 1745742191000,
+    "end_date": 1745768339000,
+    "duration": 26148000,
+    "distance": 102595634,
+    "2s_best": 21500,
+    "10s_best": 21242,
+    "500m_best": 20905,
+    "status": "completed"
+  }
+}

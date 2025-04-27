@@ -1,0 +1,15 @@
+{
+  "WAR866NIC_866_20250427_092655.oao": {
+    "motion_file": "/logs/2025/04/0866_2025-04-27-0926.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/WAR866NIC_866_20250427_092655.oao",
+    "size": 2320996,
+    "start_date": 1745742415000,
+    "end_date": 1745768347000,
+    "duration": 25932000,
+    "distance": 101888541,
+    "2s_best": 22042,
+    "10s_best": 21541,
+    "500m_best": 20944,
+    "status": "completed"
+  }
+}

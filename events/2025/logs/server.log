@@ -1,0 +1,348 @@
+2025-04-27 15:38:06,WARNING,Motion 804 assigned to multiple people on 20250427
+2025-04-27 15:38:06,WARNING,Motion 804 assigned to multiple people on 20250428
+2025-04-27 15:38:06,WARNING,Motion 804 assigned to multiple people on 20250429
+2025-04-27 15:38:06,WARNING,Motion 804 assigned to multiple people on 20250430
+2025-04-27 15:38:06,WARNING,Motion 804 assigned to multiple people on 20250501
+2025-04-27 15:38:06,WARNING,Motion 804 assigned to multiple people on 20250502
+2025-04-27 15:38:06,WARNING,Motion 804 assigned to multiple people on 20250503
+2025-04-27 15:38:06,WARNING,Motion 804 assigned to multiple people on 20250504
+2025-04-27 15:38:06,WARNING,Motion 804 assigned to multiple people on 20250505
+2025-04-27 15:38:06,WARNING,Motion 804 assigned to multiple people on 20250506
+2025-04-27 15:38:06,WARNING,Motion 811 assigned to multiple people on 20250427
+2025-04-27 15:38:06,WARNING,Motion 811 assigned to multiple people on 20250428
+2025-04-27 15:38:06,WARNING,Motion 811 assigned to multiple people on 20250429
+2025-04-27 15:38:06,WARNING,Motion 811 assigned to multiple people on 20250430
+2025-04-27 15:38:06,WARNING,Motion 811 assigned to multiple people on 20250501
+2025-04-27 15:38:06,WARNING,Motion 811 assigned to multiple people on 20250502
+2025-04-27 15:38:06,WARNING,Motion 811 assigned to multiple people on 20250503
+2025-04-27 15:38:06,WARNING,Motion 811 assigned to multiple people on 20250504
+2025-04-27 15:38:06,WARNING,Motion 811 assigned to multiple people on 20250505
+2025-04-27 15:38:06,WARNING,Motion 811 assigned to multiple people on 20250506
+2025-04-27 15:38:06,WARNING,Motion 861 assigned to multiple people on 20250427
+2025-04-27 15:38:06,WARNING,Motion 861 assigned to multiple people on 20250428
+2025-04-27 15:38:06,WARNING,Motion 861 assigned to multiple people on 20250429
+2025-04-27 15:38:06,WARNING,Motion 861 assigned to multiple people on 20250430
+2025-04-27 15:38:06,WARNING,Motion 861 assigned to multiple people on 20250501
+2025-04-27 15:38:06,WARNING,Motion 861 assigned to multiple people on 20250502
+2025-04-27 15:38:06,WARNING,Motion 861 assigned to multiple people on 20250503
+2025-04-27 15:38:06,WARNING,Motion 861 assigned to multiple people on 20250504
+2025-04-27 15:38:06,WARNING,Motion 861 assigned to multiple people on 20250505
+2025-04-27 15:38:06,WARNING,Motion 861 assigned to multiple people on 20250506
+2025-04-27 15:38:06,WARNING,Motion 866 assigned to multiple people on 20250427
+2025-04-27 15:38:06,WARNING,Motion 866 assigned to multiple people on 20250428
+2025-04-27 15:38:06,WARNING,Motion 866 assigned to multiple people on 20250429
+2025-04-27 15:38:06,WARNING,Motion 866 assigned to multiple people on 20250430
+2025-04-27 15:38:06,WARNING,Motion 866 assigned to multiple people on 20250501
+2025-04-27 15:38:06,WARNING,Motion 866 assigned to multiple people on 20250502
+2025-04-27 15:38:06,WARNING,Motion 866 assigned to multiple people on 20250503
+2025-04-27 15:38:06,WARNING,Motion 866 assigned to multiple people on 20250504
+2025-04-27 15:38:06,WARNING,Motion 866 assigned to multiple people on 20250505
+2025-04-27 15:38:06,WARNING,Motion 866 assigned to multiple people on 20250506
+2025-04-27 15:38:06,WARNING,Motion 935 assigned to multiple people on 20250427
+2025-04-27 15:38:06,WARNING,Motion 935 assigned to multiple people on 20250428
+2025-04-27 15:38:06,WARNING,Motion 935 assigned to multiple people on 20250429
+2025-04-27 15:38:06,WARNING,Motion 935 assigned to multiple people on 20250430
+2025-04-27 15:38:06,WARNING,Motion 935 assigned to multiple people on 20250501
+2025-04-27 15:38:06,WARNING,Motion 935 assigned to multiple people on 20250502
+2025-04-27 15:38:06,WARNING,Motion 935 assigned to multiple people on 20250503
+2025-04-27 15:38:06,WARNING,Motion 935 assigned to multiple people on 20250504
+2025-04-27 15:38:06,WARNING,Motion 935 assigned to multiple people on 20250505
+2025-04-27 15:38:06,WARNING,Motion 935 assigned to multiple people on 20250506
+2025-04-27 15:38:06,WARNING,Motion 1035 assigned to multiple people on 20250427
+2025-04-27 15:38:06,WARNING,Motion 1035 assigned to multiple people on 20250428
+2025-04-27 15:38:06,WARNING,Motion 1035 assigned to multiple people on 20250429
+2025-04-27 15:38:06,WARNING,Motion 1035 assigned to multiple people on 20250430
+2025-04-27 15:38:06,WARNING,Motion 1035 assigned to multiple people on 20250501
+2025-04-27 15:38:06,WARNING,Motion 1035 assigned to multiple people on 20250502
+2025-04-27 15:38:06,WARNING,Motion 1035 assigned to multiple people on 20250503
+2025-04-27 15:38:06,WARNING,Motion 1035 assigned to multiple people on 20250504
+2025-04-27 15:38:06,WARNING,Motion 1035 assigned to multiple people on 20250505
+2025-04-27 15:38:06,WARNING,Motion 1035 assigned to multiple people on 20250506
+2025-04-27 15:38:06,INFO,Starting thread pools
+2025-04-27 15:38:06,DEBUG,DetectionThreadPool starting
+2025-04-27 15:38:06,DEBUG,DetectionThread #1 starting
+2025-04-27 15:38:06,DEBUG,DetectionThread #2 starting
+2025-04-27 15:38:06,DEBUG,DetectionThread #3 starting
+2025-04-27 15:38:06,DEBUG,DetectionThread #4 starting
+2025-04-27 15:38:06,DEBUG,DetectionThread #5 starting
+2025-04-27 15:38:06,DEBUG,DetectionThread #6 starting
+2025-04-27 15:38:06,DEBUG,DetectionThread #7 starting
+2025-04-27 15:38:06,DEBUG,DetectionThread #8 starting
+2025-04-27 15:38:06,DEBUG,InspectionThreadPool starting
+2025-04-27 15:38:06,DEBUG,InspectionThread #1 starting
+2025-04-27 15:38:06,DEBUG,InspectionThread #2 starting
+2025-04-27 15:38:06,DEBUG,InspectionThread #3 starting
+2025-04-27 15:38:06,DEBUG,InspectionThread #4 starting
+2025-04-27 15:38:06,DEBUG,DownloadThreadPool starting
+2025-04-27 15:38:06,DEBUG,DownloadThread #1 starting
+2025-04-27 15:38:06,DEBUG,DownloadThread #2 starting
+2025-04-27 15:38:06,DEBUG,DownloadThread #3 starting
+2025-04-27 15:38:06,DEBUG,DownloadThread #4 starting
+2025-04-27 15:38:06,DEBUG,DisconnectionThreadPool starting
+2025-04-27 15:38:06,DEBUG,DisconnectionThread #1 starting
+2025-04-27 15:38:06,DEBUG,DisconnectionThread #2 starting
+2025-04-27 15:38:06,DEBUG,DisconnectionThread #3 starting
+2025-04-27 15:38:06,DEBUG,DisconnectionThread #4 starting
+2025-04-27 15:38:06,DEBUG,DisconnectionThread #5 starting
+2025-04-27 15:38:06,DEBUG,DisconnectionThread #6 starting
+2025-04-27 15:38:06,DEBUG,DisconnectionThread #7 starting
+2025-04-27 15:38:06,DEBUG,DisconnectionThread #8 starting
+2025-04-27 15:38:06,INFO,Thread pools started
+2025-04-27 15:38:24,INFO,Keyboard interrupt
+2025-04-27 15:38:24,INFO,Stopping thread pools
+2025-04-27 15:38:26,DEBUG,DetectionThreadPool has exceeded the interval time
+2025-04-27 15:38:26,DEBUG,DetectionThreadPool finished
+2025-04-27 15:38:26,DEBUG,DetectionThread #1 finished
+2025-04-27 15:38:26,DEBUG,DetectionThread #2 finished
+2025-04-27 15:38:26,DEBUG,DetectionThread #3 finished
+2025-04-27 15:38:26,DEBUG,DetectionThread #4 finished
+2025-04-27 15:38:26,DEBUG,DetectionThread #5 finished
+2025-04-27 15:38:26,DEBUG,DetectionThread #6 finished
+2025-04-27 15:38:26,DEBUG,DetectionThread #7 finished
+2025-04-27 15:38:26,DEBUG,DetectionThread #8 finished
+2025-04-27 15:38:26,DEBUG,InspectionThreadPool finished
+2025-04-27 15:38:26,DEBUG,InspectionThread #1 finished
+2025-04-27 15:38:26,DEBUG,InspectionThread #2 finished
+2025-04-27 15:38:26,DEBUG,InspectionThread #3 finished
+2025-04-27 15:38:26,DEBUG,InspectionThread #4 finished
+2025-04-27 15:38:26,DEBUG,DownloadThreadPool finished
+2025-04-27 15:38:26,DEBUG,DownloadThread #1 finished
+2025-04-27 15:38:26,DEBUG,DownloadThread #2 finished
+2025-04-27 15:38:26,DEBUG,DownloadThread #3 finished
+2025-04-27 15:38:26,DEBUG,DownloadThread #4 finished
+2025-04-27 15:38:26,DEBUG,DisconnectionThreadPool finished
+2025-04-27 15:38:26,DEBUG,DisconnectionThread #1 finished
+2025-04-27 15:38:26,DEBUG,DisconnectionThread #2 finished
+2025-04-27 15:38:26,DEBUG,DisconnectionThread #3 finished
+2025-04-27 15:38:26,DEBUG,DisconnectionThread #4 finished
+2025-04-27 15:38:26,DEBUG,DisconnectionThread #5 finished
+2025-04-27 15:38:26,DEBUG,DisconnectionThread #6 finished
+2025-04-27 15:38:26,DEBUG,DisconnectionThread #7 finished
+2025-04-27 15:38:26,DEBUG,DisconnectionThread #8 finished
+2025-04-27 15:38:26,INFO,Thread pools stopped
+2025-04-27 15:38:55,INFO,Starting thread pools
+2025-04-27 15:38:55,DEBUG,DetectionThreadPool starting
+2025-04-27 15:38:55,DEBUG,DetectionThread #1 starting
+2025-04-27 15:38:55,DEBUG,DetectionThread #2 starting
+2025-04-27 15:38:55,DEBUG,DetectionThread #3 starting
+2025-04-27 15:38:55,DEBUG,DetectionThread #4 starting
+2025-04-27 15:38:55,DEBUG,DetectionThread #5 starting
+2025-04-27 15:38:55,DEBUG,DetectionThread #6 starting
+2025-04-27 15:38:55,DEBUG,DetectionThread #7 starting
+2025-04-27 15:38:55,DEBUG,DetectionThread #8 starting
+2025-04-27 15:38:55,DEBUG,InspectionThreadPool starting
+2025-04-27 15:38:55,DEBUG,InspectionThread #1 starting
+2025-04-27 15:38:55,DEBUG,InspectionThread #2 starting
+2025-04-27 15:38:55,DEBUG,InspectionThread #3 starting
+2025-04-27 15:38:55,DEBUG,InspectionThread #4 starting
+2025-04-27 15:38:55,DEBUG,DownloadThreadPool starting
+2025-04-27 15:38:55,DEBUG,DownloadThread #1 starting
+2025-04-27 15:38:55,DEBUG,DownloadThread #2 starting
+2025-04-27 15:38:55,DEBUG,DownloadThread #3 starting
+2025-04-27 15:38:55,DEBUG,DownloadThread #4 starting
+2025-04-27 15:38:55,DEBUG,DisconnectionThreadPool starting
+2025-04-27 15:38:55,DEBUG,DisconnectionThread #1 starting
+2025-04-27 15:38:55,DEBUG,DisconnectionThread #2 starting
+2025-04-27 15:38:55,DEBUG,DisconnectionThread #3 starting
+2025-04-27 15:38:55,DEBUG,DisconnectionThread #4 starting
+2025-04-27 15:38:55,DEBUG,DisconnectionThread #5 starting
+2025-04-27 15:38:55,DEBUG,DisconnectionThread #6 starting
+2025-04-27 15:38:55,DEBUG,DisconnectionThread #7 starting
+2025-04-27 15:38:55,DEBUG,DisconnectionThread #8 starting
+2025-04-27 15:38:55,INFO,Thread pools started
+2025-04-27 15:40:15,DEBUG,DetectionThreadPool has exceeded the interval time
+2025-04-27 15:41:20,DEBUG,motion-1035 detected at 192.168.0.150
+2025-04-27 15:41:21,DEBUG,motion-1035 not accepting connections
+2025-04-27 15:41:21,DEBUG,DetectionThreadPool has exceeded the interval time
+2025-04-27 15:41:21,DEBUG,motion-866 detected at 192.168.0.146
+2025-04-27 15:41:21,DEBUG,motion-935 detected at 192.168.0.182
+2025-04-27 15:41:21,DEBUG,motion-1035 detected at 192.168.0.150
+2025-04-27 15:41:21,INFO,motion-866 is connected
+2025-04-27 15:41:22,DEBUG,motion-935 not accepting connections
+2025-04-27 15:41:22,DEBUG,motion-1035 not accepting connections
+2025-04-27 15:41:22,WARNING,motion-866 firmware is not approved (9010 (3232) Weymouth SW)
+2025-04-27 15:41:22,DEBUG,motion-866 storage is 0% full
+2025-04-27 15:41:22,INFO,motion-866 battery level is 77%
+2025-04-27 15:41:23,INFO,motion-866 WAR866NIC_866_20250427_092655.oao queued - 2.2 MiB, 7.2 hours, 101.9 km, 40.7 knots (500m)
+2025-04-27 15:41:26,DEBUG,motion-804 detected at 192.168.0.124
+2025-04-27 15:41:26,DEBUG,motion-861 detected at 192.168.0.232
+2025-04-27 15:41:26,DEBUG,motion-935 detected at 192.168.0.182
+2025-04-27 15:41:26,INFO,motion-804 is connected
+2025-04-27 15:41:26,DEBUG,motion-1035 detected at 192.168.0.150
+2025-04-27 15:41:26,INFO,motion-866 WAR866NIC_866_20250427_092655.oao downloaded - 2.2 MiB, 7.2 hours, 101.9 km, 40.7 knots (500m)
+2025-04-27 15:41:26,INFO,motion-866 can be disconnected
+2025-04-27 15:41:27,DEBUG,motion-861 not accepting connections
+2025-04-27 15:41:27,DEBUG,motion-804 firmware is approved (9008 Weymouth SW (3232))
+2025-04-27 15:41:27,DEBUG,motion-804 storage is 0% full
+2025-04-27 15:41:27,INFO,motion-804 battery level is 76%
+2025-04-27 15:41:27,DEBUG,motion-935 not accepting connections
+2025-04-27 15:41:27,DEBUG,motion-1035 not accepting connections
+2025-04-27 15:41:28,INFO,motion-804 ALB804ANT_804_20250427_092605.oao queued - 2.2 MiB, 7.2 hours, 97.3 km, 42.4 knots (500m)
+2025-04-27 15:41:31,INFO,motion-804 ALB804ANT_804_20250427_092605.oao downloaded - 2.2 MiB, 7.2 hours, 97.3 km, 42.4 knots (500m)
+2025-04-27 15:41:31,INFO,motion-804 can be disconnected
+2025-04-27 15:41:31,DEBUG,motion-811 detected at 192.168.0.156
+2025-04-27 15:41:31,DEBUG,motion-861 detected at 192.168.0.232
+2025-04-27 15:41:31,DEBUG,motion-935 detected at 192.168.0.182
+2025-04-27 15:41:31,DEBUG,motion-1035 detected at 192.168.0.150
+2025-04-27 15:41:31,INFO,motion-811 is connected
+2025-04-27 15:41:31,INFO,motion-861 is connected
+2025-04-27 15:41:32,DEBUG,motion-935 not accepting connections
+2025-04-27 15:41:32,DEBUG,motion-1035 not accepting connections
+2025-04-27 15:41:32,DEBUG,motion-811 firmware is approved (9008 Weymouth SW (3232))
+2025-04-27 15:41:32,DEBUG,motion-811 storage is 0% full
+2025-04-27 15:41:32,INFO,motion-811 battery level is 76%
+2025-04-27 15:41:32,DEBUG,motion-861 firmware is approved (9008 Weymouth SW (3232))
+2025-04-27 15:41:32,DEBUG,motion-861 storage is 0% full
+2025-04-27 15:41:32,INFO,motion-861 battery level is 82%
+2025-04-27 15:41:33,DEBUG,motion-861 GEO861MIC_861_20250427_092441.oao skipped - 0.0 MiB, 1.0 hours, 0.0 km, 0.0 knots (500m)
+2025-04-27 15:41:33,INFO,motion-861 GEO861MIC_861_20250427_130023.oao queued - 0.9 MiB, 3.6 hours, 25.6 km, 40.5 knots (500m)
+2025-04-27 15:41:33,INFO,motion-811 LOR811BRE_811_20250427_092613.oao queued - 2.1 MiB, 7.2 hours, 86.2 km, 40.7 knots (500m)
+2025-04-27 15:41:34,INFO,motion-861 GEO861MIC_861_20250427_130023.oao downloaded - 0.9 MiB, 3.6 hours, 25.6 km, 40.5 knots (500m)
+2025-04-27 15:41:34,INFO,motion-861 can be disconnected
+2025-04-27 15:41:36,DEBUG,motion-935 detected at 192.168.0.182
+2025-04-27 15:41:36,DEBUG,motion-1035 detected at 192.168.0.150
+2025-04-27 15:41:36,INFO,motion-811 LOR811BRE_811_20250427_092613.oao downloaded - 2.1 MiB, 7.2 hours, 86.2 km, 40.7 knots (500m)
+2025-04-27 15:41:36,INFO,motion-811 can be disconnected
+2025-04-27 15:41:37,DEBUG,motion-935 not accepting connections
+2025-04-27 15:41:37,DEBUG,motion-1035 not accepting connections
+2025-04-27 15:41:41,DEBUG,motion-935 detected at 192.168.0.182
+2025-04-27 15:41:41,DEBUG,motion-1035 detected at 192.168.0.150
+2025-04-27 15:41:42,DEBUG,motion-935 not accepting connections
+2025-04-27 15:41:42,DEBUG,motion-1035 not accepting connections
+2025-04-27 15:41:46,DEBUG,motion-935 detected at 192.168.0.182
+2025-04-27 15:41:46,DEBUG,motion-1035 detected at 192.168.0.150
+2025-04-27 15:41:47,DEBUG,motion-935 not accepting connections
+2025-04-27 15:41:47,DEBUG,motion-1035 not accepting connections
+2025-04-27 15:41:51,DEBUG,motion-935 detected at 192.168.0.182
+2025-04-27 15:41:51,DEBUG,motion-1035 detected at 192.168.0.150
+2025-04-27 15:41:52,DEBUG,motion-935 not accepting connections
+2025-04-27 15:41:52,DEBUG,motion-1035 not accepting connections
+2025-04-27 15:41:56,DEBUG,motion-935 detected at 192.168.0.182
+2025-04-27 15:41:56,DEBUG,motion-1035 detected at 192.168.0.150
+2025-04-27 15:41:57,DEBUG,motion-935 not accepting connections
+2025-04-27 15:41:57,DEBUG,motion-1035 not accepting connections
+2025-04-27 15:42:00,DEBUG,motion-866 has been disconnected
+2025-04-27 15:42:00,DEBUG,motion-804 has been disconnected
+2025-04-27 15:42:01,DEBUG,motion-804 detected at 192.168.0.124
+2025-04-27 15:42:01,DEBUG,motion-866 detected at 192.168.0.146
+2025-04-27 15:42:01,DEBUG,motion-935 detected at 192.168.0.182
+2025-04-27 15:42:01,DEBUG,motion-1035 detected at 192.168.0.150
+2025-04-27 15:42:02,DEBUG,motion-804 not accepting connections
+2025-04-27 15:42:02,DEBUG,motion-866 not accepting connections
+2025-04-27 15:42:02,DEBUG,motion-935 not accepting connections
+2025-04-27 15:42:02,DEBUG,motion-1035 not accepting connections
+2025-04-27 15:42:06,DEBUG,motion-804 detected at 192.168.0.124
+2025-04-27 15:42:06,DEBUG,motion-866 detected at 192.168.0.146
+2025-04-27 15:42:06,DEBUG,motion-935 detected at 192.168.0.182
+2025-04-27 15:42:06,DEBUG,motion-1035 detected at 192.168.0.150
+2025-04-27 15:42:07,DEBUG,motion-804 not accepting connections
+2025-04-27 15:42:07,DEBUG,motion-866 not accepting connections
+2025-04-27 15:42:07,DEBUG,motion-935 not accepting connections
+2025-04-27 15:42:07,DEBUG,motion-1035 not accepting connections
+2025-04-27 15:42:10,DEBUG,motion-811 has been disconnected
+2025-04-27 15:42:10,DEBUG,motion-861 has been disconnected
+2025-04-27 15:42:11,DEBUG,motion-804 detected at 192.168.0.124
+2025-04-27 15:42:11,DEBUG,motion-811 detected at 192.168.0.156
+2025-04-27 15:42:11,DEBUG,motion-861 detected at 192.168.0.232
+2025-04-27 15:42:11,DEBUG,motion-866 detected at 192.168.0.146
+2025-04-27 15:42:11,DEBUG,motion-935 detected at 192.168.0.182
+2025-04-27 15:42:11,DEBUG,motion-1035 detected at 192.168.0.150
+2025-04-27 15:42:12,DEBUG,motion-804 not accepting connections
+2025-04-27 15:42:12,DEBUG,motion-811 not accepting connections
+2025-04-27 15:42:12,DEBUG,motion-861 not accepting connections
+2025-04-27 15:42:12,DEBUG,motion-866 not accepting connections
+2025-04-27 15:42:12,DEBUG,motion-935 not accepting connections
+2025-04-27 15:42:12,DEBUG,motion-1035 not accepting connections
+2025-04-27 15:42:16,DEBUG,motion-804 detected at 192.168.0.124
+2025-04-27 15:42:16,DEBUG,motion-811 detected at 192.168.0.156
+2025-04-27 15:42:16,DEBUG,motion-861 detected at 192.168.0.232
+2025-04-27 15:42:16,DEBUG,motion-866 detected at 192.168.0.146
+2025-04-27 15:42:16,DEBUG,motion-935 detected at 192.168.0.182
+2025-04-27 15:42:16,DEBUG,motion-1035 detected at 192.168.0.150
+2025-04-27 15:42:17,DEBUG,motion-804 not accepting connections
+2025-04-27 15:42:17,DEBUG,motion-811 not accepting connections
+2025-04-27 15:42:17,DEBUG,motion-861 not accepting connections
+2025-04-27 15:42:17,DEBUG,motion-866 not accepting connections
+2025-04-27 15:42:17,DEBUG,motion-935 not accepting connections
+2025-04-27 15:42:17,DEBUG,motion-1035 not accepting connections
+2025-04-27 15:42:21,DEBUG,motion-804 detected at 192.168.0.124
+2025-04-27 15:42:21,DEBUG,motion-811 detected at 192.168.0.156
+2025-04-27 15:42:21,DEBUG,motion-861 detected at 192.168.0.232
+2025-04-27 15:42:22,DEBUG,motion-804 not accepting connections
+2025-04-27 15:42:22,DEBUG,motion-811 not accepting connections
+2025-04-27 15:42:22,DEBUG,motion-861 not accepting connections
+2025-04-27 15:42:26,DEBUG,motion-811 detected at 192.168.0.156
+2025-04-27 15:42:26,DEBUG,motion-861 detected at 192.168.0.232
+2025-04-27 15:42:27,DEBUG,motion-811 not accepting connections
+2025-04-27 15:42:27,DEBUG,motion-861 not accepting connections
+2025-04-27 15:42:31,DEBUG,motion-861 detected at 192.168.0.232
+2025-04-27 15:42:32,DEBUG,motion-861 not accepting connections
+2025-04-27 15:42:36,DEBUG,motion-861 detected at 192.168.0.232
+2025-04-27 15:42:37,DEBUG,motion-861 not accepting connections
+2025-04-27 15:42:41,DEBUG,motion-861 detected at 192.168.0.232
+2025-04-27 15:42:41,DEBUG,motion-935 detected at 192.168.0.182
+2025-04-27 15:42:41,INFO,motion-935 is connected
+2025-04-27 15:42:42,DEBUG,motion-861 not accepting connections
+2025-04-27 15:42:42,WARNING,motion-935 firmware is not approved (9010 (3232) Weymouth SW)
+2025-04-27 15:42:42,DEBUG,motion-935 storage is 0% full
+2025-04-27 15:42:42,INFO,motion-935 battery level is 80%
+2025-04-27 15:42:43,INFO,motion-935 LEL935THE_935_20250427_092655.oao queued - 1.6 MiB, 7.2 hours, 60.0 km, 40.6 knots (500m)
+2025-04-27 15:42:45,INFO,motion-935 LEL935THE_935_20250427_092655.oao downloaded - 1.6 MiB, 7.2 hours, 60.0 km, 40.6 knots (500m)
+2025-04-27 15:42:45,INFO,motion-935 can be disconnected
+2025-04-27 15:42:46,DEBUG,motion-861 detected at 192.168.0.232
+2025-04-27 15:42:46,DEBUG,motion-1035 detected at 192.168.0.150
+2025-04-27 15:42:47,INFO,motion-1035 is connected
+2025-04-27 15:42:47,DEBUG,motion-861 not accepting connections
+2025-04-27 15:42:47,WARNING,motion-1035 firmware is not approved (9010 (3232) Weymouth SW)
+2025-04-27 15:42:47,DEBUG,motion-1035 storage is 0% full
+2025-04-27 15:42:47,INFO,motion-1035 battery level is 70%
+2025-04-27 15:42:48,INFO,motion-1035 BOU1035SEB_1035_20250427_092311.oao queued - 2.3 MiB, 7.3 hours, 102.6 km, 40.6 knots (500m)
+2025-04-27 15:42:51,INFO,motion-1035 BOU1035SEB_1035_20250427_092311.oao downloaded - 2.3 MiB, 7.3 hours, 102.6 km, 40.6 knots (500m)
+2025-04-27 15:42:51,INFO,motion-1035 can be disconnected
+2025-04-27 15:42:51,DEBUG,motion-861 detected at 192.168.0.232
+2025-04-27 15:42:52,DEBUG,motion-861 not accepting connections
+2025-04-27 15:43:10,DEBUG,motion-935 has been disconnected
+2025-04-27 15:43:10,DEBUG,motion-1035 has been disconnected
+2025-04-27 15:43:11,DEBUG,motion-935 detected at 192.168.0.182
+2025-04-27 15:43:11,DEBUG,motion-1035 detected at 192.168.0.150
+2025-04-27 15:43:12,DEBUG,motion-935 not accepting connections
+2025-04-27 15:43:12,DEBUG,motion-1035 not accepting connections
+2025-04-27 15:43:16,DEBUG,motion-935 detected at 192.168.0.182
+2025-04-27 15:43:16,DEBUG,motion-1035 detected at 192.168.0.150
+2025-04-27 15:43:17,DEBUG,motion-935 not accepting connections
+2025-04-27 15:43:17,DEBUG,motion-1035 not accepting connections
+2025-04-27 15:43:21,DEBUG,motion-935 detected at 192.168.0.182
+2025-04-27 15:43:21,DEBUG,motion-1035 detected at 192.168.0.150
+2025-04-27 15:43:22,DEBUG,motion-935 not accepting connections
+2025-04-27 15:43:22,DEBUG,motion-1035 not accepting connections
+2025-04-27 15:43:24,INFO,Keyboard interrupt
+2025-04-27 15:43:24,INFO,Stopping thread pools
+2025-04-27 15:43:24,DEBUG,DetectionThreadPool finished
+2025-04-27 15:43:25,DEBUG,DetectionThread #1 finished
+2025-04-27 15:43:25,DEBUG,DetectionThread #2 finished
+2025-04-27 15:43:25,DEBUG,DetectionThread #3 finished
+2025-04-27 15:43:25,DEBUG,DetectionThread #4 finished
+2025-04-27 15:43:25,DEBUG,DetectionThread #5 finished
+2025-04-27 15:43:25,DEBUG,DetectionThread #6 finished
+2025-04-27 15:43:25,DEBUG,DetectionThread #7 finished
+2025-04-27 15:43:25,DEBUG,DetectionThread #8 finished
+2025-04-27 15:43:25,DEBUG,InspectionThreadPool finished
+2025-04-27 15:43:25,DEBUG,InspectionThread #1 finished
+2025-04-27 15:43:25,DEBUG,InspectionThread #2 finished
+2025-04-27 15:43:25,DEBUG,InspectionThread #3 finished
+2025-04-27 15:43:25,DEBUG,InspectionThread #4 finished
+2025-04-27 15:43:25,DEBUG,DownloadThreadPool finished
+2025-04-27 15:43:25,DEBUG,DownloadThread #1 finished
+2025-04-27 15:43:25,DEBUG,DownloadThread #2 finished
+2025-04-27 15:43:25,DEBUG,DownloadThread #3 finished
+2025-04-27 15:43:25,DEBUG,DownloadThread #4 finished
+2025-04-27 15:43:25,DEBUG,DisconnectionThreadPool finished
+2025-04-27 15:43:25,DEBUG,DisconnectionThread #1 finished
+2025-04-27 15:43:25,DEBUG,DisconnectionThread #2 finished
+2025-04-27 15:43:25,DEBUG,DisconnectionThread #3 finished
+2025-04-27 15:43:25,DEBUG,DisconnectionThread #4 finished
+2025-04-27 15:43:25,DEBUG,DisconnectionThread #5 finished
+2025-04-27 15:43:25,DEBUG,DisconnectionThread #6 finished
+2025-04-27 15:43:25,DEBUG,DisconnectionThread #7 finished
+2025-04-27 15:43:25,DEBUG,DisconnectionThread #8 finished
+2025-04-27 15:43:25,INFO,Thread pools stopped
