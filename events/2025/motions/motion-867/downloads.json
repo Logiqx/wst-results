@@ -1,0 +1,15 @@
+{
+  "WIE867NIC_867_20250427_092521.oao": {
+    "motion_file": "/logs/2025/04/0867_2025-04-27-0925.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/WIE867NIC_867_20250427_092521.oao",
+    "size": 639576,
+    "start_date": 1745742321000,
+    "end_date": 1745770249000,
+    "duration": 27928000,
+    "distance": 31951121,
+    "2s_best": 20695,
+    "10s_best": 20362,
+    "500m_best": 20037,
+    "status": "completed"
+  }
+}

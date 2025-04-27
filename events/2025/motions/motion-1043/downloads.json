@@ -1,0 +1,15 @@
+{
+  "WES1043ISA_1043_20250427_094511.oao": {
+    "motion_file": "/logs/2025/04/1043_2025-04-27-0945.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/WES1043ISA_1043_20250427_094511.oao",
+    "size": 457732,
+    "start_date": 1745743511000,
+    "end_date": 1745770969000,
+    "duration": 27458000,
+    "distance": 19550812,
+    "2s_best": 15526,
+    "10s_best": 15174,
+    "500m_best": 14451,
+    "status": "completed"
+  }
+}

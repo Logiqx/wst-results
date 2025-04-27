@@ -1,0 +1,15 @@
+{
+  "JUD853LEO_853_20250427_092541.oao": {
+    "motion_file": "/logs/2025/04/0853_2025-04-27-0925.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/JUD853LEO_853_20250427_092541.oao",
+    "size": 543116,
+    "start_date": 1745742341000,
+    "end_date": 1745770493000,
+    "duration": 28152000,
+    "distance": 24244030,
+    "2s_best": 20506,
+    "10s_best": 20105,
+    "500m_best": 19611,
+    "status": "completed"
+  }
+}

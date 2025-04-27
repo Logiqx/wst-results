@@ -1,0 +1,15 @@
+{
+  "ZAH833JAN_833_20250427_092727.oao": {
+    "motion_file": "/logs/2025/04/0833_2025-04-27-0927.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/ZAH833JAN_833_20250427_092727.oao",
+    "size": 735776,
+    "start_date": 1745742447000,
+    "end_date": 1745770753000,
+    "duration": 28306000,
+    "distance": 32037037,
+    "2s_best": 19292,
+    "10s_best": 18912,
+    "500m_best": 17804,
+    "status": "completed"
+  }
+}

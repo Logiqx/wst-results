@@ -1,0 +1,15 @@
+{
+  "BUR818EDW_818_20250427_092425.oao": {
+    "motion_file": "/logs/2025/04/0818_2025-04-27-0924.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/BUR818EDW_818_20250427_092425.oao",
+    "size": 402196,
+    "start_date": 1745742265000,
+    "end_date": 1745770561000,
+    "duration": 28296000,
+    "distance": 17431504,
+    "2s_best": 19417,
+    "10s_best": 18987,
+    "500m_best": 18123,
+    "status": "completed"
+  }
+}

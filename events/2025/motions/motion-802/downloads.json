@@ -1,0 +1,15 @@
+{
+  "VIS802ALW_802_20250427_092733.oao": {
+    "motion_file": "/logs/2025/04/0802_2025-04-27-0927.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/VIS802ALW_802_20250427_092733.oao",
+    "size": 763336,
+    "start_date": 1745742453000,
+    "end_date": 1745770373000,
+    "duration": 27920000,
+    "distance": 28843400,
+    "2s_best": 20551,
+    "10s_best": 19860,
+    "500m_best": 19528,
+    "status": "completed"
+  }
+}

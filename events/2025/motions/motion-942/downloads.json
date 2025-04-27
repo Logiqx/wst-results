@@ -1,0 +1,15 @@
+{
+  "MOL942THO_942_20250427_092401.oao": {
+    "motion_file": "/logs/2025/04/0942_2025-04-27-0924.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/MOL942THO_942_20250427_092401.oao",
+    "size": 489192,
+    "start_date": 1745742241000,
+    "end_date": 1745770489000,
+    "duration": 28248000,
+    "distance": 22630481,
+    "2s_best": 21421,
+    "10s_best": 20821,
+    "500m_best": 20367,
+    "status": "completed"
+  }
+}

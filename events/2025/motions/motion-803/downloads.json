@@ -1,0 +1,15 @@
+{
+  "LAU803AND_803_20250427_092509.oao": {
+    "motion_file": "/logs/2025/04/0803_2025-04-27-0925.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/LAU803AND_803_20250427_092509.oao",
+    "size": 1295556,
+    "start_date": 1745742309000,
+    "end_date": 1745770959000,
+    "duration": 28650000,
+    "distance": 50624204,
+    "2s_best": 22292,
+    "10s_best": 21766,
+    "500m_best": 21098,
+    "status": "completed"
+  }
+}

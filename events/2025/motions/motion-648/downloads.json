@@ -1,0 +1,15 @@
+{
+  "SCH648GAS_648_20250427_100203.oao": {
+    "motion_file": "/logs/2025/04/0648_2025-04-27-1002.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/SCH648GAS_648_20250427_100203.oao",
+    "size": 332256,
+    "start_date": 1745744523000,
+    "end_date": 1745770563000,
+    "duration": 26040000,
+    "distance": 17275467,
+    "2s_best": 18449,
+    "10s_best": 17641,
+    "500m_best": 17097,
+    "status": "completed"
+  }
+}

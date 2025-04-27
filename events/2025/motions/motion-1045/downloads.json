@@ -1,0 +1,15 @@
+{
+  "GYG1045JAN_1045_20250427_095221.oao": {
+    "motion_file": "/logs/2025/04/1045_2025-04-27-0952.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/GYG1045JAN_1045_20250427_095221.oao",
+    "size": 948352,
+    "start_date": 1745743941000,
+    "end_date": 1745770259000,
+    "duration": 26318000,
+    "distance": 42537377,
+    "2s_best": 19635,
+    "10s_best": 19447,
+    "500m_best": 18902,
+    "status": "completed"
+  }
+}

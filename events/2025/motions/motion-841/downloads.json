@@ -1,0 +1,15 @@
+{
+  "CRO841JIM_841_20250427_092451.oao": {
+    "motion_file": "/logs/2025/04/0841_2025-04-27-0924.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/CRO841JIM_841_20250427_092451.oao",
+    "size": 1111892,
+    "start_date": 1745742291000,
+    "end_date": 1745770675000,
+    "duration": 28384000,
+    "distance": 47383373,
+    "2s_best": 21826,
+    "10s_best": 21475,
+    "500m_best": 21104,
+    "status": "completed"
+  }
+}

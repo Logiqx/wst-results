@@ -1,0 +1,15 @@
+{
+  "BOU870PAS_870_20250427_092703.oao": {
+    "motion_file": "/logs/2025/04/0870_2025-04-27-0927.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/BOU870PAS_870_20250427_092703.oao",
+    "size": 734268,
+    "start_date": 1745742423000,
+    "end_date": 1745771075000,
+    "duration": 28652000,
+    "distance": 31285300,
+    "2s_best": 21712,
+    "10s_best": 21085,
+    "500m_best": 20622,
+    "status": "completed"
+  }
+}

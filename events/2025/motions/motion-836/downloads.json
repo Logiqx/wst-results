@@ -1,0 +1,15 @@
+{
+  "GIR836JEA_836_20250427_092709.oao": {
+    "motion_file": "/logs/2025/04/0836_2025-04-27-0927.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/GIR836JEA_836_20250427_092709.oao",
+    "size": 487580,
+    "start_date": 1745742429000,
+    "end_date": 1745770365000,
+    "duration": 27936000,
+    "distance": 22080808,
+    "2s_best": 18850,
+    "10s_best": 18580,
+    "500m_best": 17944,
+    "status": "completed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "KUP849KLA_849_20250427_092355.oao": {
+    "motion_file": "/logs/2025/04/0849_2025-04-27-0923.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/KUP849KLA_849_20250427_092355.oao",
+    "size": 397568,
+    "start_date": 1745742235000,
+    "end_date": 1745770375000,
+    "duration": 28140000,
+    "distance": 20164811,
+    "2s_best": 20890,
+    "10s_best": 20251,
+    "500m_best": 19546,
+    "status": "completed"
+  }
+}

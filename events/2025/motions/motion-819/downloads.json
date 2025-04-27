@@ -1,0 +1,15 @@
+{
+  "DEB819FRA_819_20250427_092513.oao": {
+    "motion_file": "/logs/2025/04/0819_2025-04-27-0925.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/DEB819FRA_819_20250427_092513.oao",
+    "size": 651224,
+    "start_date": 1745742313000,
+    "end_date": 1745770311000,
+    "duration": 27998000,
+    "distance": 26392967,
+    "2s_best": 19398,
+    "10s_best": 19285,
+    "500m_best": 18523,
+    "status": "completed"
+  }
+}

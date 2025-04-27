@@ -1,0 +1,15 @@
+{
+  "ROB1039FAB_1039_20250427_092613.oao": {
+    "motion_file": "/logs/2025/04/1039_2025-04-27-0926.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/ROB1039FAB_1039_20250427_092613.oao",
+    "size": 995412,
+    "start_date": 1745742373000,
+    "end_date": 1745770725000,
+    "duration": 28352000,
+    "distance": 39886317,
+    "2s_best": 20543,
+    "10s_best": 20432,
+    "500m_best": 19943,
+    "status": "completed"
+  }
+}

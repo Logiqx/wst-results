@@ -1,0 +1,15 @@
+{
+  "RUI872ROL_872_20250427_092417.oao": {
+    "motion_file": "/logs/2025/04/0872_2025-04-27-0924.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/RUI872ROL_872_20250427_092417.oao",
+    "size": 1133680,
+    "start_date": 1745742257000,
+    "end_date": 1745770729000,
+    "duration": 28472000,
+    "distance": 47747692,
+    "2s_best": 22077,
+    "10s_best": 21569,
+    "500m_best": 20898,
+    "status": "completed"
+  }
+}

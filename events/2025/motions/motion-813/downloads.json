@@ -1,0 +1,15 @@
+{
+  "DJE813CHA_813_20250427_092717.oao": {
+    "motion_file": "/logs/2025/04/0813_2025-04-27-0927.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/DJE813CHA_813_20250427_092717.oao",
+    "size": 334336,
+    "start_date": 1745742437000,
+    "end_date": 1745771083000,
+    "duration": 28646000,
+    "distance": 12994553,
+    "2s_best": 21404,
+    "10s_best": 21011,
+    "500m_best": 17831,
+    "status": "completed"
+  }
+}

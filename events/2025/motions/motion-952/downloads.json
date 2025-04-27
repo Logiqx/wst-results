@@ -1,0 +1,15 @@
+{
+  "LUI952THO_952_20250427_092343.oao": {
+    "motion_file": "/logs/2025/04/0952_2025-04-27-0923.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/LUI952THO_952_20250427_092343.oao",
+    "size": 1029420,
+    "start_date": 1745742223000,
+    "end_date": 1745770689000,
+    "duration": 28466000,
+    "distance": 44192012,
+    "2s_best": 21899,
+    "10s_best": 21520,
+    "500m_best": 20856,
+    "status": "completed"
+  }
+}

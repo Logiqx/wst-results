@@ -1,0 +1,15 @@
+{
+  "ROL1037NEL_1037_20250427_095927.oao": {
+    "motion_file": "/logs/2025/04/1037_2025-04-27-0959.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/ROL1037NEL_1037_20250427_095927.oao",
+    "size": 623872,
+    "start_date": 1745744367000,
+    "end_date": 1745751765000,
+    "duration": 7398000,
+    "distance": 22731760,
+    "2s_best": 19562,
+    "10s_best": 19289,
+    "500m_best": 19043,
+    "status": "completed"
+  }
+}

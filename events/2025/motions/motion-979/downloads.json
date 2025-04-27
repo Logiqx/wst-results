@@ -1,0 +1,15 @@
+{
+  "TJE979TRI_979_20250427_091321.oao": {
+    "motion_file": "/logs/2025/04/0979_2025-04-27-0913.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/TJE979TRI_979_20250427_091321.oao",
+    "size": 1532156,
+    "start_date": 1745741601000,
+    "end_date": 1745770309000,
+    "duration": 28708000,
+    "distance": 60509177,
+    "2s_best": 21844,
+    "10s_best": 21420,
+    "500m_best": 20868,
+    "status": "completed"
+  }
+}
