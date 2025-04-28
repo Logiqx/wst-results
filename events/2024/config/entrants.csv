@@ -1,6 +1,6 @@
 ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 1,Mr,Aivo,Prükk,Estonia,EST-314,Windsurf,Adult
-2,Mr,Andy,Laufer,Germany,GER-33,Windsurf,Adult
+2,Mr,Andy,Laufer,Germany,GER-93,Windsurf,Adult
 3,Mr,Antoine,Albeau,France,FRA-192,Windsurf,Adult
 5,Mr,Augusto,Teixeira,Portugal,POR-131,Windsurf,Adult
 6,Mr,Bjorn,Haacke,Germany,GER-1,Windsurf,Adult
@@ -69,7 +69,7 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 1013,Mr,Sébastien,Bourgeois,France,FRA-665,Windfoil,Adult
 1042,Mr,Thorsten,Luig,Germany,GER-211,Windfoil,Adult
 1044,Mr,Torsten,Mallon,Germany,GER-818,Windfoil,Adult
-1002,Mr,Andy,Laufer,Germany,GER-33,Windfoil,Adult
+1002,Mr,Andy,Laufer,Germany,GER-93,Windfoil,Adult
 1027,Mr,Florian,Madec,France,FRA-2123,Windfoil,Adult
 1041,Mr,Thomas,Moldenhauer,Germany,GER-215,Windfoil,Adult
 1010,Mr,Christophe,Deus,Germany,GER-338,Windfoil,Adult
