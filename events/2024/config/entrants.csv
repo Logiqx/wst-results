@@ -48,7 +48,7 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 48,Mr,Arnold,Schreurs,Germany,GER-369,Windsurf,Adult
 49,Mr,Fabien,Mayou,France,FRA-535,Windsurf,Adult
 50,Mr,Martim,Monteiro,Portugal,POR-13,Windsurf,Adult
-51,Mr,Ben,Van Der Steen,Netherlands,NED-57,Windsurf,Adult
+51,Mr,Ben,van der Steen,Netherlands,NED-57,Windsurf,Adult
 52,Mr,Fabrice,Robert,France,FRA-816,Windsurf,Adult
 53,Mr,Marius,Loglisci,France,FRA-735,Windsurf,Youth
 54,Mr,Bruno,Martini,Italy,ITA-160,Windsurf,Adult
@@ -65,7 +65,7 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 1008,Mr,Cédric,Bordes,France,FRA-91,Windfoil,Adult
 1036,Mr,Pierre,Mortefon,France,FRA-14,Windfoil,Adult
 1050,Mr,Martim,Monteiro,Portugal,POR-13,Windfoil,Adult
-1051,Mr,Ben,Van Der Steen,Netherlands,NED-57,Windfoil,Adult
+1051,Mr,Ben,van der Steen,Netherlands,NED-57,Windfoil,Adult
 1013,Mr,Sébastien,Bourgeois,France,FRA-665,Windfoil,Adult
 1042,Mr,Thorsten,Luig,Germany,GER-211,Windfoil,Adult
 1044,Mr,Torsten,Mallon,Germany,GER-818,Windfoil,Adult
