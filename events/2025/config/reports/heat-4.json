@@ -7,7 +7,7 @@
   "Reports": [
     {
       "Title": "Heat 4 - Windsurf Men",
-      "Comment": "(includes youths)",
+      "Comment": "(includes masters and youths)",
       "Filter": "Craft Type=Windsurf,Gender=M,ISWC=Heat 4",
       "Fleet": "Windsurf Men"
     },
@@ -16,6 +16,12 @@
       "Comment": "(includes youths)",
       "Filter": "Craft Type=Windsurf,Gender=F,ISWC=Heat 4",
       "Fleet": "Windsurf Women"
+    },
+    {
+      "Title": "Heat 4 - Windsurf Master",
+      "Comment": "(includes all masters)",
+      "Filter": "Craft Type=Windsurf,Age=Master,ISWC=Heat 4",
+      "Fleet": "Windsurf Master"
     },
     {
       "Title": "Heat 4 - Windsurf Youth",

@@ -7,7 +7,7 @@
   "Reports": [
     {
       "Title": "All Riders",
-      "Comment": "(includes men, women, and youths)",
+      "Comment": "(includes men, women, masters and youths)",
       "Filter": "Craft Type<>TBC,Craft Type<>Kitesurf"
     },
     {

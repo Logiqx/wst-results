@@ -5,7 +5,7 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 4,Mr,Antoine,Albeau,France,FRA-192,Windsurf,Adult
 5,Mr,Augusto,Teixeira,Portugal,POR-131,Windsurf,Adult
 6,Mr,Ben,van der Steen,Netherlands,NED-57,Windsurf,Adult
-7,Mr,Bjorn,Haacke,Germany,GER-1,Windsurf,Adult
+7,Mr,Bjorn,Haacke,Germany,GER-1,Windsurf,Master
 8,Mr,Bjorn,Dunkerbeck,Spain,ESP-11,Windsurf,Adult
 9,Ms,Blanca,Alabau,Spain,ESP-3,Windsurf,Adult
 10,Mr,Brendan,Lorho,France,FRA-113,Windsurf,Youth
@@ -29,7 +29,7 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 28,Mr,Jim,Crossley,United Kingdom,GBR-33,Windsurf,Adult
 29,Mr,Klaus,Küppenbender,Germany,GER-18,Windsurf,Adult
 30,Mr,Laurent,Fesquet,France,FRA-66,Windsurf,Adult
-31,Mr,Leonid,Judin,Serbia,SRB-1,Windsurf,Adult
+31,Mr,Leonid,Judin,Serbia,SRB-1,Windsurf,Master
 32,Mr,Marek,Popo,Czech Republic,CZE-902,Windsurf,Adult
 33,Ms,Maria,Natal Ama,France,FRA-000,Windsurf,Adult
 34,Mr,Matteo,Iachino,Italy,ITA-140,Windsurf,Adult
@@ -37,12 +37,12 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 36,Mr,Nicolas,Warembourg,France,FRA-531,Windsurf,Adult
 37,Mr,Nico,Wierstra,Netherlands,NED-81,Windsurf,Adult
 38,Mr,Paolo,Berardi,Italy,ITA-2,Windsurf,Adult
-39,Mr,Pascal,Boulanger,France,FRA-800,Windsurf,Adult
+39,Mr,Pascal,Boulanger,France,FRA-800,Windsurf,Master
 40,Mr,Roger,Ornvang,Sweden,SWE-52,Windsurf,Adult
 41,Mr,Rolf,de Ruiter,Netherlands,NED-177,Windsurf,Adult
 42,Mr,Simon,Pettifer,United Kingdom,GBR-67,Windsurf,Adult
 43,Mr,Theo,di Lello,France,FRA-19,Windsurf,Adult
-44,Mr,Thomas,Moldenhauer,Germany,GER-215,Windsurf,Adult
+44,Mr,Thomas,Moldenhauer,Germany,GER-215,Windsurf,Master
 45,Mr,Thorsten,Luig,Germany,GER-211,Windsurf,Adult
 46,Mr,Tom,Malina,Czech Republic,CZE-109,Windsurf,Adult
 47,Mr,Tristan,Tjerks,Netherlands,NED-555,Windsurf,Adult

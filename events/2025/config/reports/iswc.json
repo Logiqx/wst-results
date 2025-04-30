@@ -5,13 +5,18 @@
   "Reports": [
     {
       "Title": "Windsurf Men",
-      "Comment": "(includes youth men)",
+      "Comment": "(includes masters and youths)",
       "Filter": "Craft Type=Windsurf,Gender=M,ISWC<>"
     },
     {
       "Title": "Windsurf Women",
-      "Comment": "(includes youth women)",
+      "Comment": "(includes youths)",
       "Filter": "Craft Type=Windsurf,Gender=F,ISWC<>"
+    },
+    {
+      "Title": "Windsurf Master",
+      "Comment": "(includes all masters)",
+      "Filter": "Craft Type=Windsurf,Age=Master,ISWC<>"
     },
     {
       "Title": "Windsurf Youth",
