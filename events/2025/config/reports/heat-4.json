@@ -18,16 +18,10 @@
       "Fleet": "Windsurf Women"
     },
     {
-      "Title": "Heat 4 - Youth Men",
-      "Comment": "(windsurf)",
-      "Filter": "Craft Type=Windsurf,Gender=M,Age=Youth,ISWC=Heat 4",
-      "Fleet": "Youth Men"
-    },
-    {
-      "Title": "Heat 4 - Youth Women",
-      "Comment": "(windsurf)",
-      "Filter": "Craft Type=Windsurf,Gender=F,Age=Youth,ISWC=Heat 4",
-      "Fleet": "Youth Women"
+      "Title": "Heat 4 - Windsurf Youth",
+      "Comment": "(includes all youths)",
+      "Filter": "Craft Type=Windsurf,Age=Youth,ISWC=Heat 4",
+      "Fleet": "Windsurf Youth"
     },
     {
       "Title": "Heat 4 - Windfoil Open",

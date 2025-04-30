@@ -23,14 +23,9 @@
       "Filter": "Craft Type=Windsurf,Gender=F"
     },
     {
-      "Title": "Youth Men",
-      "Comment": "(windsurf)",
-      "Filter": "Craft Type=Windsurf,Gender=M,Age=Youth"
-    },
-    {
-      "Title": "Youth Women",
-      "Comment": "(windsurf)",
-      "Filter": "Craft Type=Windsurf,Gender=F,Age=Youth"
+      "Title": "Windsurf Youth",
+      "Comment": "(includes all youths)",
+      "Filter": "Craft Type=Windsurf,Age=Youth"
     },
     {
       "Title": "Windfoil Open",
