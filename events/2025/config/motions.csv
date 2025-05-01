@@ -58,6 +58,7 @@ Entrant ID,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Craft Ty
 57,694,2025-04-27,2025-05-06,FOL694JOS,Joseph,Folley,Windsurf
 58,705,2025-04-27,2025-05-06,BER705JOA,Joa,van den Berg,Windsurf
 59,718,2025-04-27,2025-05-06,BOR718CED,Cédric,Bordes,Windsurf
+60,631,2025-04-27,2025-05-06,BEN631CHR,Chris,Benzing,Windsurf
 901,8010,2025-04-27,2025-05-06,PRU8010AIV,Aivo,Prükk,Windfoil
 903,8030,2025-04-27,2025-05-06,LAU8030AND,Andy,Laufer,Windfoil
 904,8040,2025-04-27,2025-05-06,ALB8040ANT,Antoine,Albeau,Windfoil
@@ -87,3 +88,4 @@ Entrant ID,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Craft Ty
 956,6650,2025-04-27,2025-05-06,SET6650SUF,Sufyan,Setti,Windfoil
 957,6940,2025-04-27,2025-05-06,FOL6940JOS,Joseph,Folley,Windfoil
 959,7180,2025-04-27,2025-05-06,BOR7180CED,Cédric,Bordes,Windfoil
+960,6310,2025-04-27,2025-05-06,BEN6310CHR,Chris,Benzing,Windfoil
