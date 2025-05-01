@@ -14,12 +14,12 @@
       "Filter": "Craft Type=Windsurf,Gender=F,ISWC<>"
     },
     {
-      "Title": "Windsurf Master",
+      "Title": "Windsurf Masters",
       "Comment": "(includes all masters)",
       "Filter": "Craft Type=Windsurf,Age=Master,ISWC<>"
     },
     {
-      "Title": "Windsurf Youth",
+      "Title": "Youths",
       "Comment": "(includes all youths)",
       "Filter": "Craft Type=Windsurf,Age=Youth,ISWC<>"
     },

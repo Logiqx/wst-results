@@ -18,16 +18,16 @@
       "Fleet": "Windsurf Women"
     },
     {
-      "Title": "Heat 3 - Windsurf Master",
+      "Title": "Heat 3 - Windsurf Masters",
       "Comment": "(includes all masters)",
       "Filter": "Craft Type=Windsurf,Age=Master,ISWC=Heat 3",
-      "Fleet": "Windsurf Master"
+      "Fleet": "Windsurf Masters"
     },
     {
-      "Title": "Heat 3 - Windsurf Youth",
+      "Title": "Heat 3 - Youths",
       "Comment": "(includes all youths)",
       "Filter": "Craft Type=Windsurf,Age=Youth,ISWC=Heat 3",
-      "Fleet": "Windsurf Youth"
+      "Fleet": "Youths"
     },
     {
       "Title": "Heat 3 - Windfoil Open",
