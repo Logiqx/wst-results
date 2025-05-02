@@ -59,6 +59,7 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 58,Mr,Joa,van den Berg,Netherlands,NED-1009,Windsurf,Youth
 59,Mr,Cédric,Bordes,France,FRA-91,Windsurf,Adult
 60,Mr,Chris,Benzing,Germany,GER-77,Windsurf,Adult
+61,Mr,Cyril,Evrard,Belgium,BEL-250,Windsurf,Adult
 901,Mr,Aivo,Prükk,Estonia,EST-314,Windfoil,Adult
 903,Mr,Andy,Laufer,Germany,GER-93,Windfoil,Adult
 904,Mr,Antoine,Albeau,France,FRA-192,Windfoil,Adult
@@ -89,3 +90,4 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 957,Mr,Joseph,Folley,Australia,AUS-321,Windfoil,Youth
 959,Mr,Cédric,Bordes,France,FRA-91,Windfoil,Adult
 960,Mr,Chris,Benzing,Germany,GER-77,Windfoil,Adult
+961,Mr,Cyril,Evrard,Belgium,BEL-250,Windfoil,Adult
