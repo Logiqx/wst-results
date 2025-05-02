@@ -2,9 +2,9 @@
   "motion": {
     "wifi": "station",
     "username": "WSW",
-    "identifier": 804,
+    "identifier": 656,
     "hardware": {
-      "code": 108,
+      "code": 106,
       "name": "Wireless Mini M10"
     },
     "firmware": {
@@ -16,7 +16,7 @@
       "level": 0
     },
     "battery": {
-      "level": 80,
+      "level": 79,
       "charging": false
     },
     "units": {

@@ -2,21 +2,21 @@
   "motion": {
     "wifi": "station",
     "username": "WSW",
-    "identifier": 804,
+    "identifier": 1033,
     "hardware": {
       "code": 108,
       "name": "Wireless Mini M10"
     },
     "firmware": {
-      "code": 9008,
-      "name": "9008 Weymouth SW (3232)",
+      "code": 9010,
+      "name": "9010 (3232) Weymouth SW",
       "special": "This firmware is event specific. Most settings are locked. Only runs faster than 3kn are logged. Please upgrade to the latest stable firmware after the event."
     },
     "filesystem": {
       "level": 0
     },
     "battery": {
-      "level": 80,
+      "level": 84,
       "charging": false
     },
     "units": {

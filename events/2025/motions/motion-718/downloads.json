@@ -1,0 +1,15 @@
+{
+  "BOR718CED_718_20250502_101901.oao": {
+    "motion_file": "/logs/2025/05/0718_2025-05-02-1019.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250502/BOR718CED_718_20250502_101901.oao",
+    "size": 1709736,
+    "start_date": 1746177541000,
+    "end_date": 1746198597000,
+    "duration": 21056000,
+    "distance": 78792389,
+    "2s_best": 17763,
+    "10s_best": 17459,
+    "500m_best": 17082,
+    "status": "completed"
+  }
+}

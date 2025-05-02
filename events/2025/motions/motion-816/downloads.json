@@ -1,0 +1,15 @@
+{
+  "BEN816DAN_816_20250502_101903.oao": {
+    "motion_file": "/logs/2025/05/0816_2025-05-02-1019.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250502/BEN816DAN_816_20250502_101903.oao",
+    "size": 1536,
+    "start_date": 1746177543000,
+    "end_date": 1746188199000,
+    "duration": 10656000,
+    "distance": 92519,
+    "2s_best": 1335,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  }
+}

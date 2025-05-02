@@ -1,0 +1,15 @@
+{
+  "IAC858MAT_858_20250502_101915.oao": {
+    "motion_file": "/logs/2025/05/0858_2025-05-02-1019.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250502/IAC858MAT_858_20250502_101915.oao",
+    "size": 1748424,
+    "start_date": 1746177555000,
+    "end_date": 1746198597000,
+    "duration": 21042000,
+    "distance": 81444884,
+    "2s_best": 18795,
+    "10s_best": 18280,
+    "500m_best": 17994,
+    "status": "completed"
+  }
+}
