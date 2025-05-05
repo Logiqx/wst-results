@@ -8,31 +8,31 @@
     {
       "Title": "Heat 7- Windsurf Men",
       "Comment": "(includes masters and youths)",
-      "Filter": "Craft Type=Windsurf,Gender=M,ISWC=Heat 5",
+      "Filter": "Craft Type=Windsurf,Gender=M,ISWC=Heat 7",
       "Fleet": "Windsurf Men"
     },
     {
       "Title": "Heat 7- Windsurf Women",
       "Comment": "(includes youths)",
-      "Filter": "Craft Type=Windsurf,Gender=F,ISWC=Heat 5",
+      "Filter": "Craft Type=Windsurf,Gender=F,ISWC=Heat 7",
       "Fleet": "Windsurf Women"
     },
     {
       "Title": "Heat 7- Windsurf Masters",
       "Comment": "(includes all masters)",
-      "Filter": "Craft Type=Windsurf,Age=Master,ISWC=Heat 5",
+      "Filter": "Craft Type=Windsurf,Age=Master,ISWC=Heat 7",
       "Fleet": "Windsurf Masters"
     },
     {
       "Title": "Heat 7- Youths",
       "Comment": "(includes all youths)",
-      "Filter": "Craft Type=Windsurf,Age=Youth,ISWC=Heat 5",
+      "Filter": "Craft Type=Windsurf,Age=Youth,ISWC=Heat 7",
       "Fleet": "Youths"
     },
     {
       "Title": "Heat 7- Windfoil Open",
       "Comment": "(includes men, women, and youths)",
-      "Filter": "Craft Type=Windfoil,ISWC=Heat 5",
+      "Filter": "Craft Type=Windfoil,ISWC=Heat 7",
       "Fleet": "Windfoil Open"
     }
   ]
