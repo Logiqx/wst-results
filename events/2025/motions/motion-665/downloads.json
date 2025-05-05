@@ -1,0 +1,15 @@
+{
+  "SET665SUF_665_20250505_084239.oao": {
+    "motion_file": "/logs/2025/05/0665_2025-05-05-0842.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250505/SET665SUF_665_20250505_084239.oao",
+    "size": 387948,
+    "start_date": 1746430959000,
+    "end_date": 1746469535000,
+    "duration": 38576000,
+    "distance": 18104766,
+    "2s_best": 28073,
+    "10s_best": 27820,
+    "500m_best": 27557,
+    "status": "completed"
+  }
+}

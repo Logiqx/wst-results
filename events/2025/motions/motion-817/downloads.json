@@ -11,5 +11,18 @@
     "10s_best": 21185,
     "500m_best": 20759,
     "status": "completed"
+  },
+  "HOE817EDU_817_20250505_084349.oao": {
+    "motion_file": "/logs/2025/05/0817_2025-05-05-0843.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250505/HOE817EDU_817_20250505_084349.oao",
+    "size": 230284,
+    "start_date": 1746431029000,
+    "end_date": 1746468099000,
+    "duration": 37070000,
+    "distance": 10503901,
+    "2s_best": 28599,
+    "10s_best": 28069,
+    "500m_best": 27630,
+    "status": "completed"
   }
 }

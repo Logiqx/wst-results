@@ -1,0 +1,15 @@
+{
+  "BEN631CHR_631_20250505_083349.oao": {
+    "motion_file": "/logs/2025/05/0631_2025-05-05-0833.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250505/BEN631CHR_631_20250505_083349.oao",
+    "size": 1952,
+    "start_date": 1746430429000,
+    "end_date": 1746468411000,
+    "duration": 37982000,
+    "distance": 1531026,
+    "2s_best": 1227,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  }
+}

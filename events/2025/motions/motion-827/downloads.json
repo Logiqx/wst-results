@@ -11,5 +11,18 @@
     "10s_best": 20243,
     "500m_best": 19469,
     "status": "completed"
+  },
+  "ULR827HEI_827_20250505_083051.oao": {
+    "motion_file": "/logs/2025/05/0827_2025-05-05-0830.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250505/ULR827HEI_827_20250505_083051.oao",
+    "size": 1086308,
+    "start_date": 1746430251000,
+    "end_date": 1746469467000,
+    "duration": 39216000,
+    "distance": 29371974,
+    "2s_best": 28379,
+    "10s_best": 28048,
+    "500m_best": 27803,
+    "status": "completed"
   }
 }

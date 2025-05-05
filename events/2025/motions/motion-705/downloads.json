@@ -1,0 +1,15 @@
+{
+  "BER705JOA_705_20250505_084125.oao": {
+    "motion_file": "/logs/2025/05/0705_2025-05-05-0841.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250505/BER705JOA_705_20250505_084125.oao",
+    "size": 211928,
+    "start_date": 1746430885000,
+    "end_date": 1746468427000,
+    "duration": 37542000,
+    "distance": 7482018,
+    "2s_best": 27801,
+    "10s_best": 27082,
+    "500m_best": 21659,
+    "status": "completed"
+  }
+}

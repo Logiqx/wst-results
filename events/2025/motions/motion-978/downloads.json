@@ -24,5 +24,18 @@
     "10s_best": 9977,
     "500m_best": 1791,
     "status": "completed"
+  },
+  "MAL978TOM_978_20250505_083055.oao": {
+    "motion_file": "/logs/2025/05/0978_2025-05-05-0830.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250505/MAL978TOM_978_20250505_083055.oao",
+    "size": 233560,
+    "start_date": 1746430255000,
+    "end_date": 1746468311000,
+    "duration": 38056000,
+    "distance": 9259838,
+    "2s_best": 29725,
+    "10s_best": 28996,
+    "500m_best": 28369,
+    "status": "completed"
   }
 }

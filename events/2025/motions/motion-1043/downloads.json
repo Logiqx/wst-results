@@ -11,5 +11,18 @@
     "10s_best": 15174,
     "500m_best": 14451,
     "status": "completed"
+  },
+  "WES1043ISA_1043_20250505_084331.oao": {
+    "motion_file": "/logs/2025/05/1043_2025-05-05-0843.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250505/WES1043ISA_1043_20250505_084331.oao",
+    "size": 168352,
+    "start_date": 1746431011000,
+    "end_date": 1746469659000,
+    "duration": 38648000,
+    "distance": 6852324,
+    "2s_best": 26405,
+    "10s_best": 12782,
+    "500m_best": 3522,
+    "status": "completed"
   }
 }

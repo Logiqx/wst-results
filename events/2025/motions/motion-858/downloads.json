@@ -11,5 +11,18 @@
     "10s_best": 18280,
     "500m_best": 17994,
     "status": "completed"
+  },
+  "IAC858MAT_858_20250505_072705.oao": {
+    "motion_file": "/logs/2025/05/0858_2025-05-05-0727.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250505/IAC858MAT_858_20250505_072705.oao",
+    "size": 3171196,
+    "start_date": 1746426425000,
+    "end_date": 1746468729000,
+    "duration": 42304000,
+    "distance": 143071222,
+    "2s_best": 28546,
+    "10s_best": 28337,
+    "500m_best": 28164,
+    "status": "completed"
   }
 }

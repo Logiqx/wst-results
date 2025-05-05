@@ -11,5 +11,18 @@
     "10s_best": 19289,
     "500m_best": 19043,
     "status": "completed"
+  },
+  "ROL1037NEL_1037_20250505_084239.oao": {
+    "motion_file": "/logs/2025/05/1037_2025-05-05-0842.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250505/ROL1037NEL_1037_20250505_084239.oao",
+    "size": 639576,
+    "start_date": 1746430959000,
+    "end_date": 1746468723000,
+    "duration": 37764000,
+    "distance": 21426069,
+    "2s_best": 28582,
+    "10s_best": 28042,
+    "500m_best": 27742,
+    "status": "completed"
   }
 }

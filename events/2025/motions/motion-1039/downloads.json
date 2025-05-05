@@ -11,5 +11,18 @@
     "10s_best": 20432,
     "500m_best": 19943,
     "status": "completed"
+  },
+  "ROB1039FAB_1039_20250505_083101.oao": {
+    "motion_file": "/logs/2025/05/1039_2025-05-05-0831.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250505/ROB1039FAB_1039_20250505_083101.oao",
+    "size": 1198368,
+    "start_date": 1746430261000,
+    "end_date": 1746469595000,
+    "duration": 39334000,
+    "distance": 42333740,
+    "2s_best": 28581,
+    "10s_best": 28274,
+    "500m_best": 27887,
+    "status": "completed"
   }
 }

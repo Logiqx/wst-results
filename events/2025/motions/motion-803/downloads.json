@@ -11,5 +11,18 @@
     "10s_best": 21766,
     "500m_best": 21098,
     "status": "completed"
+  },
+  "LAU803AND_803_20250505_084025.oao": {
+    "motion_file": "/logs/2025/05/0803_2025-05-05-0840.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250505/LAU803AND_803_20250505_084025.oao",
+    "size": 653772,
+    "start_date": 1746430825000,
+    "end_date": 1746469527000,
+    "duration": 38702000,
+    "distance": 24571408,
+    "2s_best": 28771,
+    "10s_best": 28014,
+    "500m_best": 27871,
+    "status": "completed"
   }
 }

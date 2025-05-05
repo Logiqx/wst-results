@@ -1,0 +1,28 @@
+{
+  "STE806BEN_806_20250427_092431.oao": {
+    "motion_file": "/logs/2025/04/0806_2025-04-27-0924.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/STE806BEN_806_20250427_092431.oao",
+    "size": 1536,
+    "start_date": 1745742271000,
+    "end_date": 1745746011000,
+    "duration": 3740000,
+    "distance": 87455,
+    "2s_best": 0,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "STE806BEN_806_20250505_083039.oao": {
+    "motion_file": "/logs/2025/05/0806_2025-05-05-0830.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250505/STE806BEN_806_20250505_083039.oao",
+    "size": 253060,
+    "start_date": 1746430239000,
+    "end_date": 1746468093000,
+    "duration": 37854000,
+    "distance": 10401359,
+    "2s_best": 28967,
+    "10s_best": 28352,
+    "500m_best": 28039,
+    "status": "completed"
+  }
+}

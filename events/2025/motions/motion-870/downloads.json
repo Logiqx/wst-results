@@ -11,5 +11,18 @@
     "10s_best": 21085,
     "500m_best": 20622,
     "status": "completed"
+  },
+  "BOU870PAS_870_20250505_082913.oao": {
+    "motion_file": "/logs/2025/05/0870_2025-05-05-0829.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250505/BOU870PAS_870_20250505_082913.oao",
+    "size": 501360,
+    "start_date": 1746430153000,
+    "end_date": 1746469393000,
+    "duration": 39240000,
+    "distance": 19697396,
+    "2s_best": 20775,
+    "10s_best": 20402,
+    "500m_best": 19747,
+    "status": "completed"
   }
 }

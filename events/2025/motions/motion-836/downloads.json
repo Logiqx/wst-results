@@ -11,5 +11,18 @@
     "10s_best": 18580,
     "500m_best": 17944,
     "status": "completed"
+  },
+  "GIR836JEA_836_20250505_083741.oao": {
+    "motion_file": "/logs/2025/05/0836_2025-05-05-0837.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250505/GIR836JEA_836_20250505_083741.oao",
+    "size": 248276,
+    "start_date": 1746430661000,
+    "end_date": 1746468227000,
+    "duration": 37566000,
+    "distance": 9068108,
+    "2s_best": 29258,
+    "10s_best": 27489,
+    "500m_best": 27495,
+    "status": "completed"
   }
 }

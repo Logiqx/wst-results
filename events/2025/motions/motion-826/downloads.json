@@ -1,0 +1,28 @@
+{
+  "CLA826HAR_826_20250427_092417.oao": {
+    "motion_file": "/logs/2025/04/0826_2025-04-27-0924.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/CLA826HAR_826_20250427_092417.oao",
+    "size": 1536,
+    "start_date": 1745742257000,
+    "end_date": 1745746011000,
+    "duration": 3754000,
+    "distance": 45900,
+    "2s_best": 0,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "CLA826HAR_826_20250505_082845.oao": {
+    "motion_file": "/logs/2025/05/0826_2025-05-05-0828.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250505/CLA826HAR_826_20250505_082845.oao",
+    "size": 51976,
+    "start_date": 1746430125000,
+    "end_date": 1746469161000,
+    "duration": 39036000,
+    "distance": 3383881,
+    "2s_best": 4826,
+    "10s_best": 3025,
+    "500m_best": 0,
+    "status": "skipped"
+  }
+}

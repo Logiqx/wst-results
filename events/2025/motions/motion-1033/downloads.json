@@ -24,5 +24,18 @@
     "10s_best": 18603,
     "500m_best": 18069,
     "status": "completed"
+  },
+  "HUP1033WIL_1033_20250505_072713.oao": {
+    "motion_file": "/logs/2025/05/1033_2025-05-05-0727.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250505/HUP1033WIL_1033_20250505_072713.oao",
+    "size": 1939732,
+    "start_date": 1746426433000,
+    "end_date": 1746469397000,
+    "duration": 42964000,
+    "distance": 99737889,
+    "2s_best": 19248,
+    "10s_best": 18820,
+    "500m_best": 18478,
+    "status": "completed"
   }
 }

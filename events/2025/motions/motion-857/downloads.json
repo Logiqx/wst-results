@@ -1,0 +1,28 @@
+{
+  "NAT857MAR_857_20250427_092737.oao": {
+    "motion_file": "/logs/2025/04/0857_2025-04-27-0927.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250427/NAT857MAR_857_20250427_092737.oao",
+    "size": 1536,
+    "start_date": 1745742457000,
+    "end_date": 1745745997000,
+    "duration": 3540000,
+    "distance": 74872,
+    "2s_best": 0,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "NAT857MAR_857_20250505_084419.oao": {
+    "motion_file": "/logs/2025/05/0857_2025-05-05-0844.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250505/NAT857MAR_857_20250505_084419.oao",
+    "size": 234912,
+    "start_date": 1746431059000,
+    "end_date": 1746468243000,
+    "duration": 37184000,
+    "distance": 8102686,
+    "2s_best": 28657,
+    "10s_best": 27951,
+    "500m_best": 27744,
+    "status": "completed"
+  }
+}

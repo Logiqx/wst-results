@@ -1,0 +1,15 @@
+{
+  "FOL694JOS_694_20250505_084501.oao": {
+    "motion_file": "/logs/2025/05/0694_2025-05-05-0845.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250505/FOL694JOS_694_20250505_084501.oao",
+    "size": 113284,
+    "start_date": 1746431101000,
+    "end_date": 1746468105000,
+    "duration": 37004000,
+    "distance": 3163189,
+    "2s_best": 12170,
+    "10s_best": 12047,
+    "500m_best": 4338,
+    "status": "completed"
+  }
+}

@@ -11,5 +11,18 @@
     "10s_best": 20362,
     "500m_best": 20037,
     "status": "completed"
+  },
+  "WIE867NIC_867_20250505_084031.oao": {
+    "motion_file": "/logs/2025/05/0867_2025-05-05-0840.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250505/WIE867NIC_867_20250505_084031.oao",
+    "size": 153428,
+    "start_date": 1746430831000,
+    "end_date": 1746468301000,
+    "duration": 37470000,
+    "distance": 6160356,
+    "2s_best": 28670,
+    "10s_best": 28205,
+    "500m_best": 27828,
+    "status": "completed"
   }
 }

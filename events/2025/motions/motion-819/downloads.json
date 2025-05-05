@@ -11,5 +11,18 @@
     "10s_best": 19285,
     "500m_best": 18523,
     "status": "completed"
+  },
+  "DEB819FRA_819_20250505_082959.oao": {
+    "motion_file": "/logs/2025/05/0819_2025-05-05-0829.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250505/DEB819FRA_819_20250505_082959.oao",
+    "size": 523876,
+    "start_date": 1746430199000,
+    "end_date": 1746468627000,
+    "duration": 38428000,
+    "distance": 15338919,
+    "2s_best": 18777,
+    "10s_best": 18376,
+    "500m_best": 17829,
+    "status": "completed"
   }
 }

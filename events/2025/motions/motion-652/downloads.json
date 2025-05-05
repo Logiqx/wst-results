@@ -1,0 +1,15 @@
+{
+  "MAR652BRU_652_20250505_090109.oao": {
+    "motion_file": "/logs/2025/05/0652_2025-05-05-0901.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250505/MAR652BRU_652_20250505_090109.oao",
+    "size": 539944,
+    "start_date": 1746432069000,
+    "end_date": 1746470399000,
+    "duration": 38330000,
+    "distance": 18082592,
+    "2s_best": 21081,
+    "10s_best": 20761,
+    "500m_best": 20492,
+    "status": "completed"
+  }
+}

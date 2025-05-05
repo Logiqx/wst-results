@@ -11,5 +11,18 @@
     "10s_best": 21420,
     "500m_best": 20868,
     "status": "completed"
+  },
+  "TJE979TRI_979_20250505_082831.oao": {
+    "motion_file": "/logs/2025/05/0979_2025-05-05-0828.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250505/TJE979TRI_979_20250505_082831.oao",
+    "size": 1498668,
+    "start_date": 1746430111000,
+    "end_date": 1746469157000,
+    "duration": 39046000,
+    "distance": 53596646,
+    "2s_best": 21616,
+    "10s_best": 20380,
+    "500m_best": 19501,
+    "status": "completed"
   }
 }

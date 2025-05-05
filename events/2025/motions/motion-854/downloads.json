@@ -11,5 +11,18 @@
     "10s_best": 18184,
     "500m_best": 17764,
     "status": "completed"
+  },
+  "POP854MAR_854_20250505_084241.oao": {
+    "motion_file": "/logs/2025/05/0854_2025-05-05-0842.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250505/POP854MAR_854_20250505_084241.oao",
+    "size": 100388,
+    "start_date": 1746430961000,
+    "end_date": 1746468309000,
+    "duration": 37348000,
+    "distance": 6412998,
+    "2s_best": 27869,
+    "10s_best": 26660,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

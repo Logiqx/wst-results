@@ -24,5 +24,18 @@
     "10s_best": 17762,
     "500m_best": 17599,
     "status": "completed"
+  },
+  "WAR866NIC_866_20250505_072657.oao": {
+    "motion_file": "/logs/2025/05/0866_2025-05-05-0726.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250505/WAR866NIC_866_20250505_072657.oao",
+    "size": 2745316,
+    "start_date": 1746426417000,
+    "end_date": 1746468907000,
+    "duration": 42490000,
+    "distance": 118514776,
+    "2s_best": 28548,
+    "10s_best": 28065,
+    "500m_best": 27631,
+    "status": "completed"
   }
 }

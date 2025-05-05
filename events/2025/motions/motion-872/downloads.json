@@ -11,5 +11,18 @@
     "10s_best": 21569,
     "500m_best": 20898,
     "status": "completed"
+  },
+  "RUI872ROL_872_20250505_083055.oao": {
+    "motion_file": "/logs/2025/05/0872_2025-05-05-0830.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250505/RUI872ROL_872_20250505_083055.oao",
+    "size": 1271376,
+    "start_date": 1746430255000,
+    "end_date": 1746469051000,
+    "duration": 38796000,
+    "distance": 51058896,
+    "2s_best": 21807,
+    "10s_best": 21440,
+    "500m_best": 20953,
+    "status": "completed"
   }
 }
