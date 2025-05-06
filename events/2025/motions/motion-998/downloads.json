@@ -24,5 +24,18 @@
     "10s_best": 21522,
     "500m_best": 20968,
     "status": "completed"
+  },
+  "VAL998VIN_998_20250506_070249.oao": {
+    "motion_file": "/logs/2025/05/0998_2025-05-06-0702.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250506/VAL998VIN_998_20250506_070249.oao",
+    "size": 1237108,
+    "start_date": 1746511369000,
+    "end_date": 1746536367000,
+    "duration": 24998000,
+    "distance": 48621917,
+    "2s_best": 25704,
+    "10s_best": 25572,
+    "500m_best": 25206,
+    "status": "completed"
   }
 }

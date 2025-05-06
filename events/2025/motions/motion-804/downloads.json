@@ -37,5 +37,18 @@
     "10s_best": 20925,
     "500m_best": 20341,
     "status": "completed"
+  },
+  "ALB804ANT_804_20250506_065859.oao": {
+    "motion_file": "/logs/2025/05/0804_2025-05-06-0658.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250506/ALB804ANT_804_20250506_065859.oao",
+    "size": 1465856,
+    "start_date": 1746511139000,
+    "end_date": 1746536535000,
+    "duration": 25396000,
+    "distance": 58438549,
+    "2s_best": 23317,
+    "10s_best": 22949,
+    "500m_best": 22406,
+    "status": "completed"
   }
 }

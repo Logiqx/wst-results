@@ -24,5 +24,18 @@
     "10s_best": 19786,
     "500m_best": 19118,
     "status": "completed"
+  },
+  "KRE824HAN_824_20250506_070541.oao": {
+    "motion_file": "/logs/2025/05/0824_2025-05-06-0705.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250506/KRE824HAN_824_20250506_070541.oao",
+    "size": 1343396,
+    "start_date": 1746511541000,
+    "end_date": 1746536215000,
+    "duration": 24674000,
+    "distance": 52241810,
+    "2s_best": 25528,
+    "10s_best": 24862,
+    "500m_best": 24816,
+    "status": "completed"
   }
 }

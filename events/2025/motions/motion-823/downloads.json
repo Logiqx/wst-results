@@ -24,5 +24,18 @@
     "10s_best": 28418,
     "500m_best": 27981,
     "status": "completed"
+  },
+  "LEM823GUI_823_20250506_070709.oao": {
+    "motion_file": "/logs/2025/05/0823_2025-05-06-0707.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250506/LEM823GUI_823_20250506_070709.oao",
+    "size": 1029784,
+    "start_date": 1746511629000,
+    "end_date": 1746536417000,
+    "duration": 24788000,
+    "distance": 40552414,
+    "2s_best": 25165,
+    "10s_best": 24908,
+    "500m_best": 24621,
+    "status": "completed"
   }
 }

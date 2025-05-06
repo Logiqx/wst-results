@@ -24,5 +24,18 @@
     "10s_best": 18740,
     "500m_best": 18552,
     "status": "completed"
+  },
+  "ORN871ROG_871_20250506_070639.oao": {
+    "motion_file": "/logs/2025/05/0871_2025-05-06-0706.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250506/ORN871ROG_871_20250506_070639.oao",
+    "size": 384672,
+    "start_date": 1746511599000,
+    "end_date": 1746536147000,
+    "duration": 24548000,
+    "distance": 21646344,
+    "2s_best": 25842,
+    "10s_best": 25068,
+    "500m_best": 24984,
+    "status": "completed"
   }
 }

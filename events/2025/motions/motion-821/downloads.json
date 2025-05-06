@@ -24,5 +24,18 @@
     "10s_best": 26121,
     "500m_best": 14944,
     "status": "completed"
+  },
+  "SCH821GAS_821_20250506_070123.oao": {
+    "motion_file": "/logs/2025/05/0821_2025-05-06-0701.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250506/SCH821GAS_821_20250506_070123.oao",
+    "size": 784188,
+    "start_date": 1746511283000,
+    "end_date": 1746536485000,
+    "duration": 25202000,
+    "distance": 27816812,
+    "2s_best": 18194,
+    "10s_best": 17753,
+    "500m_best": 16950,
+    "status": "completed"
   }
 }

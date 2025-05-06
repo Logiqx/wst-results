@@ -24,5 +24,18 @@
     "10s_best": 20472,
     "500m_best": 20103,
     "status": "completed"
+  },
+  "PRU801AIV_801_20250506_070133.oao": {
+    "motion_file": "/logs/2025/05/0801_2025-05-06-0701.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250506/PRU801AIV_801_20250506_070133.oao",
+    "size": 1673336,
+    "start_date": 1746511293000,
+    "end_date": 1746536637000,
+    "duration": 25344000,
+    "distance": 62681531,
+    "2s_best": 25455,
+    "10s_best": 24906,
+    "500m_best": 24762,
+    "status": "completed"
   }
 }

@@ -37,5 +37,18 @@
     "10s_best": 20154,
     "500m_best": 19566,
     "status": "completed"
+  },
+  "BOU1035SEB_1035_20250506_070403.oao": {
+    "motion_file": "/logs/2025/05/1035_2025-05-06-0704.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250506/BOU1035SEB_1035_20250506_070403.oao",
+    "size": 1950444,
+    "start_date": 1746511443000,
+    "end_date": 1746536205000,
+    "duration": 24762000,
+    "distance": 76107629,
+    "2s_best": 21957,
+    "10s_best": 21129,
+    "500m_best": 20286,
+    "status": "completed"
   }
 }

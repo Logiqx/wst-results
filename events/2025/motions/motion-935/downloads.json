@@ -37,5 +37,18 @@
     "10s_best": 19590,
     "500m_best": 19105,
     "status": "completed"
+  },
+  "LEL935THE_935_20250506_070205.oao": {
+    "motion_file": "/logs/2025/05/0935_2025-05-06-0702.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250506/LEL935THE_935_20250506_070205.oao",
+    "size": 1029836,
+    "start_date": 1746511325000,
+    "end_date": 1746536425000,
+    "duration": 25100000,
+    "distance": 40619108,
+    "2s_best": 25769,
+    "10s_best": 25233,
+    "500m_best": 24985,
+    "status": "completed"
   }
 }

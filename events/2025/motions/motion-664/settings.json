@@ -1,0 +1,54 @@
+{
+  "settings": {
+    "hardware": {
+      "code": 106,
+      "name": "Wireless Mini M10"
+    },
+    "username": "WSW",
+    "speed_unit": "kn",
+    "distance_unit": "km",
+    "gnss_rate": "5",
+    "one_log_per_day": "0",
+    "timezone": "60",
+    "wifi": [
+      {
+        "login": "",
+        "password_length": "0",
+        "trust": "0"
+      },
+      {
+        "login": "",
+        "password_length": "0",
+        "trust": "0"
+      },
+      {
+        "login": "",
+        "password_length": "0",
+        "trust": "0"
+      },
+      {
+        "login": "WSW",
+        "password_length": "8",
+        "trust": "1"
+      }
+    ],
+    "custom_led": {
+      "flash": "1",
+      "substract": "0",
+      "rows": [
+        {
+          "code": "78"
+        },
+        {
+          "code": "79"
+        },
+        {
+          "code": "67"
+        },
+        {
+          "code": "68"
+        }
+      ]
+    }
+  }
+}

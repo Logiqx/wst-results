@@ -24,5 +24,18 @@
     "10s_best": 20455,
     "500m_best": 19786,
     "status": "completed"
+  },
+  "VAN1020WIL_1020_20250506_070639.oao": {
+    "motion_file": "/logs/2025/05/1020_2025-05-06-0706.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250506/VAN1020WIL_1020_20250506_070639.oao",
+    "size": 1068108,
+    "start_date": 1746511599000,
+    "end_date": 1746536141000,
+    "duration": 24542000,
+    "distance": 39121031,
+    "2s_best": 25574,
+    "10s_best": 25055,
+    "500m_best": 24827,
+    "status": "completed"
   }
 }

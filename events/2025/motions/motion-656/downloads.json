@@ -76,5 +76,18 @@
     "10s_best": 20059,
     "500m_best": 18973,
     "status": "completed"
+  },
+  "EVR656CYR_656_20250506_065933.oao": {
+    "motion_file": "/logs/2025/05/0656_2025-05-06-0659.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250506/EVR656CYR_656_20250506_065933.oao",
+    "size": 1040236,
+    "start_date": 1746511173000,
+    "end_date": 1746536477000,
+    "duration": 25304000,
+    "distance": 40596770,
+    "2s_best": 25066,
+    "10s_best": 24819,
+    "500m_best": 24730,
+    "status": "completed"
   }
 }

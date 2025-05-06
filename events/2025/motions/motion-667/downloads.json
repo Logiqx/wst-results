@@ -11,5 +11,18 @@
     "10s_best": 20055,
     "500m_best": 19817,
     "status": "completed"
+  },
+  "MON667MAR_667_20250506_070239.oao": {
+    "motion_file": "/logs/2025/05/0667_2025-05-06-0702.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20250506/MON667MAR_667_20250506_070239.oao",
+    "size": 589292,
+    "start_date": 1746511359000,
+    "end_date": 1746536695000,
+    "duration": 25336000,
+    "distance": 25369593,
+    "2s_best": 22650,
+    "10s_best": 22275,
+    "500m_best": 21636,
+    "status": "completed"
   }
 }
