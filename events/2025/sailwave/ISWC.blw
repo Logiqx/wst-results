@@ -143,7 +143,7 @@
 "scrcode","BFD|Score like|DNF|Yes|Yes|spare||spare|spare|spare|spare|No|No|No|12||Black flag disqualification under rule 30.3","",""
 "scrcode","Code15|Score like|DNF|Yes|Yes|||spare|spare|spare|spare|Yes|No|No|12||","",""
 "scrcode","DGM|Score like|DSQ|No|Yes|spare||spare|spare|spare|spare|Yes|Yes|No|12||Disqualification not excludable under rule 69.1(b)(2)","",""
-"scrcode","DNC|Boats in race +|1|Yes|No|spare||spare|spare|spare|spare|No|No|No|12||Did not come to the starting area","",""
+"scrcode","DNC|Score like|DNF|Yes|No|spare||spare|spare|spare|spare|No|No|No|12||Did not come to the starting area","",""
 "scrcode","DNCG|Fixed points of|11|Yes|No|spare||spare|spare|spare|spare|No|No|No|12||Did not come to the starting area Gold Final","",""
 "scrcode","DNE|Score like|DSQ|No|Yes|spare||spare|spare|spare|spare|Yes|Yes|No|12||Disqualification (other then DGM) not excludable under rule 88.3(b)","",""
 "scrcode","DNF|Boats in race +|1|Yes|Yes|spare||spare|spare|spare|spare|Yes|No|No|12||Started but did not finish","",""
