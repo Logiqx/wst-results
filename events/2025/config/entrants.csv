@@ -13,12 +13,12 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 12,Mr,Charly,Djen,France,FRA-889,Windsurf,Adult
 13,Mr,Christian,Bornemann,Germany,GER-29,Windsurf,Adult
 14,Mr,Daniele,Benedetti,Italy,ITA-60,Windsurf,Adult
-15,Mr,Edu,Hoekstra,Netherlands,?,Windsurf,Adult
+15,Mr,Edu,Hoekstra,Netherlands,NED-999,Windsurf,Adult
 16,Mr,Edwin,Buruma,Netherlands,NED-288,Windsurf,Adult
 17,Mr,Franek,Debowski,Poland,POL-200,Windsurf,Youth
 18,Mr,Gaspar Evelio,Schwarzenlander,Austria,AUT-43,Windsurf,Youth
 19,Mr,Guillaume,Demartres,France,IRE-10,Windsurf,Adult
-20,Mr,Guillaume,Lemoine,France,?,Windsurf,Adult
+20,Mr,Guillaume,Lemoine,France,FRA-999,Windsurf,Adult
 21,Mr,Hans,Kreisel,Netherlands,NED-85,Windsurf,Adult
 22,Mr,Harald,Claessen,Netherlands,NED-71,Windsurf,Adult
 23,Ms,Heidi,Ulrich,Switzerland,SUI-204,Windsurf,Adult
@@ -73,7 +73,7 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 912,Mr,Charly,Djen,France,FRA-889,Windfoil,Adult
 914,Mr,Daniele,Benedetti,Italy,ITA-60,Windfoil,Adult
 918,Mr,Gaspar Evelio,Schwarzenlander,Austria,AUT-43,Windfoil,Youth
-920,Mr,Guillaume,Lemoine,France,?,Windfoil,Adult
+920,Mr,Guillaume,Lemoine,France,FRA-999,Windfoil,Adult
 921,Mr,Hans,Kreisel,Netherlands,NED-85,Windfoil,Adult
 927,Ms,Jenna,Gibson,United Kingdom,GBR-96,Windfoil,Adult
 928,Mr,Jim,Crossley,United Kingdom,GBR-33,Windfoil,Adult
