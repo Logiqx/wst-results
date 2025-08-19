@@ -2,7 +2,7 @@
 
 ### Device Guidance
 
-Everyone must use a suitable GPS device during the Farrell Cup.
+Everyone must use a suitable GPS device during the Farrel Cup.
 
 The Motion LCD and Motion Mini are ideal, but they are no longer being produced.
 
