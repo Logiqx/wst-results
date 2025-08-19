@@ -10,6 +10,8 @@ Alternatively, ESP or LISA devices may be used as they contain similar component
 
 Some of the COROS and Garmin watches approved by GPS-Speedsurfing may also be used as an alternative.
 
+Please let the timekeeper know which GPS device you intend to use by completing this Google [form](https://tinyurl.com/4yfm6w32).
+
 
 
 ### Device Setup
