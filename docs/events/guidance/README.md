@@ -43,12 +43,12 @@ Important for COROS users:
 - Firmware version
   - Check the suitability of your firmware and downgrade if necessary
 - Satellite settings
-  - Do NOT use standard GPS, just to save battery
+  - Do NOT use standard GPS
   - Use "All Systems" or "Dual Frequency" on the newer COROS watches
   - Use "GPS, BeiDou, Galileo, QZSS" on the older COROS watches
 - Activity mode
   - Do NOT use the "Windsurfing" mode because it is not using Doppler speeds
-  - Use the "Speedsurfing mode" for the best quality results
+  - Use the "Speedsurfing" mode for the best quality results
 
 Full details about COROS watch setup can be found on another page by using this [link](https://logiqx.github.io/gps-guides/guidance/coros/setup/).
 
@@ -69,7 +69,7 @@ Important for Garmin users:
 - Data recording
   - Set to "every second", rather than the Garmin default which is called “smart” recording
 - Satellite Settings
-  - Do NOT use standard GPS, just to save battery
+  - Do NOT use standard GPS
   - Use "All Systems" or "All Systems + Multi-Band" for the best quality results
 - Suitable App
   - Please use [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) for the best quality results
