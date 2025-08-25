@@ -122,7 +122,7 @@ Full details about Garmin watch setup can be found on another page by using this
 
 When sharing your data with the timekeeper, please send the FIT file (not GPX).
 
-If you do not know how to get the FIT file from Your Garmin then please use this [link](https://logiqx.github.io/gps-guides/guidance/garmin/analysis/).
+If you do not know how to get the FIT file from your Garmin then please use this [link](https://logiqx.github.io/gps-guides/guidance/garmin/analysis/).
 
 
 
@@ -132,6 +132,6 @@ Please share your file(s) with the timekeeper as soon as you get back to the cam
 
 Somebody on-site will co-ordinate the download and sharing of OAO data from the Motions.
 
-Any ESP, LISA, Locosys, COROS and Garmin devices will have to be done individually.
+ESP, LISA, Locosys, COROS and Garmin devices will have to be provided individually.
 
 WeTransfer is a great way to share files but WhatsApp or e-mail are also acceptable.
