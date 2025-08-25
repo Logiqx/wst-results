@@ -1,14 +1,22 @@
 ## Farrel Cup
 
+Date created: 19 Aug 2025
+
+Last updated: 25 Aug 2025
+
+
+
 ### Device Guidance
 
 Everyone must use a suitable GPS device during the Farrel Cup.
 
 The Motion LCD and Motion Mini are ideal, but they are no longer being produced.
 
-Alternatively, ESP or LISA devices may be used as they contain similar components to the Motions.
+- ESP or LISA devices may be used as they contain similar components to the Motions.
 
-Some of the COROS and Garmin watches approved by GPS-Speedsurfing may also be used as an alternative.
+- Locosys devices such as the GT-31, GW-52 and GW-60 are also acceptable for this competition.
+
+- The more recent COROS and Garmin watches approved by GPS-Speedsurfing may also be used.
 
 Please let the timekeeper know which GPS device you intend to use by completing this Google [form](https://tinyurl.com/4yfm6w32).
 
@@ -20,6 +28,8 @@ Please let the timekeeper know which GPS device you intend to use by completing 
 
 Please ensure that your Motion LCD / Motion Mini is recording at 5 Hz or 10 Hz.
 
+Whilst sailing be sure to wear your Motion on your bicep, facing upwards so that it has a clear view of the sky.
+
 Somebody on-site will co-ordinate the download and sharing of OAO data from the Motions.
 
 
@@ -28,13 +38,46 @@ Somebody on-site will co-ordinate the download and sharing of OAO data from the 
 
 Please ensure that your ESP or LISA device is recording at 5 Hz or 10 Hz.
 
+Whilst sailing be sure to wear your device on your bicep, facing upwards so that it has a clear view of the sky.
+
 Please ensure that UBX files are being recorded and send them to the timekeeper at the end of the day.
+
+
+
+#### Locosys
+
+Instructions specific to each Locosys device are provided below:
+
+GW-60 watch:
+
+- Please ensure the GW-60 is recording at 5 Hz
+- Please wear the GW-60 so that it is facing upwards, and do NOT wear it on the arm using underhand grip
+- Please clear the log prior to the start of each session
+- Send the SBP file to the timekeeper at the end of the day
+
+GW-52:
+
+- Please ensure it is recording at 5 Hz
+- Please wear the GW-52 in an Aquapac on your bicep, facing upwards so that it has a clear view of the sky
+- Please clear the log prior to the start of each session
+- Send the SBP file to the timekeeper at the end of the day
+
+GT-31:
+
+- Please ensure it is recording at 5 Hz
+- Please wear the GT-31 in an Aquapac on your bicep, facing upwards so that it has a clear view of the sky
+- Please clear the log prior to the start of each session
+- Send the SBN + SBP files to the timekeeper at the end of the day
 
 
 
 #### COROS
 
-Due to firmware issues affecting COROS watches since May 2024, it is very important that you check your firmware.
+The APEX 2, APEX 2 Pro, VERTIX 2 and VERTIX 2S may be used for this competition.
+
+Please wear your COROS so that it is facing upwards, and do NOT wear it on the arm using underhand grip.
+
+Firmware issues have plagued COROS since May 2024 so it is very important that you check your firmware.
 
 All of the different firmware versions and their suitability can be found on another page by using this [link](https://logiqx.github.io/gps-details/devices/coros/firmware/).
 
@@ -48,7 +91,7 @@ Important for COROS users:
   - Use "GPS, BeiDou, Galileo, QZSS" on the older COROS watches
 - Activity mode
   - Do NOT use the "Windsurfing" mode because it is not using Doppler speeds
-  - Use the "Speedsurfing" mode for the best quality results
+  - Use the "Speedsurfing" mode for the best quality results and reporting of your 500 meters runs
 
 Full details about COROS watch setup can be found on another page by using this [link](https://logiqx.github.io/gps-guides/guidance/coros/setup/).
 
@@ -62,7 +105,11 @@ If you do not know how to get the FIT file from your COROS then please use this 
 
 The Garmin watches that incorporate a multi-band Airoha or Synaptics chipset are all suitable.
 
-The full list of suitable models can be found on another page by using this [link](https://logiqx.github.io/gps-details/devices/garmin/watches/).
+This includes watches such as the fēnix 7 and fēnix 8, but excludes earlier models such as the fēnix 5 and fēnix 6.
+
+Please wear your Garmin so that it is facing upwards, and do NOT wear it on the arm using underhand grip.
+
+The full list of suitable Garmin watches can be found on another page by using this [link](https://logiqx.github.io/gps-details/devices/garmin/watches/).
 
 Important for Garmin users:
 
@@ -72,7 +119,7 @@ Important for Garmin users:
   - Do NOT use standard GPS
   - Use "All Systems" or "All Systems + Multi-Band" for the best quality results
 - Suitable App
-  - Please use [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) for the best quality results
+  - Please use [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) for the best quality results and reporting of your 500 meters runs
 
 Full details about Garmin watch setup can be found on another page by using this [link](https://logiqx.github.io/gps-guides/guidance/garmin/setup/).
 
@@ -88,6 +135,6 @@ Please share your file(s) with the timekeeper as soon as you get back to the cam
 
 Somebody on-site will co-ordinate the download and sharing of OAO data from the Motions.
 
-Any ESP, LISA, COROS and Garmin devices will have to be done individually.
+Any ESP, LISA, Locosys, COROS and Garmin devices will have to be done individually.
 
 WeTransfer is a great way to share files but WhatsApp or e-mail are also acceptable.
