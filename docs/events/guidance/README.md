@@ -10,12 +10,9 @@ Last updated: 25 Aug 2025
 
 Everyone must use a suitable GPS device during the Farrel Cup.
 
-The Motion LCD and Motion Mini are ideal, but they are no longer being produced.
-
+- The Motion LCD and Motion Mini are ideal, but they are no longer being produced.
 - ESP or LISA devices may be used as they contain similar components to the Motions.
-
 - Locosys devices such as the GT-31, GW-52 and GW-60 are also acceptable for this competition.
-
 - The more recent COROS and Garmin watches approved by GPS-Speedsurfing may also be used.
 
 Please let the timekeeper know which GPS device you intend to use by completing this Google [form](https://tinyurl.com/4yfm6w32).
