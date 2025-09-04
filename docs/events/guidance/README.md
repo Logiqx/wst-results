@@ -14,6 +14,7 @@ Everyone must use a suitable GPS device during the Farrel Cup.
 - ESP or LISA devices may be used as they contain similar components to the Motions.
 - Locosys devices such as the GT-31, GW-52 and GW-60 are also acceptable for this competition.
 - The more recent COROS and Garmin watches approved by GPS-Speedsurfing may also be used.
+- Specific Apple watches may also be used, including the Series 10 and Ultra 2. 
 
 Please let the timekeeper know which GPS device you intend to use by completing this Google [form](https://tinyurl.com/4yfm6w32).
 
@@ -72,7 +73,7 @@ GT-31:
 
 The APEX 2, APEX 2 Pro, VERTIX 2 and VERTIX 2S may be used for this competition.
 
-Please wear your COROS so that it is facing upwards, and do NOT wear it on the arm using underhand grip.
+Please wear your COROS watch so that it is facing upwards, and do NOT wear it on the arm using underhand grip.
 
 Firmware issues have plagued COROS since May 2024 so it is very important that you check your firmware.
 
@@ -104,7 +105,7 @@ The Garmin watches that incorporate a multi-band Airoha or Synaptics chipset are
 
 This includes watches such as the fēnix 7 and fēnix 8, but excludes earlier models such as the fēnix 5 and fēnix 6.
 
-Please wear your Garmin so that it is facing upwards, and do NOT wear it on the arm using underhand grip.
+Please wear your Garmin watch so that it is facing upwards, and do NOT wear it on the arm using underhand grip.
 
 The full list of suitable Garmin watches can be found on another page by using this [link](https://logiqx.github.io/gps-details/devices/garmin/watches/).
 
@@ -123,6 +124,18 @@ Full details about Garmin watch setup can be found on another page by using this
 When sharing your data with the timekeeper, please send the FIT file (not GPX).
 
 If you do not know how to get the FIT file from your Garmin then please use this [link](https://logiqx.github.io/gps-guides/guidance/garmin/analysis/).
+
+
+
+#### Apple
+
+Provisional testing has identified the Series 10 and Ultra 2 as being on-par with the best Garmin and COROS watches.
+
+This ONLY applies when using the Hoolan app which overcomes a variety of recording issues affecting Waterspeed.
+
+Please wear your Apple watch so that it is facing upwards, and do NOT wear it on the arm using underhand grip.
+
+Record your session using the Hoolan app and use Hoolan's GPX export to share your data with the timekeeper. 
 
 
 
