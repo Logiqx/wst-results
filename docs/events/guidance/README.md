@@ -2,7 +2,7 @@
 
 Date created: 19 Aug 2025
 
-Last updated: 25 Aug 2025
+Last updated: 21 Sep 2025
 
 
 
@@ -62,7 +62,6 @@ GW-52:
 
 GT-31:
 
-- Please ensure it is recording at 5 Hz
 - Please wear the GT-31 in an Aquapac on your bicep, facing upwards so that it has a clear view of the sky
 - Please clear the log prior to the start of each session
 - Send the SBN + SBP files to the timekeeper at the end of the day
@@ -145,6 +144,8 @@ Please share your file(s) with the timekeeper as soon as you get back to the cam
 
 Somebody on-site will co-ordinate the download and sharing of OAO data from the Motions.
 
-ESP, LISA, Locosys, COROS and Garmin devices will have to be provided individually.
+ESP, LISA, Locosys, COROS, Garmin or Apple devices will have to be provided individually.
+
+Please ensure your sail number is included in the names of the files that you send.
 
 WeTransfer is a great way to share files but WhatsApp or e-mail are also acceptable.
