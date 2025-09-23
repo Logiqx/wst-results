@@ -1,0 +1,21 @@
+{
+  "Suptitle": "ISWC Heat 3 - {Date}",
+  "Period": "Session",
+  "Fields": "Name,Nation,Sail No,Run 1 (kts),Run 2 (kts),Avg (kts)",
+  "Sort": "Avg (kts)=DSC,Run 1 (kts)=DSC",
+  "Series": "ISWC",
+  "Reports": [
+    {
+      "Title": "Heat 3 - Windsurf",
+      "Comment": "(includes men and women)",
+      "Filter": "Craft Type=Windsurf,ISWC=Heat 3",
+      "Fleet": "Windsurf"
+    },
+    {
+      "Title": "Heat 3 - Windfoil",
+      "Comment": "(includes men, women, and youths)",
+      "Filter": "Craft Type=Windfoil,ISWC=Heat 3",
+      "Fleet": "Windfoil"
+    }
+  ]
+}

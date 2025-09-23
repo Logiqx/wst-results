@@ -1,0 +1,39 @@
+ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age,GT31 ID,Overall
+1,Mr,Alexander,Goncharov,Ukraine,UKR-873,Windsurf,Adult,UKR-873,Y
+2,Mr,Antoine,Albeau,France,FRA-192,Windsurf,Adult,FRA-192,Y
+5,Mr,Augusto,Teixeira,Portugal,POR-131,Windsurf,Adult,POR-131,Y
+6,Mr,Charly,Delisle,France,FRA-51,Windsurf,Adult,FRA-51,Y
+7,Mr,Charly,Djen,France,FRA-889,Windsurf,Adult,FRA-889,Y
+8,Mr,Damien,Nico,France,FRA-81,Windsurf,Adult,FRA-81,Y
+9,Mr,Franek,Debowski,Poland,POL-200,Windsurf,Adult,POL-200,Y
+10,Mr,Guillaume,Demartres,Ireland,IRE-10,Windsurf,Adult,IRE-10,Y
+11,Mr,Guillaume,Lemoine,France,FRA-25,Windsurf,Adult,FRA-25,Y
+12,Mr,Harald,Claessen,Netherlands,NED-71,Windsurf,Adult,NED-71,Y
+13,Ms,Heidi,Arnold-Ulrich,Switzerland,SUI-204,Windsurf,Adult,SUI-204,Y
+14,Mr,Jan,Zahradnicek,Czech Republic,CZE-903,Windsurf,Adult,CZE-903,Y
+17,Mr,Juan,Santos Osipov,Spain,ESP-5,Windsurf,Adult,ESP-5,Y
+18,Mr,Lino,Impens,Belgium,BEL-999,Windsurf,Adult,BEL-999,Y
+19,Mr,Kevin,Mathieu,France,FRA-110,Windsurf,Adult,FRA-110,Y
+20,Mr,Marek,Popovic,Czech Republic,CZE-902,Windsurf,Adult,CZE-902,Y
+21,Mr,Nicolas,Warembourg,France,FRA-531,Windsurf,Adult,FRA-531,Y
+22,Mr,Olexandre,Polivanov,Ukraine,UKR-2,Windsurf,Adult,UKR-2,Y
+23,Mr,Pascal,Boulanger,France,FRA-800,Windsurf,Adult,FRA-800,Y
+24,Mr,Pierre,Schmidt,France,FRA-111,Windsurf,Adult,FRA-111,Y
+26,Mr,Rainer,Motloch,Germany,GER-32,Windsurf,Adult,GER-32,Y
+30,Mr,Thomas,Moldenhauer,Germany,GER-215,Windsurf,Adult,GER-215,Y
+31,Mr,Tom,Malina,Czech Republic,CZE-109,Windsurf,Adult,CZE-109,Y
+32,Mr,Vincent,Valkenaers,Belgium,BEL-62,Windsurf,Adult,BEL-62,Y
+1015,Mr,Jérôme,Bessous,France,FRA-999,Kite,Adult,FRA-999-kite,Y
+1016,Mr,Jochen,Bock,Germany,GER-36,Kite,Adult,GER-36-kite,Y
+1027,Mr,Rob,Douglas,United States,USA-55,Kite,Adult,USA-55-kite,Y
+1029,Mr,Sylvain,Hoceini,France,FRA-53,Kite,Adult,FRA-53-kite,Y
+2002,Mr,Antoine,Albeau,France,FRA-192,Windfoil,Adult,FRA-192-windfoil,Y
+2021,Mr,Nicolas,Warembourg,France,FRA-531,Windfoil,Adult,FRA-531-windfoil,Y
+2011,Mr,Guillaume,Lemoine,France,FRA-25,Windfoil,Adult,FRA-25-windfoil,Y
+2029,Mr,Sylvain,Hoceini,France,FRA-53,Windfoil,Adult,FRA-53-windfoil,Y
+3029,Mr,Sylvain,Hoceini,France,FRA-53,Kitefoil,Adult,FRA-53-kitefoil,Y
+4003,Mr,Antoine,Gardais,France,FRA-11,Wing,Adult,FRA-11-wing,Y
+4004,Mr,Audrey,Marie-Agnes,France,FRA-1,Wing,Adult,FRA-1-wing,Y
+4025,Mr,Principe,Baldini,Italy,ITA-223,Wing,Adult,ITA-223-wing,Y
+4027,Mr,Rob,Douglas,United States,USA-55,Wing,Adult,USA-55-wing,Y
+4028,Mr,Robert,Marechal,France,FRA-65,Wing,Adult,FRA-65-wing,Y

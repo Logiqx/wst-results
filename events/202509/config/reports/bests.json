@@ -1,0 +1,50 @@
+{
+  "Periods": [
+    {
+      "Suptitle": "Best Runs - {Date}",
+      "Period": "Session"
+    },
+    {
+      "Suptitle": "Best Runs",
+      "Period": "Event"
+    }
+  ],
+  "Fields": "Name,Nation,Sail No,Speed (kts),Other Run Speeds (kts)",
+  "ShowSpeeds": 10,
+  "Reports": [
+    {
+      "Title": "Windsurf",
+      "Comment": "(includes men and women)",
+      "Filter": "Craft Type=Windsurf"
+    },
+    {
+      "Title": "Kite",
+      "Comment": "(includes men and women)",
+      "Filter": "Craft Type=Kite"
+    },
+    {
+      "Title": "Windfoil",
+      "Comment": "(includes men and women)",
+      "Filter": "Craft Type=Windfoil"
+    },
+    {
+      "Title": "Kitefoil",
+      "Comment": "(includes men and women)",
+      "Filter": "Craft Type=Kitefoil"
+    },
+    {
+      "Title": "Wing",
+      "Comment": "(includes men and women)",
+      "Filter": "Craft Type=Wing"
+    },
+    {
+      "Title": "Boat",
+      "Comment": "(includes men and women)",
+      "Filter": "Craft Type=Boat"
+    },
+    {
+      "Title": "All Craft TBCs",
+      "Filter": "Craft Type=TBC"
+    }
+  ]
+}
