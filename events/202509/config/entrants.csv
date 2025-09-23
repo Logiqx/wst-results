@@ -1,6 +1,8 @@
 ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age,GT31 ID,Overall
 1,Mr,Alexander,Goncharov,Ukraine,UKR-873,Windsurf,Adult,UKR-873,Y
 2,Mr,Antoine,Albeau,France,FRA-192,Windsurf,Adult,FRA-192,Y
+3,Mr,Antoine,Gardais,France,FRA-11,Wing,Adult,FRA-11,Y
+4,Ms,Audrey,Marie-Agnes,France,FRA-1,Wing,Adult,FRA-1,Y
 5,Mr,Augusto,Teixeira,Portugal,POR-131,Windsurf,Adult,POR-131,Y
 6,Mr,Charly,Delisle,France,FRA-51,Windsurf,Adult,FRA-51,Y
 7,Mr,Charly,Djen,France,FRA-889,Windsurf,Adult,FRA-889,Y
@@ -21,8 +23,10 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age,GT31 ID,Overall
 22,Mr,Olexandre,Polivanov,Ukraine,UKR-2,Windsurf,Adult,UKR-2,Y
 23,Mr,Pascal,Boulanger,France,FRA-800,Windsurf,Adult,FRA-800,Y
 24,Mr,Pierre,Schmidt,France,FRA-111,Windsurf,Adult,FRA-111,Y
+25,Mr,Principe,Baldini,Italy,ITA-223,Wing,Adult,ITA-223,Y
 26,Mr,Rainer,Motloch,Germany,GER-32,Windsurf,Adult,GER-32,Y
 27,Mr,Rob,Douglas,United States,USA-55,Kite,Adult,USA-55,Y
+28,Mr,Robert,Marechal,France,FRA-65,Wing,Adult,FRA-65,Y
 29,Mr,Sylvain,Hoceini,France,FRA-53,Kite,Adult,FRA-53,Y
 30,Mr,Thomas,Moldenhauer,Germany,GER-215,Windsurf,Adult,GER-215,Y
 31,Mr,Tom,Malina,Czech Republic,CZE-109,Windsurf,Adult,CZE-109,Y
@@ -32,8 +36,4 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age,GT31 ID,Overall
 1011,Mr,Guillaume,Lemoine,France,FRA-25,Windfoil,Adult,FRA-25-windfoil,Y
 1029,Mr,Sylvain,Hoceini,France,FRA-53,Windfoil,Adult,FRA-53-windfoil,Y
 2029,Mr,Sylvain,Hoceini,France,FRA-53,Kitefoil,Adult,FRA-53-kitefoil,Y
-3003,Mr,Antoine,Gardais,France,FRA-11,Wing,Adult,FRA-11-wing,Y
-3004,Ms,Audrey,Marie-Agnes,France,FRA-1,Wing,Adult,FRA-1-wing,Y
-3025,Mr,Principe,Baldini,Italy,ITA-223,Wing,Adult,ITA-223-wing,Y
 3027,Mr,Rob,Douglas,United States,USA-55,Wing,Adult,USA-55-wing,Y
-3028,Mr,Robert,Marechal,France,FRA-65,Wing,Adult,FRA-65-wing,Y
