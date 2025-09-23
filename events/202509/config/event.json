@@ -27,6 +27,7 @@
     }
   },
   "Comment": "Online results are provisional, pending ratification",
+  "Time Zone": 120,
   "Decimals": 2,
   "Courses": {
     "H": "Harbour",
