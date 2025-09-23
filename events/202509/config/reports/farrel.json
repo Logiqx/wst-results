@@ -15,13 +15,11 @@
   "Reports": [
     {
       "Title": "Overall",
-      "Comment": "Note: These results are currently missing the afternoon runs of Antoine Albeau",
       "Fields": "Name,Nation,Craft Type,Sail No,Time,Speed (kts)",
       "Filter": "Overall=Y"
     },
     {
       "Title": "Windsurf",
-      "Comment": "Note: These results are currently missing the afternoon runs of Antoine Albeau",
       "Filter": "Craft Type=Windsurf"
     },
     {
