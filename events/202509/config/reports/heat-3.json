@@ -7,13 +7,11 @@
   "Reports": [
     {
       "Title": "Heat 3 - Windsurf",
-      "Comment": "(includes men and women)",
       "Filter": "Craft Type=Windsurf,ISWC=Heat 3",
       "Fleet": "Windsurf"
     },
     {
       "Title": "Heat 3 - Windfoil",
-      "Comment": "(includes men, women, and youths)",
       "Filter": "Craft Type=Windfoil,ISWC=Heat 3",
       "Fleet": "Windfoil"
     }

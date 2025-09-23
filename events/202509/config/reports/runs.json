@@ -7,7 +7,7 @@
   "Reports": [
     {
       "Title": "All Riders",
-      "Comment": "(includes men, women, and youths)",
+      "Comment": "Note: These results are currently missing the afternoon runs of Antoine Albeau",
       "Filter": "Craft Type<>TBC"
     },
     {

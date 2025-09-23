@@ -14,32 +14,27 @@
   "Reports": [
     {
       "Title": "Windsurf",
-      "Comment": "(includes men and women)",
+      "Comment": "Note: These results are currently missing the afternoon runs of Antoine Albeau",
       "Filter": "Craft Type=Windsurf"
     },
     {
       "Title": "Kite",
-      "Comment": "(includes men and women)",
       "Filter": "Craft Type=Kite"
     },
     {
       "Title": "Windfoil",
-      "Comment": "(includes men and women)",
       "Filter": "Craft Type=Windfoil"
     },
     {
       "Title": "Kitefoil",
-      "Comment": "(includes men and women)",
       "Filter": "Craft Type=Kitefoil"
     },
     {
       "Title": "Wing",
-      "Comment": "(includes men and women)",
       "Filter": "Craft Type=Wing"
     },
     {
       "Title": "Boat",
-      "Comment": "(includes men and women)",
       "Filter": "Craft Type=Boat"
     },
     {

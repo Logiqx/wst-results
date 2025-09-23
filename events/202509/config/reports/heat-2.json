@@ -7,13 +7,12 @@
   "Reports": [
     {
       "Title": "Heat 2 - Windsurf",
-      "Comment": "(includes men and women)",
+      "Comment": "Note: These results are currently missing the afternoon runs of Antoine Albeau",
       "Filter": "Craft Type=Windsurf,ISWC=Heat 2",
       "Fleet": "Windsurf"
     },
     {
       "Title": "Heat 2 - Windfoil",
-      "Comment": "(includes men, women, and youths)",
       "Filter": "Craft Type=Windfoil,ISWC=Heat 2",
       "Fleet": "Windfoil"
     }
