@@ -11,3 +11,4 @@
   - [Configuration](config.md) - configuration of the reports
 - [Notes](notes.md) - general notes taken during the competition
   - [Sessions](sessions.md) - individual sessions during the event
+  - [Farrel Cup](farrel.md) - technical notes for the Farrel Cup
