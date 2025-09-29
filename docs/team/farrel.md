@@ -28,10 +28,16 @@ find . -name *gpx -exec grep -Hc course {} \; | grep :0
 
 ### GPSResults
 
+Combine morning and afternoon files in a single folder so that incorrectly placed files do not result in missing runs.
+
 Load files into GPSResults, apply gates and time limits  (remember to use UTC) and then export the CSV containing all runs.
-- Fin heat
-  - Files without COG need to be processed separately (non-Doppler) - e.g. GPX files from Apple
+
+Heats
+
 - Wing / windfoil heat
+- Fin heat
+
+n.b. Files without COG need to be processed separately (non-Doppler) - e.g. GPX files from Apple
 
 Save the CSV results in Linux environment:
 
@@ -73,3 +79,21 @@ After running reports:
 bin/rankings.sh
 ```
 
+
+
+### Issues / Improvements
+
+A number of issues were encountered that should be avoided in the future:
+
+- Course timings
+  - Course opening / closing times were inferred from the GPS data
+  - It would be a lot easier if they were written down by someone
+- Morning / afternoon
+  - It is possible to get morning / afternoon files mixed up
+  - Use a single folder for all OAO / UBX / SBP / FIT files of the day
+- People sending GPX files from Motion, COROS, and Garmin devices
+  - Request OAO / FIT files from those individuals
+- Unsuitable GPS devices / setup
+  - Sailmon - CSV was used to manually generate a suitable GPX file
+  - Apple Watch Ultra 2 - No COG in Hoolan GPX file, so essentially non-Doppler
+  - Garmin - COG not recorded by Windsurfing Application, ViVSurfer
