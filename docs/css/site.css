@@ -284,9 +284,8 @@ table.valid td:nth-child(4) {
 
 /* Hide series points for phones in portrait */
 @media screen and (max-width: 500px) {
-  table.iswc th:nth-last-child(3),
-  table.iswc td:nth-last-child(3) {
-    display: none;
+  table.iswc .race {
+    visibility: collapse;
   }
 }
 
