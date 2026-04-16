@@ -1,0 +1,91 @@
+ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
+101,Mr,Aivo,Prükk,Estonia,EST-314,Windsurf,Adult
+103,Mr,Alexander,Goncharov,Ukraine,UKR-873,Windsurf,Adult
+104,Mr,Alexandros,Petikidis,Greece,GRE-999,Windsurf,Adult
+106,Mr,Amado,Vrieswijk,Bonaire,NB-20,Windsurf,Adult
+107,Mr,Antoine,Albeau,France,FRA-192,Windsurf,Adult
+109,Mr,Augusto,Teixeira,Portugal,POR-131,Windsurf,Adult
+110,Mr,Basile,Wilhelem,France,FRA-1077,Windsurf,Adult
+111,Mr,Bjorn,Haacke,Germany,GER-1,Windsurf,Master
+112,Ms,Blanca,Alabau,Spain,ESP-3,Windsurf,Adult
+113,Mr,Brendan,Lorho,France,FRA-113,Windsurf,Youth
+114,Mr,Bruno,Martini,Italy,ITA-160,Windsurf,Adult
+115,Mr,Cédric,Bordes,France,FRA-91,Windsurf,Adult
+116,Mr,Charly,Delisle,France,FRA-51,Windsurf,Adult
+117,Mr,Charly,Djen,France,FRA-889,Windsurf,Adult
+118,Mr,Chris,Benzing,Germany,GER-77,Windsurf,Adult
+119,Mr,Christian,Bornemann,Germany,GER-29,Windsurf,Adult
+120,Mr,Cyril,Evrard,Belgium,BEL-250,Windsurf,Adult
+121,Mr,Damien,Nico,France,FRA-81,Windsurf,Adult
+123,Mr,Fabrice,Robert,France,FRA-816,Windsurf,Adult
+125,Mr,Franek,Debowski,Poland,POL-200,Windsurf,Youth
+126,Mr,Gautier,Bourgeois,France,FRA-665,Windsurf,Adult
+127,Mr,George,Crossley,United Kingdom,GBR-370,Windsurf,Youth
+128,Mr,Guillaume,Demartres,Ireland,IRE-10,Windsurf,Adult
+129,Mr,Guillaume,Lemoine,France,FRA-25,Windsurf,Adult
+130,Mr,Gunnar,Asmussen,Germany,GER-2,Windsurf,Adult
+131,Ms,Heidi,Ulrich,Switzerland,SUI-204,Windsurf,Adult
+132,Ms,Isabelle,Westerveld,Netherlands,NED-111,Windsurf,Youth
+133,Mr,Jack,Crossley,United Kingdom,GBR-371,Windsurf,Youth
+134,Mr,Jacques,van der Hout,Netherlands,NED-35,Windsurf,Adult
+135,Mr,Jan,Zahradnicek,Czech Republic,CZE-903,Windsurf,Adult
+136,Mr,Jean,Giroux,France,FRA-95,Windsurf,Adult
+137,Mr,Jean,Legall,France,BZH-168,Windsurf,Adult
+138,Mr,Jean-Marc,De Bruyne,Belgium,BEL-14,Windsurf,Master
+139,Ms,Jenna,Gibson,United Kingdom,GBR-96,Windsurf,Adult
+140,Mr,Jim,Crossley,United Kingdom,GBR-33,Windsurf,Adult
+141,Mr,Jurjen,van der Noord,Netherlands,NED-71,Windsurf,Adult
+142,Ms,Justine,Lemeteyer,France,FRA-171,Windsurf,Adult
+143,Mr,Kevin,Mathieu,France,FRA-110,Windsurf,Adult
+144,Mr,Laurent,Fesquet,France,FRA-66,Windsurf,Adult
+145,Mr,Leonid,Judin,Serbia,SRB-1,Windsurf,Master
+146,Mr,Maciej,Bukolt,Poland,POL-404,Windsurf,Adult
+147,Ms,Maé,Davico,France,FRA-203,Windsurf,Adult
+148,Mr,Marek,Popo,Czech Republic,CZE-902,Windsurf,Adult
+149,Mr,Marek,Vejres,?,?,Windsurf,Adult
+150,Mr,Matteo,Iachino,Italy,ITA-140,Windsurf,Adult
+151,Mr,Matthias,Popp,Germany,GER-29,Windsurf,Adult
+152,Mr,Michael,George,United Kingdom,GBR-888,Windsurf,Adult
+154,Mr,Nicolas,Warembourg,France,FRA-531,Windsurf,Adult
+155,Mr,Nicolas-David,Garrel,Luxembourg,LUX-22,Windsurf,Adult
+156,Mr,Nils,Bach,Germany,GER-172,Windsurf,Adult
+157,Mr,Pascal,Boulanger,France,FRA-800,Windsurf,Master
+158,Mr,Pierre,Mortefon,France,FRA-14,Windsurf,Adult
+161,Mr,Roger,Örnvang,Sweden,SWE-52,Windsurf,Adult
+162,Mr,Rolf,de Ruiter,Netherlands,NED-177,Windsurf,Adult
+163,Mr,Sébastien,Bonhomme Allaire,France,FRA-511,Windsurf,Adult
+164,Mr,Simon,Pettifer,United Kingdom,GBR-67,Windsurf,Adult
+165,Mr,Thomas,Moldenhauer,Germany,GER-215,Windsurf,Master
+166,Mr,Thorsten,Luig,Germany,GER-211,Windsurf,Adult
+167,Mr,Tom,Malina,Czech Republic,CZE-109,Windsurf,Adult
+168,Mr,Tristan,Tjerks,Netherlands,NED-555,Windsurf,Adult
+169,Mr,Vincent,Valkenaers,Belgium,BEL-62,Windsurf,Adult
+170,Mr,Wilfried,Vanherweghe,France,FRA-163,Windsurf,Adult
+172,Mr,Xavier,Joly,France,FRA-767,Windsurf,Adult
+206,Mr,Amado,Vrieswijk,Bonaire,NB-20,Windfoil,Adult
+207,Mr,Antoine,Albeau,France,FRA-192,Windfoil,Adult
+212,Ms,Blanca,Alabau,Spain,ESP-3,Windfoil,Adult
+213,Mr,Brendan,Lorho,France,FRA-113,Windfoil,Youth
+214,Mr,Bruno,Martini,Italy,ITA-160,Windfoil,Adult
+215,Mr,Cédric,Bordes,France,FRA-91,Windfoil,Adult
+218,Mr,Chris,Benzing,Germany,GER-77,Windfoil,Adult
+220,Mr,Cyril,Evrard,Belgium,BEL-250,Windfoil,Adult
+224,Mr,Florian,Madec,France,FRA-2123,Windfoil,Adult
+226,Mr,Gautier,Bourgeois,France,FRA-665,Windfoil,Adult
+229,Mr,Guillaume,Lemoine,France,FRA-25,Windfoil,Adult
+237,Mr,Jean,Legall,France,BZH-168,Windfoil,Adult
+239,Ms,Jenna,Gibson,United Kingdom,GBR-96,Windfoil,Adult
+242,Ms,Justine,Lemeteyer,France,FRA-171,Windfoil,Adult
+247,Ms,Maé,Davico,France,FRA-203,Windfoil,Adult
+250,Mr,Matteo,Iachino,Italy,ITA-140,Windfoil,Adult
+252,Mr,Michael,George,United Kingdom,GBR-888,Windfoil,Adult
+253,Mr,Nicolas,Goyard,France,FRA-465,Windfoil,Adult
+254,Mr,Nicolas,Warembourg,France,FRA-531,Windfoil,Adult
+258,Mr,Pierre,Mortefon,France,FRA-14,Windfoil,Adult
+271,Mr,William,Huppert,France,FRA-330,Windfoil,Adult
+202,Mr,Alessandro,Tomasi,Italy,ITA-999,Wing,Adult
+205,Ms,Alice,Read,United Kingdom,GBR-248,Wing,Adult
+208,Ms,Audrey,Marie-Agnes,France,FRA-1,Wing,Adult
+222,Mr,Dave,Williams,United Kingdom,GBR-12,Wing,Adult
+259,Mr,Pierre,Schmitz,France,FRA-111,Wing,Adult
+260,Mr,Rafferty,Read,United Kingdom,GBR-577,Wing,Adult
