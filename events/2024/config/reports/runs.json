@@ -8,7 +8,7 @@
     {
       "Title": "All Riders",
       "Comment": "(includes men, women, and youths)",
-      "Filter": "Craft Type<>TBC,Craft Type<>Kitesurf"
+      "Filter": "Craft Type<>TBC"
     },
     {
       "Title": "All Craft TBCs",
