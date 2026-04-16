@@ -1,0 +1,43 @@
+{
+  "Suptitle": "Entrants",
+  "Period": "Event",
+  "Fields": "Name,Nation,Sail No,Motion",
+  "Runs": false,
+  "Sort": "Name=ASC",
+  "Reports": [
+    {
+      "Title": "Windsurf Men",
+      "Comment": "(includes masters and youths)",
+      "Filter": "Craft Type=Windsurf,Gender=M"
+    },
+    {
+      "Title": "Windsurf Women",
+      "Comment": "(includes youths)",
+      "Filter": "Craft Type=Windsurf,Gender=F"
+    },
+    {
+      "Title": "Windsurf Masters",
+      "Comment": "(includes all masters)",
+      "Filter": "Craft Type=Windsurf,Age=Master"
+    },
+    {
+      "Title": "Youths",
+      "Comment": "(includes all youths)",
+      "Filter": "Craft Type=Windsurf,Age=Youth"
+    },
+    {
+      "Title": "Windfoil Open",
+      "Comment": "(includes men, women, and youths)",
+      "Filter": "Craft Type=Windfoil"
+    },
+    {
+      "Title": "Wing Open",
+      "Comment": "(includes men, women, and youths)",
+      "Filter": "Craft Type=Wing"
+    },
+    {
+      "Title": "All Craft TBCs",
+      "Filter": "Craft Type=TBC"
+    }
+  ]
+}
