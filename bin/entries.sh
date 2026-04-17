@@ -22,4 +22,14 @@ tail +2 $ENTRIES | awk -F '\t' 'BEGIN {OFS=","} {print $1+100,$11*10,"2026-04-27
 
 # Quick review
 
-more $ENTRANTS $MOTIONS
+echo $ENTRANTS:
+head -4 $ENTRANTS
+echo ...
+tail -3 $ENTRANTS
+
+echo
+
+echo $MOTIONS:
+head -4 $MOTIONS
+echo ...
+tail -3 $MOTIONS
