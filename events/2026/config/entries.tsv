@@ -28,27 +28,27 @@ ID	Title	First Name	Family Name	Country	Sail No	Craft Type	Craft Type	Craft Type
 125	Mr	Franek	Debowski	Poland	POL-200	Windsurf	-	-	Youth	1020	DEB1020FRA	DEB1020FRA      POL-200
 173	Mr	Gaspar Evelio	Schwarzenlander	Austria	AUT-43	Windsurf	-	-	Youth	700	SCH700GAS	SCH700GAS      AUT-43
 126	Mr	Gautier	Bourgeois	France	FRA-665	Windsurf	Windfoil	-	Adult	803	BOU803GAU	BOU803GAU      FRA-665
-127	Mr	George	Crossley	United Kingdom	GBR-370	Windsurf	-	-	Youth	845	CRO845GEO	CRO845GEO      GBR-370
+127	Mr	George	Crossley	United Kingdom	GBR-370	Windsurf	Windfoil	-	Youth	845	CRO845GEO	CRO845GEO      GBR-370
 128	Mr	Guillaume	Demartres	Ireland	IRE-10	Windsurf	-	-	Adult	724	DEM724GUI	DEM724GUI      IRE-10
 129	Mr	Guillaume	Lemoine	France	FRA-25	Windsurf	Windfoil	-	Adult	869	LEM869GUI	LEM869GUI      FRA-25
 130	Mr	Gunnar	Asmussen	Germany	GER-2	Windsurf	-	-	Adult	854	ASM854GUN	ASM854GUN      GER-2
-131	Ms	Heidi	Ulrich	Switzerland	SUI-204	Windsurf	-	-	Adult	1043	ULR1043HEI	ULR1043HEI      SUI-204
-132	Ms	Isabelle	Westerveld	Netherlands	NED-214	Windsurf	-	-	Youth	705	WES705ISA	WES705ISA      NED-111
-133	Mr	Jack	Crossley	United Kingdom	GBR-371	Windsurf	-	-	Youth	855	CRO855JAC	CRO855JAC      GBR-371
+131	Ms	Heidi	Ulrich	Switzerland	SUI-204	Windsurf	Windfoil	-	Adult	1043	ULR1043HEI	ULR1043HEI      SUI-204
+132	Ms	Isabelle	Westerveld	Netherlands	NED-214	Windsurf	-	-	Youth	705	WES705ISA	WES705ISA      NED-214
+133	Mr	Jack	Crossley	United Kingdom	GBR-371	Windsurf	Windfoil	-	Youth	855	CRO855JAC	CRO855JAC      GBR-371
 134	Mr	Jacques	van der Hout	Netherlands	NED-35	Windsurf	-	-	Adult	952	HOU952JAC	HOU952JAC      NED-35
 135	Mr	Jan	Zahradnicek	Czech Republic	CZE-903	Windsurf	-	-	Adult	718	ZAH718JAN	ZAH718JAN      CZE-903
 136	Mr	Jean	Giroux	France	FRA-95	Windsurf	-	-	Adult	826	GIR826JEA	GIR826JEA      FRA-95
 137	Mr	Jean	Legall	France	BZH-168	Windsurf	Windfoil	-	Adult	852	LEG852JEA	LEG852JEA      BZH-168
 138	Mr	Jean-Marc	De Bruyne	Belgium	BEL-14	Windsurf	-	-	Master	1042	BRU1042JEA	BRU1042JEA      BEL-14
 139	Ms	Jenna	Gibson	United Kingdom	GBR-96	Windsurf	Windfoil	-	Adult	804	GIB804JEN	GIB804JEN      GBR-96
-140	Mr	Jim	Crossley	United Kingdom	GBR-33	Windsurf	-	-	Adult	841	CRO841JIM	CRO841JIM      GBR-33
+140	Mr	Jim	Crossley	United Kingdom	GBR-33	Windsurf	Windfoil	-	Adult	841	CRO841JIM	CRO841JIM      GBR-33
 141	Mr	Jurjen	van der Noord	Netherlands	NED-71	Windsurf	-	-	Adult	816	NOO816JUR	NOO816JUR      NED-71
 142	Ms	Justine	Lemeteyer	France	FRA-171	Windsurf	Windfoil	-	Adult	806	LEM806JUS	LEM806JUS      FRA-171
 143	Mr	Kevin	Mathieu	France	FRA-110	Windsurf	-	-	Adult	822	MAT822KEV	MAT822KEV      FRA-110
 175	Mr	Klaus	Küppenbender	Germany	GER-18	Windsurf	-	-	Adult	695	KÜP695KLA	KÜP695KLA      GER-18
 144	Mr	Laurent	Fesquet	France	FRA-66	Windsurf	-	-	Adult	849	FES849LAU	FES849LAU      FRA-66
 145	Mr	Leonid	Judin	Serbia	SRB-1	Windsurf	-	-	Master	807	JUD807LEO	JUD807LEO      SRB-1
-146	Mr	Maciej	Bukolt	Poland	POL-404	Windsurf	-	-	Adult	694	BUK694MAC	BUK694MAC      POL-404
+146	Mr	Maciej	Bukolt	Poland	POL-404	Windsurf	Windfoil	-	Adult	694	BUK694MAC	BUK694MAC      POL-404
 147	Ms	Maé	Davico	France	FRA-203	Windsurf	Windfoil	-	Adult	873	DAV873MAE	DAV873MAE      FRA-203
 148	Mr	Marek	Popo	Czech Republic	CZE-902	Windsurf	-	-	Adult	701	POP701MAR	POP701MAR      CZE-902
 149	Mr	Marek	Vejres	Czech Republic	CZE-999	Windsurf	-	-	Adult	717	VEJ717MAR	VEJ717MAR      CZE-999
@@ -66,12 +66,13 @@ ID	Title	First Name	Family Name	Country	Sail No	Craft Type	Craft Type	Craft Type
 161	Mr	Roger	Ornvang	Sweden	SWE-52	Windsurf	-	-	Adult	1045	ORN1045ROG	ORN1045ROG      SWE-52
 162	Mr	Rolf	de Ruiter	Netherlands	NED-177	Windsurf	-	-	Adult	942	RUI942ROL	RUI942ROL      NED-177
 163	Mr	Sébastien	Bonhomme Allaire	France	FRA-511	Windsurf	-	-	Adult	821	BON821SEB	BON821SEB      FRA-511
-164	Mr	Simon	Pettifer	United Kingdom	GBR-67	Windsurf	-	-	Adult	1040	PET1040SIM	PET1040SIM      GBR-67
+164	Mr	Simon	Pettifer	United Kingdom	GBR-67	Windsurf	Windfoil	-	Adult	1040	PET1040SIM	PET1040SIM      GBR-67
+177	Mr	Sufyan	Setti	Algeria	ALG-2	Windsurf	Windfoil	-	Adult	661	SET661SUF	SET661SUF      ALG-2
 165	Mr	Thomas	Moldenhauer	Germany	GER-215	Windsurf	-	-	Master	805	MOL805THO	MOL805THO      GER-215
 166	Mr	Thorsten	Luig	Germany	GER-211	Windsurf	-	-	Adult	811	LUI811THO	LUI811THO      GER-211
 167	Mr	Tom	Malina	Czech Republic	CZE-109	Windsurf	-	-	Adult	1035	MAL1035TOM	MAL1035TOM      CZE-109
 168	Mr	Tristan	Tjerks	Netherlands	NED-555	Windsurf	-	-	Adult	810	TJE810TRI	TJE810TRI      NED-555
-169	Mr	Vincent	Valkenaers	Belgium	BEL-62	Windsurf	-	-	Adult	1033	VAL1033VIN	VAL1033VIN      BEL-62
+169	Mr	Vincent	Valkenaers	Belgium	BEL-62	Windsurf	Windfoil	-	Adult	1033	VAL1033VIN	VAL1033VIN      BEL-62
 170	Mr	Wilfried	Vanherweghe	France	FRA-163	Windsurf	-	-	Adult	870	VAN870WIL	VAN870WIL      FRA-163
 171	Mr	William	Huppert	France	FRA-330	-	Windfoil	-	Adult	836	HUP836WIL	HUP836WIL      FRA-330
 172	Mr	Xavier	Joly	France	FRA-767	Windsurf	-	-	Adult	813	JOL813XAV	JOL813XAV      FRA-767
