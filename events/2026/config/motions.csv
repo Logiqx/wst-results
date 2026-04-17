@@ -1,5 +1,6 @@
 Entrant ID,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Craft Type
 101,814,2026-04-27,2026-05-06,PRU814AIV,Aivo,Prükk,Windsurf
+176,717,2026-04-27,2026-05-06,POL717ALE,Aleksandr,Polyvanov,Windsurf
 103,825,2026-04-27,2026-05-06,GON825ALE,Alexander,Goncharov,Windsurf
 104,823,2026-04-27,2026-05-06,PET823ALE,Alexandros,Petikidis,Windsurf
 106,829,2026-04-27,2026-05-06,VRI829AMA,Amado,Vrieswijk,Windsurf
@@ -15,10 +16,12 @@ Entrant ID,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Craft Ty
 117,1037,2026-04-27,2026-05-06,DJE1037CHA,Charly,Djen,Windsurf
 118,808,2026-04-27,2026-05-06,BEN808CHR,Chris,Benzing,Windsurf
 119,802,2026-04-27,2026-05-06,BOR802CHR,Christian,Bornemann,Windsurf
+174,699,2026-04-27,2026-05-06,DEU699CHR,Christophe,Deus,Windsurf
 120,818,2026-04-27,2026-05-06,EVR818CYR,Cyril,Evrard,Windsurf
 121,866,2026-04-27,2026-05-06,NIC866DAM,Damien,Nico,Windsurf
 123,861,2026-04-27,2026-05-06,ROB861FAB,Fabrice,Robert,Windsurf
 125,1020,2026-04-27,2026-05-06,DEB1020FRA,Franek,Debowski,Windsurf
+173,700,2026-04-27,2026-05-06,SCH700GAS,Gaspar Evelio,Schwarzenlander,Windsurf
 126,803,2026-04-27,2026-05-06,BOU803GAU,Gautier,Bourgeois,Windsurf
 127,845,2026-04-27,2026-05-06,CRO845GEO,George,Crossley,Windsurf
 128,724,2026-04-27,2026-05-06,DEM724GUI,Guillaume,Demartres,Windsurf
@@ -37,6 +40,7 @@ Entrant ID,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Craft Ty
 141,816,2026-04-27,2026-05-06,NOO816JUR,Jurjen,van der Noord,Windsurf
 142,806,2026-04-27,2026-05-06,LEM806JUS,Justine,Lemeteyer,Windsurf
 143,822,2026-04-27,2026-05-06,MAT822KEV,Kevin,Mathieu,Windsurf
+175,695,2026-04-27,2026-05-06,KÜP695KLA,Klaus,Küppenbender,Windsurf
 144,849,2026-04-27,2026-05-06,FES849LAU,Laurent,Fesquet,Windsurf
 145,807,2026-04-27,2026-05-06,JUD807LEO,Leonid,Judin,Windsurf
 146,694,2026-04-27,2026-05-06,BUK694MAC,Maciej,Bukolt,Windsurf

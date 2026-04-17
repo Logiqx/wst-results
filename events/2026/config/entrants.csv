@@ -1,5 +1,6 @@
 ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 101,Mr,Aivo,Prükk,Estonia,EST-314,Windsurf,Adult
+176,Mr,Aleksandr,Polyvanov,Ukraine,UKR-130,Windsurf,Adult
 103,Mr,Alexander,Goncharov,Ukraine,UKR-873,Windsurf,Adult
 104,Mr,Alexandros,Petikidis,Greece,GRE-999,Windsurf,Adult
 106,Mr,Amado,Vrieswijk,Netherlands,NB-20,Windsurf,Adult
@@ -15,10 +16,12 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 117,Mr,Charly,Djen,France,FRA-889,Windsurf,Adult
 118,Mr,Chris,Benzing,Germany,GER-77,Windsurf,Adult
 119,Mr,Christian,Bornemann,Germany,GER-29,Windsurf,Adult
+174,Mr,Christophe,Deus,Germany,GER-338,Windsurf,Adult
 120,Mr,Cyril,Evrard,Belgium,BEL-250,Windsurf,Adult
 121,Mr,Damien,Nico,France,FRA-81,Windsurf,Adult
 123,Mr,Fabrice,Robert,France,FRA-816,Windsurf,Adult
 125,Mr,Franek,Debowski,Poland,POL-200,Windsurf,Youth
+173,Mr,Gaspar Evelio,Schwarzenlander,Austria,AUT-43,Windsurf,Youth
 126,Mr,Gautier,Bourgeois,France,FRA-665,Windsurf,Adult
 127,Mr,George,Crossley,United Kingdom,GBR-370,Windsurf,Youth
 128,Mr,Guillaume,Demartres,Ireland,IRE-10,Windsurf,Adult
@@ -37,6 +40,7 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 141,Mr,Jurjen,van der Noord,Netherlands,NED-71,Windsurf,Adult
 142,Ms,Justine,Lemeteyer,France,FRA-171,Windsurf,Adult
 143,Mr,Kevin,Mathieu,France,FRA-110,Windsurf,Adult
+175,Mr,Klaus,Küppenbender,Germany,GER-18,Windsurf,Adult
 144,Mr,Laurent,Fesquet,France,FRA-66,Windsurf,Adult
 145,Mr,Leonid,Judin,Serbia,SRB-1,Windsurf,Master
 146,Mr,Maciej,Bukolt,Poland,POL-404,Windsurf,Adult
