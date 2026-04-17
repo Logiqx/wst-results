@@ -17,12 +17,12 @@
     },
     {
       "Title": "Windsurf Masters",
-      "Comment": "(includes all masters)",
+      "Comment": "(born before 1 Jan 1966)",
       "Filter": "Craft Type=Windsurf,Age=Master"
     },
     {
       "Title": "Youths",
-      "Comment": "(includes all youths)",
+      "Comment": "(born on or after 1 Jan 2005)",
       "Filter": "Craft Type=Windsurf,Age=Youth"
     },
     {
