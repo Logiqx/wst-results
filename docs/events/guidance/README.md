@@ -2,7 +2,7 @@
 
 Date created: 19 Aug 2025
 
-Last updated: 21 Sep 2025
+Last updated: 18 Apr 2025
 
 
 
@@ -14,7 +14,6 @@ Everyone must use a suitable GPS device during the Farrel Cup.
 - ESP or LISA devices may be used as they contain similar components to the Motions.
 - Locosys devices such as the GT-31, GW-52 and GW-60 are also acceptable for this competition.
 - The more recent COROS and Garmin watches approved by GPS-Speedsurfing may also be used.
-- Specific Apple watches may also be used, including the Series 10 and Ultra 2. 
 
 Please let the timekeeper know which GPS device you intend to use by completing this Google [form](https://tinyurl.com/4yfm6w32).
 
@@ -123,18 +122,6 @@ Full details about Garmin watch setup can be found on another page by using this
 When sharing your data with the timekeeper, please send the FIT file (not GPX).
 
 If you do not know how to get the FIT file from your Garmin then please use this [link](https://logiqx.github.io/gps-guides/guidance/garmin/analysis/).
-
-
-
-#### Apple
-
-Provisional testing has identified the Series 10 and Ultra 2 as being on-par with the best Garmin and COROS watches.
-
-This ONLY applies when using the Hoolan app which overcomes a variety of recording issues affecting Waterspeed.
-
-Please wear your Apple watch so that it is facing upwards, and do NOT wear it on the arm using underhand grip.
-
-Record your session using the Hoolan app and use Hoolan's GPX export to share your data with the timekeeper. 
 
 
 
