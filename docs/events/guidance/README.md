@@ -1,4 +1,4 @@
-## GPS Advice
+## Prince of Speed - GPS Guidance
 
 Date created: 18 Apr 2025
 
@@ -146,5 +146,4 @@ Full details about Garmin watch setup can be found on another page by using this
 When sharing your data with the timekeeper, please send the FIT file (not GPX).
 
 If you do not know how to get the FIT file from your Garmin then please use this [link](https://logiqx.github.io/gps-guides/guidance/garmin/analysis/).
-
 
