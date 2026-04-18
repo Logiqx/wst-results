@@ -28,6 +28,8 @@ When wearing the device on the water, please adhere to the following guidance:
 
 The Motion should already have been switched on when you collect it, and the red light will flash once every 10-12 seconds.
 
+Please check the red light is flashing every 10-12 seconds before going sailing, and periodically throughout the session.
+
 
 
 ### Backup Device
