@@ -30,7 +30,7 @@ The Motion should already have been switched on when you collect it, and the red
 
 
 
-### Backup Devices
+### Backup Device
 
 Everyone is advised to wear a suitable GPS device as a backup. Several types of GPS are suitable:
 
@@ -52,15 +52,19 @@ Please ensure that your Motion LCD / Motion Mini is recording at 5 Hz or 10 Hz.
 
 Whilst sailing be sure to wear your Motion above your bicep, facing upwards so that it has a clear view of the sky.
 
+Please ensure your Motion Mini is NOT being worn underneath underneath neoprene or lycra.
+
 When sharing your data with the timekeeper, please send the OAO file (not GPX).
 
 
 
 #### ESP or LISA
 
-Please ensure that your ESP or LISA device is recording at 5 Hz or 10 Hz.
+Please ensure that your ESP / LISA device is recording at 5 Hz or 10 Hz.
 
 Whilst sailing be sure to wear your device above your bicep, facing upwards so that it has a clear view of the sky.
+
+Please ensure your ESP / LISA device is NOT being worn underneath underneath neoprene or lycra.
 
 When sharing your data with the timekeeper, please send the UBX or GPY file (not GPX).
 
@@ -74,17 +78,20 @@ GW-60 watch:
 
 - Please ensure the GW-60 is recording at 5 Hz
 - Please wear the GW-60 so that it is facing upwards, and do NOT wear it on the arm using underhand grip
+- Please ensure the GW-60 is NOT being worn underneath underneath neoprene or lycra
 - Please clear the log prior to the start of each session
 
 GW-52:
 
 - Please ensure it is recording at 5 Hz
 - Please wear the GW-52 in an Aquapac above your bicep, facing upwards so that it has a clear view of the sky
+- Please ensure your GW-52 is NOT being worn underneath underneath neoprene or lycra
 - Please clear the log prior to the start of each session
 
 GT-31:
 
 - Please wear the GT-31 in an Aquapac above your bicep, facing upwards so that it has a clear view of the sky
+- Please ensure your GT-31 is NOT being worn underneath underneath neoprene or lycra
 - Please clear the log prior to the start of each session
 
 When sharing your data with the timekeeper, please send the SBN or SBP file (not GPX).
@@ -96,6 +103,8 @@ When sharing your data with the timekeeper, please send the SBN or SBP file (not
 The APEX 2, APEX 2 Pro, VERTIX 2 and VERTIX 2S are all suitable as backups.
 
 Please wear your COROS watch so that it is facing upwards, and do NOT wear it on the arm using underhand grip.
+
+Please also ensure your COROS watch is NOT being worn underneath your wetsuit sleeve.
 
 Firmware issues have plagued COROS since May 2024 so it is very important that you check your firmware.
 
@@ -128,6 +137,8 @@ The Garmin watches that incorporate a multi-band Airoha or Synaptics chipset are
 This includes watches such as the fēnix 7 and fēnix 8, but excludes earlier models such as the fēnix 5 and fēnix 6.
 
 Please wear your Garmin watch so that it is facing upwards, and do NOT wear it on the arm using underhand grip.
+
+Please also ensure your Garmin watch is NOT being worn underneath your wetsuit sleeve.
 
 The full list of suitable Garmin watches can be found on another page by using this [link](https://logiqx.github.io/gps-details/devices/garmin/watches/).
 
