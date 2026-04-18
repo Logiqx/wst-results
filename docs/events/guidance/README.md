@@ -14,33 +14,33 @@ There are two different models of the Motion Mini. The newer ones have a double 
 
 ![motions](img/motions.jpg)
 
-You should adjust the strap, ensuring it fits you properly and minimise the risk of it being lost during a crash:
+You should adjust the strap, ensuring it fits you properly and minimises the risk of it being lost during a crash:
 
-- Adjust the strap so that it is relatively tight above your bicep, so that it will not easily come off in a crash
+- Adjust the strap so that it is relatively tight above your bicep, and will not easily come off in a crash
 - Once adjusted for size, thread the remainder of the strap back through the buckle, as shown in the photo
-- Please do not cut the elastic, or tie knots in the elastic. Threading it back through the buckle avoids slipping
+- Please do not cut the elastic, or tie knots in it. Threading it back through the buckle will prevent it from slipping
 
-When wearing the device on the water, please adhere to this guidance:
+When wearing the device on the water, please adhere to the following guidance:
 
-- Wear the Motion above your right bicep if windsurfing, or if winging on the same arm as your wing leash
-- Ensure the labels are facing directly upwards when sailing, so that it has a clear view of the sky
+- Wear the Motion above your right bicep, or if winging on the same arm as your wing leash
+- Ensure the labelled side is facing directly upwards when sailing, so the antenna has a clear view of the sky
 - Ensure the Motion is NOT being worn underneath neoprene or lycra
 
-The Motion will be switched on when you collect it before sailing, and the red light will flash once every 10-12 seconds.
+The Motion should already have been switched on when you collect it, and the red light will flash once every 10-12 seconds.
 
 
 
 ### Backup Devices
 
-Everyone is advised to use a suitable GPS device as a backup.
+Everyone is advised to wear a suitable GPS device as a backup. Several types of GPS are suitable:
 
 - Motion LCD or Motion Mini
 - ESP or LISA
 - Locosys GT-31, GW-52 or GW-60
-- COROS VERTIX 2, VERTIX 2S, APEX 2, APEX 2 Pro - speedsurfing activity, not windsurfing
-- Garmin watch - if approved by GPS-Speedsurfing and using APPro Windsurf
+- COROS VERTIX 2, VERTIX 2S, APEX 2, APEX 2 Pro
+- Garmin watch approved by GPS-Speedsurfing and using APPro Windsurf
 
-Please ensure your backup device is set up correctly as described below.
+Please ensure your backup device is configured correctly.
 
 
 
@@ -64,7 +64,7 @@ Whilst sailing be sure to wear your device above your bicep, facing upwards so t
 
 When sharing your data with the timekeeper, please send the UBX or GPY file (not GPX).
 
-#### 
+
 
 #### Locosys
 
