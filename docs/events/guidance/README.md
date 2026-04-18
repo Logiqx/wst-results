@@ -8,21 +8,21 @@ Last updated: 18 Apr 2025
 
 ### GPS Devices
 
-During the Prince of Speed / ISWC World Championship you will be provided with a Motion Mini, showing the device ID and your sail number.
+During the ISWC Speed World Championship you will be provided with a Motion Mini, showing the device name and your sail number.
 
-There are two slightly different models of the Motion Mini. The newer ones have a double strap (e.g. FRA-192), which makes them more secure.
+There are two different models of the Motion Mini. The newer ones have a double strap (e.g. FRA-192), which makes them more secure.
 
 ![motions](img/motions.jpg)
 
-When adjusting the strap, please adhere to this guidance:
+You should adjust the strap, ensuring it fits you properly and minimise the risk of it being lost during a crash:
 
-- Adjust the strap so that it is relatively tight on your arm, so that it will not easily come off in a crash
+- Adjust the strap so that it is relatively tight above your bicep, so that it will not easily come off in a crash
 - Once adjusted for size, thread the remainder of the strap back through the buckle, as shown in the photo
 - Please do not cut the elastic, or tie knots in the elastic. Threading it back through the buckle avoids slipping
 
 When wearing the device on the water, please adhere to this guidance:
 
-- Wear the Motion on your right bicep if windsurfing, or if winging on the same arm as your wing leash
+- Wear the Motion above your right bicep if windsurfing, or if winging on the same arm as your wing leash
 - Ensure the labels are facing directly upwards when sailing, so that it has a clear view of the sky
 - Ensure the Motion is NOT being worn underneath neoprene or lycra
 
@@ -50,7 +50,7 @@ Please ensure your backup device is set up correctly as described below.
 
 Please ensure that your Motion LCD / Motion Mini is recording at 5 Hz or 10 Hz.
 
-Whilst sailing be sure to wear your Motion on your bicep, facing upwards so that it has a clear view of the sky.
+Whilst sailing be sure to wear your Motion above your bicep, facing upwards so that it has a clear view of the sky.
 
 When sharing your data with the timekeeper, please send the OAO file (not GPX).
 
@@ -60,7 +60,7 @@ When sharing your data with the timekeeper, please send the OAO file (not GPX).
 
 Please ensure that your ESP or LISA device is recording at 5 Hz or 10 Hz.
 
-Whilst sailing be sure to wear your device on your bicep, facing upwards so that it has a clear view of the sky.
+Whilst sailing be sure to wear your device above your bicep, facing upwards so that it has a clear view of the sky.
 
 When sharing your data with the timekeeper, please send the UBX or GPY file (not GPX).
 
@@ -79,12 +79,12 @@ GW-60 watch:
 GW-52:
 
 - Please ensure it is recording at 5 Hz
-- Please wear the GW-52 in an Aquapac on your bicep, facing upwards so that it has a clear view of the sky
+- Please wear the GW-52 in an Aquapac above your bicep, facing upwards so that it has a clear view of the sky
 - Please clear the log prior to the start of each session
 
 GT-31:
 
-- Please wear the GT-31 in an Aquapac on your bicep, facing upwards so that it has a clear view of the sky
+- Please wear the GT-31 in an Aquapac above your bicep, facing upwards so that it has a clear view of the sky
 - Please clear the log prior to the start of each session
 
 When sharing your data with the timekeeper, please send the SBN or SBP file (not GPX).
