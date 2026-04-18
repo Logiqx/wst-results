@@ -40,7 +40,7 @@ Everyone is advised to wear a suitable GPS device as a backup. Several types of 
 - COROS VERTIX 2, VERTIX 2S, APEX 2, APEX 2 Pro
 - Garmin watch approved by GPS-Speedsurfing and using APPro Windsurf
 
-Please ensure your backup device is configured correctly.
+Please ensure your backup device is configured correctly, and worn in the best way.
 
 
 
