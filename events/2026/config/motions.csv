@@ -47,7 +47,7 @@ Entrant ID,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Craft Ty
 146,694,2026-04-27,2026-05-06,BUK694MAC,Maciej,Bukolt,Windsurf
 147,873,2026-04-27,2026-05-06,DAV873MAE,Maé,Davico,Windsurf
 148,701,2026-04-27,2026-05-06,POP701MAR,Marek,Popo,Windsurf
-149,641,2026-04-27,2026-05-06,VEJ641MAR,Marek,Vejres,Windsurf
+149,641,2026-04-27,2026-05-06,VEJ641MAR,Marek,Vejrosta,Windsurf
 150,819,2026-04-27,2026-05-06,IAC819MAT,Matteo,Iachino,Windsurf
 151,857,2026-04-27,2026-05-06,POP857MAT,Matthias,Popp,Windsurf
 152,867,2026-04-27,2026-05-06,GEO867MIC,Michael,George,Windsurf
@@ -88,6 +88,7 @@ Entrant ID,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Craft Ty
 242,8060,2026-04-27,2026-05-06,LEM8060JUS,Justine,Lemeteyer,Windfoil
 246,6940,2026-04-27,2026-05-06,BUK6940MAC,Maciej,Bukolt,Windfoil
 247,8730,2026-04-27,2026-05-06,DAV8730MAE,Maé,Davico,Windfoil
+249,6410,2026-04-27,2026-05-06,VEJ6410MAR,Marek,Vejrosta,Windfoil
 250,8190,2026-04-27,2026-05-06,IAC8190MAT,Matteo,Iachino,Windfoil
 252,8670,2026-04-27,2026-05-06,GEO8670MIC,Michael,George,Windfoil
 253,8120,2026-04-27,2026-05-06,GOY8120NIC,Nicolas,Goyard,Windfoil
