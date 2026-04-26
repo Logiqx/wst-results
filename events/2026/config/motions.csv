@@ -4,7 +4,7 @@ Entrant ID,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Craft Ty
 103,825,2026-04-27,2026-05-06,GON825ALE,Alexander,Goncharov,Windsurf
 104,823,2026-04-27,2026-05-06,PET823ALE,Alexandros,Petikidis,Windsurf
 106,829,2026-04-27,2026-05-06,VRI829AMA,Amado,Vrieswijk,Windsurf
-179,999,2026-04-27,2026-05-06,LAU999AND,Andy,Laufer,Windsurf
+179,647,2026-04-27,2026-05-06,LAU647AND,Andy,Laufer,Windsurf
 107,935,2026-04-27,2026-05-06,ALB935ANT,Antoine,Albeau,Windsurf
 109,853,2026-04-27,2026-05-06,TEI853AUG,Augusto,Teixeira,Windsurf
 110,871,2026-04-27,2026-05-06,WIL871BAS,Basile,Wilhelem,Windsurf
@@ -50,7 +50,7 @@ Entrant ID,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Craft Ty
 148,701,2026-04-27,2026-05-06,POP701MAR,Marek,Popo,Windsurf
 149,641,2026-04-27,2026-05-06,VEJ641MAR,Marek,Vejrosta,Windsurf
 150,819,2026-04-27,2026-05-06,IAC819MAT,Matteo,Iachino,Windsurf
-151,857,2026-04-27,2026-05-06,POP857MAT,Matthias,Popp,Windsurf
+151,651,2026-04-27,2026-05-06,POP651MAT,Matthias,Popp,Windsurf
 152,867,2026-04-27,2026-05-06,GEO867MIC,Michael,George,Windsurf
 154,817,2026-04-27,2026-05-06,WAR817NIC,Nicolas,Warembourg,Windsurf
 155,858,2026-04-27,2026-05-06,GAR858NIC,Nicolas David,Garrel,Windsurf
@@ -65,6 +65,7 @@ Entrant ID,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Craft Ty
 165,805,2026-04-27,2026-05-06,MOL805THO,Thomas,Moldenhauer,Windsurf
 166,811,2026-04-27,2026-05-06,LUI811THO,Thorsten,Luig,Windsurf
 167,1035,2026-04-27,2026-05-06,MAL1035TOM,Tom,Malina,Windsurf
+180,656,2026-04-27,2026-05-06,KIV656TRI,Tristen Erik,Kivi,Windsurf
 168,810,2026-04-27,2026-05-06,TJE810TRI,Tristan,Tjerks,Windsurf
 169,1033,2026-04-27,2026-05-06,VAL1033VIN,Vincent,Valkenaers,Windsurf
 170,870,2026-04-27,2026-05-06,VAN870WIL,Wilfried,Vanherweghe,Windsurf
