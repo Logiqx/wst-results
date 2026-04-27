@@ -3,7 +3,7 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 176,Mr,Aleksandr,Polyvanov,Ukraine,UKR-130,Windsurf,Adult
 103,Mr,Alexander,Goncharov,Ukraine,UKR-873,Windsurf,Adult
 104,Mr,Alexandros,Petikidis,Greece,GRE-350,Windsurf,Adult
-106,Mr,Amado,Vrieswijk,Netherlands,NB-20,Windsurf,Adult
+106,Mr,Amado,Vrieswijk,Netherlands,NED-20,Windsurf,Adult
 179,Mr,Andy,Laufer,Germany,GER-93,Windsurf,Adult
 107,Mr,Antoine,Albeau,France,FRA-192,Windsurf,Adult
 109,Mr,Augusto,Teixeira,Portugal,POR-131,Windsurf,Adult
@@ -35,7 +35,7 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 134,Mr,Jacques,van der Hout,Netherlands,NED-35,Windsurf,Adult
 135,Mr,Jan,Zahradnicek,Czech Republic,CZE-903,Windsurf,Adult
 136,Mr,Jean,Giroux,France,FRA-95,Windsurf,Adult
-137,Mr,Jean,Legall,France,BZH-168,Windsurf,Adult
+137,Mr,Jean,Legall,France,FRA-168,Windsurf,Adult
 138,Mr,Jean-Marc,De Bruyne,Belgium,BEL-14,Windsurf,Master
 139,Ms,Jenna,Gibson,United Kingdom,GBR-96,Windsurf,Adult
 140,Mr,Jim,Crossley,United Kingdom,GBR-33,Windsurf,Adult
@@ -45,7 +45,7 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 175,Mr,Klaus,Küppenbender,Germany,GER-18,Windsurf,Adult
 144,Mr,Laurent,Fesquet,France,FRA-66,Windsurf,Adult
 145,Mr,Leonid,Judin,Serbia,SRB-1,Windsurf,Master
-146,Mr,Maciej,Bukolt,Poland,GBR-404,Windsurf,Adult
+146,Mr,Maciej,Bukolt,Poland,POL-404,Windsurf,Adult
 147,Ms,Maé,Davico,France,FRA-203,Windsurf,Adult
 148,Mr,Marek,Popo,Czech Republic,CZE-902,Windsurf,Adult
 149,Mr,Marek,Vejrosta,Czech Republic,CZE-999,Windsurf,Adult
@@ -70,7 +70,7 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 169,Mr,Vincent,Valkenaers,Belgium,BEL-62,Windsurf,Adult
 170,Mr,Wilfried,Vanherweghe,France,FRA-163,Windsurf,Adult
 172,Mr,Xavier,Joly,France,FRA-767,Windsurf,Adult
-206,Mr,Amado,Vrieswijk,Netherlands,NB-20,Windfoil,Adult
+206,Mr,Amado,Vrieswijk,Netherlands,NED-20,Windfoil,Adult
 207,Mr,Antoine,Albeau,France,FRA-192,Windfoil,Adult
 212,Ms,Blanca,Alabau,Spain,ESP-3,Windfoil,Adult
 213,Mr,Brendan,Lorho,France,FRA-113,Windfoil,Youth
@@ -84,11 +84,11 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 229,Mr,Guillaume,Lemoine,France,FRA-25,Windfoil,Adult
 231,Ms,Heidi,Ulrich,Switzerland,SUI-204,Windfoil,Adult
 233,Mr,Jack,Crossley,United Kingdom,GBR-371,Windfoil,Youth
-237,Mr,Jean,Legall,France,BZH-168,Windfoil,Adult
+237,Mr,Jean,Legall,France,FRA-168,Windfoil,Adult
 239,Ms,Jenna,Gibson,United Kingdom,GBR-96,Windfoil,Adult
 240,Mr,Jim,Crossley,United Kingdom,GBR-33,Windfoil,Adult
 242,Ms,Justine,Lemeteyer,France,FRA-171,Windfoil,Adult
-246,Mr,Maciej,Bukolt,Poland,GBR-404,Windfoil,Adult
+246,Mr,Maciej,Bukolt,Poland,POL-404,Windfoil,Adult
 247,Ms,Maé,Davico,France,FRA-203,Windfoil,Adult
 249,Mr,Marek,Vejrosta,Czech Republic,CZE-999,Windfoil,Adult
 250,Mr,Matteo,Iachino,Italy,ITA-140,Windfoil,Adult

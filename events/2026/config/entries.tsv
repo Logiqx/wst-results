@@ -5,7 +5,7 @@ ID	Title	First Name	Family Name	Country	Sail No	Craft Type	Craft Type	Craft Type
 103	Mr	Alexander	Goncharov	Ukraine	UKR-873	Windsurf	-	-	Adult	825	GON825ALE	GON825ALE      UKR-873
 104	Mr	Alexandros	Petikidis	Greece	GRE-350	Windsurf	-	-	Adult	823	PET823ALE	PET823ALE      GRE-350
 105	Ms	Alice	Read	United Kingdom	GBR-248	-	-	Wing	Adult	648	REA648ALI	REA648ALI      GBR-248
-106	Mr	Amado	Vrieswijk	Netherlands	NB-20	Windsurf	Windfoil	-	Adult	829	VRI829AMA	VRI829AMA      NB-20
+106	Mr	Amado	Vrieswijk	Netherlands	NED-20	Windsurf	Windfoil	-	Adult	829	VRI829AMA	VRI829AMA      NED-20
 179	Mr	Andy	Laufer	Germany	GER-93	Windsurf	-	-	Adult	647	LAU647AND	LAU647AND      GER-93
 107	Mr	Antoine	Albeau	France	FRA-192	Windsurf	Windfoil	-	Adult	935	ALB935ANT	ALB935ANT      FRA-192
 108	Ms	Audrey	Marie-Agnes	France	FRA-10	-	-	Wing	Adult	652	MAR652AUD	MAR652AUD      FRA-10
@@ -40,7 +40,7 @@ ID	Title	First Name	Family Name	Country	Sail No	Craft Type	Craft Type	Craft Type
 134	Mr	Jacques	van der Hout	Netherlands	NED-35	Windsurf	-	-	Adult	952	HOU952JAC	HOU952JAC      NED-35
 135	Mr	Jan	Zahradnicek	Czech Republic	CZE-903	Windsurf	-	-	Adult	718	ZAH718JAN	ZAH718JAN      CZE-903
 136	Mr	Jean	Giroux	France	FRA-95	Windsurf	-	-	Adult	826	GIR826JEA	GIR826JEA      FRA-95
-137	Mr	Jean	Legall	France	BZH-168	Windsurf	Windfoil	-	Adult	852	LEG852JEA	LEG852JEA      BZH-168
+137	Mr	Jean	Legall	France	FRA-168	Windsurf	Windfoil	-	Adult	852	LEG852JEA	LEG852JEA      FRA-168
 138	Mr	Jean-Marc	De Bruyne	Belgium	BEL-14	Windsurf	-	-	Master	1042	BRU1042JEA	BRU1042JEA      BEL-14
 139	Ms	Jenna	Gibson	United Kingdom	GBR-96	Windsurf	Windfoil	-	Adult	804	GIB804JEN	GIB804JEN      GBR-96
 140	Mr	Jim	Crossley	United Kingdom	GBR-33	Windsurf	Windfoil	-	Adult	841	CRO841JIM	CRO841JIM      GBR-33
@@ -50,7 +50,7 @@ ID	Title	First Name	Family Name	Country	Sail No	Craft Type	Craft Type	Craft Type
 175	Mr	Klaus	Küppenbender	Germany	GER-18	Windsurf	-	-	Adult	695	KUP695KLA	KUP695KLA      GER-18
 144	Mr	Laurent	Fesquet	France	FRA-66	Windsurf	-	-	Adult	849	FES849LAU	FES849LAU      FRA-66
 145	Mr	Leonid	Judin	Serbia	SRB-1	Windsurf	-	-	Master	807	JUD807LEO	JUD807LEO      SRB-1
-146	Mr	Maciej	Bukolt	Poland	GBR-404	Windsurf	Windfoil	-	Adult	694	BUK694MAC	BUK694MAC      GBR-404
+146	Mr	Maciej	Bukolt	Poland	POL-404	Windsurf	Windfoil	-	Adult	694	BUK694MAC	BUK694MAC      POL-404
 147	Ms	Maé	Davico	France	FRA-203	Windsurf	Windfoil	-	Adult	873	DAV873MAE	DAV873MAE      FRA-203
 148	Mr	Marek	Popo	Czech Republic	CZE-902	Windsurf	-	-	Adult	701	POP701MAR	POP701MAR      CZE-902
 149	Mr	Marek	Vejrosta	Czech Republic	CZE-999	Windsurf	Windfoil	-	Adult	641	VEJ641MAR	VEJ641MAR      CZE-999
