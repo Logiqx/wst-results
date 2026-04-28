@@ -1,0 +1,27 @@
+{
+  "motion": {
+    "wifi": "station",
+    "username": "",
+    "identifier": 668,
+    "hardware": {
+      "code": 106,
+      "name": "Wireless Mini M10"
+    },
+    "firmware": {
+      "code": 3232,
+      "name": "3232 Release",
+      "special": ""
+    },
+    "filesystem": {
+      "level": 0
+    },
+    "battery": {
+      "level": 80,
+      "charging": false
+    },
+    "units": {
+      "speed": "km/h",
+      "distance": "km"
+    }
+  }
+}
