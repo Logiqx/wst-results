@@ -35,6 +35,7 @@ ID	Title	First Name	Family Name	Country	Sail No	Craft Type	Craft Type	Craft Type
 129	Mr	Guillaume	Lemoine	France	FRA-25	Windsurf	Windfoil	-	Adult	869	LEM869GUI	LEM869GUI      FRA-25
 130	Mr	Gunnar	Asmussen	Germany	GER-2	Windsurf	-	-	Adult	854	ASM854GUN	ASM854GUN      GER-2
 131	Ms	Heidi	Ulrich	Switzerland	SUI-204	Windsurf	Windfoil	-	Adult	1043	ULR1043HEI	ULR1043HEI      SUI-204
+182	Mr	Hugo	Sjöberg	Sweden	SWE-45	-	Windfoil	-	Adult	618	SJO618HUG	SJO618HUG      SWE-45
 132	Ms	Isabelle	Westerveld	Netherlands	NED-214	Windsurf	-	-	Youth	705	WES705ISA	WES705ISA      NED-214
 133	Mr	Jack	Crossley	United Kingdom	GBR-371	Windsurf	Windfoil	-	Youth	855	CRO855JAC	CRO855JAC      GBR-371
 134	Mr	Jacques	van der Hout	Netherlands	NED-35	Windsurf	-	-	Adult	952	HOU952JAC	HOU952JAC      NED-35
@@ -68,6 +69,7 @@ ID	Title	First Name	Family Name	Country	Sail No	Craft Type	Craft Type	Craft Type
 161	Mr	Roger	Ornvang	Sweden	SWE-52	Windsurf	-	-	Adult	1045	ORN1045ROG	ORN1045ROG      SWE-52
 162	Mr	Rolf	de Ruiter	Netherlands	NED-177	Windsurf	-	-	Adult	942	RUI942ROL	RUI942ROL      NED-177
 163	Mr	Sébastien	Bonhomme Allaire	France	FRA-511	Windsurf	-	-	Adult	821	BON821SEB	BON821SEB      FRA-511
+181	Mr	Sem	Stroosma	Netherlands	NED-450	Windsurf	Windfoil	-	Adult	619	STR619SEM	STR619SEM      NED-450
 164	Mr	Simon	Pettifer	United Kingdom	GBR-67	Windsurf	Windfoil	-	Adult	1040	PET1040SIM	PET1040SIM      GBR-67
 177	Mr	Sufyan	Setti	Algeria	ALG-2	Windsurf	Windfoil	-	Adult	661	SET661SUF	SET661SUF      ALG-2
 165	Mr	Thomas	Moldenhauer	Germany	GER-215	Windsurf	-	-	Master	805	MOL805THO	MOL805THO      GER-215

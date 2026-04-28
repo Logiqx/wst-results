@@ -60,6 +60,7 @@ Entrant ID,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Craft Ty
 161,1045,2026-04-27,2026-05-06,ORN1045ROG,Roger,Ornvang,Windsurf
 162,942,2026-04-27,2026-05-06,RUI942ROL,Rolf,de Ruiter,Windsurf
 163,821,2026-04-27,2026-05-06,BON821SEB,Sébastien,Bonhomme Allaire,Windsurf
+181,619,2026-04-27,2026-05-06,STR619SEM,Sem,Stroosma,Windsurf
 164,1040,2026-04-27,2026-05-06,PET1040SIM,Simon,Pettifer,Windsurf
 177,661,2026-04-27,2026-05-06,SET661SUF,Sufyan,Setti,Windsurf
 165,805,2026-04-27,2026-05-06,MOL805THO,Thomas,Moldenhauer,Windsurf
@@ -83,6 +84,7 @@ Entrant ID,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Craft Ty
 227,8450,2026-04-27,2026-05-06,CRO8450GEO,George,Crossley,Windfoil
 229,8690,2026-04-27,2026-05-06,LEM8690GUI,Guillaume,Lemoine,Windfoil
 231,10430,2026-04-27,2026-05-06,ULR10430HEI,Heidi,Ulrich,Windfoil
+282,6180,2026-04-27,2026-05-06,SJO6180HUG,Hugo,Sjöberg,Windfoil
 233,8550,2026-04-27,2026-05-06,CRO8550JAC,Jack,Crossley,Windfoil
 237,8520,2026-04-27,2026-05-06,LEG8520JEA,Jean,Legall,Windfoil
 239,8040,2026-04-27,2026-05-06,GIB8040JEN,Jenna,Gibson,Windfoil
@@ -97,6 +99,7 @@ Entrant ID,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Craft Ty
 254,8170,2026-04-27,2026-05-06,WAR8170NIC,Nicolas,Warembourg,Windfoil
 256,8330,2026-04-27,2026-05-06,BAC8330NIL,Nils,Bach,Windfoil
 258,8010,2026-04-27,2026-05-06,MOR8010PIE,Pierre,Mortefon,Windfoil
+281,6190,2026-04-27,2026-05-06,STR6190SEM,Sem,Stroosma,Windfoil
 264,10400,2026-04-27,2026-05-06,PET10400SIM,Simon,Pettifer,Windfoil
 277,6610,2026-04-27,2026-05-06,SET6610SUF,Sufyan,Setti,Windfoil
 269,10330,2026-04-27,2026-05-06,VAL10330VIN,Vincent,Valkenaers,Windfoil

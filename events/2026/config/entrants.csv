@@ -60,6 +60,7 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 161,Mr,Roger,Ornvang,Sweden,SWE-52,Windsurf,Adult
 162,Mr,Rolf,de Ruiter,Netherlands,NED-177,Windsurf,Adult
 163,Mr,Sébastien,Bonhomme Allaire,France,FRA-511,Windsurf,Adult
+181,Mr,Sem,Stroosma,Netherlands,NED-450,Windsurf,Adult
 164,Mr,Simon,Pettifer,United Kingdom,GBR-67,Windsurf,Adult
 177,Mr,Sufyan,Setti,Algeria,ALG-2,Windsurf,Adult
 165,Mr,Thomas,Moldenhauer,Germany,GER-215,Windsurf,Master
@@ -83,6 +84,7 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 227,Mr,George,Crossley,United Kingdom,GBR-370,Windfoil,Youth
 229,Mr,Guillaume,Lemoine,France,FRA-25,Windfoil,Adult
 231,Ms,Heidi,Ulrich,Switzerland,SUI-204,Windfoil,Adult
+282,Mr,Hugo,Sjöberg,Sweden,SWE-45,Windfoil,Adult
 233,Mr,Jack,Crossley,United Kingdom,GBR-371,Windfoil,Youth
 237,Mr,Jean,Legall,France,FRA-168,Windfoil,Adult
 239,Ms,Jenna,Gibson,United Kingdom,GBR-96,Windfoil,Adult
@@ -97,6 +99,7 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 254,Mr,Nicolas,Warembourg,France,FRA-531,Windfoil,Adult
 256,Mr,Nils,Bach,Germany,GER-172,Windfoil,Adult
 258,Mr,Pierre,Mortefon,France,FRA-14,Windfoil,Adult
+281,Mr,Sem,Stroosma,Netherlands,NED-450,Windfoil,Adult
 264,Mr,Simon,Pettifer,United Kingdom,GBR-67,Windfoil,Adult
 277,Mr,Sufyan,Setti,Algeria,ALG-2,Windfoil,Adult
 269,Mr,Vincent,Valkenaers,Belgium,BEL-62,Windfoil,Adult
