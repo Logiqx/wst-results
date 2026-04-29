@@ -24,11 +24,11 @@ echo "Entrant ID,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 tail +2 $ENTRIES | awk -F '\t' 'BEGIN {OFS=","} {print $1,$11,"2026-04-27","2026-05-06",$12,$3,$4,$7}' | grep -v -P ",-$" >>$MOTIONS
 
 # Windfoil
-tail +2 $ENTRIES | grep -v Windsurf | awk -F '\t' 'BEGIN {OFS=","} {print $1+100,$11,"2026-04-27","2026-05-06",$12,$3,$4,$8}' | grep -v -P ",-$" >>$MOTIONS
+tail +2 $ENTRIES | grep -v Windsurf | awk -F '\t' 'BEGIN {OFS=","} {print $1+100,$11,"2026-04-27","2026-05-06",$12,$3,$4,$8}' | sed -r 's/([A-Z]+)([0-9]+)([A-Z]+)/\1\20\3/' | grep -v -P ",-$" >>$MOTIONS
 tail +2 $ENTRIES | grep Windsurf | awk -F '\t' 'BEGIN {OFS=","} {print $1+100,$11*10,"2026-04-27","2026-05-06",$12,$3,$4,$8}' | sed -r 's/([A-Z]+)([0-9]+)([A-Z]+)/\1\20\3/' | grep -v -P ",-$" >>$MOTIONS
 
 # Wingfoil
-tail +2 $ENTRIES | grep -v Windsurf | awk -F '\t' 'BEGIN {OFS=","} {print $1+100,$11,"2026-04-27","2026-05-06",$12,$3,$4,$9}' | grep -v -P ",-$" >>$MOTIONS
+tail +2 $ENTRIES | grep -v Windsurf | awk -F '\t' 'BEGIN {OFS=","} {print $1+100,$11,"2026-04-27","2026-05-06",$12,$3,$4,$9}' | sed -r 's/([A-Z]+)([0-9]+)([A-Z]+)/\1\20\3/' | grep -v -P ",-$" >>$MOTIONS
 tail +2 $ENTRIES | grep Windsurf | awk -F '\t' 'BEGIN {OFS=","} {print $1+100,$11*10,"2026-04-27","2026-05-06",$12,$3,$4,$9}' | sed -r 's/([A-Z]+)([0-9]+)([A-Z]+)/\1\20\3/' | grep -v -P ",-$" >>$MOTIONS
 
 # Buoys
