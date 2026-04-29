@@ -31,13 +31,13 @@
     },
     {
       "Title": "Fun Race 1 - Windfoil Open",
-      "Comment": "(includes men, women, and youths)",
+      "Comment": "Course open from 14:22 to 14:52",
       "Filter": "Craft Type=Windfoil,ISWC=Fun Race 1",
       "Fleet": "Windfoil Open"
     },
     {
       "Title": "Fun Race 1 - Wing Open",
-      "Comment": "(includes men, women, and youths)",
+      "Comment": "Course open from 14:22 to 14:52",
       "Filter": "Craft Type=Wing,ISWC=Fun Race 1",
       "Fleet": "Wing Open"
     }
