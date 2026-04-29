@@ -1,0 +1,15 @@
+{
+  "VRI829AMA_829_20260429_090523.oao": {
+    "motion_file": "/logs/2026/04/0829_2026-04-29-0905.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/VRI829AMA_829_20260429_090523.oao",
+    "size": 1466584,
+    "start_date": 1777449923000,
+    "end_date": 1777477541000,
+    "duration": 27618000,
+    "distance": 76788885,
+    "2s_best": 33294,
+    "10s_best": 32988,
+    "500m_best": 32707,
+    "status": "completed"
+  }
+}

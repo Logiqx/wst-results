@@ -1,0 +1,15 @@
+{
+  "WES705ISA_705_20260429_090707.oao": {
+    "motion_file": "/logs/2026/04/0705_2026-04-29-0907.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/WES705ISA_705_20260429_090707.oao",
+    "size": 2891332,
+    "start_date": 1777450027000,
+    "end_date": 1777477687000,
+    "duration": 27660000,
+    "distance": 75592621,
+    "2s_best": 33791,
+    "10s_best": 33393,
+    "500m_best": 32955,
+    "status": "completed"
+  }
+}

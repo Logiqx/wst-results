@@ -1,0 +1,15 @@
+{
+  "BOU630TOM_630_20260429_121545.oao": {
+    "motion_file": "/logs/2026/04/0630_2026-04-29-1215.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/BOU630TOM_630_20260429_121545.oao",
+    "size": 728912,
+    "start_date": 1777461345000,
+    "end_date": 1777479559000,
+    "duration": 18214000,
+    "distance": 32599751,
+    "2s_best": 31983,
+    "10s_best": 30775,
+    "500m_best": 30616,
+    "status": "completed"
+  }
+}

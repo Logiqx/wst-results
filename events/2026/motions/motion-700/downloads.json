@@ -1,0 +1,15 @@
+{
+  "SCH700GAS_700_20260429_090423.oao": {
+    "motion_file": "/logs/2026/04/0700_2026-04-29-0904.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/SCH700GAS_700_20260429_090423.oao",
+    "size": 932128,
+    "start_date": 1777449863000,
+    "end_date": 1777477611000,
+    "duration": 27748000,
+    "distance": 39380398,
+    "2s_best": 32939,
+    "10s_best": 32618,
+    "500m_best": 32319,
+    "status": "completed"
+  }
+}

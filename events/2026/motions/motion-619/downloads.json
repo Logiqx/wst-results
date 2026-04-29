@@ -1,0 +1,15 @@
+{
+  "STR619SEM_619_20260429_090217.oao": {
+    "motion_file": "/logs/2026/04/0619_2026-04-29-0902.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/STR619SEM_619_20260429_090217.oao",
+    "size": 1381460,
+    "start_date": 1777449737000,
+    "end_date": 1777477249000,
+    "duration": 27512000,
+    "distance": 72870184,
+    "2s_best": 33321,
+    "10s_best": 32957,
+    "500m_best": 32744,
+    "status": "completed"
+  }
+}

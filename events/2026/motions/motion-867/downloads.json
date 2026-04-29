@@ -1,0 +1,15 @@
+{
+  "GEO867MIC_867_20260429_090909.oao": {
+    "motion_file": "/logs/2026/04/0867_2026-04-29-0909.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/GEO867MIC_867_20260429_090909.oao",
+    "size": 1662052,
+    "start_date": 1777450149000,
+    "end_date": 1777477445000,
+    "duration": 27296000,
+    "distance": 64833457,
+    "2s_best": 33689,
+    "10s_best": 33309,
+    "500m_best": 33033,
+    "status": "completed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "LEM806JUS_806_20260429_090341.oao": {
+    "motion_file": "/logs/2026/04/0806_2026-04-29-0903.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/LEM806JUS_806_20260429_090341.oao",
+    "size": 1356396,
+    "start_date": 1777449821000,
+    "end_date": 1777477331000,
+    "duration": 27510000,
+    "distance": 67290265,
+    "2s_best": 33396,
+    "10s_best": 33052,
+    "500m_best": 32757,
+    "status": "completed"
+  }
+}

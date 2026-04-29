@@ -1,0 +1,15 @@
+{
+  "MAR998BRU_998_20260429_090821.oao": {
+    "motion_file": "/logs/2026/04/0998_2026-04-29-0908.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/MAR998BRU_998_20260429_090821.oao",
+    "size": 1373244,
+    "start_date": 1777450101000,
+    "end_date": 1777477441000,
+    "duration": 27340000,
+    "distance": 71296586,
+    "2s_best": 33586,
+    "10s_best": 33076,
+    "500m_best": 32879,
+    "status": "completed"
+  }
+}

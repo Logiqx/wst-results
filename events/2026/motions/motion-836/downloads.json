@@ -1,0 +1,15 @@
+{
+  "HUP8360WIL_836_20260429_091548.oao": {
+    "motion_file": "/logs/2026/04/0836_2026-04-29-0915.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/HUP8360WIL_836_20260429_091548.oao",
+    "size": 1731368,
+    "start_date": 1777450548000,
+    "end_date": 1777477689000,
+    "duration": 27141000,
+    "distance": 81596093,
+    "2s_best": 33496,
+    "10s_best": 32896,
+    "500m_best": 32615,
+    "status": "completed"
+  }
+}

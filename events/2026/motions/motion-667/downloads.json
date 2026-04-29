@@ -1,1 +1,15 @@
-{}
+{
+  "BUOY_667_667_20260429_092709.oao": {
+    "motion_file": "/logs/2026/04/0667_2026-04-29-0927.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/BUOY_667_667_20260429_092709.oao",
+    "size": 1361336,
+    "start_date": 1777451229000,
+    "end_date": 1777477379000,
+    "duration": 26150000,
+    "distance": 7351173,
+    "2s_best": 2990,
+    "10s_best": 2910,
+    "500m_best": 1558,
+    "status": "completed"
+  }
+}

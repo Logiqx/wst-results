@@ -1,0 +1,15 @@
+{
+  "ALB935ANT_935_20260429_090437.oao": {
+    "motion_file": "/logs/2026/04/0935_2026-04-29-0904.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/ALB935ANT_935_20260429_090437.oao",
+    "size": 1301536,
+    "start_date": 1777449877000,
+    "end_date": 1777477281000,
+    "duration": 27404000,
+    "distance": 64994353,
+    "2s_best": 33271,
+    "10s_best": 33063,
+    "500m_best": 32882,
+    "status": "completed"
+  }
+}

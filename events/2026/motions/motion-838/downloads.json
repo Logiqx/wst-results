@@ -1,0 +1,15 @@
+{
+  "BOR838CED_838_20260429_090407.oao": {
+    "motion_file": "/logs/2026/04/0838_2026-04-29-0904.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/BOR838CED_838_20260429_090407.oao",
+    "size": 1041484,
+    "start_date": 1777449847000,
+    "end_date": 1777477283000,
+    "duration": 27436000,
+    "distance": 52666960,
+    "2s_best": 33940,
+    "10s_best": 33392,
+    "500m_best": 32991,
+    "status": "completed"
+  }
+}

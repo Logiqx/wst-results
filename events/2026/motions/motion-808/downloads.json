@@ -1,0 +1,15 @@
+{
+  "BEN808CHR_808_20260429_090453.oao": {
+    "motion_file": "/logs/2026/04/0808_2026-04-29-0904.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/BEN808CHR_808_20260429_090453.oao",
+    "size": 573328,
+    "start_date": 1777449893000,
+    "end_date": 1777477533000,
+    "duration": 27640000,
+    "distance": 15951671,
+    "2s_best": 12645,
+    "10s_best": 12027,
+    "500m_best": 11319,
+    "status": "completed"
+  }
+}

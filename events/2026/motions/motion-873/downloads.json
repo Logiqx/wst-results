@@ -1,0 +1,15 @@
+{
+  "DAV873MAE_873_20260429_091337.oao": {
+    "motion_file": "/logs/2026/04/0873_2026-04-29-0913.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/DAV873MAE_873_20260429_091337.oao",
+    "size": 1326912,
+    "start_date": 1777450417000,
+    "end_date": 1777477347000,
+    "duration": 26930000,
+    "distance": 65765807,
+    "2s_best": 33357,
+    "10s_best": 32876,
+    "500m_best": 32813,
+    "status": "completed"
+  }
+}

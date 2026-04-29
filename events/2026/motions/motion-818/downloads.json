@@ -1,0 +1,15 @@
+{
+  "EVR818CYR_818_20260429_090415.oao": {
+    "motion_file": "/logs/2026/04/0818_2026-04-29-0904.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/EVR818CYR_818_20260429_090415.oao",
+    "size": 1453116,
+    "start_date": 1777449855000,
+    "end_date": 1777477437000,
+    "duration": 27582000,
+    "distance": 65797671,
+    "2s_best": 32999,
+    "10s_best": 32283,
+    "500m_best": 32025,
+    "status": "completed"
+  }
+}

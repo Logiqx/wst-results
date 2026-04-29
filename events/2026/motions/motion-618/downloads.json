@@ -1,0 +1,15 @@
+{
+  "SJO6180HUG_618_20260429_090233.oao": {
+    "motion_file": "/logs/2026/04/0618_2026-04-29-0902.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/SJO6180HUG_618_20260429_090233.oao",
+    "size": 1610520,
+    "start_date": 1777449753000,
+    "end_date": 1777477549000,
+    "duration": 27796000,
+    "distance": 69897057,
+    "2s_best": 32828,
+    "10s_best": 31074,
+    "500m_best": 31018,
+    "status": "completed"
+  }
+}

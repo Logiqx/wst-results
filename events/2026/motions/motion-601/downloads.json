@@ -1,0 +1,15 @@
+{
+  "SCH601PIE_601_20260429_091239.oao": {
+    "motion_file": "/logs/2026/04/0601_2026-04-29-0912.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/SCH601PIE_601_20260429_091239.oao",
+    "size": 1118964,
+    "start_date": 1777450359000,
+    "end_date": 1777477625000,
+    "duration": 27266000,
+    "distance": 54315677,
+    "2s_best": 32692,
+    "10s_best": 32206,
+    "500m_best": 32002,
+    "status": "completed"
+  }
+}
