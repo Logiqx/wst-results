@@ -19,6 +19,7 @@ ID	Title	First Name	Family Name	Country	Sail No	Craft Type	Craft Type	Craft Type
 115	Mr	Cédric	Bordes	France	FRA-91	Windsurf	Windfoil	-	Adult	838	BOR838CED	BOR838CED      FRA-91
 116	Mr	Charly	Delisle	France	FRA-51	Windsurf	-	-	Adult	1039	DEL1039CHA	DEL1039CHA      FRA-51
 117	Mr	Charly	Djen	France	FRA-889	Windsurf	-	-	Adult	1037	DJE1037CHA	DJE1037CHA      FRA-889
+183	Mr	Chris	Benzing	Germany	GER-77	-	-	Wing	Adult	625	BEN625CHR	BEN625CHR      GER-77
 118	Mr	Chris	Benzing	Germany	GER-77	Windsurf	Windfoil	-	Adult	808	BEN808CHR	BEN808CHR      GER-77
 119	Mr	Christian	Bornemann	Germany	GER-29	Windsurf	-	-	Adult	802	BOR802CHR	BOR802CHR      GER-29
 174	Mr	Christophe	Deus	Germany	GER-338	Windsurf	-	-	Adult	699	DEU699CHR	DEU699CHR      GER-338
@@ -74,6 +75,7 @@ ID	Title	First Name	Family Name	Country	Sail No	Craft Type	Craft Type	Craft Type
 177	Mr	Sufyan	Setti	Algeria	ALG-2	Windsurf	Windfoil	-	Adult	661	SET661SUF	SET661SUF      ALG-2
 165	Mr	Thomas	Moldenhauer	Germany	GER-215	Windsurf	-	-	Master	805	MOL805THO	MOL805THO      GER-215
 166	Mr	Thorsten	Luig	Germany	GER-211	Windsurf	-	-	Adult	811	LUI811THO	LUI811THO      GER-211
+184	Mr	Tom	Bouilly	France	FRA-7777	Windsurf	Windfoil	-	Youth	630	BOU630TOM	BOU630TOM      FRA-7777
 167	Mr	Tom	Malina	Czech Republic	CZE-109	Windsurf	-	-	Adult	1035	MAL1035TOM	MAL1035TOM      CZE-109
 180	Mr	Tristen Erik	Kivi	Estonia	EST-347	Windsurf	-	-	Adult	656	KIV656TRI	KIV656TRI      EST-347
 168	Mr	Tristan	Tjerks	Netherlands	NED-555	Windsurf	-	-	Adult	810	TJE810TRI	TJE810TRI      NED-555
