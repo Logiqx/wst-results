@@ -1,0 +1,28 @@
+{
+  "WAR817NIC_817_20260429_090217.oao": {
+    "motion_file": "/logs/2026/04/0817_2026-04-29-0902.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/WAR817NIC_817_20260429_090217.oao",
+    "size": 1536,
+    "start_date": 1777449737000,
+    "end_date": 1777469921000,
+    "duration": 20184000,
+    "distance": 643976,
+    "2s_best": 0,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "WAR817NIC_817_20260502_092837.oao": {
+    "motion_file": "/logs/2026/05/0817_2026-05-02-0928.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260502/WAR817NIC_817_20260502_092837.oao",
+    "size": 1000300,
+    "start_date": 1777710517000,
+    "end_date": 1777748315000,
+    "duration": 37798000,
+    "distance": 54999369,
+    "2s_best": 33340,
+    "10s_best": 33038,
+    "500m_best": 32999,
+    "status": "completed"
+  }
+}

@@ -11,5 +11,31 @@
     "10s_best": 32306,
     "500m_best": 32007,
     "status": "completed"
+  },
+  "BEN6250CHR_625_20260429_100543.oao": {
+    "motion_file": "/logs/2026/04/0625_2026-04-29-1005.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/BEN6250CHR_625_20260429_100543.oao",
+    "size": 369436,
+    "start_date": 1777453543000,
+    "end_date": 1777479561000,
+    "duration": 26018000,
+    "distance": 26870024,
+    "2s_best": 32791,
+    "10s_best": 32306,
+    "500m_best": 32007,
+    "status": "completed"
+  },
+  "BEN6250CHR_625_20260502_091913.oao": {
+    "motion_file": "/logs/2026/05/0625_2026-05-02-0919.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260502/BEN6250CHR_625_20260502_091913.oao",
+    "size": 1386140,
+    "start_date": 1777709953000,
+    "end_date": 1777748559000,
+    "duration": 38606000,
+    "distance": 56817450,
+    "2s_best": 33500,
+    "10s_best": 33099,
+    "500m_best": 33054,
+    "status": "completed"
   }
 }

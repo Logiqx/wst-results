@@ -1,0 +1,28 @@
+{
+  "GEL633ETH_633_20260502_093219.oao": {
+    "motion_file": "/logs/2026/05/0633_2026-05-02-0932.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260502/GEL633ETH_633_20260502_093219.oao",
+    "size": 604060,
+    "start_date": 1777710739000,
+    "end_date": 1777748619000,
+    "duration": 37880000,
+    "distance": 28309190,
+    "2s_best": 33846,
+    "10s_best": 33473,
+    "500m_best": 33323,
+    "status": "completed"
+  },
+  "GEL633ETH_633_20260502_201053.oao": {
+    "motion_file": "/logs/2026/05/0633_2026-05-02-2010.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260502/GEL633ETH_633_20260502_201053.oao",
+    "size": 1536,
+    "start_date": 1777749053000,
+    "end_date": 1777750229000,
+    "duration": 1176000,
+    "distance": 30490,
+    "2s_best": 0,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  }
+}

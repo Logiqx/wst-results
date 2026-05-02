@@ -1,0 +1,28 @@
+{
+  "DEM724GUI_724_20260429_091249.oao": {
+    "motion_file": "/logs/2026/04/0724_2026-04-29-0912.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/DEM724GUI_724_20260429_091249.oao",
+    "size": 5696,
+    "start_date": 1777450369000,
+    "end_date": 1777469889000,
+    "duration": 19520000,
+    "distance": 4483360,
+    "2s_best": 2029,
+    "10s_best": 1082,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "DEM724GUI_724_20260502_092411.oao": {
+    "motion_file": "/logs/2026/05/0724_2026-05-02-0924.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260502/DEM724GUI_724_20260502_092411.oao",
+    "size": 4344,
+    "start_date": 1777710251000,
+    "end_date": 1777747485000,
+    "duration": 37234000,
+    "distance": 5187084,
+    "2s_best": 2124,
+    "10s_best": 1193,
+    "500m_best": 0,
+    "status": "skipped"
+  }
+}

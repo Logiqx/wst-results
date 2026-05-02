@@ -11,5 +11,18 @@
     "10s_best": 15880,
     "500m_best": 15614,
     "status": "completed"
+  },
+  "LOR872BRE_872_20260502_091913.oao": {
+    "motion_file": "/logs/2026/05/0872_2026-05-02-0919.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260502/LOR872BRE_872_20260502_091913.oao",
+    "size": 2612196,
+    "start_date": 1777709953000,
+    "end_date": 1777748947000,
+    "duration": 38994000,
+    "distance": 128851687,
+    "2s_best": 33594,
+    "10s_best": 33139,
+    "500m_best": 33043,
+    "status": "completed"
   }
 }

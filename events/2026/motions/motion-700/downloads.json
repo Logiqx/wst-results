@@ -11,5 +11,18 @@
     "10s_best": 32618,
     "500m_best": 32319,
     "status": "completed"
+  },
+  "SCH700GAS_700_20260502_091855.oao": {
+    "motion_file": "/logs/2026/05/0700_2026-05-02-0918.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260502/SCH700GAS_700_20260502_091855.oao",
+    "size": 2127712,
+    "start_date": 1777709935000,
+    "end_date": 1777748625000,
+    "duration": 38690000,
+    "distance": 138827216,
+    "2s_best": 36340,
+    "10s_best": 35912,
+    "500m_best": 35748,
+    "status": "completed"
   }
 }

@@ -1,0 +1,28 @@
+{
+  "CRO841JIM_841_20260429_090639.oao": {
+    "motion_file": "/logs/2026/04/0841_2026-04-29-0906.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/CRO841JIM_841_20260429_090639.oao",
+    "size": 1536,
+    "start_date": 1777449999000,
+    "end_date": 1777470033000,
+    "duration": 20034000,
+    "distance": 1868114,
+    "2s_best": 1107,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "CRO841JIM_841_20260502_092657.oao": {
+    "motion_file": "/logs/2026/05/0841_2026-05-02-0926.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260502/CRO841JIM_841_20260502_092657.oao",
+    "size": 583728,
+    "start_date": 1777710417000,
+    "end_date": 1777748521000,
+    "duration": 38104000,
+    "distance": 37438717,
+    "2s_best": 33595,
+    "10s_best": 33079,
+    "500m_best": 32983,
+    "status": "completed"
+  }
+}
