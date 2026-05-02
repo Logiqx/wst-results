@@ -21,6 +21,7 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 174,Mr,Christophe,Deus,Germany,GER-338,Windsurf,Adult
 120,Mr,Cyril,Evrard,Belgium,BEL-250,Windsurf,Adult
 121,Mr,Damien,Nico,France,FRA-81,Windsurf,Adult
+185,Mr,Ethan,Gelly,France,FRA-2500,Windsurf,Youth
 123,Mr,Fabrice,Robert,France,FRA-816,Windsurf,Adult
 125,Mr,Franek,Debowski,Poland,POL-200,Windsurf,Youth
 173,Mr,Gaspar Evelio Cascón,Schwarzenlander,Austria,AUT-43,Windsurf,Youth
@@ -89,7 +90,6 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 233,Mr,Jack,Crossley,United Kingdom,GBR-371,Windfoil,Youth
 237,Mr,Jean,Legall,France,FRA-168,Windfoil,Adult
 239,Ms,Jenna,Gibson,United Kingdom,GBR-96,Windfoil,Adult
-240,Mr,Jim,Crossley,United Kingdom,GBR-33,Windfoil,Adult
 242,Ms,Justine,Lemeteyer,France,FRA-171,Windfoil,Adult
 246,Mr,Maciej,Bukolt,Poland,POL-404,Windfoil,Adult
 247,Ms,Maé,Davico,France,FRA-203,Windfoil,Adult
@@ -111,5 +111,6 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age
 208,Ms,Audrey,Marie-Agnes,France,FRA-10,Wing,Adult
 283,Mr,Chris,Benzing,Germany,GER-77,Wing,Adult
 222,Mr,Dave,Williams,United Kingdom,GBR-12,Wing,Adult
+240,Mr,Jim,Crossley,United Kingdom,GBR-33,Wing,Adult
 259,Mr,Pierre,Schmitz,France,FRA-1192,Wing,Adult
 260,Mr,Rafferty,Read,United Kingdom,GBR-577,Wing,Adult

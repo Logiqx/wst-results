@@ -26,6 +26,7 @@ ID	Title	First Name	Family Name	Country	Sail No	Craft Type	Craft Type	Craft Type
 120	Mr	Cyril	Evrard	Belgium	BEL-250	Windsurf	Windfoil	-	Adult	818	EVR818CYR	EVR818CYR      BEL-250
 121	Mr	Damien	Nico	France	FRA-81	Windsurf	-	-	Adult	866	NIC866DAM	NIC866DAM      FRA-81
 122	Mr	Dave	Williams	United Kingdom	GBR-12	-	-	Wing	Adult	631	WIL631DAV	WIL631DAV      GBR-12
+185	Mr	Ethan	Gelly	France	FRA-2500	Windsurf	-	-	Youth	633	GEL633ETH	GEL633ETH      FRA-2500
 123	Mr	Fabrice	Robert	France	FRA-816	Windsurf	-	-	Adult	861	ROB861FAB	ROB861FAB      FRA-816
 124	Mr	Florian	Madec	France	FRA-2123	-	Windfoil	-	Adult	827	MAD827FLO	MAD827FLO      FRA-2123
 125	Mr	Franek	Debowski	Poland	POL-200	Windsurf	-	-	Youth	1020	DEB1020FRA	DEB1020FRA      POL-200
@@ -45,7 +46,7 @@ ID	Title	First Name	Family Name	Country	Sail No	Craft Type	Craft Type	Craft Type
 137	Mr	Jean	Legall	France	FRA-168	Windsurf	Windfoil	-	Adult	852	LEG852JEA	LEG852JEA      FRA-168
 138	Mr	Jean-Marc	De Bruyne	Belgium	BEL-14	Windsurf	-	-	Master	1042	BRU1042JEA	BRU1042JEA      BEL-14
 139	Ms	Jenna	Gibson	United Kingdom	GBR-96	Windsurf	Windfoil	-	Adult	804	GIB804JEN	GIB804JEN      GBR-96
-140	Mr	Jim	Crossley	United Kingdom	GBR-33	Windsurf	Windfoil	-	Adult	841	CRO841JIM	CRO841JIM      GBR-33
+140	Mr	Jim	Crossley	United Kingdom	GBR-33	Windsurf	-	Wing	Adult	841	CRO841JIM	CRO841JIM      GBR-33
 141	Mr	Jurjen	van der Noord	Netherlands	NED-71	Windsurf	-	-	Adult	816	NOO816JUR	NOO816JUR      NED-71
 142	Ms	Justine	Lemeteyer	France	FRA-171	Windsurf	Windfoil	-	Adult	806	LEM806JUS	LEM806JUS      FRA-171
 143	Mr	Kevin	Mathieu	France	FRA-110	Windsurf	-	-	Adult	822	MAT822KEV	MAT822KEV      FRA-110

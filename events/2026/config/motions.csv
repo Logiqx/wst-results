@@ -21,6 +21,7 @@ Entrant ID,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Craft Ty
 174,699,2026-04-27,2026-05-06,DEU699CHR,Christophe,Deus,Windsurf
 120,818,2026-04-27,2026-05-06,EVR818CYR,Cyril,Evrard,Windsurf
 121,866,2026-04-27,2026-05-06,NIC866DAM,Damien,Nico,Windsurf
+185,633,2026-04-27,2026-05-06,GEL633ETH,Ethan,Gelly,Windsurf
 123,861,2026-04-27,2026-05-06,ROB861FAB,Fabrice,Robert,Windsurf
 125,1020,2026-04-27,2026-05-06,DEB1020FRA,Franek,Debowski,Windsurf
 173,700,2026-04-27,2026-05-06,SCH700GAS,Gaspar Evelio Cascón,Schwarzenlander,Windsurf
@@ -91,7 +92,6 @@ Entrant ID,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Craft Ty
 233,8550,2026-04-27,2026-05-06,CRO8550JAC,Jack,Crossley,Windfoil
 237,8520,2026-04-27,2026-05-06,LEG8520JEA,Jean,Legall,Windfoil
 239,8040,2026-04-27,2026-05-06,GIB8040JEN,Jenna,Gibson,Windfoil
-240,8410,2026-04-27,2026-05-06,CRO8410JIM,Jim,Crossley,Windfoil
 242,8060,2026-04-27,2026-05-06,LEM8060JUS,Justine,Lemeteyer,Windfoil
 246,6940,2026-04-27,2026-05-06,BUK6940MAC,Maciej,Bukolt,Windfoil
 247,8730,2026-04-27,2026-05-06,DAV8730MAE,Maé,Davico,Windfoil
@@ -113,6 +113,7 @@ Entrant ID,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Craft Ty
 222,631,2026-04-27,2026-05-06,WIL6310DAV,Dave,Williams,Wing
 259,601,2026-04-27,2026-05-06,SCH6010PIE,Pierre,Schmitz,Wing
 260,617,2026-04-27,2026-05-06,REA6170RAF,Rafferty,Read,Wing
+240,8410,2026-04-27,2026-05-06,CRO8410JIM,Jim,Crossley,Wing
 1001,663,2026-04-27,2026-05-06,BUOY_663,Kite,Label,Buoy
 1002,664,2026-04-27,2026-05-06,BUOY_664,Kite,Label,Buoy
 1003,667,2026-04-27,2026-05-06,BUOY_667,Kite,Label,Buoy
