@@ -4,21 +4,6 @@
   "Fields": "Name,Nation,Sail No,Points,Nett,Speed (kts)",
   "Reports": [
     {
-      "Title": "Windsurf Men",
-      "Comment": "(includes masters and youths)",
-      "Filter": "Craft Type=Windsurf,Gender=M,ISWC<>"
-    },
-    {
-      "Title": "Windsurf Women",
-      "Comment": "(includes youths)",
-      "Filter": "Craft Type=Windsurf,Gender=F,ISWC<>"
-    },
-    {
-      "Title": "Windsurf Masters",
-      "Comment": "(born before 1 Jan 1966)",
-      "Filter": "Craft Type=Windsurf,Age=Master,ISWC<>"
-    },
-    {
       "Title": "Youths",
       "Comment": "(born on or after 1 Jan 2005)",
       "Filter": "Craft Type=Windsurf,Age=Youth,ISWC<>"
@@ -27,11 +12,6 @@
       "Title": "Windfoil Open",
       "Comment": "(includes men, women, and youths)",
       "Filter": "Craft Type=Windfoil,ISWC<>"
-    },
-    {
-      "Title": "Wing Open",
-      "Comment": "(includes men, women, and youths)",
-      "Filter": "Craft Type=Wing,ISWC<>"
     },
     {
       "Title": "All Craft TBCs",
