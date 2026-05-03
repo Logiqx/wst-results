@@ -72,11 +72,11 @@ Entrant ID,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Craft Ty
 168,810,2026-04-27,2026-05-06,TJE810TRI,Tristan,Tjerks,Windsurf
 169,1033,2026-04-27,2026-05-06,VAL1033VIN,Vincent,Valkenaers,Windsurf
 170,870,2026-04-27,2026-05-06,VAN870WIL,Wilfried,Vanherweghe,Windsurf
+171,836,2026-04-27,2026-05-06,HUP836WIL,William,Huppert,Windsurf
 172,813,2026-04-27,2026-05-06,JOL813XAV,Xavier,Joly,Windsurf
 224,827,2026-04-27,2026-05-06,MAD8270FLO,Florian,Madec,Windfoil
 282,618,2026-04-27,2026-05-06,SJO6180HUG,Hugo,Sjöberg,Windfoil
 253,812,2026-04-27,2026-05-06,GOY8120NIC,Nicolas,Goyard,Windfoil
-271,836,2026-04-27,2026-05-06,HUP8360WIL,William,Huppert,Windfoil
 206,8290,2026-04-27,2026-05-06,VRI8290AMA,Amado,Vrieswijk,Windfoil
 207,9350,2026-04-27,2026-05-06,ALB9350ANT,Antoine,Albeau,Windfoil
 211,8150,2026-04-27,2026-05-06,HAA8150BJO,Bjorn,Haacke,Windfoil
@@ -107,6 +107,7 @@ Entrant ID,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Craft Ty
 277,6610,2026-04-27,2026-05-06,SET6610SUF,Sufyan,Setti,Windfoil
 284,6300,2026-04-27,2026-05-06,BOU6300TOM,Tom,Bouilly,Windfoil
 269,10330,2026-04-27,2026-05-06,VAL10330VIN,Vincent,Valkenaers,Windfoil
+271,8360,2026-04-27,2026-05-06,HUP8360WIL,William,Huppert,Windfoil
 202,642,2026-04-27,2026-05-06,TOM6420ALE,Alessandro,Tomasi,Wing
 205,648,2026-04-27,2026-05-06,REA6480ALI,Alice,Read,Wing
 208,652,2026-04-27,2026-05-06,MAR6520AUD,Audrey,Marie-Agnes,Wing

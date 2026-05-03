@@ -82,5 +82,5 @@ ID	Title	First Name	Family Name	Country	Sail No	Craft Type	Craft Type	Craft Type
 168	Mr	Tristan	Tjerks	Netherlands	NED-555	Windsurf	-	-	Adult	810	TJE810TRI	TJE810TRI      NED-555
 169	Mr	Vincent	Valkenaers	Belgium	BEL-62	Windsurf	Windfoil	-	Adult	1033	VAL1033VIN	VAL1033VIN      BEL-62
 170	Mr	Wilfried	Vanherweghe	France	FRA-163	Windsurf	-	-	Adult	870	VAN870WIL	VAN870WIL      FRA-163
-171	Mr	William	Huppert	France	FRA-330	-	Windfoil	-	Adult	836	HUP836WIL	HUP836WIL      FRA-330
+171	Mr	William	Huppert	France	FRA-330	Windsurf	Windfoil	-	Adult	836	HUP836WIL	HUP836WIL      FRA-330
 172	Mr	Xavier	Joly	France	FRA-767	Windsurf	-	-	Adult	813	JOL813XAV	JOL813XAV      FRA-767

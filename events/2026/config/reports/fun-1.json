@@ -24,7 +24,7 @@
       "Fleet": "Windsurf Masters"
     },
     {
-      "Title": "Fun Race 1 - Youths",
+      "Title": "Heat 2 - Youths",
       "Comment": "(born on or after 1 Jan 2005)",
       "Filter": "Craft Type=Windsurf,Age=Youth,ISWC=Fun Race 1",
       "Fleet": "Youths"
