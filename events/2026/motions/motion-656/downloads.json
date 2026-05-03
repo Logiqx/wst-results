@@ -1,0 +1,41 @@
+{
+  "KIV656TRI_656_20260429_091601.oao": {
+    "motion_file": "/logs/2026/04/0656_2026-04-29-0916.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/KIV656TRI_656_20260429_091601.oao",
+    "size": 5077776,
+    "start_date": 1777450561000,
+    "end_date": 1777470085000,
+    "duration": 19524000,
+    "distance": 1900081,
+    "2s_best": 1839,
+    "10s_best": 1416,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "KIV656TRI_656_20260502_092925.oao": {
+    "motion_file": "/logs/2026/05/0656_2026-05-02-0929.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260502/KIV656TRI_656_20260502_092925.oao",
+    "size": 8272656,
+    "start_date": 1777710565000,
+    "end_date": 1777742377000,
+    "duration": 31812000,
+    "distance": 11500944,
+    "2s_best": 16933,
+    "10s_best": 16524,
+    "500m_best": 15449,
+    "status": "completed"
+  },
+  "KIV656TRI_656_20260503_074507.oao": {
+    "motion_file": "/logs/2026/05/0656_2026-05-03-0745.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260503/KIV656TRI_656_20260503_074507.oao",
+    "size": 8695416,
+    "start_date": 1777790707000,
+    "end_date": 1777824145000,
+    "duration": 33438000,
+    "distance": 92825184,
+    "2s_best": 25700,
+    "10s_best": 24966,
+    "500m_best": 24483,
+    "status": "completed"
+  }
+}
