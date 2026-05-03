@@ -24,5 +24,18 @@
     "10s_best": 33063,
     "500m_best": 33059,
     "status": "completed"
+  },
+  "EVR818CYR_818_20260503_074401.oao": {
+    "motion_file": "/logs/2026/05/0818_2026-05-03-0744.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260503/EVR818CYR_818_20260503_074401.oao",
+    "size": 161020,
+    "start_date": 1777790641000,
+    "end_date": 1777814039000,
+    "duration": 23398000,
+    "distance": 6734754,
+    "2s_best": 18388,
+    "10s_best": 18205,
+    "500m_best": 17296,
+    "status": "completed"
   }
 }

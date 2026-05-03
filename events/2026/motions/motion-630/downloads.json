@@ -24,5 +24,18 @@
     "10s_best": 33382,
     "500m_best": 33218,
     "status": "completed"
+  },
+  "BOU630TOM_630_20260503_080338.oao": {
+    "motion_file": "/logs/2026/05/0630_2026-05-03-0803.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260503/BOU630TOM_630_20260503_080338.oao",
+    "size": 2063492,
+    "start_date": 1777791818000,
+    "end_date": 1777811269000,
+    "duration": 19451000,
+    "distance": 78638070,
+    "2s_best": 15266,
+    "10s_best": 14852,
+    "500m_best": 14287,
+    "status": "completed"
   }
 }

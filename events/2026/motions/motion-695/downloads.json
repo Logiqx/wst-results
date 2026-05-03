@@ -1,0 +1,41 @@
+{
+  "KUP695KLA_695_20260429_090723.oao": {
+    "motion_file": "/logs/2026/04/0695_2026-04-29-0907.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/KUP695KLA_695_20260429_090723.oao",
+    "size": 1536,
+    "start_date": 1777450043000,
+    "end_date": 1777469809000,
+    "duration": 19766000,
+    "distance": 1994553,
+    "2s_best": 1238,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "KUP695KLA_695_20260502_092615.oao": {
+    "motion_file": "/logs/2026/05/0695_2026-05-02-0926.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260502/KUP695KLA_695_20260502_092615.oao",
+    "size": 2576,
+    "start_date": 1777710375000,
+    "end_date": 1777742601000,
+    "duration": 32226000,
+    "distance": 654571,
+    "2s_best": 1670,
+    "10s_best": 1486,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "KUP695KLA_695_20260503_074839.oao": {
+    "motion_file": "/logs/2026/05/0695_2026-05-03-0748.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260503/KUP695KLA_695_20260503_074839.oao",
+    "size": 792820,
+    "start_date": 1777790919000,
+    "end_date": 1777813983000,
+    "duration": 23064000,
+    "distance": 21074784,
+    "2s_best": 13654,
+    "10s_best": 13177,
+    "500m_best": 12865,
+    "status": "completed"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "BOU978PAS_978_20260429_090611.oao": {
+    "motion_file": "/logs/2026/04/0978_2026-04-29-0906.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/BOU978PAS_978_20260429_090611.oao",
+    "size": 1536,
+    "start_date": 1777449971000,
+    "end_date": 1777469905000,
+    "duration": 19934000,
+    "distance": 596748,
+    "2s_best": 0,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "BOU978PAS_978_20260502_092127.oao": {
+    "motion_file": "/logs/2026/05/0978_2026-05-02-0921.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260502/BOU978PAS_978_20260502_092127.oao",
+    "size": 3304,
+    "start_date": 1777710087000,
+    "end_date": 1777740599000,
+    "duration": 30512000,
+    "distance": 221801,
+    "2s_best": 1861,
+    "10s_best": 1457,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "BOU978PAS_978_20260503_074437.oao": {
+    "motion_file": "/logs/2026/05/0978_2026-05-03-0744.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260503/BOU978PAS_978_20260503_074437.oao",
+    "size": 1687168,
+    "start_date": 1777790677000,
+    "end_date": 1777814191000,
+    "duration": 23514000,
+    "distance": 60824461,
+    "2s_best": 32103,
+    "10s_best": 31941,
+    "500m_best": 31751,
+    "status": "completed"
+  }
+}

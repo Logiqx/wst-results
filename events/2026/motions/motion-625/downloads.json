@@ -37,5 +37,18 @@
     "10s_best": 33099,
     "500m_best": 33054,
     "status": "completed"
+  },
+  "BEN6250CHR_625_20260503_074905.oao": {
+    "motion_file": "/logs/2026/05/0625_2026-05-03-0749.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260503/BEN6250CHR_625_20260503_074905.oao",
+    "size": 53588,
+    "start_date": 1777790945000,
+    "end_date": 1777814357000,
+    "duration": 23412000,
+    "distance": 3690868,
+    "2s_best": 29017,
+    "10s_best": 28172,
+    "500m_best": 27792,
+    "status": "completed"
   }
 }

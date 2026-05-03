@@ -24,5 +24,18 @@
     "10s_best": 33397,
     "500m_best": 33213,
     "status": "completed"
+  },
+  "MAR998BRU_998_20260503_080609.oao": {
+    "motion_file": "/logs/2026/05/0998_2026-05-03-0806.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260503/MAR998BRU_998_20260503_080609.oao",
+    "size": 1077728,
+    "start_date": 1777791969000,
+    "end_date": 1777814089000,
+    "duration": 22120000,
+    "distance": 46206903,
+    "2s_best": 18499,
+    "10s_best": 18363,
+    "500m_best": 17863,
+    "status": "completed"
   }
 }

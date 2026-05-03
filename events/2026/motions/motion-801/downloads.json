@@ -24,5 +24,18 @@
     "10s_best": 33229,
     "500m_best": 33059,
     "status": "completed"
+  },
+  "MOR801PIE_801_20260503_074415.oao": {
+    "motion_file": "/logs/2026/05/0801_2026-05-03-0744.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260503/MOR801PIE_801_20260503_074415.oao",
+    "size": 825008,
+    "start_date": 1777790655000,
+    "end_date": 1777813755000,
+    "duration": 23100000,
+    "distance": 48898344,
+    "2s_best": 32706,
+    "10s_best": 32226,
+    "500m_best": 32141,
+    "status": "completed"
   }
 }

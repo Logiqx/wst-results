@@ -24,5 +24,18 @@
     "10s_best": 0,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "GEL633ETH_633_20260503_074649.oao": {
+    "motion_file": "/logs/2026/05/0633_2026-05-03-0746.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260503/GEL633ETH_633_20260503_074649.oao",
+    "size": 1392172,
+    "start_date": 1777790809000,
+    "end_date": 1777813843000,
+    "duration": 23034000,
+    "distance": 52836417,
+    "2s_best": 16647,
+    "10s_best": 16107,
+    "500m_best": 15086,
+    "status": "completed"
   }
 }

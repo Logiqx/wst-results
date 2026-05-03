@@ -24,5 +24,18 @@
     "10s_best": 33038,
     "500m_best": 32999,
     "status": "completed"
+  },
+  "WAR817NIC_817_20260503_074609.oao": {
+    "motion_file": "/logs/2026/05/0817_2026-05-03-0746.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260503/WAR817NIC_817_20260503_074609.oao",
+    "size": 1771252,
+    "start_date": 1777790769000,
+    "end_date": 1777814355000,
+    "duration": 23586000,
+    "distance": 67599778,
+    "2s_best": 18941,
+    "10s_best": 18695,
+    "500m_best": 18261,
+    "status": "completed"
   }
 }

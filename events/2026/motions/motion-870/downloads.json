@@ -1,0 +1,41 @@
+{
+  "VAN870WIL_870_20260429_090347.oao": {
+    "motion_file": "/logs/2026/04/0870_2026-04-29-0903.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/VAN870WIL_870_20260429_090347.oao",
+    "size": 3096,
+    "start_date": 1777449827000,
+    "end_date": 1777470005000,
+    "duration": 20178000,
+    "distance": 2394908,
+    "2s_best": 2100,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "VAN870WIL_870_20260502_092925.oao": {
+    "motion_file": "/logs/2026/05/0870_2026-05-02-0929.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260502/VAN870WIL_870_20260502_092925.oao",
+    "size": 14900,
+    "start_date": 1777710565000,
+    "end_date": 1777740487000,
+    "duration": 29922000,
+    "distance": 595061,
+    "2s_best": 1859,
+    "10s_best": 1751,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "VAN870WIL_870_20260503_074555.oao": {
+    "motion_file": "/logs/2026/05/0870_2026-05-03-0745.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260503/VAN870WIL_870_20260503_074555.oao",
+    "size": 1450100,
+    "start_date": 1777790755000,
+    "end_date": 1777814239000,
+    "duration": 23484000,
+    "distance": 51838537,
+    "2s_best": 17158,
+    "10s_best": 16842,
+    "500m_best": 16347,
+    "status": "completed"
+  }
+}

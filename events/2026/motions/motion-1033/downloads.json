@@ -1,0 +1,41 @@
+{
+  "VAL1033VIN_1033_20260429_091125.oao": {
+    "motion_file": "/logs/2026/04/1033_2026-04-29-0911.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/VAL1033VIN_1033_20260429_091125.oao",
+    "size": 2264,
+    "start_date": 1777450285000,
+    "end_date": 1777469963000,
+    "duration": 19678000,
+    "distance": 741893,
+    "2s_best": 2571,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "VAL1033VIN_1033_20260502_092825.oao": {
+    "motion_file": "/logs/2026/05/1033_2026-05-02-0928.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260502/VAL1033VIN_1033_20260502_092825.oao",
+    "size": 1536,
+    "start_date": 1777710505000,
+    "end_date": 1777739351000,
+    "duration": 28846000,
+    "distance": 1356470,
+    "2s_best": 1068,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "VAL1033VIN_1033_20260503_074347.oao": {
+    "motion_file": "/logs/2026/05/1033_2026-05-03-0743.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260503/VAL1033VIN_1033_20260503_074347.oao",
+    "size": 1595544,
+    "start_date": 1777790627000,
+    "end_date": 1777813769000,
+    "duration": 23142000,
+    "distance": 76086783,
+    "2s_best": 32546,
+    "10s_best": 32192,
+    "500m_best": 32037,
+    "status": "completed"
+  }
+}
