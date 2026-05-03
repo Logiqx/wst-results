@@ -1,0 +1,28 @@
+{
+  "POP651MAT_651_20260429_090313.oao": {
+    "motion_file": "/logs/2026/04/0651_2026-04-29-0903.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260429/POP651MAT_651_20260429_090313.oao",
+    "size": 1536,
+    "start_date": 1777449793000,
+    "end_date": 1777469863000,
+    "duration": 20070000,
+    "distance": 935032,
+    "2s_best": 0,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "POP651MAT_651_20260502_092543.oao": {
+    "motion_file": "/logs/2026/05/0651_2026-05-02-0925.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260502/POP651MAT_651_20260502_092543.oao",
+    "size": 1279436,
+    "start_date": 1777710343000,
+    "end_date": 1777787239000,
+    "duration": 76896000,
+    "distance": 77560454,
+    "2s_best": 31902,
+    "10s_best": 31095,
+    "500m_best": 30299,
+    "status": "completed"
+  }
+}

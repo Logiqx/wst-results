@@ -3115,3 +3115,82 @@
 2026-05-03 13:21:46,DEBUG,DisconnectionThread #7 finished
 2026-05-03 13:21:46,DEBUG,DisconnectionThread #8 finished
 2026-05-03 13:21:46,INFO,Thread pools stopped
+2026-05-03 13:36:46,INFO,Starting thread pools
+2026-05-03 13:36:46,DEBUG,DetectionThreadPool starting
+2026-05-03 13:36:46,DEBUG,DetectionThread #1 starting
+2026-05-03 13:36:46,DEBUG,DetectionThread #2 starting
+2026-05-03 13:36:46,DEBUG,DetectionThread #3 starting
+2026-05-03 13:36:46,DEBUG,DetectionThread #4 starting
+2026-05-03 13:36:46,DEBUG,DetectionThread #5 starting
+2026-05-03 13:36:46,DEBUG,DetectionThread #6 starting
+2026-05-03 13:36:46,DEBUG,DetectionThread #7 starting
+2026-05-03 13:36:46,DEBUG,DetectionThread #8 starting
+2026-05-03 13:36:46,DEBUG,InspectionThreadPool starting
+2026-05-03 13:36:46,DEBUG,InspectionThread #1 starting
+2026-05-03 13:36:46,DEBUG,InspectionThread #2 starting
+2026-05-03 13:36:47,DEBUG,InspectionThread #3 starting
+2026-05-03 13:36:47,DEBUG,InspectionThread #4 starting
+2026-05-03 13:36:47,DEBUG,DownloadThreadPool starting
+2026-05-03 13:36:47,DEBUG,DownloadThread #1 starting
+2026-05-03 13:36:47,DEBUG,DownloadThread #2 starting
+2026-05-03 13:36:47,DEBUG,DownloadThread #3 starting
+2026-05-03 13:36:47,DEBUG,DownloadThread #4 starting
+2026-05-03 13:36:47,DEBUG,DisconnectionThreadPool starting
+2026-05-03 13:36:47,DEBUG,DisconnectionThread #1 starting
+2026-05-03 13:36:47,DEBUG,DisconnectionThread #2 starting
+2026-05-03 13:36:47,DEBUG,DisconnectionThread #3 starting
+2026-05-03 13:36:47,DEBUG,DisconnectionThread #4 starting
+2026-05-03 13:36:47,DEBUG,DisconnectionThread #5 starting
+2026-05-03 13:36:47,DEBUG,DisconnectionThread #6 starting
+2026-05-03 13:36:47,DEBUG,DisconnectionThread #7 starting
+2026-05-03 13:36:47,DEBUG,DisconnectionThread #8 starting
+2026-05-03 13:36:47,INFO,Thread pools started
+2026-05-03 13:37:17,DEBUG,motion-651 detected at 192.168.0.134
+2026-05-03 13:37:17,INFO,motion-651 is connected
+2026-05-03 13:37:18,DEBUG,motion-651 firmware is approved (9008 Weymouth SW (3232))
+2026-05-03 13:37:18,DEBUG,motion-651 storage is 0% full
+2026-05-03 13:37:18,WARNING,motion-651 battery level is 29%
+2026-05-03 13:37:18,DEBUG,motion-651 POP651MAT_651_20260429_090313.oao skipped - 0.0 MiB, 5.6 hours, 0.9 km, 0.0 knots (500m)
+2026-05-03 13:37:18,INFO,motion-651 POP651MAT_651_20260502_092543.oao queued - 1.2 MiB, 21.4 hours, 77.6 km, 58.9 knots (500m)
+2026-05-03 13:37:20,INFO,motion-651 POP651MAT_651_20260502_092543.oao downloaded - 1.2 MiB, 21.4 hours, 77.6 km, 58.9 knots (500m)
+2026-05-03 13:37:20,INFO,motion-651 can be disconnected
+2026-05-03 13:37:42,DEBUG,motion-651 has been disconnected
+2026-05-03 13:37:47,DEBUG,motion-651 detected at 192.168.0.134
+2026-05-03 13:37:48,DEBUG,motion-651 not accepting connections
+2026-05-03 13:37:52,DEBUG,motion-651 detected at 192.168.0.134
+2026-05-03 13:37:53,DEBUG,motion-651 not accepting connections
+2026-05-03 13:37:57,DEBUG,motion-651 detected at 192.168.0.134
+2026-05-03 13:37:58,DEBUG,motion-651 not accepting connections
+2026-05-03 13:38:02,DEBUG,motion-651 detected at 192.168.0.134
+2026-05-03 13:38:02,INFO,Keyboard interrupt
+2026-05-03 13:38:02,INFO,Stopping thread pools
+2026-05-03 13:38:03,DEBUG,motion-651 not accepting connections
+2026-05-03 13:38:03,DEBUG,DetectionThreadPool finished
+2026-05-03 13:38:03,DEBUG,DetectionThread #1 finished
+2026-05-03 13:38:03,DEBUG,DetectionThread #2 finished
+2026-05-03 13:38:03,DEBUG,DetectionThread #3 finished
+2026-05-03 13:38:03,DEBUG,DetectionThread #4 finished
+2026-05-03 13:38:03,DEBUG,DetectionThread #5 finished
+2026-05-03 13:38:03,DEBUG,DetectionThread #6 finished
+2026-05-03 13:38:03,DEBUG,DetectionThread #7 finished
+2026-05-03 13:38:03,DEBUG,DetectionThread #8 finished
+2026-05-03 13:38:03,DEBUG,InspectionThreadPool finished
+2026-05-03 13:38:03,DEBUG,InspectionThread #1 finished
+2026-05-03 13:38:03,DEBUG,InspectionThread #2 finished
+2026-05-03 13:38:03,DEBUG,InspectionThread #3 finished
+2026-05-03 13:38:03,DEBUG,InspectionThread #4 finished
+2026-05-03 13:38:03,DEBUG,DownloadThreadPool finished
+2026-05-03 13:38:03,DEBUG,DownloadThread #1 finished
+2026-05-03 13:38:03,DEBUG,DownloadThread #2 finished
+2026-05-03 13:38:03,DEBUG,DownloadThread #3 finished
+2026-05-03 13:38:03,DEBUG,DownloadThread #4 finished
+2026-05-03 13:38:03,DEBUG,DisconnectionThreadPool finished
+2026-05-03 13:38:03,DEBUG,DisconnectionThread #1 finished
+2026-05-03 13:38:03,DEBUG,DisconnectionThread #2 finished
+2026-05-03 13:38:03,DEBUG,DisconnectionThread #3 finished
+2026-05-03 13:38:03,DEBUG,DisconnectionThread #4 finished
+2026-05-03 13:38:03,DEBUG,DisconnectionThread #5 finished
+2026-05-03 13:38:03,DEBUG,DisconnectionThread #6 finished
+2026-05-03 13:38:03,DEBUG,DisconnectionThread #7 finished
+2026-05-03 13:38:03,DEBUG,DisconnectionThread #8 finished
+2026-05-03 13:38:03,INFO,Thread pools stopped
