@@ -4,7 +4,7 @@
   "Fields": "Name,Nation,Sail No,Points,Nett,Speed (kts)",
   "Reports": [
     {
-      "Title": "Youths",
+      "Title": "Windsurf Youths",
       "Comment": "(born on or after 1 Jan 2005)",
       "Filter": "Craft Type=Windsurf,Age=Youth,ISWC<>"
     },

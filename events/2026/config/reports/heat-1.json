@@ -6,6 +6,12 @@
   "Series": "ISWC",
   "Reports": [
     {
+      "Title": "Heat 1 - Windsurf Open",
+      "Comment": "(includes men, women, and youths)",
+      "Filter": "Craft Type=Windsurf,ISWC=Heat 1c",
+      "Fleet": "Windsurf Open"
+    },
+    {
       "Title": "Heat 1 - Windsurf Men",
       "Comment": "(includes masters and youths)",
       "Filter": "Craft Type=Windsurf,Gender=M,ISWC=Heat 1c",
@@ -24,7 +30,7 @@
       "Fleet": "Windsurf Masters"
     },
     {
-      "Title": "Heat 1 - Youths",
+      "Title": "Heat 1 - Windsurf Youths",
       "Comment": "(born on or after 1 Jan 2005)",
       "Filter": "Craft Type=Windsurf,Age=Youth,ISWC=Heat 1b",
       "Fleet": "Youths"

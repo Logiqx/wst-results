@@ -6,6 +6,18 @@
   "Series": "ISWC",
   "Reports": [
     {
+      "Title": "Heat 2 - Windsurf Youths",
+      "Comment": "(born on or after 1 Jan 2005)",
+      "Filter": "Craft Type=Windsurf,Age=Youth,ISWC=Fun Race 1",
+      "Fleet": "Youths"
+    },
+    {
+      "Title": "Fun Race 1 - Windsurf Open",
+      "Comment": "(includes men, women, and youths)",
+      "Filter": "Craft Type=Windsurf,ISWC=Fun Race 1",
+      "Fleet": "Windsurf Open"
+    },
+    {
       "Title": "Fun Race 1 - Windsurf Men",
       "Comment": "(includes masters and youths)",
       "Filter": "Craft Type=Windsurf,Gender=M,ISWC=Fun Race 1",
@@ -22,12 +34,6 @@
       "Comment": "(born before 1 Jan 1966)",
       "Filter": "Craft Type=Windsurf,Age=Master,ISWC=Fun Race 1",
       "Fleet": "Windsurf Masters"
-    },
-    {
-      "Title": "Heat 2 - Youths",
-      "Comment": "(born on or after 1 Jan 2005)",
-      "Filter": "Craft Type=Windsurf,Age=Youth,ISWC=Fun Race 1",
-      "Fleet": "Youths"
     },
     {
       "Title": "Fun Race 1 - Windfoil Open",

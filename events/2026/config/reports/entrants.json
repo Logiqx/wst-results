@@ -6,6 +6,11 @@
   "Sort": "Name=ASC",
   "Reports": [
     {
+      "Title": "Windsurf Open",
+      "Comment": "(includes men, women, and youths)",
+      "Filter": "Craft Type=Windsurf"
+    },
+    {
       "Title": "Windsurf Men",
       "Comment": "(includes masters and youths)",
       "Filter": "Craft Type=Windsurf,Gender=M"
@@ -21,7 +26,7 @@
       "Filter": "Craft Type=Windsurf,Age=Master"
     },
     {
-      "Title": "Youths",
+      "Title": "Windsurf Youths",
       "Comment": "(born on or after 1 Jan 2005)",
       "Filter": "Craft Type=Windsurf,Age=Youth"
     },
