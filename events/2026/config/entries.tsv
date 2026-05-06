@@ -12,6 +12,7 @@ ID	Title	First Name	Family Name	Country	Sail No	Craft Type	Craft Type	Craft Type
 109	Mr	Augusto	Teixeira	Portugal	POR-131	Windsurf	-	-	Adult	853	TEI853AUG	TEI853AUG      POR-131
 110	Mr	Basile	Wilhelem	France	FRA-1077	Windsurf	-	-	Adult	871	WIL871BAS	WIL871BAS      FRA-1077
 178	Mr	Bjorn	Dunkerbeck	Spain	ESP-11	Windsurf	-	-	Adult	615	DUN615BJO	DUN615BJO      ESP-11
+186	Mr	Bjorn	Haacke	Germany	GER-1	-	-	Wing	Adult	632	HAA632BJO	HAA632BJO      GER-1
 111	Mr	Bjorn	Haacke	Germany	GER-1	Windsurf	Windfoil	-	Master	815	HAA815BJO	HAA815BJO      GER-1
 112	Ms	Blanca	Alabau	Spain	ESP-3	Windsurf	Windfoil	-	Adult	824	ALA824BLA	ALA824BLA      ESP-3
 113	Mr	Brendan	Lorho	France	FRA-113	Windsurf	Windfoil	-	Youth	872	LOR872BRE	LOR872BRE      FRA-113
@@ -33,7 +34,7 @@ ID	Title	First Name	Family Name	Country	Sail No	Craft Type	Craft Type	Craft Type
 173	Mr	Gaspar Evelio Cascón	Schwarzenlander	Austria	AUT-43	Windsurf	-	-	Youth	700	SCH700GAS	SCH700GAS      AUT-43
 126	Mr	Gautier	Bourgeois	France	FRA-665	Windsurf	Windfoil	-	Adult	803	BOU803GAU	BOU803GAU      FRA-665
 127	Mr	George	Crossley	United Kingdom	GBR-370	Windsurf	Windfoil	-	Youth	845	CRO845GEO	CRO845GEO      GBR-370
-128	Mr	Guillaume	Demartres	Ireland	IRE-10	Windsurf	-	-	Adult	724	DEM724GUI	DEM724GUI      IRE-10
+128	Mr	Guillaume	Demartres	France	IRE-10	Windsurf	-	-	Adult	724	DEM724GUI	DEM724GUI      IRE-10
 129	Mr	Guillaume	Lemoine	France	FRA-25	Windsurf	Windfoil	-	Adult	869	LEM869GUI	LEM869GUI      FRA-25
 130	Mr	Gunnar	Asmussen	Germany	GER-2	Windsurf	-	-	Adult	854	ASM854GUN	ASM854GUN      GER-2
 131	Ms	Heidi	Ulrich	Switzerland	SUI-204	Windsurf	Windfoil	-	Adult	1043	ULR1043HEI	ULR1043HEI      SUI-204
