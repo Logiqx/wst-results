@@ -3428,3 +3428,128 @@
 2026-05-03 16:07:35,DEBUG,DisconnectionThread #7 finished
 2026-05-03 16:07:35,DEBUG,DisconnectionThread #8 finished
 2026-05-03 16:07:35,INFO,Thread pools stopped
+2026-05-06 12:02:29,INFO,Starting thread pools
+2026-05-06 12:02:29,DEBUG,DetectionThreadPool starting
+2026-05-06 12:02:29,DEBUG,DetectionThread #1 starting
+2026-05-06 12:02:29,DEBUG,DetectionThread #2 starting
+2026-05-06 12:02:29,DEBUG,DetectionThread #3 starting
+2026-05-06 12:02:29,DEBUG,DetectionThread #4 starting
+2026-05-06 12:02:29,DEBUG,DetectionThread #5 starting
+2026-05-06 12:02:29,DEBUG,DetectionThread #6 starting
+2026-05-06 12:02:29,DEBUG,DetectionThread #7 starting
+2026-05-06 12:02:29,DEBUG,DetectionThread #8 starting
+2026-05-06 12:02:29,DEBUG,InspectionThreadPool starting
+2026-05-06 12:02:29,DEBUG,InspectionThread #1 starting
+2026-05-06 12:02:29,DEBUG,InspectionThread #2 starting
+2026-05-06 12:02:29,DEBUG,InspectionThread #3 starting
+2026-05-06 12:02:29,DEBUG,InspectionThread #4 starting
+2026-05-06 12:02:29,DEBUG,DownloadThreadPool starting
+2026-05-06 12:02:29,DEBUG,DownloadThread #1 starting
+2026-05-06 12:02:29,DEBUG,DownloadThread #2 starting
+2026-05-06 12:02:29,DEBUG,DownloadThread #3 starting
+2026-05-06 12:02:29,DEBUG,DownloadThread #4 starting
+2026-05-06 12:02:29,DEBUG,DisconnectionThreadPool starting
+2026-05-06 12:02:29,DEBUG,DisconnectionThread #1 starting
+2026-05-06 12:02:29,DEBUG,DisconnectionThread #2 starting
+2026-05-06 12:02:29,DEBUG,DisconnectionThread #3 starting
+2026-05-06 12:02:29,DEBUG,DisconnectionThread #4 starting
+2026-05-06 12:02:29,DEBUG,DisconnectionThread #5 starting
+2026-05-06 12:02:29,DEBUG,DisconnectionThread #6 starting
+2026-05-06 12:02:29,DEBUG,DisconnectionThread #7 starting
+2026-05-06 12:02:29,DEBUG,DisconnectionThread #8 starting
+2026-05-06 12:02:29,INFO,Thread pools started
+2026-05-06 12:06:54,DEBUG,motion-648 detected at 192.168.0.226
+2026-05-06 12:06:54,DEBUG,motion-631 detected at 192.168.0.194
+2026-05-06 12:06:54,DEBUG,motion-625 detected at 192.168.0.190
+2026-05-06 12:06:54,DEBUG,motion-632 detected at 192.168.0.218
+2026-05-06 12:06:54,DEBUG,motion-601 detected at 192.168.0.162
+2026-05-06 12:06:54,DEBUG,motion-617 detected at 192.168.0.142
+2026-05-06 12:06:54,INFO,motion-648 is connected
+2026-05-06 12:06:54,INFO,motion-632 is connected
+2026-05-06 12:06:54,INFO,motion-625 is connected
+2026-05-06 12:06:54,INFO,motion-631 is connected
+2026-05-06 12:06:54,INFO,motion-601 is connected
+2026-05-06 12:06:55,INFO,motion-617 is connected
+2026-05-06 12:06:55,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-05-06 12:06:55,DEBUG,motion-625 firmware is approved (9008 Weymouth SW (3232))
+2026-05-06 12:06:55,DEBUG,motion-631 firmware is approved (9010 (3232) Weymouth SW)
+2026-05-06 12:06:55,DEBUG,motion-625 storage is 0% full
+2026-05-06 12:06:55,DEBUG,motion-631 storage is 0% full
+2026-05-06 12:06:55,INFO,motion-625 battery level is 97%
+2026-05-06 12:06:55,INFO,motion-631 battery level is 99%
+2026-05-06 12:06:55,DEBUG,motion-632 firmware is approved (9008 Weymouth SW (3232))
+2026-05-06 12:06:55,DEBUG,motion-648 firmware is approved (9008 Weymouth SW (3232))
+2026-05-06 12:06:55,DEBUG,motion-632 storage is 0% full
+2026-05-06 12:06:55,DEBUG,motion-648 storage is 0% full
+2026-05-06 12:06:55,INFO,motion-632 battery level is 99%
+2026-05-06 12:06:55,INFO,motion-648 battery level is 89%
+2026-05-06 12:06:56,DEBUG,motion-648 REA6480ALI_648_20260429_091707.oao skipped - 0.0 MiB, 5.3 hours, 0.3 km, 0.0 knots (500m)
+2026-05-06 12:06:56,DEBUG,motion-648 REA6480ALI_648_20260502_092729.oao skipped - 0.0 MiB, 6.2 hours, 0.2 km, 0.0 knots (500m)
+2026-05-06 12:06:56,DEBUG,motion-648 REA6480ALI_648_20260503_074823.oao skipped - 0.0 MiB, 3.8 hours, 1.2 km, 0.0 knots (500m)
+2026-05-06 12:06:56,INFO,motion-648 REA6480ALI_648_20260506_091403.oao queued - 0.2 MiB, 1.9 hours, 5.0 km, 19.5 knots (500m)
+2026-05-06 12:06:56,INFO,motion-625 BEN6250CHR_625_20260506_091543.oao queued - 0.3 MiB, 1.9 hours, 10.1 km, 22.0 knots (500m)
+2026-05-06 12:06:56,INFO,motion-632 can be disconnected
+2026-05-06 12:06:56,DEBUG,motion-631 WIL6310DAV_631_20260503_074815.oao skipped - 0.0 MiB, 5.1 hours, 0.5 km, 0.0 knots (500m)
+2026-05-06 12:06:56,INFO,motion-631 WIL6310DAV_631_20260506_091135.oao queued - 0.4 MiB, 2.0 hours, 15.4 km, 24.6 knots (500m)
+2026-05-06 12:06:56,INFO,motion-648 REA6480ALI_648_20260506_091403.oao downloaded - 0.2 MiB, 1.9 hours, 5.0 km, 19.5 knots (500m)
+2026-05-06 12:06:56,INFO,motion-648 can be disconnected
+2026-05-06 12:06:57,DEBUG,motion-601 firmware is approved (9008 Weymouth SW (3232))
+2026-05-06 12:06:57,DEBUG,motion-601 storage is 0% full
+2026-05-06 12:06:57,INFO,motion-601 battery level is 96%
+2026-05-06 12:06:57,INFO,motion-625 BEN6250CHR_625_20260506_091543.oao downloaded - 0.3 MiB, 1.9 hours, 10.1 km, 22.0 knots (500m)
+2026-05-06 12:06:57,INFO,motion-625 can be disconnected
+2026-05-06 12:06:57,DEBUG,motion-617 firmware is approved (9008 Weymouth SW (3232))
+2026-05-06 12:06:57,DEBUG,motion-617 storage is 0% full
+2026-05-06 12:06:57,INFO,motion-617 battery level is 99%
+2026-05-06 12:06:57,INFO,motion-631 WIL6310DAV_631_20260506_091135.oao downloaded - 0.4 MiB, 2.0 hours, 15.4 km, 24.6 knots (500m)
+2026-05-06 12:06:57,INFO,motion-631 can be disconnected
+2026-05-06 12:06:57,INFO,motion-601 SCH6010PIE_601_20260503_074521.oao queued - 0.6 MiB, 27.9 hours, 42.0 km, 74.2 knots (500m)
+2026-05-06 12:06:57,INFO,motion-601 SCH6010PIE_601_20260506_092841.oao queued - 0.5 MiB, 1.7 hours, 22.6 km, 30.5 knots (500m)
+2026-05-06 12:06:58,DEBUG,motion-617 REA6170RAF_617_20260429_091103.oao skipped - 0.0 MiB, 5.5 hours, 2.5 km, 0.0 knots (500m)
+2026-05-06 12:06:58,DEBUG,motion-617 REA6170RAF_617_20260502_092859.oao skipped - 0.0 MiB, 6.2 hours, 1.4 km, 0.0 knots (500m)
+2026-05-06 12:06:58,DEBUG,motion-617 REA6170RAF_617_20260503_074815.oao skipped - 0.0 MiB, 3.8 hours, 1.7 km, 0.0 knots (500m)
+2026-05-06 12:06:58,INFO,motion-617 REA6170RAF_617_20260506_095407.oao queued - 0.3 MiB, 1.3 hours, 12.9 km, 29.5 knots (500m)
+2026-05-06 12:06:59,INFO,motion-617 REA6170RAF_617_20260506_095407.oao downloaded - 0.3 MiB, 1.3 hours, 12.9 km, 29.5 knots (500m)
+2026-05-06 12:06:59,INFO,motion-617 can be disconnected
+2026-05-06 12:06:59,INFO,motion-601 SCH6010PIE_601_20260503_074521.oao downloaded - 0.6 MiB, 27.9 hours, 42.0 km, 74.2 knots (500m)
+2026-05-06 12:07:00,INFO,motion-601 SCH6010PIE_601_20260506_092841.oao downloaded - 0.5 MiB, 1.7 hours, 22.6 km, 30.5 knots (500m)
+2026-05-06 12:07:00,INFO,motion-601 can be disconnected
+2026-05-06 12:08:25,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-05-06 12:09:39,DEBUG,motion-617 has been disconnected
+2026-05-06 12:09:39,DEBUG,motion-625 has been disconnected
+2026-05-06 12:09:39,DEBUG,motion-631 has been disconnected
+2026-05-06 12:09:39,DEBUG,motion-632 has been disconnected
+2026-05-06 12:09:39,DEBUG,motion-648 has been disconnected
+2026-05-06 12:09:39,DEBUG,motion-601 has been disconnected
+2026-05-06 12:10:29,INFO,Keyboard interrupt
+2026-05-06 12:10:29,INFO,Stopping thread pools
+2026-05-06 12:10:30,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-05-06 12:10:30,DEBUG,DetectionThreadPool finished
+2026-05-06 12:10:30,DEBUG,DetectionThread #1 finished
+2026-05-06 12:10:30,DEBUG,DetectionThread #2 finished
+2026-05-06 12:10:30,DEBUG,DetectionThread #3 finished
+2026-05-06 12:10:30,DEBUG,DetectionThread #4 finished
+2026-05-06 12:10:30,DEBUG,DetectionThread #5 finished
+2026-05-06 12:10:30,DEBUG,DetectionThread #6 finished
+2026-05-06 12:10:30,DEBUG,DetectionThread #7 finished
+2026-05-06 12:10:30,DEBUG,DetectionThread #8 finished
+2026-05-06 12:10:30,DEBUG,InspectionThreadPool finished
+2026-05-06 12:10:30,DEBUG,InspectionThread #1 finished
+2026-05-06 12:10:30,DEBUG,InspectionThread #2 finished
+2026-05-06 12:10:30,DEBUG,InspectionThread #3 finished
+2026-05-06 12:10:30,DEBUG,InspectionThread #4 finished
+2026-05-06 12:10:30,DEBUG,DownloadThreadPool finished
+2026-05-06 12:10:30,DEBUG,DownloadThread #1 finished
+2026-05-06 12:10:30,DEBUG,DownloadThread #2 finished
+2026-05-06 12:10:30,DEBUG,DownloadThread #3 finished
+2026-05-06 12:10:30,DEBUG,DownloadThread #4 finished
+2026-05-06 12:10:30,DEBUG,DisconnectionThreadPool finished
+2026-05-06 12:10:30,DEBUG,DisconnectionThread #1 finished
+2026-05-06 12:10:30,DEBUG,DisconnectionThread #2 finished
+2026-05-06 12:10:30,DEBUG,DisconnectionThread #3 finished
+2026-05-06 12:10:30,DEBUG,DisconnectionThread #4 finished
+2026-05-06 12:10:30,DEBUG,DisconnectionThread #5 finished
+2026-05-06 12:10:30,DEBUG,DisconnectionThread #6 finished
+2026-05-06 12:10:30,DEBUG,DisconnectionThread #7 finished
+2026-05-06 12:10:30,DEBUG,DisconnectionThread #8 finished
+2026-05-06 12:10:30,INFO,Thread pools stopped
