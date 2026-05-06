@@ -1,44 +1,44 @@
 {
-  "Suptitle": "Heat 1 - {Date}",
+  "Suptitle": "Heat 2 - {Date}",
   "Period": "Session",
   "Fields": "Name,Nation,Sail No,Run 1 (kts),Run 2 (kts),Avg (kts)",
   "Sort": "Avg (kts)=DSC,Run 1 (kts)=DSC",
   "Series": "ISWC",
   "Reports": [
     {
-      "Title": "Heat 1 - Windsurf Open",
+      "Title": "Heat 2 - Windsurf Open",
       "Comment": "(includes men, women, and youths)",
-      "Filter": "Craft Type=Windsurf,ISWC=Heat 1c",
+      "Filter": "Craft Type=Windsurf,ISWC=Heat 2c",
       "Fleet": "Windsurf Open"
     },
     {
-      "Title": "Heat 1 - Windsurf Men",
+      "Title": "Heat 2 - Windsurf Men",
       "Comment": "(includes masters and youths)",
-      "Filter": "Craft Type=Windsurf,Gender=M,ISWC=Heat 1c",
+      "Filter": "Craft Type=Windsurf,Gender=M,ISWC=Heat 2c",
       "Fleet": "Windsurf Men"
     },
     {
-      "Title": "Heat 1 - Windsurf Women",
+      "Title": "Heat 2 - Windsurf Women",
       "Comment": "(includes youths)",
-      "Filter": "Craft Type=Windsurf,Gender=F,ISWC=Heat 1c",
+      "Filter": "Craft Type=Windsurf,Gender=F,ISWC=Heat 2c",
       "Fleet": "Windsurf Women"
     },
     {
-      "Title": "Heat 1 - Windsurf Masters",
+      "Title": "Heat 2 - Windsurf Masters",
       "Comment": "(born before 1 Jan 1966)",
-      "Filter": "Craft Type=Windsurf,Age=Master,ISWC=Heat 1c",
+      "Filter": "Craft Type=Windsurf,Age=Master,ISWC=Heat 2c",
       "Fleet": "Windsurf Masters"
     },
     {
-      "Title": "Heat 1 - Windsurf Youths",
+      "Title": "Heat 2 - Windsurf Youths",
       "Comment": "(born on or after 1 Jan 2005)",
-      "Filter": "Craft Type=Windsurf,Age=Youth,ISWC=Heat 1b",
+      "Filter": "Craft Type=Windsurf,Age=Youth,ISWC=Heat 2b",
       "Fleet": "Youths"
     },
     {
-      "Title": "Heat 1 - Windfoil Open",
+      "Title": "Heat 2 - Windfoil Open",
       "Comment": "(includes men, women, and youths)",
-      "Filter": "Craft Type=Windfoil,ISWC=Heat 1a",
+      "Filter": "Craft Type=Windfoil,ISWC=Heat 2a",
       "Fleet": "Windfoil Open"
     }
   ]
