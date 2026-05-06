@@ -37,5 +37,18 @@
     "10s_best": 17809,
     "500m_best": 16577,
     "status": "completed"
+  },
+  "VRI829AMA_829_20260506_091433.oao": {
+    "motion_file": "/logs/2026/05/0829_2026-05-06-0914.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260506/VRI829AMA_829_20260506_091433.oao",
+    "size": 785904,
+    "start_date": 1778055273000,
+    "end_date": 1778062337000,
+    "duration": 7064000,
+    "distance": 36050477,
+    "2s_best": 18156,
+    "10s_best": 18009,
+    "500m_best": 17584,
+    "status": "completed"
   }
 }

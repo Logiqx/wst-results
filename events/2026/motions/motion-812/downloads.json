@@ -50,5 +50,18 @@
     "10s_best": 1105,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "GOY8120NIC_812_20260506_091603.oao": {
+    "motion_file": "/logs/2026/05/0812_2026-05-06-0916.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260506/GOY8120NIC_812_20260506_091603.oao",
+    "size": 458616,
+    "start_date": 1778055363000,
+    "end_date": 1778062073000,
+    "duration": 6710000,
+    "distance": 20368363,
+    "2s_best": 17814,
+    "10s_best": 17465,
+    "500m_best": 16685,
+    "status": "completed"
   }
 }

@@ -37,5 +37,18 @@
     "10s_best": 31149,
     "500m_best": 30849,
     "status": "completed"
+  },
+  "DAV873MAE_873_20260506_091453.oao": {
+    "motion_file": "/logs/2026/05/0873_2026-05-06-0914.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20260506/DAV873MAE_873_20260506_091453.oao",
+    "size": 354928,
+    "start_date": 1778055293000,
+    "end_date": 1778062071000,
+    "duration": 6778000,
+    "distance": 13472983,
+    "2s_best": 14837,
+    "10s_best": 14566,
+    "500m_best": 14262,
+    "status": "completed"
   }
 }
