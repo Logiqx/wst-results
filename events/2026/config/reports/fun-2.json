@@ -1,0 +1,51 @@
+{
+  "Suptitle": "Fun Race 2 - {Date}",
+  "Period": "Session",
+  "Fields": "Name,Nation,Sail No,Run 1 (kts),Run 2 (kts),Avg (kts)",
+  "Sort": "Avg (kts)=DSC,Run 1 (kts)=DSC",
+  "Series": "ISWC",
+  "Reports": [
+    {
+      "Title": "Heat 2 - Windsurf Youths",
+      "Comment": "(born on or after 1 Jan 2005)",
+      "Filter": "Craft Type=Windsurf,Age=Youth,ISWC=Fun Race 2",
+      "Fleet": "Youths"
+    },
+    {
+      "Title": "Fun Race 2 - Windsurf Open",
+      "Comment": "(includes men, women, and youths)",
+      "Filter": "Craft Type=Windsurf,ISWC=Fun Race 2",
+      "Fleet": "Windsurf Open"
+    },
+    {
+      "Title": "Fun Race 2 - Windsurf Men",
+      "Comment": "(includes masters and youths)",
+      "Filter": "Craft Type=Windsurf,Gender=M,ISWC=Fun Race 2",
+      "Fleet": "Windsurf Men"
+    },
+    {
+      "Title": "Fun Race 2 - Windsurf Women",
+      "Comment": "(includes youths)",
+      "Filter": "Craft Type=Windsurf,Gender=F,ISWC=Fun Race 2",
+      "Fleet": "Windsurf Women"
+    },
+    {
+      "Title": "Fun Race 2 - Windsurf Masters",
+      "Comment": "(born before 1 Jan 1966)",
+      "Filter": "Craft Type=Windsurf,Age=Master,ISWC=Fun Race 2",
+      "Fleet": "Windsurf Masters"
+    },
+    {
+      "Title": "Fun Race 2 - Windfoil Open",
+      "Comment": "Course open from 14:22 to 14:52",
+      "Filter": "Craft Type=Windfoil,ISWC=Heat 2 Wing",
+      "Fleet": "Windfoil Open"
+    },
+    {
+      "Title": "Fun Race 2 - Wing Open",
+      "Comment": "Course open from 14:22 to 14:52",
+      "Filter": "Craft Type=Wing,ISWC=Fun Race 2",
+      "Fleet": "Wing Open"
+    }
+  ]
+}
