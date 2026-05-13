@@ -33,6 +33,7 @@ Entrant ID,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Craft Ty
 131,1043,2026-04-27,2026-05-06,ULR1043HEI,Heidi,Ulrich,Windsurf
 132,705,2026-04-27,2026-05-06,WES705ISA,Isabelle,Westerveld,Windsurf
 133,855,2026-04-27,2026-05-06,CRO855JAC,Jack,Crossley,Windsurf
+187,999,2026-04-27,2026-05-06,DRU999JAC,Jack,Drulard,Windsurf
 134,952,2026-04-27,2026-05-06,HOU952JAC,Jacques,van der Hout,Windsurf
 135,718,2026-04-27,2026-05-06,ZAH718JAN,Jan,Zahradnicek,Windsurf
 136,826,2026-04-27,2026-05-06,GIR826JEA,Jean,Giroux,Windsurf
@@ -91,6 +92,7 @@ Entrant ID,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Craft Ty
 229,8690,2026-04-27,2026-05-06,LEM8690GUI,Guillaume,Lemoine,Windfoil
 231,10430,2026-04-27,2026-05-06,ULR10430HEI,Heidi,Ulrich,Windfoil
 233,8550,2026-04-27,2026-05-06,CRO8550JAC,Jack,Crossley,Windfoil
+287,9990,2026-04-27,2026-05-06,DRU9990JAC,Jack,Drulard,Windfoil
 237,8520,2026-04-27,2026-05-06,LEG8520JEA,Jean,Legall,Windfoil
 239,8040,2026-04-27,2026-05-06,GIB8040JEN,Jenna,Gibson,Windfoil
 242,8060,2026-04-27,2026-05-06,LEM8060JUS,Justine,Lemeteyer,Windfoil
