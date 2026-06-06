@@ -1,0 +1,18 @@
+{
+  "Periods": [
+    {
+      "Suptitle": "Wing Grand Prix",
+      "Period": "Event",
+      "HideFields": "Time"
+    }
+  ],
+  "Fields": "Name,Nation,Sail No,Time,Speed (kts)",
+  "Profile": true,
+  "Reports": [
+    {
+      "Title": "Wing Open",
+      "Comment": "(includes men, women, and youths)",
+      "Filter": "Craft Type=Wing"
+    }
+  ]
+}
