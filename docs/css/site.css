@@ -204,6 +204,7 @@ table.fun-2 th:first-child,
 table.fun-3 th:first-child,
 table.fun-4 th:first-child,
 table.iswc th:first-child,
+table.wing th:first-child,
 table.valid th:first-child {
   color: transparent;
   font-size: 0;
@@ -228,6 +229,7 @@ table.fun-2 th:nth-child(2),
 table.fun-3 th:nth-child(2),
 table.fun-4 th:nth-child(2),
 table.iswc th:nth-child(2),
+table.wing th:nth-child(2),
 table.runs th:nth-child(1),
 table.valid th:nth-child(2),
 table.bests td:nth-child(2),
@@ -248,6 +250,7 @@ table.fun-2 td:nth-child(2),
 table.fun-3 td:nth-child(2),
 table.fun-4 td:nth-child(2),
 table.iswc td:nth-child(2),
+table.wing td:nth-child(2),
 table.runs td:nth-child(1),
 table.valid td:nth-child(2) {
   text-align: left;
@@ -272,6 +275,7 @@ table.fun-2 td:nth-child(3),
 table.fun-3 td:nth-child(3),
 table.fun-4 td:nth-child(3),
 table.iswc td:nth-child(3),
+table.wing td:nth-child(3),
 table.runs td:nth-child(2),
 table.valid td:nth-child(3) {
   color: transparent;
@@ -297,6 +301,7 @@ table.fun-2 td:nth-child(4),
 table.fun-3 td:nth-child(4),
 table.fun-4 td:nth-child(4),
 table.iswc td:nth-child(4),
+table.wing td:nth-child(4),
 table.runs td:nth-child(3),
 table.valid td:nth-child(4) {
   white-space: nowrap;
@@ -304,7 +309,8 @@ table.valid td:nth-child(4) {
 
 /* Hide series points for phones in portrait */
 @media screen and (max-width: 500px) {
-  table.iswc .race {
+  table.iswc .race,
+  table.wing .race  {
     visibility: collapse;
   }
 }
@@ -353,6 +359,7 @@ table.fun-2 td:nth-last-child(3),
 table.fun-3 td:nth-last-child(3),
 table.fun-4 td:nth-last-child(3),
 table.iswc td:nth-last-child(1),
+table.wing td:nth-last-child(1),
 table.runs td:nth-last-child(1),
 table.valid td:nth-last-child(1),
 table.valid td:nth-last-child(2),
