@@ -2,7 +2,7 @@
 
 Date created: 19 Aug 2025
 
-Last updated: 18 Apr 2025
+Last updated: 31 Aug 2026
 
 
 
@@ -10,34 +10,46 @@ Last updated: 18 Apr 2025
 
 Everyone must use a suitable GPS device during the Farrel Cup.
 
-- The Motion LCD and Motion Mini are ideal, but they are no longer being produced.
-- ESP or LISA devices may be used as they contain similar components to the Motions.
-- Locosys devices such as the GT-31, GW-52 and GW-60 are also acceptable for this competition.
-- The more recent COROS and Garmin watches approved by GPS-Speedsurfing may also be used.
+- Motion LCD or Motion Mini
+- ESP, SYRAC or LISA
+- Locosys GT-31, GW-52 or GW-60
+- COROS VERTIX 2, VERTIX 2S, APEX 2, APEX 2 Pro
+- Garmin watch approved by GPS-Speedsurfing and using APPro Windsurf
 
-Please let the timekeeper know which GPS device you intend to use by completing this Google [form](https://tinyurl.com/4yfm6w32).
+Please ensure your backup device is configured correctly, and worn in the best way.
+
+Please let the timekeeper know which GPS device you intend to use by completing this Google [form](https://forms.gle/1UA9xgVsbyoZQodF6).
 
 
-
-### Device Setup
+### Device Configuration
 
 #### Motion GPS
 
-Please ensure that your Motion LCD / Motion Mini is recording at 5 Hz or 10 Hz.
+Please ensure that your Motion LCD / Motion Mini is recording at 5 Hz.
 
-Whilst sailing be sure to wear your Motion on your bicep, facing upwards so that it has a clear view of the sky.
+Whilst sailing be sure to wear your Motion above your bicep, facing upwards so that it has a clear view of the sky.
 
-Somebody on-site will co-ordinate the download and sharing of OAO data from the Motions.
+Please ensure your Motion Mini is NOT being worn underneath underneath neoprene or lycra.
+
+When sharing your data with the timekeeper, please send the OAO file (not GPX).
 
 
 
-#### ESP or LISA
+#### ESP, SYRAC or LISA
 
-Please ensure that your ESP or LISA device is recording at 5 Hz or 10 Hz.
+Please ensure that your ESP / SYRAC / LISA device uses the recommended settings:
 
-Whilst sailing be sure to wear your device on your bicep, facing upwards so that it has a clear view of the sky.
+- GNSS = GPS + Galileo + BeiDou B1C
+- Max satellites = 28
+- Sample rate = 5 Hz
+- CPU Freq = 160 MHz
+- Logging = GPY + TXT
 
-Please ensure that UBX files are being recorded and send them to the timekeeper at the end of the day.
+Whilst sailing be sure to wear your device above your bicep, facing upwards so that it has a clear view of the sky.
+
+Please ensure your ESP / SYRAC / LISA device is NOT being worn underneath underneath neoprene or lycra.
+
+When sharing your data with the timekeeper, please send the GPY (not to be confused with GPX) and TXT files.
 
 
 
@@ -49,29 +61,34 @@ GW-60 watch:
 
 - Please ensure the GW-60 is recording at 5 Hz
 - Please wear the GW-60 so that it is facing upwards, and do NOT wear it on the arm using underhand grip
+- Please ensure the GW-60 is NOT being worn underneath underneath neoprene or lycra
 - Please clear the log prior to the start of each session
-- Send the SBP file to the timekeeper at the end of the day
+- When sharing your data with the timekeeper, please send the SBP file
 
 GW-52:
 
 - Please ensure it is recording at 5 Hz
-- Please wear the GW-52 in an Aquapac on your bicep, facing upwards so that it has a clear view of the sky
+- Please wear the GW-52 in an Aquapac above your bicep, facing upwards so that it has a clear view of the sky
+- Please ensure your GW-52 is NOT being worn underneath underneath neoprene or lycra
 - Please clear the log prior to the start of each session
-- Send the SBP file to the timekeeper at the end of the day
+- When sharing your data with the timekeeper, please send the SBP file
 
 GT-31:
 
-- Please wear the GT-31 in an Aquapac on your bicep, facing upwards so that it has a clear view of the sky
+- Please wear the GT-31 in an Aquapac above your bicep, facing upwards so that it has a clear view of the sky
+- Please ensure your GT-31 is NOT being worn underneath underneath neoprene or lycra
 - Please clear the log prior to the start of each session
-- Send the SBN + SBP files to the timekeeper at the end of the day
+- When sharing your data with the timekeeper, please send the SBN file
 
 
 
 #### COROS
 
-The APEX 2, APEX 2 Pro, VERTIX 2 and VERTIX 2S may be used for this competition.
+The APEX 2, APEX 2 Pro, VERTIX 2 and VERTIX 2S may be used for this competition, but not the NOMAD or APEX 4.
 
 Please wear your COROS watch so that it is facing upwards, and do NOT wear it on the arm using underhand grip.
+
+Please also ensure your COROS watch is NOT being worn underneath your wetsuit sleeve.
 
 Firmware issues have plagued COROS since May 2024 so it is very important that you check your firmware.
 
@@ -105,6 +122,8 @@ This includes watches such as the fēnix 7 and fēnix 8, but excludes earlier mo
 
 Please wear your Garmin watch so that it is facing upwards, and do NOT wear it on the arm using underhand grip.
 
+Please also ensure your Garmin watch is NOT being worn underneath your wetsuit sleeve.
+
 The full list of suitable Garmin watches can be found on another page by using this [link](https://logiqx.github.io/gps-details/devices/garmin/watches/).
 
 Important for Garmin users:
@@ -129,10 +148,10 @@ If you do not know how to get the FIT file from your Garmin then please use this
 
 Please share your file(s) with the timekeeper as soon as you get back to the camp site.
 
-Somebody on-site will co-ordinate the download and sharing of OAO data from the Motions.
+Somebody on-site may help co-ordinate the download and sharing of OAO data from the Motions.
 
-ESP, LISA, Locosys, COROS, Garmin or Apple devices will have to be provided individually.
+ESP, SYRAC, LISA, Locosys, COROS, and Garmin devices will have to be provided individually.
 
-Please ensure your sail number is included in the names of the files that you send.
+Please ensure your sail number is included in the names of all files that you send.
 
 WeTransfer is a great way to share files but WhatsApp or e-mail are also acceptable.

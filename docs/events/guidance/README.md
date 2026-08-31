@@ -37,7 +37,7 @@ Please check the red light is flashing every 10-12 seconds before going sailing,
 Everyone is advised to wear a suitable GPS device as a backup. Several types of GPS are suitable:
 
 - Motion LCD or Motion Mini
-- ESP or LISA
+- ESP, SYRAC or LISA
 - Locosys GT-31, GW-52 or GW-60
 - COROS VERTIX 2, VERTIX 2S, APEX 2, APEX 2 Pro
 - Garmin watch approved by GPS-Speedsurfing and using APPro Windsurf
@@ -50,7 +50,7 @@ Please ensure your backup device is configured correctly, and worn in the best w
 
 #### Motion GPS
 
-Please ensure that your Motion LCD / Motion Mini is recording at 5 Hz or 10 Hz.
+Please ensure that your Motion LCD / Motion Mini is recording at 5 Hz.
 
 Whilst sailing be sure to wear your Motion above your bicep, facing upwards so that it has a clear view of the sky.
 
@@ -60,15 +60,21 @@ When sharing your data with the timekeeper, please send the OAO file (not GPX).
 
 
 
-#### ESP or LISA
+#### ESP, SYRAC or LISA
 
-Please ensure that your ESP / LISA device is recording at 5 Hz or 10 Hz.
+Please ensure that your ESP / SYRAC / LISA device uses the recommended settings:
+
+- GNSS = GPS + Galileo + BeiDou B1C
+- Max satellites = 28
+- Sample rate = 5 Hz
+- CPU Freq = 160 MHz
+- Logging = GPY + TXT
 
 Whilst sailing be sure to wear your device above your bicep, facing upwards so that it has a clear view of the sky.
 
-Please ensure your ESP / LISA device is NOT being worn underneath underneath neoprene or lycra.
+Please ensure your ESP / SYRAC / LISA device is NOT being worn underneath underneath neoprene or lycra.
 
-When sharing your data with the timekeeper, please send the UBX or GPY file (not GPX).
+When sharing your data with the timekeeper, please send the GPY (not to be confused with GPX) and TXT files.
 
 
 
@@ -82,6 +88,7 @@ GW-60 watch:
 - Please wear the GW-60 so that it is facing upwards, and do NOT wear it on the arm using underhand grip
 - Please ensure the GW-60 is NOT being worn underneath underneath neoprene or lycra
 - Please clear the log prior to the start of each session
+- When sharing your data with the timekeeper, please send the SBP file
 
 GW-52:
 
@@ -89,20 +96,20 @@ GW-52:
 - Please wear the GW-52 in an Aquapac above your bicep, facing upwards so that it has a clear view of the sky
 - Please ensure your GW-52 is NOT being worn underneath underneath neoprene or lycra
 - Please clear the log prior to the start of each session
+- When sharing your data with the timekeeper, please send the SBP file
 
 GT-31:
 
 - Please wear the GT-31 in an Aquapac above your bicep, facing upwards so that it has a clear view of the sky
 - Please ensure your GT-31 is NOT being worn underneath underneath neoprene or lycra
 - Please clear the log prior to the start of each session
-
-When sharing your data with the timekeeper, please send the SBN or SBP file (not GPX).
+- When sharing your data with the timekeeper, please send the SBN file
 
 
 
 #### COROS
 
-The APEX 2, APEX 2 Pro, VERTIX 2 and VERTIX 2S are all suitable as backups.
+The APEX 2, APEX 2 Pro, VERTIX 2 and VERTIX 2S are all suitable as backups, but not the NOMAD or APEX 4.
 
 Please wear your COROS watch so that it is facing upwards, and do NOT wear it on the arm using underhand grip.
 
