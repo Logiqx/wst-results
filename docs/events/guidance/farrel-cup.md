@@ -1,4 +1,4 @@
-## Farrel Cup
+## Prince of Speed - GPS Guidance
 
 Date created: 19 Aug 2025
 
@@ -6,7 +6,7 @@ Last updated: 31 Aug 2026
 
 
 
-### Device Guidance
+### GPS Devices
 
 Everyone must use a suitable GPS device during the Farrel Cup.
 
@@ -19,6 +19,7 @@ Everyone must use a suitable GPS device during the Farrel Cup.
 Please ensure your backup device is configured correctly, and worn in the best way.
 
 Please let the timekeeper know which GPS device you intend to use by completing this Google [form](https://forms.gle/1UA9xgVsbyoZQodF6).
+
 
 
 ### Device Configuration
