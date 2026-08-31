@@ -1,4 +1,4 @@
-## Prince of Speed - GPS Guidance
+## Farrel Cup - GPS Guidance
 
 Date created: 19 Aug 2025
 
