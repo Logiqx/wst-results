@@ -13,8 +13,8 @@ Everyone must use a suitable GPS device during the Farrel Cup.
 - Motion LCD or Motion Mini
 - ESP, SYRAC or LISA
 - Locosys GT-31, GW-52 or GW-60
-- COROS VERTIX 2, VERTIX 2S, APEX 2, APEX 2 Pro
-- Garmin watch approved by GPS-Speedsurfing and using APPro Windsurf
+- Suitable Garmin watches with APPro Windsurf - see [link](https://logiqx.github.io/gps-details/devices/garmin/watches/)
+- Suitable COROS watches - VERTIX 2, VERTIX 2S, APEX 2, APEX 2 Pro
 
 Please ensure your backup device is configured correctly, and worn in the best way.
 
@@ -83,6 +83,36 @@ GT-31:
 
 
 
+#### Garmin
+
+The Garmin watches that incorporate a multi-band Airoha or Synaptics chipset are all suitable.
+
+This includes watches such as the fēnix 7 and fēnix 8, but excludes earlier models such as the fēnix 5 and fēnix 6.
+
+Please wear your Garmin watch so that it is facing upwards, and do NOT wear it on the arm using underhand grip.
+
+Please also ensure your Garmin watch is NOT being worn underneath your wetsuit sleeve.
+
+The full list of suitable Garmin watches can be found on another page by using this [link](https://logiqx.github.io/gps-details/devices/garmin/watches/).
+
+Important for Garmin users:
+
+- Data recording
+  - Set to "every second", rather than the Garmin default which is called “smart” recording
+- Satellite Settings
+  - Do NOT use standard GPS
+  - Use "All Systems" or "All Systems + Multi-Band" for the best quality results
+- Suitable App
+  - Please use [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) for the best quality results and reporting of your 500 meters runs
+
+Full details about Garmin watch setup can be found on another page by using this [link](https://logiqx.github.io/gps-guides/guidance/garmin/setup/).
+
+When sharing your data with the timekeeper, please send the FIT file (not GPX).
+
+If you do not know how to get the FIT file from your Garmin then please use this [link](https://logiqx.github.io/gps-guides/guidance/garmin/analysis/).
+
+
+
 #### COROS
 
 The APEX 2, APEX 2 Pro, VERTIX 2 and VERTIX 2S may be used for this competition, but not the NOMAD or APEX 4.
@@ -112,36 +142,6 @@ Full details about COROS watch setup can be found on another page by using this 
 When sharing your data with the timekeeper, please send the FIT file (not GPX).
 
 If you do not know how to get the FIT file from your COROS then please use this [link](https://logiqx.github.io/gps-guides/guidance/coros/analysis/).
-
-
-
-#### Garmin
-
-The Garmin watches that incorporate a multi-band Airoha or Synaptics chipset are all suitable.
-
-This includes watches such as the fēnix 7 and fēnix 8, but excludes earlier models such as the fēnix 5 and fēnix 6.
-
-Please wear your Garmin watch so that it is facing upwards, and do NOT wear it on the arm using underhand grip.
-
-Please also ensure your Garmin watch is NOT being worn underneath your wetsuit sleeve.
-
-The full list of suitable Garmin watches can be found on another page by using this [link](https://logiqx.github.io/gps-details/devices/garmin/watches/).
-
-Important for Garmin users:
-
-- Data recording
-  - Set to "every second", rather than the Garmin default which is called “smart” recording
-- Satellite Settings
-  - Do NOT use standard GPS
-  - Use "All Systems" or "All Systems + Multi-Band" for the best quality results
-- Suitable App
-  - Please use [APPro Windsurf](https://apps.garmin.com/apps/9567700b-6587-44be-9708-879bfc844791) for the best quality results and reporting of your 500 meters runs
-
-Full details about Garmin watch setup can be found on another page by using this [link](https://logiqx.github.io/gps-guides/guidance/garmin/setup/).
-
-When sharing your data with the timekeeper, please send the FIT file (not GPX).
-
-If you do not know how to get the FIT file from your Garmin then please use this [link](https://logiqx.github.io/gps-guides/guidance/garmin/analysis/).
 
 
 
