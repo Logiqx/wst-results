@@ -1,0 +1,50 @@
+{
+  "Periods": [
+    {
+      "Suptitle": "Fastest Runs - {Date}",
+      "Period": "Session"
+    },
+    {
+      "Suptitle": "Farrel Cup",
+      "Period": "Event",
+      "HideFields": "Time"
+    }
+  ],
+  "Fields": "Name,Nation,Sail No,Time,Speed (kts)",
+  "Profile": true,
+  "Reports": [
+    {
+      "Title": "Overall",
+      "Fields": "Name,Nation,Craft Type,Sail No,Time,Speed (kts)",
+      "Filter": "Overall=Y"
+    },
+    {
+      "Title": "Windsurf",
+      "Filter": "Craft Type=Windsurf"
+    },
+    {
+      "Title": "Kite",
+      "Filter": "Craft Type=Kite"
+    },
+    {
+      "Title": "Windfoil",
+      "Filter": "Craft Type=Windfoil"
+    },
+    {
+      "Title": "Kitefoil",
+      "Filter": "Craft Type=Kitefoil"
+    },
+    {
+      "Title": "Wing",
+      "Filter": "Craft Type=Wing"
+    },
+    {
+      "Title": "Boat",
+      "Filter": "Craft Type=Boat"
+    },
+    {
+      "Title": "All Craft TBCs",
+      "Filter": "Craft Type=TBC"
+    }
+  ]
+}

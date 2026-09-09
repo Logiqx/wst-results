@@ -1,0 +1,37 @@
+{
+  "Suptitle": "Entrants",
+  "Period": "Event",
+  "Fields": "Name,Nation,Sail No",
+  "Runs": false,
+  "Sort": "Name=ASC",
+  "Reports": [
+    {
+      "Title": "Windsurf",
+      "Filter": "Craft Type=Windsurf"
+    },
+    {
+      "Title": "Kite",
+      "Filter": "Craft Type=Kite"
+    },
+    {
+      "Title": "Windfoil",
+      "Filter": "Craft Type=Windfoil"
+    },
+    {
+      "Title": "Kitefoil",
+      "Filter": "Craft Type=Kitefoil"
+    },
+    {
+      "Title": "Wing",
+      "Filter": "Craft Type=Wing"
+    },
+    {
+      "Title": "Boat",
+      "Filter": "Craft Type=Boat"
+    },
+    {
+      "Title": "All Craft TBCs",
+      "Filter": "Craft Type=TBC"
+    }
+  ]
+}

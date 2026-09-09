@@ -1,0 +1,60 @@
+{
+  "Event": {
+    "Name": "Farrel Cup 2026",
+    "Start Date": "2026-09-09",
+    "End Date": "2026-09-11"
+  },
+  "Images": {
+    "Banner": {
+      "Name": "Prince of Speed",
+      "File": "pos-logo-alt.png",
+      "Link": "../index.html"
+    },
+    "Logo": {
+      "Name": "La Palme - Sep 2026",
+      "File": "pos-202609/la-palme-alt-30pc.png",
+      "Link": "index.html"
+    },
+    "Organisation": {
+      "Name": "International Speed Windsurfing Class",
+      "File": "iswc-logo-20pc.png",
+      "Link": "https://internationalwindsurfing.com/iswc/"
+    },
+    "Sponsors": {
+      "Name": "Event Sponsors",
+      "File": "pos-2025/sponsors-alt-50pc.png",
+      "Link": "https://www.worldspeedtour.com/"
+    }
+  },
+  "Comment": "Online results are provisional, pending ratification",
+  "Time Zone": 120,
+  "Decimals": 2,
+  "Courses": {
+    "H": "Harbour",
+    "S": "Shore",
+    "?": "TBC"
+  },
+  "Entrants": {
+    "Craft Type": [
+      "Boat",
+      "Kite",
+      "Kitefoil",
+      "Windsurf",
+      "Windfoil",
+      "Wing",
+      "TBC"
+    ],
+    "Gender": [
+      "M",
+      "F",
+      "?"
+    ]
+  },
+  "Series": {
+    "ISWC": {
+      "Name": "ISWC Speed Championship",
+      "Filter": "Craft Type<>TBC",
+      "Refresh": true
+    }
+  }
+}

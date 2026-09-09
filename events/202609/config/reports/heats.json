@@ -1,0 +1,19 @@
+{
+  "Suptitle": "ISWC Foil Heat - {Date}",
+  "Period": "Session",
+  "Fields": "Name,Nation,Sail No,Run 1 (kts),Run 2 (kts),Avg (kts)",
+  "Sort": "Avg (kts)=DSC,Run 1 (kts)=DSC",
+  "Series": "ISWC",
+  "Reports": [
+    {
+      "Title": "Foil Heat - Windsurf",
+      "Filter": "Craft Type=Windsurf,ISWC=Foils",
+      "Fleet": "Windsurf"
+    },
+    {
+      "Title": "Foil Heat - Windfoil",
+      "Filter": "Craft Type=Windfoil,ISWC=Foils",
+      "Fleet": "Windfoil"
+    }
+  ]
+}
