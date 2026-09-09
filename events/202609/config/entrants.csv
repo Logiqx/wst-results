@@ -11,9 +11,9 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age,GT31 ID,Overall
 10,Mr,Cédric,Bordes,France,FRA-91,Windfoil,Adult,FRA-91-foil,N
 11,Mr,Cédric,Bordes,France,FRA-91,Windsurf,Adult,FRA-91,Y
 12,Mr,Fabrice,Robert,France,FRA-816,Windsurf,Adult,FRA-816,Y
-27,Mr,Hugo,Cox,,,Windsurf,,,Y
-13,Mr,Jérôme,Bessous,France,,Kite,Adult,,Y
-14,Mr,Julien,Maurel,France,,Kitefoil,Adult,-foil,Y
+27,Mr,Hugo,Cox,France,FRA-1095,Windsurf,Adult,FRA-1095,Y
+13,Mr,Jérôme,Bessous,France,FRA-999,Kite,Adult,FRA-999,Y
+14,Mr,Julien,Maurel,France,MRI-1,Kite,Adult,MRI-1,Y
 15,Mr,Kevin,Mathieu,France,FRA-110,Windsurf,Adult,FRA-110,Y
 16,Mr,Laurent,Fesquet,France,FRA-66,Windsurf,Adult,FRA-66,Y
 17,Mr,Matteo,Iachino,Italy,ITA-140,Windfoil,Adult,ITA-140-foil,N
@@ -22,7 +22,7 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age,GT31 ID,Overall
 20,Mr,Pascal,Boulanger,France,FRA-800,Windsurf,Master,FRA-800,Y
 21,Mr,Roger,Ornvang,Sweden,SWE-52,Windsurf,Adult,SWE-52,Y
 22,Mr,Sylvain,Hoceini,France,FRA-53,Kitefoil,Adult,FRA-53-foil,Y
-23,Mr,Sylvain,Maurin,France,,Kite,Adult,,Y
-24,Mr,Sylvain,Hoceini,France,,Kite,Adult,,Y
+23,Mr,Sylvain,Maurin,France,FRA-30,Kite,Adult,FRA-30,Y
+24,Mr,Sylvain,Hoceini,France,FRA-53,Kite,Adult,FRA-53,Y
 25,Mr,Thomas,Moldenhauer,Germany,GER-215,Windsurf,Master,GER-215,Y
 26,Mr,Vincent,Valkenaers,Belgium,BEL-62,Windsurf,Adult,BEL-62,Y
