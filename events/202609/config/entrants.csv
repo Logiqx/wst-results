@@ -1,21 +1,22 @@
 ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age,GT31 ID,Overall
 1,Mr,Alain,De Sa Pinheiro,France,FRA-5,Kite,Adult,FRA-5,Y
 2,Mr,Alexandros,Petikidis,Greece,GRE-350,Windsurf,Adult,GRE-350,Y
-3,Mr,Antoine,Albeau,France,FRA-192,Windfoil,Adult,FRA-192-foil,Y
+3,Mr,Antoine,Albeau,France,FRA-192,Windfoil,Adult,FRA-192-foil,N
 4,Mr,Antoine,Albeau,France,FRA-192,Windsurf,Adult,FRA-192,Y
 5,Mr,Arnaud,Jacques,France,FRA-119,Windsurf,Adult,FRA-119,Y
 6,Mr,Augusto,Teixeira,Portugal,POR-131,Windsurf,Adult,POR-131,Y
-7,Mr,Bruno,Martini,Italy,ITA-160,Windfoil,Adult,ITA-160-foil,Y
+7,Mr,Bruno,Martini,Italy,ITA-160,Windfoil,Adult,ITA-160-foil,N
 8,Mr,Bruno,Martini,Italy,ITA-160,Windsurf,Adult,ITA-160,Y
 9,Mr,Charly,Djen,France,FRA-889,Windsurf,Adult,FRA-889,Y
-10,Mr,Cédric,Bordes,France,FRA-91,Windfoil,Adult,FRA-91-foil,Y
+10,Mr,Cédric,Bordes,France,FRA-91,Windfoil,Adult,FRA-91-foil,N
 11,Mr,Cédric,Bordes,France,FRA-91,Windsurf,Adult,FRA-91,Y
 12,Mr,Fabrice,Robert,France,FRA-816,Windsurf,Adult,FRA-816,Y
-13,Mr,Jerome,Bessous,France,,Kite,Adult,,Y
+27,Mr,Hugo,Cox,,,Windsurf,,,Y
+13,Mr,Jérôme,Bessous,France,,Kite,Adult,,Y
 14,Mr,Julien,Maurel,France,,Kitefoil,Adult,-foil,Y
 15,Mr,Kevin,Mathieu,France,FRA-110,Windsurf,Adult,FRA-110,Y
 16,Mr,Laurent,Fesquet,France,FRA-66,Windsurf,Adult,FRA-66,Y
-17,Mr,Matteo,Iachino,Italy,ITA-140,Windfoil,Adult,ITA-140-foil,Y
+17,Mr,Matteo,Iachino,Italy,ITA-140,Windfoil,Adult,ITA-140-foil,N
 18,Mr,Matteo,Iachino,Italy,ITA-140,Windsurf,Adult,ITA-140,Y
 19,Mr,Nicolas David,Garrel,Luxembourg,LUX-22,Windsurf,Adult,LUX-22,Y
 20,Mr,Pascal,Boulanger,France,FRA-800,Windsurf,Master,FRA-800,Y
