@@ -1,0 +1,22 @@
+ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age,GT31 ID,Overall
+1,Mr,Alain,De Sa Pinheiro,France,FRA-5,Kite,Adult,FRA-5,Y
+2,Mr,Alexandros,Petikidis,Greece,GRE-350,Windsurf,Adult,GRE-350,Y
+3,Mr,Antoine,Albeau,France,FRA-192,Windfoil,Adult,FRA-192-foil,Y
+4,Mr,Antoine,Albeau,France,FRA-192,Windsurf,Adult,FRA-192,Y
+5,Mr,Arnaud,Jacques,France,FRA-119,Windsurf,Adult,FRA-119,Y
+6,Mr,Bruno,Martini,Italy,ITA-160,Windfoil,Adult,ITA-160-foil,Y
+7,Mr,Bruno,Martini,Italy,ITA-160,Windsurf,Adult,ITA-160,Y
+8,Mr,Cédric,Bordes,France,FRA-91,Windfoil,Adult,FRA-91-foil,Y
+9,Mr,Cédric,Bordes,France,FRA-91,Windsurf,Adult,FRA-91,Y
+10,Mr,Jérôme,Bessous,France,,Kite,Adult,,Y
+11,Mr,Julien,Maurel,France,,Kitefoil,Adult,-foil,Y
+12,Mr,Laurent,Fesquet,France,FRA-66,Windsurf,Adult,FRA-66,Y
+13,Mr,Matteo,Iachino,Italy,ITA-140,Windfoil,Adult,ITA-140-foil,Y
+14,Mr,Matteo,Iachino,Italy,ITA-140,Windsurf,Adult,ITA-140,Y
+15,Mr,Nicolas David,Garrel,Luxembourg,LUX-22,Windsurf,Adult,LUX-22,Y
+16,Mr,Pascal,Boulanger,France,FRA-800,Windsurf,Master,FRA-800,Y
+17,Mr,Roger,Ornvang,Sweden,SWE-52,Windsurf,Adult,SWE-52,Y
+18,Mr,Sylvain,Hoceini,France,FRA-53,Kitefoil,Adult,FRA-53-foil,Y
+19,Mr,Sylvain,Maurin,France,,Kite,Adult,,Y
+20,Mr,Sylvain,Hoceini,France,,Kite,Adult,,Y
+21,Mr,Vincent,Valkenaers,Belgium,BEL-62,Windsurf,Adult,BEL-62,Y

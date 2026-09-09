@@ -3,7 +3,7 @@ EVENT=202609
 ENTRIES=events/$EVENT/config/entries.tsv
 ENTRANTS=events/$EVENT/config/entrants.csv
 
-# Entrants is relatively straightforward, just add 100 to the foil IDs
+# Entrants is relatively straightforward, just add multiple of 100 for different craft
 echo "ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age" >$ENTRANTS
 
 # Windsurf
