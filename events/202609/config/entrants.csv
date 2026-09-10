@@ -11,18 +11,29 @@ ID,Title,First Name,Family Name,Country,Sail No,Craft Type,Age,GT31 ID,Overall
 10,Mr,Cédric,Bordes,France,FRA-91,Windfoil,Adult,FRA-91-foil,N
 11,Mr,Cédric,Bordes,France,FRA-91,Windsurf,Adult,FRA-91,Y
 12,Mr,Fabrice,Robert,France,FRA-816,Windsurf,Adult,FRA-816,Y
+30,Mr,Frederic,Perrot,France,FRA-0,Wing,Adult,FRA-0-wing,Y
+32,Ms,Heidi,Ulrich,Switzerland,SUI-204,Windsurf,Adult,SUI-204,Y
 27,Mr,Hugo,Cox,France,FRA-1095,Windsurf,Adult,FRA-1095,Y
+31,Mr,Hugo,Cox,France,FRA-1095,Windfoil,Adult,FRA-1095-foil,N
+33,Mr,Jan,Zahradnicek,Czech Republic,CZE-903,Windsurf,Adult,CZE-903,Y
 13,Mr,Jérôme,Bessous,France,FRA-999,Kite,Adult,FRA-999,Y
-14,Mr,Julien,Maurel,France,MRI-1,Kite,Adult,MRI-1,Y
+14,Mr,Julien,Maurel,France,MRI-1,Windsurf,Adult,MRI-1,Y
 15,Mr,Kevin,Mathieu,France,FRA-110,Windsurf,Adult,FRA-110,Y
 16,Mr,Laurent,Fesquet,France,FRA-66,Windsurf,Adult,FRA-66,Y
+34,Mr,Marek,Popo,Czech Republic,CZE-902,Windsurf,Adult,CZE-902,Y
+35,Mr,Marek,Vejrosta,Czech Republic,CZE-999,Windsurf,Adult,CZE-999,Y
 17,Mr,Matteo,Iachino,Italy,ITA-140,Windfoil,Adult,ITA-140-foil,N
 18,Mr,Matteo,Iachino,Italy,ITA-140,Windsurf,Adult,ITA-140,Y
 19,Mr,Nicolas David,Garrel,Luxembourg,LUX-22,Windsurf,Adult,LUX-22,Y
 20,Mr,Pascal,Boulanger,France,FRA-800,Windsurf,Master,FRA-800,Y
+36,Mr,Pierre,Schmitz,France,FRA-1192,Wing,Adult,FRA-1192-wing,Y
+29,Mr,Principe,Baldini,Italy,ITA-223,Wing,Adult,ITA-223-wing,Y
+37,Mr,Rob,Douglas,United States,USA-55,Kite,Adult,USA-55,Y
 21,Mr,Roger,Ornvang,Sweden,SWE-52,Windsurf,Adult,SWE-52,Y
 22,Mr,Sylvain,Hoceini,France,FRA-53,Kitefoil,Adult,FRA-53-foil,Y
 23,Mr,Sylvain,Maurin,France,FRA-30,Kite,Adult,FRA-30,Y
 24,Mr,Sylvain,Hoceini,France,FRA-53,Kite,Adult,FRA-53,Y
+28,Mr,Sylvain,Hoceini,France,FRA-53,Wing,Adult,FRA-53-wing,N
 25,Mr,Thomas,Moldenhauer,Germany,GER-215,Windsurf,Master,GER-215,Y
+38,Mr,Tom,Malina,Czech Republic,CZE-109,Windsurf,Adult,CZE-109,Y
 26,Mr,Vincent,Valkenaers,Belgium,BEL-62,Windsurf,Adult,BEL-62,Y
