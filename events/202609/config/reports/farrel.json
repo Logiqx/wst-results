@@ -16,7 +16,13 @@
     {
       "Title": "Overall",
       "Fields": "Name,Nation,Craft Type,Sail No,Time,Speed (kts)",
-      "Filter": "Overall=Y"
+      "Filter": "Overall=Y",
+      "Period": "Event"
+    },
+    {
+      "Title": "Overall",
+      "Fields": "Name,Nation,Craft Type,Sail No,Time,Speed (kts)",
+      "Period": "Session"
     },
     {
       "Title": "Windsurf",
