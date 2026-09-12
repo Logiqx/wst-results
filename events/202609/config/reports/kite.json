@@ -1,0 +1,15 @@
+{
+  "Suptitle": "Kite Grand Prix",
+  "Period": "Event",
+  "Fields": "Name,Nation,Sail No,Points,Nett,Speed (kts)",
+  "Reports": [
+    {
+      "Title": "Kite",
+      "Filter": "Craft Type=Kite,Kite<>"
+    },
+    {
+      "Title": "Kitefoil",
+      "Filter": "Craft Type=Kitefoil,Kite<>"
+    }
+  ]
+}

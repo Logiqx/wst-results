@@ -53,7 +53,12 @@
   "Series": {
     "ISWC": {
       "Name": "ISWC Speed Championship",
-      "Filter": "Craft Type<>TBC",
+      "Filter": "Craft Type<>TBC,Craft Type<>Boat,Craft Type<>Wing,Craft Type<>Kite,Craft Type<>Kitefoil",
+      "Refresh": true
+    },
+    "Kite": {
+      "Name": "Kite Grand Priz",
+      "Filter": "Craft Type<>TBC,Craft Type<>Boat,Craft Type<>Wing,Craft Type<>Windsurf,Craft Type<>Windfoil",
       "Refresh": true
     }
   }
